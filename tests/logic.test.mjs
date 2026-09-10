@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { getReference, scoreMatch, subjectStatus, filterRows, exactGroupKey, firstRoundIndex, csvCell, safeUrl } from '../site/logic.js';
+import { getReference, reviewDate, scoreMatch, subjectStatus, filterRows, exactGroupKey, firstRoundIndex, csvCell, safeUrl } from '../site/logic.js';
 import { buildCoverage } from '../site/coverage.js';
 
 test('位次只按同科类公开区间换算；缺档不猜测', () => {
@@ -76,4 +76,11 @@ test('导出和来源链接拒绝公式注入及脚本协议', () => {
   assert.equal(csvCell('=1+1'),'"\'=1+1"');
   assert.equal(safeUrl('javascript:alert(1)'),'#');
   assert.equal(safeUrl('https://www.gxeea.cn/'),'https://www.gxeea.cn/');
+});
+
+test('核查时间按北京时间显示，跨日不误标为昨日；纯日期保持原值',()=>{
+  assert.equal(reviewDate('2026-09-10T18:03:30.012851+00:00'),'2026-09-11');
+  assert.equal(reviewDate('2026-09-11T02:03:30+08:00'),'2026-09-11');
+  assert.equal(reviewDate('2026-09-10'),'2026-09-10');
+  assert.equal(reviewDate(null),'');assert.equal(reviewDate('not-a-date'),'');
 });

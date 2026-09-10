@@ -1,0 +1,40 @@
+{
+  "files": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "QA.json",
+    "README.md",
+    "build.py",
+    "verify.py",
+    "collector.py",
+    "replay.py",
+    "freeze_evidence.py",
+    "public-fetch-manifest.json",
+    "evidence/csu-score-2026-history.json",
+    "evidence/csu-score-2026-physics.json",
+    "evidence/hitsz-score-years.json",
+    "evidence/muc-majors-2026-gx-6-01.json",
+    "evidence/muc-majors-2026-gx-6-36.json",
+    "evidence/muc-majors-2026-gx-7-01.json",
+    "evidence/muc-majors-2026-gx-7-04.json",
+    "evidence/muc-majors-2026-gx-7-16.json",
+    "evidence/muc-majors-2026-gx-7-36.json",
+    "evidence/muc-tracks-2026-gx.json",
+    "evidence/muc-types-2026-gx-6.json",
+    "evidence/muc-types-2026-gx-7.json",
+    "evidence/query-observations.json",
+    "evidence/source-snapshots.json",
+    "evidence/xjtlu-guangxi-table.json",
+    "PUBLIC-FILES.json",
+    "DELIVERY-SHA256SUMS"
+  ],
+  "excluded": [
+    "raw/",
+    "__pycache__/",
+    "discovery-*.json",
+    "api-*.json",
+    "replay-results.json"
+  ],
+  "note": "Only files explicitly listed may be published; raw webpage and access challenge contents remain local."
+}

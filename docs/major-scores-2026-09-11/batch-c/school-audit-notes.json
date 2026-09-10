@@ -1,0 +1,213 @@
+[
+  {
+    "id": "major-score-review-20260911c-11319",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11319",
+    "school": "江西水利电力大学",
+    "status": "collected",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://envo.juwp.edu.cn/info/1185/6212.htm",
+    "checkedUrls": [
+      "https://envo.juwp.edu.cn/info/1185/6212.htm",
+      "https://envo.juwp.edu.cn/info/1185/6502.htm",
+      "https://envo.juwp.edu.cn/info/1186/5432.htm"
+    ],
+    "sourceIds": [
+      "major-c-20260911-juwp-gx-6212",
+      "major-c-20260911-juwp-gx-6502",
+      "major-c-20260911-juwp-charter"
+    ],
+    "importedRecordCount": 18,
+    "note": "本轮采集18条2026广西单专业实际录取最低分，所有数值逐行对应官方原表，未用学校或专业组投档线代替专业录取分。完整覆盖列明原表的广西普通高考专业行；未证明覆盖学校全年全部录取轮次。其中2条为定向培养军士，单独保留资格类别；原表位次跨行次序有不一致，rank全部留空、原值放sourceMinimumRank供核查，不参与位次比较。",
+    "evidenceGaps": [
+      "原公告未明确区分首轮与征集；不冒称首轮",
+      "专业组码未在该分数表公布",
+      "原表最低分位次跨行次序不一致，位次比较停用"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-11552",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11552",
+    "school": "四川旅游学院",
+    "status": "collected",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://www.sctu.edu.cn/zsjyc/info/1018/2267.htm",
+    "checkedUrls": [
+      "https://www.sctu.edu.cn/zsjyc/info/1018/2267.htm",
+      "https://www.sctu.edu.cn/zsjyc/info/1017/2114.htm"
+    ],
+    "sourceIds": [
+      "major-c-20260911-sctu-gx-2267",
+      "major-c-20260911-sctu-charter"
+    ],
+    "importedRecordCount": 5,
+    "note": "本轮采集5条2026广西单专业实际录取最低分，所有数值逐行对应官方原表，未用学校或专业组投档线代替专业录取分。完整覆盖列明原表的广西普通高考专业行；未证明覆盖学校全年全部录取轮次。",
+    "evidenceGaps": [
+      "原公告未明确区分首轮与征集；不冒称首轮"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-10120",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10120",
+    "school": "山西大同大学",
+    "status": "collected",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://zhs.sxdtdx.edu.cn/news-show-431.html",
+    "checkedUrls": [
+      "https://zhs.sxdtdx.edu.cn/news-show-431.html",
+      "https://zhs.sxdtdx.edu.cn/news-show-421.html"
+    ],
+    "sourceIds": [
+      "major-c-20260911-sxdt-admission",
+      "major-c-20260911-sxdt-charter"
+    ],
+    "importedRecordCount": 8,
+    "note": "本轮采集8条2026广西单专业实际录取最低分，所有数值逐行对应官方原表，未用学校或专业组投档线代替专业录取分。完整覆盖列明原表的广西普通高考专业行；未证明覆盖学校全年全部录取轮次。",
+    "evidenceGaps": [
+      "原公告未明确区分首轮与征集；不冒称首轮",
+      "专业组码未在该分数表公布",
+      "山西大同原表未提供平均分、位次和专业选科要求"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-11313",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11313",
+    "school": "福建商学院",
+    "status": "collected",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://zsb.fjbu.edu.cn/info/1121/7711.htm",
+    "checkedUrls": [
+      "https://zsb.fjbu.edu.cn/info/1121/7711.htm",
+      "https://zsb.fjbu.edu.cn/__local/6/73/99/6446D4758253177993062B3978B_A3A99843_2175D.pdf",
+      "https://zsb.fjbu.edu.cn/info/1161/7611.htm"
+    ],
+    "sourceIds": [
+      "major-c-20260911-fjbu-gx",
+      "major-c-20260911-fjbu-pdf",
+      "major-c-20260911-fjbu-charter"
+    ],
+    "importedRecordCount": 63,
+    "note": "本轮采集63条2026广西单专业实际录取最低分，所有数值逐行对应官方原表，未用学校或专业组投档线代替专业录取分。完整覆盖列明原表的广西普通高考专业行；未证明覆盖学校全年全部录取轮次。",
+    "evidenceGaps": [
+      "原公告未明确区分首轮与征集；不冒称首轮",
+      "专业组码未在该分数表公布"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-10190",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10190",
+    "school": "长春工业大学",
+    "status": "entry-only-year-gap",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://bzkzs.ccut.edu.cn/lnsfx.jsp?urltype=tree.TreeTempUrl&wbtreeid=1077",
+    "checkedUrls": [
+      "https://bzkzs.ccut.edu.cn/lnsfx.jsp?urltype=tree.TreeTempUrl&wbtreeid=1077",
+      "https://bzkzs.ccut.edu.cn/system/resource/importdata/getData.jsp?sf=",
+      "https://bzkzs.ccut.edu.cn/system/resource/importdata/getData.jsp",
+      "https://bzkzs.ccut.edu.cn/system/resource/importdata/getData.jsp",
+      "https://bzkzs.ccut.edu.cn/lnsfx.jsp?wbtreeid=1077"
+    ],
+    "sourceIds": [
+      "major-c-20260911-ccut-entry",
+      "major-c-20260911-ccut-provinces",
+      "major-c-20260911-ccut-gx-years",
+      "major-c-20260911-ccut-gx-tracks",
+      "major-c-20260911-ccut-gx-2026"
+    ],
+    "importedRecordCount": 0,
+    "note": "已按公开JS的省份/层次/年份级联接口核查：广西本科年份选项只含2025—2020；2026广西科类返回空，直接2026广西本科表单也无结果。默认页的2026吉林专业数据未入库。",
+    "evidenceGaps": [
+      "2026广西专业录取分未公开在本轮所查查询条件下"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-10684",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10684",
+    "school": "曲靖师范学院",
+    "status": "entry-only-year-gap",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://zs.qjnu.edu.cn/contents/12912/182913.html",
+    "checkedUrls": [
+      "https://zs.qjnu.edu.cn/contents/12912/182913.html",
+      "https://zs.qjnu.edu.cn/channels/12914.html"
+    ],
+    "sourceIds": [
+      "major-c-20260911-qjnu-status",
+      "major-c-20260911-qjnu-history"
+    ],
+    "importedRecordCount": 0,
+    "note": "2026进度页显示广西普通类7月21日录取结束，公告标题为无链接文本；历年分数栏目最新全日制本科分省分专业表为2025。未将录取进度或2025统计作2026专业分。",
+    "evidenceGaps": [
+      "2026广西单专业录取统计未取得"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-10636",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10636",
+    "school": "四川师范大学",
+    "status": "unavailable",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://zs.sicnu.edu.cn/SubPage.aspx?Id=2",
+    "checkedUrls": [
+      "https://zs.sicnu.edu.cn/SubPage.aspx?Id=2"
+    ],
+    "sourceIds": [
+      "major-c-20260911-sicnu-notices"
+    ],
+    "importedRecordCount": 0,
+    "note": "公开招生首页及公告栏目本轮返回WAF安全助手环境检查页；HTTPS、HTTP均未取得正文，当前无可用浏览器。搜索结果显示2026广西普通本科录取结束公告线索，但未以摘要拼接数据。",
+    "evidenceGaps": [
+      "2026广西专业原表访问受限"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-13287",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "13287",
+    "school": "湖州学院",
+    "status": "group-only",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://zsw.zjhzu.edu.cn/2026/0725/c16a43436/page.htm",
+    "checkedUrls": [
+      "https://zsw.zjhzu.edu.cn/2026/0725/c16a43436/page.htm"
+    ],
+    "sourceIds": [
+      "major-c-20260911-hzu-gx"
+    ],
+    "importedRecordCount": 0,
+    "note": "官方2026广西普通录取快讯仅给出物理/历史科类整体最高最低分，并注明正投不含征集；无单专业实际最低分，未导入该汇总数。",
+    "evidenceGaps": [
+      "单专业录取最低分缺失"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "whu-types",
+    "schoolCode": "10486",
+    "url": "https://zsdata.whu.edu.cn/wzgl/wxmini/api/front/lqxx/getType",
+    "data": {
+      "type": "lnfs"
+    }
+  },
+  {
+    "id": "tju-types",
+    "schoolCode": "10056",
+    "url": "https://zsdata.tju.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  }
+]

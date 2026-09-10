@@ -1,0 +1,327 @@
+[
+  {
+    "id": "scu-home-zs",
+    "url": "https://zs.scu.edu.cn/",
+    "expectedArchiveSha256": "22c13aac924c194a2d1218e6d7cd054f8b95d12cf9c89cbbee6d78a19420fb39",
+    "expectedHttpStatus": 412
+  },
+  {
+    "id": "scu-college-score-list",
+    "url": "https://cpse.scu.edu.cn/zsjy/zsxx/bkszs/lnsj.htm",
+    "expectedArchiveSha256": "eae012a98a619795ee3216e92237d7f587325372715f0b66bb411f4d7ab228b6",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "scu-score-index-current",
+    "url": "https://zs.scu.edu.cn/info/1105/3314.htm",
+    "expectedArchiveSha256": "cc307510508e04ced977c4c6d495d35b826787eb459bae0e93992816e1649bc8",
+    "expectedHttpStatus": 412
+  },
+  {
+    "id": "scu-score-spa",
+    "url": "https://zjczs.scu.edu.cn/aoadmin/#/scu-enrollscorew",
+    "expectedArchiveSha256": "708f2b8e4cf48fdb4ac14386ad87b09f74c8de7e9b3f1edf5094716daf26497b",
+    "expectedHttpStatus": 483
+  },
+  {
+    "id": "xjtu-score-entry",
+    "url": "https://zs.xjtu.edu.cn/bkscx/lnlqcx.htm",
+    "expectedArchiveSha256": "7d8c59dc1254b0a227b14016b72b24b16a669674e494ca47121fd0ee77f72108",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "hitsz-home",
+    "url": "https://zsb.hitsz.edu.cn/zs_common/bkzn/zswz?flbs=2",
+    "expectedArchiveSha256": "8efef9a3be9c7ee6b1e8ceeffdaebeaee75fa0d37f0ac8370c4f3ec834237b6d",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "hitsz-score-entry",
+    "url": "https://zsb.hitsz.edu.cn/zs_common/bkzn/zswz/lnfs",
+    "expectedArchiveSha256": "d8ae5b5495fc62839548a5e5d72f8650e45d4f1c577b8dbfbc9b6df5d0a15a13",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "hitsz-score-years",
+    "url": "https://zsb.hitsz.edu.cn/zs_common/bkzn/ndDmx1",
+    "host": "https://zsb.hitsz.edu.cn",
+    "entryUrl": "https://zsb.hitsz.edu.cn/zs_common/bkzn/zswz?flbs=2",
+    "path": "zs_common/bkzn/ndDmx1",
+    "request": {},
+    "csrf": false,
+    "ext": "json",
+    "expectedArchiveSha256": "41e78577f3bfdf21b50e1439970c50f4b97be585ffbdceb2012c59a9bd8a3d93",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "seu-gx-list",
+    "url": "https://zsb.seu.edu.cn/gxzzzzq/listm.htm",
+    "expectedArchiveSha256": "c424de7c5fdad427944e5169a83da89326ce01313a8273daa92d285708e04323",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "seu-score-2025",
+    "url": "https://zsb.seu.edu.cn/2026/0113/c23741a552222/pagem.htm",
+    "expectedArchiveSha256": "49316a78f50c2748a9d544b5eefc89ec7aaf251978015446b356b3c4dd6a8fc6",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "seu-progress-2026",
+    "url": "https://zsb.seu.edu.cn/2026/0714/c23610a576713/pagem.htm",
+    "expectedArchiveSha256": "900adcb68255706467e21c28f67d61fa62dd7290b65ec7aaf675ec7393c73ca2",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "csu-score-entry",
+    "url": "https://zhaosheng.csu.edu.cn/lnfs/bkptl.htm",
+    "expectedArchiveSha256": "9366c73073b473c2dc852f5230ecd2b1055f1f2055aff09439b19480253d13aa",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "csu-score-config",
+    "url": "https://job-web-api.jobpi.cn/enroll/config/v2/2614?sch_school_id=21393",
+    "ext": "json",
+    "expectedArchiveSha256": "9e0adc7224a4244367d2ff99259ab8430f508f4ea4a8e1505718ddfa0e0b9925",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "csu-score-2026-history",
+    "url": "https://job-web-api.jobpi.cn/enroll/2614?sch_school_id=21393&page=1&page_size=9999&filter_column=%7B%22A%22%3A2026%2C%22B%22%3A%22%E5%B9%BF%E8%A5%BF%22%2C%22C%22%3A%22%E5%8E%86%E5%8F%B2%E7%B1%BB%22%7D",
+    "ext": "json",
+    "request": {
+      "sch_school_id": 21393,
+      "page": 1,
+      "page_size": 9999,
+      "filter_column": "{\"A\":2026,\"B\":\"广西\",\"C\":\"历史类\"}"
+    },
+    "expectedArchiveSha256": "fb5872a3e9dd3c1f8c829de0ea2630200d23a29fd34e68e8060b16cac41483f8",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "csu-score-2026-physics",
+    "url": "https://job-web-api.jobpi.cn/enroll/2614?sch_school_id=21393&page=1&page_size=9999&filter_column=%7B%22A%22%3A2026%2C%22B%22%3A%22%E5%B9%BF%E8%A5%BF%22%2C%22C%22%3A%22%E7%89%A9%E7%90%86%E7%B1%BB%22%7D",
+    "ext": "json",
+    "request": {
+      "sch_school_id": 21393,
+      "page": 1,
+      "page_size": 9999,
+      "filter_column": "{\"A\":2026,\"B\":\"广西\",\"C\":\"物理类\"}"
+    },
+    "expectedArchiveSha256": "fb5872a3e9dd3c1f8c829de0ea2630200d23a29fd34e68e8060b16cac41483f8",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bupt-home",
+    "url": "https://zsb.bupt.edu.cn/",
+    "expectedArchiveSha256": "13e18eb9fe380afb107fb3a39f1785f66d2ee4af2d46a2c0461c66bca559655c",
+    "expectedHttpStatus": 412
+  },
+  {
+    "id": "bupt-score-2024-entry",
+    "url": "https://zsb.bupt.edu.cn/info/1003/2386.htm",
+    "expectedArchiveSha256": "6949ebedea5e5f3cb75ebb56a0f8872db0d32e55a6a8ea27963b9eb02b1add28",
+    "expectedHttpStatus": 412
+  },
+  {
+    "id": "fudan-score-list",
+    "url": "https://ao.fudan.edu.cn/36333/list.htm",
+    "expectedArchiveSha256": "94423acd8ebc747fd51992cae2015bac8926c20475b34757e80bed37f0607047",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "fudan-score-2025",
+    "url": "https://ao.fudan.edu.cn/b7/a6/c36333a767910/page.htm",
+    "expectedArchiveSha256": "1c9acb3a919d41f99428881bb64614e56467f2807b8866ebe2c3972207348e3b",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "fudan-med-charter-2026",
+    "url": "https://news.fudan.edu.cn/2026/0528/c4a149374/page.htm",
+    "expectedArchiveSha256": "75b3d05e215964a314284be9a50e42748660ad9f69058ed23f9de38ecd3bd19e",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-score-entry",
+    "url": "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+    "ext": "html",
+    "expectedArchiveSha256": "1c79295d83946ae8656fea3da829ffbf002809a9ab2992780d8873efe3256256",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-tracks-2026-gx",
+    "url": "https://zb.muc.edu.cn/query/findKlList.json",
+    "host": "https://zb.muc.edu.cn",
+    "entryUrl": "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+    "path": "query/findKlList.json",
+    "request": {
+      "vepd_sf": "450000",
+      "vepd_year": "2026"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "f8255c0453d9249382e2e5933f935b5730eb4d3fdc492af5e2d333bde3d9950f",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-types-2026-gx-6",
+    "url": "https://zb.muc.edu.cn/query/findLxList.json",
+    "host": "https://zb.muc.edu.cn",
+    "entryUrl": "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+    "path": "query/findLxList.json",
+    "request": {
+      "vepd_sf": "450000",
+      "vepd_year": "2026",
+      "vepd_kldm": "6"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "2ff7473c4d550da45180e3f37f62794a9a092834b0b5b85f2f8ee5a7caaf97f8",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-types-2026-gx-7",
+    "url": "https://zb.muc.edu.cn/query/findLxList.json",
+    "host": "https://zb.muc.edu.cn",
+    "entryUrl": "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+    "path": "query/findLxList.json",
+    "request": {
+      "vepd_sf": "450000",
+      "vepd_year": "2026",
+      "vepd_kldm": "7"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "acd84466de1adf8710e102081420a5259a0278623d29185e5575e4296a55c3d6",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-charter-2026",
+    "url": "https://zb.muc.edu.cn/content/zs/93108d8f-5802-11f1-98a5-6c92bf4353bb.htm",
+    "ext": "html",
+    "expectedArchiveSha256": "b9f0af8f07f9f68265d017e4dabad07ecd7fb400d5e1d7a891e09aeaf5d547c0",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "xjtlu-score-2026",
+    "url": "https://www.xjtlu.edu.cn/zh/admissions/domestic/ug/2023luqushuju",
+    "ext": "html",
+    "expectedArchiveSha256": "274a9d48351343e5ac791e8d52f3f7d1a9931e2be0f49712d3bb668f476b8a7c",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "xjtlu-policy-index",
+    "url": "https://www.xjtlu.edu.cn/zh/admissions/ug/domestic/admission-policy",
+    "ext": "html",
+    "expectedArchiveSha256": "fa86bcd538bb3cee2409e86a5df492bdff2e3491d4539bcf2110ebf793a17b03",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "xjtlu-charter-2026",
+    "url": "https://www.xjtlu.edu.cn/wp-content/uploads/2026/05/8988b8e1529327ca85e0f611494aa080.pdf",
+    "ext": "pdf",
+    "expectedArchiveSha256": "0377ec3fbeae5fd9cd1031c0db19eaf8f1ee781ca775b69524d5e2821eab1fda",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-majors-2026-gx-6-01",
+    "url": "https://zb.muc.edu.cn/query/findAdmissionScore.json",
+    "host": "https://zb.muc.edu.cn",
+    "entryUrl": "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+    "path": "query/findAdmissionScore.json",
+    "request": {
+      "vepd_sf": "450000",
+      "vepd_year": "2026",
+      "vepd_kldm": "6",
+      "vepd_xslxdm": "01"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "4e0f5170ccda2b5cc3a243c459c6fbcb07b04ece6172ad250257aa2f972a10e7",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-majors-2026-gx-6-36",
+    "url": "https://zb.muc.edu.cn/query/findAdmissionScore.json",
+    "host": "https://zb.muc.edu.cn",
+    "entryUrl": "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+    "path": "query/findAdmissionScore.json",
+    "request": {
+      "vepd_sf": "450000",
+      "vepd_year": "2026",
+      "vepd_kldm": "6",
+      "vepd_xslxdm": "36"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "b3343e5d67df29d89b84da003f275f9cc78a49710828f3a64fc6c24a0e833dcc",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-majors-2026-gx-7-01",
+    "url": "https://zb.muc.edu.cn/query/findAdmissionScore.json",
+    "host": "https://zb.muc.edu.cn",
+    "entryUrl": "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+    "path": "query/findAdmissionScore.json",
+    "request": {
+      "vepd_sf": "450000",
+      "vepd_year": "2026",
+      "vepd_kldm": "7",
+      "vepd_xslxdm": "01"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "825d1385e4eda2bfd6bc391b14d529eeab31722d74a597da31cb98e7c81be8a1",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-majors-2026-gx-7-04",
+    "url": "https://zb.muc.edu.cn/query/findAdmissionScore.json",
+    "host": "https://zb.muc.edu.cn",
+    "entryUrl": "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+    "path": "query/findAdmissionScore.json",
+    "request": {
+      "vepd_sf": "450000",
+      "vepd_year": "2026",
+      "vepd_kldm": "7",
+      "vepd_xslxdm": "04"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "2a9d78021c6d6869e67afe6ba30c03cc787addf80cada653922bbdf5fcd4c0b3",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-majors-2026-gx-7-16",
+    "url": "https://zb.muc.edu.cn/query/findAdmissionScore.json",
+    "host": "https://zb.muc.edu.cn",
+    "entryUrl": "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+    "path": "query/findAdmissionScore.json",
+    "request": {
+      "vepd_sf": "450000",
+      "vepd_year": "2026",
+      "vepd_kldm": "7",
+      "vepd_xslxdm": "16"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "a1fd627caafa3c344ee919fa8ab964d65adbfafc7f09fa0d173546b2e652edca",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "muc-majors-2026-gx-7-36",
+    "url": "https://zb.muc.edu.cn/query/findAdmissionScore.json",
+    "host": "https://zb.muc.edu.cn",
+    "entryUrl": "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+    "path": "query/findAdmissionScore.json",
+    "request": {
+      "vepd_sf": "450000",
+      "vepd_year": "2026",
+      "vepd_kldm": "7",
+      "vepd_xslxdm": "36"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "b8e9e779bbc3126fd7ffbdacde95450b5136f28ded8cb7b7cab2206ccd31cf32",
+    "expectedHttpStatus": 200
+  }
+]

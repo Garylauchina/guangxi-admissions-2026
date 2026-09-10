@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "errorCode": 0,
+  "message": "",
+  "rows": [
+    {
+      "avgwc": "",
+      "zslbmc": "国家专项",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "598",
+      "avgcj": "594",
+      "mincj": "587",
+      "zymc": "环境科学与工程类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "04",
+      "minwc": "15560"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,706 @@
+[
+  {
+    "id": "mscore-20260911-root-scut-score-entry-html",
+    "title": "华南理工大学：录取分数查询入口",
+    "url": "https://admission.scut.edu.cn/30821/list.htm",
+    "publisher": "华南理工大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:01:57.297684+00:00",
+    "sha256": "39f5ef687b31c8b3ca68dd4122563afb8deeecf00446eb412ffe37b8c4bdaa07",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单为2025/2024/2023；按页面实际字段分别查询2026广西普通类物理、历史，均返回“没有您想要的查询结果”，2025两科正向对照有记录。另一个最新分数公告栏目发布于2026的广西文章，实际数据年为2025。不将计划、旧年分或空结果用作2026专业最低分。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-scut-query-html",
+    "title": "华南理工大学：公开查询字段与菜单",
+    "url": "https://admission.scut.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/16.rst?_p=YXM9MzQ4JnQ9MTcyMyZwPTEmbT1OJg__&mongo=false",
+    "publisher": "华南理工大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:02:31.840642+00:00",
+    "sha256": "5a28a4335806ed84fb85a9bbcb2b683b6dbc01be40bf8b43ddaed446a7bb8c53",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单为2025/2024/2023；按页面实际字段分别查询2026广西普通类物理、历史，均返回“没有您想要的查询结果”，2025两科正向对照有记录。另一个最新分数公告栏目发布于2026的广西文章，实际数据年为2025。不将计划、旧年分或空结果用作2026专业最低分。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-scut-current-min-html",
+    "title": "华南理工大学：最新录取分数公告目录",
+    "url": "https://admission.scut.edu.cn/lqzdfstj/list.htm",
+    "publisher": "华南理工大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:01:57.298043+00:00",
+    "sha256": "6287f0128cbf7e2eec1070912bff8b6b532cc937f5050bc084b606dab7406d36",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单为2025/2024/2023；按页面实际字段分别查询2026广西普通类物理、历史，均返回“没有您想要的查询结果”，2025两科正向对照有记录。另一个最新分数公告栏目发布于2026的广西文章，实际数据年为2025。不将计划、旧年分或空结果用作2026专业最低分。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-scut-gx-2026-物理类-html",
+    "title": "华南理工大学：广西 2026-物理类",
+    "url": "https://admission.scut.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/16.rst?_p=YXM9MzQ4JnQ9MTcyMyZwPTEmbT1OJg__&mobileTemplate=false",
+    "publisher": "华南理工大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:03:30.013023+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单为2025/2024/2023；按页面实际字段分别查询2026广西普通类物理、历史，均返回“没有您想要的查询结果”，2025两科正向对照有记录。另一个最新分数公告栏目发布于2026的广西文章，实际数据年为2025。不将计划、旧年分或空结果用作2026专业最低分。"
+    ],
+    "requestEncoding": "form",
+    "requestMethod": "POST",
+    "requestData": {
+      "cq16s188": "2026",
+      "cq16s189": "广西",
+      "cq16s190": "普通类",
+      "cq16s191": "理工/物理类"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-scut-gx-2026-历史类-html",
+    "title": "华南理工大学：广西 2026-历史类",
+    "url": "https://admission.scut.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/16.rst?_p=YXM9MzQ4JnQ9MTcyMyZwPTEmbT1OJg__&mobileTemplate=false",
+    "publisher": "华南理工大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:03:30.013158+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单为2025/2024/2023；按页面实际字段分别查询2026广西普通类物理、历史，均返回“没有您想要的查询结果”，2025两科正向对照有记录。另一个最新分数公告栏目发布于2026的广西文章，实际数据年为2025。不将计划、旧年分或空结果用作2026专业最低分。"
+    ],
+    "requestEncoding": "form",
+    "requestMethod": "POST",
+    "requestData": {
+      "cq16s188": "2026",
+      "cq16s189": "广西",
+      "cq16s190": "普通类",
+      "cq16s191": "文史/历史类"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-scut-gx-2025-物理类-html",
+    "title": "华南理工大学：广西 2025-物理类",
+    "url": "https://admission.scut.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/16.rst?_p=YXM9MzQ4JnQ9MTcyMyZwPTEmbT1OJg__&mobileTemplate=false",
+    "publisher": "华南理工大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:03:30.292516+00:00",
+    "sha256": "ee577f38434b45976d4f706fbbe9c949f30a28da3a0e6d5591e660c7c1ed09f9",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单为2025/2024/2023；按页面实际字段分别查询2026广西普通类物理、历史，均返回“没有您想要的查询结果”，2025两科正向对照有记录。另一个最新分数公告栏目发布于2026的广西文章，实际数据年为2025。不将计划、旧年分或空结果用作2026专业最低分。"
+    ],
+    "requestEncoding": "form",
+    "requestMethod": "POST",
+    "requestData": {
+      "cq16s188": "2025",
+      "cq16s189": "广西",
+      "cq16s190": "普通类",
+      "cq16s191": "理工/物理类"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-scut-gx-2025-历史类-html",
+    "title": "华南理工大学：广西 2025-历史类",
+    "url": "https://admission.scut.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/16.rst?_p=YXM9MzQ4JnQ9MTcyMyZwPTEmbT1OJg__&mobileTemplate=false",
+    "publisher": "华南理工大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:03:30.427272+00:00",
+    "sha256": "17923ad2bed00435622fb68cab637c5f4007a0facb00dbb994b6a43f51864d8a",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单为2025/2024/2023；按页面实际字段分别查询2026广西普通类物理、历史，均返回“没有您想要的查询结果”，2025两科正向对照有记录。另一个最新分数公告栏目发布于2026的广西文章，实际数据年为2025。不将计划、旧年分或空结果用作2026专业最低分。"
+    ],
+    "requestEncoding": "form",
+    "requestMethod": "POST",
+    "requestData": {
+      "cq16s188": "2025",
+      "cq16s189": "广西",
+      "cq16s190": "普通类",
+      "cq16s191": "文史/历史类"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-uestc-home-html",
+    "title": "电子科技大学：招生官网",
+    "url": "https://zs.uestc.edu.cn/",
+    "publisher": "电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:00:39.023900+00:00",
+    "sha256": "b4f3b24b7c020e474b346c23acaedca44a9b385a6da340db203591e33fd7209a",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "当前官方公开分数菜单广西年份最高2025。按前端实际JSON字段查询2026广西普通类、本部、物理及历史，两次code200且专业列表空；2025物理正向对照有结果。校区字段已限定本部，不将沙河校区或旧年分数混入。其他资格类别的2026记录本轮未取得。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-uestc-query-html",
+    "title": "电子科技大学：公开查询字段与菜单",
+    "url": "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/",
+    "publisher": "电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:01:57.298161+00:00",
+    "sha256": "f9221917fa3b0f2170621e65f7aa1595a23117cd3d05664b546a80430fa5a263",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "当前官方公开分数菜单广西年份最高2025。按前端实际JSON字段查询2026广西普通类、本部、物理及历史，两次code200且专业列表空；2025物理正向对照有结果。校区字段已限定本部，不将沙河校区或旧年分数混入。其他资格类别的2026记录本轮未取得。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-uestc-app-js",
+    "title": "电子科技大学：查询页面脚本",
+    "url": "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/js/app.b9fb24b1.js",
+    "publisher": "电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:02:31.840998+00:00",
+    "sha256": "6843614a1a676ee1acdd4ccf46d0dd6bac2829bfc565bc2eb8431439b4d57986",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "当前官方公开分数菜单广西年份最高2025。按前端实际JSON字段查询2026广西普通类、本部、物理及历史，两次code200且专业列表空；2025物理正向对照有结果。校区字段已限定本部，不将沙河校区或旧年分数混入。其他资格类别的2026记录本轮未取得。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-uestc-lnfs-js",
+    "title": "电子科技大学：分数查询页面脚本",
+    "url": "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/js/lqcxjg.7ac4330b.js",
+    "publisher": "电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:04:40.955258+00:00",
+    "sha256": "d55c20fabea3a569f6a89eba17fecfaecd3863f623b26031193ede6e622db090",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "当前官方公开分数菜单广西年份最高2025。按前端实际JSON字段查询2026广西普通类、本部、物理及历史，两次code200且专业列表空；2025物理正向对照有结果。校区字段已限定本部，不将沙河校区或旧年分数混入。其他资格类别的2026记录本轮未取得。"
+    ],
+    "requestEncoding": "form",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-uestc-score-types-json",
+    "title": "电子科技大学：分数查询年份及类别",
+    "url": "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "publisher": "电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:03:30.509548+00:00",
+    "sha256": "e63be09a28116893ca1f024932be13af5a2c89d472c8f198374ea5634c98c6e9",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "当前官方公开分数菜单广西年份最高2025。按前端实际JSON字段查询2026广西普通类、本部、物理及历史，两次code200且专业列表空；2025物理正向对照有结果。校区字段已限定本部，不将沙河校区或旧年分数混入。其他资格类别的2026记录本轮未取得。"
+    ],
+    "requestEncoding": "json",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-uestc-gx-2026-物理类-json",
+    "title": "电子科技大学：广西 2026-物理类",
+    "url": "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:05:00.070272+00:00",
+    "sha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "当前官方公开分数菜单广西年份最高2025。按前端实际JSON字段查询2026广西普通类、本部、物理及历史，两次code200且专业列表空；2025物理正向对照有结果。校区字段已限定本部，不将沙河校区或旧年分数混入。其他资格类别的2026记录本轮未取得。"
+    ],
+    "requestEncoding": "json",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "物理类",
+      "xqmc": "电子科技大学"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-uestc-gx-2026-历史类-json",
+    "title": "电子科技大学：广西 2026-历史类",
+    "url": "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:05:00.070795+00:00",
+    "sha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "当前官方公开分数菜单广西年份最高2025。按前端实际JSON字段查询2026广西普通类、本部、物理及历史，两次code200且专业列表空；2025物理正向对照有结果。校区字段已限定本部，不将沙河校区或旧年分数混入。其他资格类别的2026记录本轮未取得。"
+    ],
+    "requestEncoding": "json",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "历史类",
+      "xqmc": "电子科技大学"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-uestc-gx-2025-物理类-json",
+    "title": "电子科技大学：广西 2025-物理类",
+    "url": "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:05:00.070939+00:00",
+    "sha256": "8f9553b35f5b2e629423b82df0df11fcfbf941f8bb3d4fa0713285fa75bfa068",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "当前官方公开分数菜单广西年份最高2025。按前端实际JSON字段查询2026广西普通类、本部、物理及历史，两次code200且专业列表空；2025物理正向对照有结果。校区字段已限定本部，不将沙河校区或旧年分数混入。其他资格类别的2026记录本轮未取得。"
+    ],
+    "requestEncoding": "json",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "普通类",
+      "klmc": "物理类",
+      "xqmc": "电子科技大学"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-cqu-score-entry-html",
+    "title": "重庆大学：录取分数查询入口",
+    "url": "https://zhaosheng.cqu.edu.cn/pub/desktopend/queryadmitline",
+    "publisher": "重庆大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:01:57.298261+00:00",
+    "sha256": "2f4b325e495fe072b2275f8451a863420a331be4d400a1e9725af28483b7d23b",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单只有2025/2024/2023。按页面实际接口请求2026查询配置，返回应用code500且msg为空，不能建立本年专业查询；2025同接口code0且字段/广西选项完整。属于本年配置不可用的证据，不冒称2026查询成功但零录取，也不以强基综合分或全校最低分替代。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-cqu-query-js",
+    "title": "重庆大学：公开查询字段与菜单",
+    "url": "https://zhaosheng.cqu.edu.cn/pagejs/pub/desktopend/querydata/listqueryitem1.js?v=20260726",
+    "publisher": "重庆大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:02:31.841140+00:00",
+    "sha256": "9c774faa6ee516817527705d21a22c25c975b1f5b277e0f87ed779055df2684d",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单只有2025/2024/2023。按页面实际接口请求2026查询配置，返回应用code500且msg为空，不能建立本年专业查询；2025同接口code0且字段/广西选项完整。属于本年配置不可用的证据，不冒称2026查询成功但零录取，也不以强基综合分或全校最低分替代。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-cqu-config-2026-json",
+    "title": "重庆大学：查询配置 2026",
+    "url": "https://zhaosheng.cqu.edu.cn/pub/share/getQueryConditionByAdmitLine",
+    "publisher": "重庆大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:03:30.012510+00:00",
+    "sha256": "4194e1d0aab95694ed1b246b3f3b507e663c1ec338b916bcfb89c7c9f00affc8",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单只有2025/2024/2023。按页面实际接口请求2026查询配置，返回应用code500且msg为空，不能建立本年专业查询；2025同接口code0且字段/广西选项完整。属于本年配置不可用的证据，不冒称2026查询成功但零录取，也不以强基综合分或全校最低分替代。"
+    ],
+    "requestEncoding": "form",
+    "requestMethod": "POST",
+    "requestData": {
+      "year": "2026"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-cqu-config-2025-json",
+    "title": "重庆大学：查询配置 2025",
+    "url": "https://zhaosheng.cqu.edu.cn/pub/share/getQueryConditionByAdmitLine",
+    "publisher": "重庆大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:03:30.216799+00:00",
+    "sha256": "22c14785cfbc071ebf4c45498dcf612b81b10be8b3cb0125c2c153d8556f44c0",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份菜单只有2025/2024/2023。按页面实际接口请求2026查询配置，返回应用code500且msg为空，不能建立本年专业查询；2025同接口code0且字段/广西选项完整。属于本年配置不可用的证据，不冒称2026查询成功但零录取，也不以强基综合分或全校最低分替代。"
+    ],
+    "requestEncoding": "form",
+    "requestMethod": "POST",
+    "requestData": {
+      "year": "2025"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-ncepu-home-html",
+    "title": "华北电力大学(北京)：招生官网",
+    "url": "https://goto.ncepu.edu.cn/",
+    "publisher": "华北电力大学(北京)",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:00:39.024145+00:00",
+    "sha256": "519a22961247e5ff4f289ca63e59abf7f8d7ccc085119683de90be4793a9fac6",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官网分数页直接读取公开JSON，全量1308条专业记录和114条院校汇总记录的数据年均为2025，其中广西分别43条和5条。JSON生成时间为2026不改变其表内年份；本轮未取得2026广西专业线。北京与保定使用独立入口及院校代码，不混用。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-ncepu-score-entry-html",
+    "title": "华北电力大学(北京)：录取分数查询入口",
+    "url": "https://goto.ncepu.edu.cn/wnfs/index.htm",
+    "publisher": "华北电力大学(北京)",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:01:57.438270+00:00",
+    "sha256": "94aaeda0b94f314566ffc7ff98c4dfe4fc591935df20898ce3b422f0042430db",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官网分数页直接读取公开JSON，全量1308条专业记录和114条院校汇总记录的数据年均为2025，其中广西分别43条和5条。JSON生成时间为2026不改变其表内年份；本轮未取得2026广西专业线。北京与保定使用独立入口及院校代码，不混用。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-ncepu-query-js",
+    "title": "华北电力大学(北京)：公开查询字段与菜单",
+    "url": "https://goto.ncepu.edu.cn/js/json_filter_2.js?v=1788977662928",
+    "publisher": "华北电力大学(北京)",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:02:32.122158+00:00",
+    "sha256": "bbce5841976f0a7484412d28f8aa9ec1a01b20127bc680b3e100e46ae0df326b",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官网分数页直接读取公开JSON，全量1308条专业记录和114条院校汇总记录的数据年均为2025，其中广西分别43条和5条。JSON生成时间为2026不改变其表内年份；本轮未取得2026广西专业线。北京与保定使用独立入口及院校代码，不混用。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-ncepu-major-data-json",
+    "title": "华北电力大学(北京)：分专业录取数据（2025）",
+    "url": "https://goto.ncepu.edu.cn/common/major_json.json",
+    "publisher": "华北电力大学(北京)",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:02:31.841265+00:00",
+    "sha256": "c2855bd40d90b7aed2fa2627d58bf91294df77b5cc45fb037ae01e58d6209cf4",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官网分数页直接读取公开JSON，全量1308条专业记录和114条院校汇总记录的数据年均为2025，其中广西分别43条和5条。JSON生成时间为2026不改变其表内年份；本轮未取得2026广西专业线。北京与保定使用独立入口及院校代码，不混用。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-ncepu-all-data-json",
+    "title": "华北电力大学(北京)：录取汇总数据（2025）",
+    "url": "https://goto.ncepu.edu.cn/common/aii_json.json",
+    "publisher": "华北电力大学(北京)",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:02:32.103239+00:00",
+    "sha256": "e7f6ce14591c2fc86ef4a217437bacc9eda8221cbeac8198e9470a4373adddc4",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官网分数页直接读取公开JSON，全量1308条专业记录和114条院校汇总记录的数据年均为2025，其中广西分别43条和5条。JSON生成时间为2026不改变其表内年份；本轮未取得2026广西专业线。北京与保定使用独立入口及院校代码，不混用。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-nankai-home-html",
+    "title": "南开大学：招生官网",
+    "url": "https://zsb.nankai.edu.cn/",
+    "publisher": "南开大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:00:39.189840+00:00",
+    "sha256": null,
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "招生主站直接读取403；通过官网导航的独立录取查询站正常公开会话流程已成功读取年份菜单及分数接口。广西菜单只有2025/2024，本科普通批2026物理、历史均state1且学校/专业列表为空，2025物理有正向对照。访问限制与查询结果分别记录，不用2024招生宣传附件补充2026分数。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "accessError": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "mscore-20260911-root-nankai-score-entry-html",
+    "title": "南开大学：录取分数查询入口",
+    "url": "https://zsb.nankai.edu.cn/Baokao/fenshu.html",
+    "publisher": "南开大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:01:57.454484+00:00",
+    "sha256": null,
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "招生主站直接读取403；通过官网导航的独立录取查询站正常公开会话流程已成功读取年份菜单及分数接口。广西菜单只有2025/2024，本科普通批2026物理、历史均state1且学校/专业列表为空，2025物理有正向对照。访问限制与查询结果分别记录，不用2024招生宣传附件补充2026分数。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "accessError": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "mscore-20260911-root-nankai-score-query-html",
+    "title": "南开大学：官方分数查询",
+    "url": "https://lqcx.nankai.edu.cn/zsw/lnfs.html",
+    "publisher": "南开大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:02:32.156388+00:00",
+    "sha256": "b37235d6c255760054f1469ab04ff2290be947e8d13cfe67ed6c169d59c50e36",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "招生主站直接读取403；通过官网导航的独立录取查询站正常公开会话流程已成功读取年份菜单及分数接口。广西菜单只有2025/2024，本科普通批2026物理、历史均state1且学校/专业列表为空，2025物理有正向对照。访问限制与查询结果分别记录，不用2024招生宣传附件补充2026分数。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-nankai-score-params-json",
+    "title": "南开大学：分数查询年份菜单",
+    "url": "https://lqcx.nankai.edu.cn/f/ajax_lnfs_param",
+    "publisher": "南开大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:03:42.585762+00:00",
+    "sha256": "ca2fe34d96bc0d2290c6573f538961ef06065bd95ab4e276b7dbd3e87590c32a",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "招生主站直接读取403；通过官网导航的独立录取查询站正常公开会话流程已成功读取年份菜单及分数接口。广西菜单只有2025/2024，本科普通批2026物理、历史均state1且学校/专业列表为空，2025物理有正向对照。访问限制与查询结果分别记录，不用2024招生宣传附件补充2026分数。"
+    ],
+    "archiveSha256": "43c9404dd1efc9b619f70e4570d5e362ecc8b9c237d85c1a5b66cf8bb8d6a689",
+    "redactedFields": [
+      "jessionid"
+    ],
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-nankai-gx-2026-物理类-json",
+    "title": "南开大学：广西 2026-物理类",
+    "url": "https://lqcx.nankai.edu.cn/f/ajax_lnfs",
+    "publisher": "南开大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:05:00.356669+00:00",
+    "sha256": "1c2ef897c8bf323337eb1ad018da31c77dc6ad8312520291bece94500edf7d52",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "招生主站直接读取403；通过官网导航的独立录取查询站正常公开会话流程已成功读取年份菜单及分数接口。广西菜单只有2025/2024，本科普通批2026物理、历史均state1且学校/专业列表为空，2025物理有正向对照。访问限制与查询结果分别记录，不用2024招生宣传附件补充2026分数。"
+    ],
+    "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9",
+    "redactedFields": [
+      "jessionid"
+    ],
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "本科普通批"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-nankai-gx-2026-历史类-json",
+    "title": "南开大学：广西 2026-历史类",
+    "url": "https://lqcx.nankai.edu.cn/f/ajax_lnfs",
+    "publisher": "南开大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:05:00.830771+00:00",
+    "sha256": "1c2ef897c8bf323337eb1ad018da31c77dc6ad8312520291bece94500edf7d52",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "招生主站直接读取403；通过官网导航的独立录取查询站正常公开会话流程已成功读取年份菜单及分数接口。广西菜单只有2025/2024，本科普通批2026物理、历史均state1且学校/专业列表为空，2025物理有正向对照。访问限制与查询结果分别记录，不用2024招生宣传附件补充2026分数。"
+    ],
+    "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9",
+    "redactedFields": [
+      "jessionid"
+    ],
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "本科普通批"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-nankai-gx-2025-物理类-json",
+    "title": "南开大学：广西 2025-物理类",
+    "url": "https://lqcx.nankai.edu.cn/f/ajax_lnfs",
+    "publisher": "南开大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:05:01.074546+00:00",
+    "sha256": "06ed0d24d841e3a35a8556fe255e17ab3d29f191ab14a7c7464ab62d471a6adf",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "招生主站直接读取403；通过官网导航的独立录取查询站正常公开会话流程已成功读取年份菜单及分数接口。广西菜单只有2025/2024，本科普通批2026物理、历史均state1且学校/专业列表为空，2025物理有正向对照。访问限制与查询结果分别记录，不用2024招生宣传附件补充2026分数。"
+    ],
+    "archiveSha256": "873307c5c27b37994c52b09e9d4e45340e16b9d146f3ee51afb2a77c66c5fb72",
+    "redactedFields": [
+      "jessionid"
+    ],
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "本科普通批"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-cpu-score-page-html",
+    "title": "中国药科大学：录取分数查询入口",
+    "url": "https://zb.cpu.edu.cn/fs/listm.htm",
+    "publisher": "中国药科大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:01:57.583331+00:00",
+    "sha256": "8cf067f201cb6c3a486c1d616839d6efc3d9d32d46f97959c8c678b5ffa5369a",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份选项最新2025；按页面查询脚本的省份f8=广西、年份f7=2026请求，成功响应但total0/data空，2025广西正向对照有结果。默认分数表未展示年份和省份，不能因页面导航写2026招生计划而将默认表中的专业分误标为2026广西。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-cpu-score-query-js",
+    "title": "中国药科大学：官方分数查询",
+    "url": "https://zb.cpu.edu.cn/_upload/tpl/03/37/823/template823/search_lqfs.js",
+    "publisher": "中国药科大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:01:57.625638+00:00",
+    "sha256": "e0e06e5b7f1b11cfb6d758a473911bd9e18fa6a98f5b66d4820129729669fc50",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份选项最新2025；按页面查询脚本的省份f8=广西、年份f7=2026请求，成功响应但total0/data空，2025广西正向对照有结果。默认分数表未展示年份和省份，不能因页面导航写2026招生计划而将默认表中的专业分误标为2026广西。"
+    ],
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-cpu-gx-2026-json",
+    "title": "中国药科大学：广西 2026",
+    "url": "https://zb.cpu.edu.cn/_wp3services/generalQuery?queryObj=articles",
+    "publisher": "中国药科大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:03:30.012851+00:00",
+    "sha256": "53b3fb37123df6f908dbf61d9b15f9b5c56bc1a9920953834257172ba219b42c",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份选项最新2025；按页面查询脚本的省份f8=广西、年份f7=2026请求，成功响应但total0/data空，2025广西正向对照有结果。默认分数表未展示年份和省份，不能因页面导航写2026招生计划而将默认表中的专业分误标为2026广西。"
+    ],
+    "requestEncoding": "form",
+    "requestMethod": "POST",
+    "requestData": {
+      "siteId": 225,
+      "columnId": 10209,
+      "pageIndex": 1,
+      "rows": 14,
+      "orders": "[]",
+      "returnInfos": "[{\"name\": \"f1\"}, {\"name\": \"f2\"}, {\"name\": \"f3\"}, {\"name\": \"f4\"}, {\"name\": \"f5\"}, {\"name\": \"f6\"}, {\"name\": \"f7\"}, {\"name\": \"f10\"}, {\"name\": \"f9\"}]",
+      "conditions": "[{\"orConditions\": [{\"field\": \"f8\", \"value\": \"广西\", \"judge\": \"=\"}]}, {\"orConditions\": [{\"field\": \"f7\", \"value\": \"2026\", \"judge\": \"=\"}]}]"
+    },
+    "httpStatus": 200
+  },
+  {
+    "id": "mscore-20260911-root-cpu-gx-2025-json",
+    "title": "中国药科大学：广西 2025",
+    "url": "https://zb.cpu.edu.cn/_wp3services/generalQuery?queryObj=articles",
+    "publisher": "中国药科大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T18:03:30.222351+00:00",
+    "sha256": "5045ca738fd5cc384d5ae0bc0dbaa19cc9f72bb3392cdd0bc96e9c2fa299e438",
+    "method": "直接读取学校公开页面、配置及对应查询接口；记录实际请求与正向对照，旧年记录仅用于验证入口。",
+    "evidenceRole": "source-review-not-admission-records",
+    "notes": [
+      "官方年份选项最新2025；按页面查询脚本的省份f8=广西、年份f7=2026请求，成功响应但total0/data空，2025广西正向对照有结果。默认分数表未展示年份和省份，不能因页面导航写2026招生计划而将默认表中的专业分误标为2026广西。"
+    ],
+    "requestEncoding": "form",
+    "requestMethod": "POST",
+    "requestData": {
+      "siteId": 225,
+      "columnId": 10209,
+      "pageIndex": 1,
+      "rows": 14,
+      "orders": "[]",
+      "returnInfos": "[{\"name\": \"f1\"}, {\"name\": \"f2\"}, {\"name\": \"f3\"}, {\"name\": \"f4\"}, {\"name\": \"f5\"}, {\"name\": \"f6\"}, {\"name\": \"f7\"}, {\"name\": \"f10\"}, {\"name\": \"f9\"}]",
+      "conditions": "[{\"orConditions\": [{\"field\": \"f8\", \"value\": \"广西\", \"judge\": \"=\"}]}, {\"orConditions\": [{\"field\": \"f7\", \"value\": \"2025\", \"judge\": \"=\"}]}]"
+    },
+    "httpStatus": 200
+  }
+]

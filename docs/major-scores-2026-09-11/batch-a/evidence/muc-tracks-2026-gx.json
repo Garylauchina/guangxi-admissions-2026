@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "errorCode": 0,
+  "message": "",
+  "rows": [
+    {
+      "klmc": "历史类",
+      "kldm": "6"
+    },
+    {
+      "klmc": "物理类",
+      "kldm": "7"
+    },
+    {
+      "klmc": "体育类（物理类）",
+      "kldm": "12"
+    }
+  ],
+  "total": 3
+}

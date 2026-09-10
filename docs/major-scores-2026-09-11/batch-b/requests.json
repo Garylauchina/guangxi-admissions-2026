@@ -1,0 +1,11 @@
+[
+ {"id":"smu-entry","schoolCode":"12121","url":"https://portal.smu.edu.cn/bkzs/bkzn/wnfs.htm"},
+ {"id":"whu-home","schoolCode":"10486","url":"https://aoff.whu.edu.cn/"},
+ {"id":"nwpu-home","schoolCode":"10699","url":"https://zsb.nwpu.edu.cn/"},
+ {"id":"nwpu-2026-summary","schoolCode":"10699","url":"https://www.nwpu.edu.cn/info/1208/125738.htm"},
+ {"id":"tju-home","schoolCode":"10056","url":"https://zs.tju.edu.cn/"},
+ {"id":"nuaa-entry","schoolCode":"10287","url":"https://zs.nuaa.edu.cn/lnlqfs/list.psp"},
+ {"id":"hitwh-home","schoolCode":"19213","url":"https://zsb.hitwh.edu.cn/"},
+ {"id":"hit-summary-gx","schoolCode":"19213","url":"https://zsb.hit.edu.cn/information/summary?province=%E5%B9%BF%E8%A5%BF"},
+ {"id":"tongji-entry","schoolCode":"10247","url":"https://bkzs.tongji.edu.cn/luqu/admission"}
+]

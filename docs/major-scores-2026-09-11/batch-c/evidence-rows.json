@@ -1,0 +1,1621 @@
+[
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-2",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 2,
+    "cells": [
+      "历史类",
+      "财务管理",
+      "2",
+      "398",
+      "525",
+      "519",
+      "522",
+      "11411"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-3",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 3,
+    "cells": [
+      "历史类",
+      "英语",
+      "2",
+      "398",
+      "523",
+      "523",
+      "523",
+      "10811"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-4",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 4,
+    "cells": [
+      "历史类",
+      "人力资源管理",
+      "2",
+      "398",
+      "516",
+      "513",
+      "515",
+      "12646"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-5",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 5,
+    "cells": [
+      "物理-化学",
+      "电气工程及其自动化",
+      "2",
+      "368",
+      "568",
+      "567",
+      "568",
+      "24114"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-6",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 6,
+    "cells": [
+      "物理-化学",
+      "水利水电工程",
+      "4",
+      "368",
+      "562",
+      "552",
+      "556",
+      "32289"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-7",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 7,
+    "cells": [
+      "物理-化学",
+      "能源与动力工程",
+      "2",
+      "368",
+      "562",
+      "556",
+      "559",
+      "30577"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-8",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 8,
+    "cells": [
+      "物理-化学",
+      "计算机科学 与技术",
+      "2",
+      "368",
+      "561",
+      "552",
+      "557",
+      "32890"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-9",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 9,
+    "cells": [
+      "物理-化学",
+      "农业水利工程",
+      "2",
+      "368",
+      "552",
+      "549",
+      "551",
+      "34649"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-10",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 10,
+    "cells": [
+      "物理-化学",
+      "应用统计学",
+      "2",
+      "368",
+      "550",
+      "549",
+      "550",
+      "34041"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-11",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 11,
+    "cells": [
+      "物理-化学",
+      "测绘工程",
+      "2",
+      "368",
+      "549",
+      "543",
+      "546",
+      "37700"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-12",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 12,
+    "cells": [
+      "物理-化学",
+      "地质工程",
+      "2",
+      "368",
+      "547",
+      "546",
+      "547",
+      "35963"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-13",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 13,
+    "cells": [
+      "物理-化学",
+      "水土保持与荒漠化防治",
+      "2",
+      "368",
+      "546",
+      "544",
+      "545",
+      "38324"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-14",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 14,
+    "cells": [
+      "物理-化学",
+      "道路桥梁与渡河工程",
+      "2",
+      "368",
+      "544",
+      "543",
+      "544",
+      "37700"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-15",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 15,
+    "cells": [
+      "物理-不限",
+      "工程造价",
+      "2",
+      "368",
+      "518",
+      "513",
+      "516",
+      "57857"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-16",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 16,
+    "cells": [
+      "物理-生物",
+      "园林",
+      "2",
+      "368",
+      "478",
+      "475",
+      "477",
+      "86077"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6212-2-17",
+    "sourceId": "major-c-20260911-juwp-gx-6212",
+    "sourceTable": 2,
+    "sourceRow": 17,
+    "cells": [
+      "物理-化学",
+      "土木工程（中外合作办学）",
+      "2",
+      "368",
+      "455",
+      "441",
+      "448",
+      "113762"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6502-2-2",
+    "sourceId": "major-c-20260911-juwp-gx-6502",
+    "sourceTable": 2,
+    "sourceRow": 2,
+    "cells": [
+      "物理类",
+      "现代通信技术（火箭军）",
+      "5",
+      "180",
+      "409",
+      "388",
+      "396",
+      "161091"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11319-juwp-gx-6502-2-3",
+    "sourceId": "major-c-20260911-juwp-gx-6502",
+    "sourceTable": 2,
+    "sourceRow": 3,
+    "cells": [
+      "物理类",
+      "智能工程机械运用技术(武警)",
+      "5",
+      "180",
+      "463",
+      "381",
+      "402",
+      "163558"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11552-sctu-gx-2267-1-2",
+    "sourceId": "major-c-20260911-sctu-gx-2267",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "cells": [
+      "广西",
+      "普通本科 （物理类）",
+      "101",
+      "烹饪与营养教育",
+      "6",
+      "6",
+      "537.0",
+      "501.0",
+      "512.5"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11552-sctu-gx-2267-1-3",
+    "sourceId": "major-c-20260911-sctu-gx-2267",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "cells": [
+      "广西",
+      "普通本科 （物理类）",
+      "102",
+      "商务英语",
+      "3",
+      "3",
+      "486.0",
+      "473.0",
+      "481.3"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11552-sctu-gx-2267-1-4",
+    "sourceId": "major-c-20260911-sctu-gx-2267",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "cells": [
+      "广西",
+      "普通本科 （物理类）",
+      "301",
+      "建筑电气与智能化（中外合作办学）",
+      "1",
+      "1",
+      "404.0",
+      "404.0",
+      "404.0"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11552-sctu-gx-2267-1-5",
+    "sourceId": "major-c-20260911-sctu-gx-2267",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "cells": [
+      "广西",
+      "普通本科 （历史类）",
+      "103",
+      "商务英语",
+      "5",
+      "5",
+      "497.0",
+      "486.0",
+      "489.8"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11552-sctu-gx-2267-1-6",
+    "sourceId": "major-c-20260911-sctu-gx-2267",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "cells": [
+      "广西",
+      "普通本科 （历史类）",
+      "104",
+      "旅游管理",
+      "4",
+      "4",
+      "500.0",
+      "489.0",
+      "492.8"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-10120-sxdt-admission-1-2",
+    "sourceId": "major-c-20260911-sxdt-admission",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "cells": [
+      "广西",
+      "历史类",
+      "汉语言文学",
+      "6",
+      "509",
+      "490"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-10120-sxdt-admission-1-3",
+    "sourceId": "major-c-20260911-sxdt-admission",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "cells": [
+      "广西",
+      "历史类",
+      "心理学",
+      "10",
+      "484",
+      "456"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-10120-sxdt-admission-1-4",
+    "sourceId": "major-c-20260911-sxdt-admission",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "cells": [
+      "广西",
+      "历史类",
+      "工商管理",
+      "10",
+      "462",
+      "450"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-10120-sxdt-admission-1-5",
+    "sourceId": "major-c-20260911-sxdt-admission",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "cells": [
+      "广西",
+      "物理类",
+      "数字媒体技术",
+      "10",
+      "488",
+      "471"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-10120-sxdt-admission-1-6",
+    "sourceId": "major-c-20260911-sxdt-admission",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "cells": [
+      "广西",
+      "物理类",
+      "电气工程及其自动化",
+      "5",
+      "508",
+      "492"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-10120-sxdt-admission-1-7",
+    "sourceId": "major-c-20260911-sxdt-admission",
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "cells": [
+      "广西",
+      "物理类",
+      "生物科学",
+      "10",
+      "460",
+      "437"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-10120-sxdt-admission-1-8",
+    "sourceId": "major-c-20260911-sxdt-admission",
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "cells": [
+      "广西",
+      "物理类",
+      "计算机科学与技术",
+      "5",
+      "493",
+      "490"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-10120-sxdt-admission-1-9",
+    "sourceId": "major-c-20260911-sxdt-admission",
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "cells": [
+      "广西",
+      "物理类",
+      "护理学",
+      "10",
+      "441",
+      "423"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-1",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 1,
+    "cells": [
+      "1",
+      "税收学",
+      "历史+不限",
+      "2",
+      "2",
+      "503",
+      "500",
+      "501.5",
+      "398",
+      "102"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-2",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "cells": [
+      "2",
+      "网络与新媒体",
+      "历史+不限",
+      "2",
+      "2",
+      "514",
+      "506",
+      "510",
+      "398",
+      "108"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-3",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "cells": [
+      "3",
+      "应用心理学",
+      "历史+不限",
+      "2",
+      "2",
+      "495",
+      "492",
+      "493.5",
+      "398",
+      "94"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-4",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "cells": [
+      "4",
+      "工商管理",
+      "历史+不限",
+      "3",
+      "3",
+      "501",
+      "498",
+      "499",
+      "398",
+      "100"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-5",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "cells": [
+      "5",
+      "会计学",
+      "历史+不限",
+      "2",
+      "2",
+      "521",
+      "506",
+      "513.5",
+      "398",
+      "108"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-6",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "cells": [
+      "6",
+      "财务管理",
+      "历史+不限",
+      "2",
+      "2",
+      "501",
+      "501",
+      "501",
+      "398",
+      "103"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-7",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "cells": [
+      "7",
+      "人力资源管理",
+      "历史+不限",
+      "3",
+      "3",
+      "502",
+      "497",
+      "498.7",
+      "398",
+      "99"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-8",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "cells": [
+      "8",
+      "审计学",
+      "历史+不限",
+      "2",
+      "2",
+      "508",
+      "501",
+      "504.5",
+      "398",
+      "103"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-9",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "cells": [
+      "9",
+      "供应链管理",
+      "历史+不限",
+      "3",
+      "3",
+      "503",
+      "495",
+      "498",
+      "398",
+      "97"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-10",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 10,
+    "cells": [
+      "10",
+      "会展经济与管理",
+      "历史+不限",
+      "2",
+      "2",
+      "498",
+      "492",
+      "495",
+      "398",
+      "94"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-11",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 11,
+    "cells": [
+      "11",
+      "酒店管理",
+      "历史+不限",
+      "2",
+      "2",
+      "497",
+      "497",
+      "497",
+      "398",
+      "99"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-12",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 12,
+    "cells": [
+      "12",
+      "旅游管理与服务教育",
+      "历史+不限",
+      "2",
+      "2",
+      "496",
+      "494",
+      "495",
+      "398",
+      "96"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-13",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 13,
+    "cells": [
+      "13",
+      "金融学",
+      "历史+不限",
+      "2",
+      "2",
+      "500",
+      "494",
+      "497",
+      "398",
+      "96"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-14",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 14,
+    "cells": [
+      "14",
+      "保险学",
+      "历史+不限",
+      "2",
+      "2",
+      "493",
+      "490",
+      "491.5",
+      "398",
+      "92"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-15",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 15,
+    "cells": [
+      "15",
+      "国际经济与贸易",
+      "历史+不限",
+      "2",
+      "2",
+      "498",
+      "495",
+      "496.5",
+      "398",
+      "97"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-16",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 16,
+    "cells": [
+      "16",
+      "贸易经济",
+      "历史+不限",
+      "2",
+      "2",
+      "494",
+      "493",
+      "493.5",
+      "398",
+      "95"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-17",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 17,
+    "cells": [
+      "17",
+      "日语",
+      "历史+不限",
+      "2",
+      "2",
+      "499",
+      "493",
+      "496",
+      "398",
+      "95"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-18",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 18,
+    "cells": [
+      "18",
+      "翻译",
+      "历史+不限",
+      "2",
+      "2",
+      "493",
+      "493",
+      "493",
+      "398",
+      "95"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-19",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 19,
+    "cells": [
+      "19",
+      "商务英语",
+      "历史+不限",
+      "2",
+      "2",
+      "507",
+      "493",
+      "500",
+      "398",
+      "95"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-20",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 20,
+    "cells": [
+      "20",
+      "市场营销",
+      "历史+不限",
+      "2",
+      "2",
+      "500",
+      "498",
+      "499",
+      "398",
+      "100"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-21",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 21,
+    "cells": [
+      "21",
+      "国际商务",
+      "历史+不限",
+      "2",
+      "2",
+      "502",
+      "498",
+      "500",
+      "398",
+      "100"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-22",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 22,
+    "cells": [
+      "22",
+      "物业管理",
+      "历史+不限",
+      "2",
+      "2",
+      "492",
+      "491",
+      "491.5",
+      "398",
+      "93"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-23",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 23,
+    "cells": [
+      "23",
+      "零售业管理",
+      "历史+不限",
+      "2",
+      "1",
+      "491",
+      "491",
+      "491",
+      "398",
+      "93"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-24",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 24,
+    "cells": [
+      "24",
+      "物流管理",
+      "历史+不限",
+      "2",
+      "2",
+      "495",
+      "493",
+      "494",
+      "398",
+      "95"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-25",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 25,
+    "cells": [
+      "25",
+      "电子商务",
+      "历史+不限",
+      "2",
+      "2",
+      "496",
+      "494",
+      "495",
+      "398",
+      "96"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-26",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 26,
+    "cells": [
+      "26",
+      "跨境电子商务",
+      "历史+不限",
+      "2",
+      "2",
+      "503",
+      "497",
+      "500",
+      "398",
+      "99"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-27",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 27,
+    "cells": [
+      "27",
+      "税收学",
+      "物理+不限",
+      "2",
+      "2",
+      "474",
+      "463",
+      "468.5",
+      "368",
+      "95"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-28",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 28,
+    "cells": [
+      "28",
+      "网络与新媒体",
+      "物理+不限",
+      "2",
+      "2",
+      "488",
+      "487",
+      "487.5",
+      "368",
+      "119"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-29",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 29,
+    "cells": [
+      "29",
+      "应用心理学",
+      "物理+不限",
+      "2",
+      "2",
+      "478",
+      "467",
+      "472.5",
+      "368",
+      "99"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-30",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 30,
+    "cells": [
+      "30",
+      "工商管理",
+      "物理+不限",
+      "3",
+      "3",
+      "479",
+      "463",
+      "471.3",
+      "368",
+      "95"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-31",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 31,
+    "cells": [
+      "31",
+      "会计学",
+      "物理+不限",
+      "2",
+      "2",
+      "489",
+      "484",
+      "486.5",
+      "368",
+      "116"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-32",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 32,
+    "cells": [
+      "32",
+      "财务管理",
+      "物理+不限",
+      "2",
+      "2",
+      "472",
+      "467",
+      "469.5",
+      "368",
+      "99"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-33",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 33,
+    "cells": [
+      "33",
+      "人力资源管理",
+      "物理+不限",
+      "3",
+      "3",
+      "469",
+      "465",
+      "466.3",
+      "368",
+      "97"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-34",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 34,
+    "cells": [
+      "34",
+      "审计学",
+      "物理+不限",
+      "2",
+      "2",
+      "488",
+      "477",
+      "482.5",
+      "368",
+      "109"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-35",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 35,
+    "cells": [
+      "35",
+      "供应链管理",
+      "物理+不限",
+      "3",
+      "3",
+      "479",
+      "462",
+      "468.7",
+      "368",
+      "94"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-36",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 36,
+    "cells": [
+      "36",
+      "会展经济与管理",
+      "物理+不限",
+      "2",
+      "2",
+      "480",
+      "479",
+      "479.5",
+      "368",
+      "111"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-37",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 37,
+    "cells": [
+      "37",
+      "会展",
+      "物理+不限",
+      "2",
+      "2",
+      "479",
+      "460",
+      "469.5",
+      "368",
+      "92"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-38",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 38,
+    "cells": [
+      "38",
+      "工业工程",
+      "物理+不限",
+      "3",
+      "3",
+      "473",
+      "459",
+      "463.7",
+      "368",
+      "91"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-39",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 39,
+    "cells": [
+      "39",
+      "酒店管理",
+      "物理+不限",
+      "2",
+      "2",
+      "468",
+      "467",
+      "467.5",
+      "368",
+      "99"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-40",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 40,
+    "cells": [
+      "40",
+      "旅游管理与服务教育",
+      "物理+不限",
+      "2",
+      "2",
+      "467",
+      "466",
+      "466.5",
+      "368",
+      "98"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-41",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 41,
+    "cells": [
+      "41",
+      "经济统计学",
+      "物理+不限",
+      "5",
+      "5",
+      "482",
+      "459",
+      "467.4",
+      "368",
+      "91"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-42",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 42,
+    "cells": [
+      "42",
+      "数字经济",
+      "物理+不限",
+      "2",
+      "2",
+      "470",
+      "470",
+      "470",
+      "368",
+      "102"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-1-43",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 1,
+    "sourceRow": 43,
+    "cells": [
+      "43",
+      "金融学",
+      "物理+不限",
+      "2",
+      "2",
+      "472",
+      "468",
+      "470",
+      "368",
+      "100"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-44",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 44,
+    "cells": [
+      "44",
+      "金融工程",
+      "物理+不限",
+      "5",
+      "5",
+      "466",
+      "460",
+      "463.8",
+      "368",
+      "92"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-45",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 45,
+    "cells": [
+      "45",
+      "保险学",
+      "物理+不限",
+      "2",
+      "2",
+      "467",
+      "462",
+      "464.5",
+      "368",
+      "94"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-46",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 46,
+    "cells": [
+      "46",
+      "国际经济与贸易",
+      "物理+不限",
+      "2",
+      "2",
+      "490",
+      "478",
+      "484",
+      "368",
+      "110"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-47",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 47,
+    "cells": [
+      "47",
+      "贸易经济",
+      "物理+不限",
+      "2",
+      "2",
+      "472",
+      "464",
+      "468",
+      "368",
+      "96"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-48",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 48,
+    "cells": [
+      "48",
+      "日语",
+      "物理+不限",
+      "2",
+      "2",
+      "477",
+      "461",
+      "469",
+      "368",
+      "93"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-49",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 49,
+    "cells": [
+      "49",
+      "翻译",
+      "物理+不限",
+      "2",
+      "2",
+      "461",
+      "459",
+      "460",
+      "368",
+      "91"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-50",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 50,
+    "cells": [
+      "50",
+      "商务英语",
+      "物理+不限",
+      "2",
+      "2",
+      "484",
+      "482",
+      "483",
+      "368",
+      "114"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-51",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 51,
+    "cells": [
+      "51",
+      "市场营销",
+      "物理+不限",
+      "2",
+      "2",
+      "461",
+      "459",
+      "460",
+      "368",
+      "91"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-52",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 52,
+    "cells": [
+      "52",
+      "国际商务",
+      "物理+不限",
+      "2",
+      "2",
+      "464",
+      "462",
+      "463",
+      "368",
+      "94"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-53",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 53,
+    "cells": [
+      "53",
+      "物业管理",
+      "物理+不限",
+      "2",
+      "2",
+      "459",
+      "459",
+      "459",
+      "368",
+      "91"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-54",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 54,
+    "cells": [
+      "54",
+      "零售业管理",
+      "物理+不限",
+      "2",
+      "2",
+      "459",
+      "458",
+      "458.5",
+      "368",
+      "90"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-55",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 55,
+    "cells": [
+      "55",
+      "物流管理",
+      "物理+不限",
+      "2",
+      "2",
+      "472",
+      "465",
+      "468.5",
+      "368",
+      "97"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-56",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 56,
+    "cells": [
+      "56",
+      "电子商务",
+      "物理+不限",
+      "2",
+      "2",
+      "469",
+      "465",
+      "467",
+      "368",
+      "97"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-57",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 57,
+    "cells": [
+      "57",
+      "跨境电子商务",
+      "物理+不限",
+      "2",
+      "2",
+      "465",
+      "462",
+      "463.5",
+      "368",
+      "94"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-58",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 58,
+    "cells": [
+      "58",
+      "通信工程",
+      "物理+化学",
+      "3",
+      "3",
+      "498",
+      "487",
+      "491.7",
+      "368",
+      "119"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-59",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 59,
+    "cells": [
+      "59",
+      "物联网工程",
+      "物理+化学",
+      "3",
+      "3",
+      "488",
+      "487",
+      "487.7",
+      "368",
+      "119"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-60",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 60,
+    "cells": [
+      "60",
+      "智能科学与技术",
+      "物理+化学",
+      "2",
+      "2",
+      "515",
+      "486",
+      "500.5",
+      "368",
+      "118"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-61",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 61,
+    "cells": [
+      "61",
+      "数据科学与大数据技术",
+      "物理+化学",
+      "3",
+      "3",
+      "495",
+      "488",
+      "490.3",
+      "368",
+      "120"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-62",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 62,
+    "cells": [
+      "62",
+      "烹饪与营养教育",
+      "物理+化学",
+      "3",
+      "3",
+      "494",
+      "485",
+      "488",
+      "368",
+      "117"
+    ]
+  },
+  {
+    "id": "major-2026-0911c-11313-fjbu-pdf-2-63",
+    "sourceId": "major-c-20260911-fjbu-pdf",
+    "sourceTable": 2,
+    "sourceRow": 63,
+    "cells": [
+      "63",
+      "应用统计学",
+      "物理+化学",
+      "2",
+      "2",
+      "486",
+      "483",
+      "484.5",
+      "368",
+      "115"
+    ]
+  }
+]

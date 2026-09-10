@@ -1,0 +1,92 @@
+[
+  {
+    "id": "whu-gx-2026-物理类",
+    "schoolCode": "10486",
+    "url": "https://zsdata.whu.edu.cn/wzgl/wxmini/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "物理类",
+      "xqmc": "校本部"
+    },
+    "note": "前端当前年份无2026；按已观察字段/校区和全部类别作显式当年缺口查询。"
+  },
+  {
+    "id": "whu-gx-2026-历史类",
+    "schoolCode": "10486",
+    "url": "https://zsdata.whu.edu.cn/wzgl/wxmini/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "历史类",
+      "xqmc": "校本部"
+    },
+    "note": "前端当前年份无2026；按已观察字段/校区和全部类别作显式当年缺口查询。"
+  },
+  {
+    "id": "whu-gx-2026-全部",
+    "schoolCode": "10486",
+    "url": "https://zsdata.whu.edu.cn/wzgl/wxmini/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "全部",
+      "xqmc": "校本部"
+    },
+    "note": "前端当前年份无2026；按已观察字段/校区和全部类别作显式当年缺口查询。"
+  },
+  {
+    "id": "tju-gx-2026-物理类",
+    "schoolCode": "10056",
+    "url": "https://zsdata.tju.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "物理类",
+      "xqmc": "北洋园校区"
+    },
+    "note": "前端当前年份无2026；按已观察字段/校区和全部类别作显式当年缺口查询。"
+  },
+  {
+    "id": "tju-gx-2026-历史类",
+    "schoolCode": "10056",
+    "url": "https://zsdata.tju.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "历史类",
+      "xqmc": "北洋园校区"
+    },
+    "note": "前端当前年份无2026；按已观察字段/校区和全部类别作显式当年缺口查询。"
+  },
+  {
+    "id": "tju-gx-2026-全部",
+    "schoolCode": "10056",
+    "url": "https://zsdata.tju.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "全部",
+      "xqmc": "北洋园校区"
+    },
+    "note": "前端当前年份无2026；按已观察字段/校区和全部类别作显式当年缺口查询。"
+  }
+]

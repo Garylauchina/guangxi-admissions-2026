@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-09-11T02:26:36.878187+08:00",
+  "status": "passed",
+  "tests": {
+    "suite": 17,
+    "passed": 17,
+    "failed": 0,
+    "appTestsRepeatedAfterReportLinkEdit": 2,
+    "method": "Node test runner; real-data UI interaction via jsdom, not browser screenshots"
+  },
+  "dataValidation": "passed",
+  "incrementalImport": {
+    "added": 132,
+    "updated": 0,
+    "before": 816,
+    "after": 948,
+    "schoolCodes": 23
+  },
+  "preservation": {
+    "oldMajorRowsUnchanged": 816,
+    "otherDataFilesByteIdentical": 8
+  },
+  "independentSourceReview": {
+    "rows": 132,
+    "fieldComparisons": 1955,
+    "checks": 232,
+    "result": "PASS"
+  },
+  "publicPackage": "Only the declared file allowlists; raw response, PDF, images and sessions excluded. Python AST, JSON parse and private-path/credential-pattern scan passed.",
+  "deployment": "Verified separately after publication; this local check is not itself evidence of a live deployment."
+}

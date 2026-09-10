@@ -1,0 +1,34 @@
+[
+  {
+    "id": "nuaa-years",
+    "schoolCode": "10287",
+    "url": "https://zsservice.nuaa.edu.cn/zsw-admin/api/admissionScore/years"
+  },
+  {
+    "id": "nuaa-2026-provinces",
+    "schoolCode": "10287",
+    "url": "https://zsservice.nuaa.edu.cn/zsw-admin/api/admissionScore/provinces?year=2026"
+  },
+  {
+    "id": "nuaa-gx-2026-物理类",
+    "schoolCode": "10287",
+    "url": "https://zsservice.nuaa.edu.cn/zsw-admin/api/getAdmissionScore?year=2026&sf=%E5%B9%BF%E8%A5%BF&kl=%E7%89%A9%E7%90%86%E7%B1%BB",
+    "queryParameters": {
+      "year": "2026",
+      "sf": "广西",
+      "kl": "物理类"
+    },
+    "note": "按前端真实字段检验当年缺口；未限定类别，保留接口返回所有类别。"
+  },
+  {
+    "id": "nuaa-gx-2026-历史类",
+    "schoolCode": "10287",
+    "url": "https://zsservice.nuaa.edu.cn/zsw-admin/api/getAdmissionScore?year=2026&sf=%E5%B9%BF%E8%A5%BF&kl=%E5%8E%86%E5%8F%B2%E7%B1%BB",
+    "queryParameters": {
+      "year": "2026",
+      "sf": "广西",
+      "kl": "历史类"
+    },
+    "note": "按前端真实字段检验当年缺口；未限定类别，保留接口返回所有类别。"
+  }
+]

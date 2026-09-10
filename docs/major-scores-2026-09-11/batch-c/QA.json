@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+  "recordCount": 94,
+  "schools": {
+    "江西水利电力大学": 18,
+    "四川旅游学院": 5,
+    "山西大同大学": 8,
+    "福建商学院": 63
+  },
+  "tracks": {
+    "历史": 34,
+    "物理": 60
+  },
+  "admissionTypes": {
+    "普通类": 90,
+    "中外合作办学": 2,
+    "定向培养军士": 2
+  },
+  "admittedPeople": 271,
+  "directGroupCodeRows": 5,
+  "unknownRoundRows": 94,
+  "nonComparableRows": 0,
+  "sources": 21,
+  "auditSchools": 8,
+  "excludedAggregateRows": 4,
+  "pdfVisualReview": "2页已核对，序号1—63连续，表头、科类、最低最高平均、人数均对齐",
+  "sourceMinimumMaximumAverageChecks": "passed",
+  "oneAdmitChecks": "passed",
+  "noPlanMutationFields": "passed",
+  "noExisting17SchoolsOrTop20": "passed",
+  "sourceCellChecks": 564,
+  "publicJsonNoSessionFields": "passed",
+  "unreliableRankRowsDisabled": 18
+}

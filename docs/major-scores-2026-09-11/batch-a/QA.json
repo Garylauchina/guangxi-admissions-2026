@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+  "scopeSchools": 9,
+  "scoreRows": 38,
+  "comparableRows": 38,
+  "schoolCounts": {
+    "10052": 35,
+    "16302": 3
+  },
+  "trackCounts": {
+    "历史": 19,
+    "物理": 19
+  },
+  "mucCategoryCounts": {
+    "普通本科": 28,
+    "民族班": 5,
+    "国家专项": 1,
+    "合作办学": 1
+  },
+  "explicitRankRows": 35,
+  "unknownGroupRows": 38,
+  "unknownPreciseBatchRows": 38,
+  "summaryRoundRows": 38,
+  "explicitActualAdmittedCountRows": 3,
+  "actualAdmittedCountSum": 110,
+  "sourceCount": 34,
+  "auditNoteCount": 9,
+  "checks": [
+    "2026与广西逐行核验",
+    "六个中央民大科类/类别接口total与rows相符，无分页参数",
+    "中央民大体育科类未采；录取概况接口未作专业来源",
+    "原始最高/平均/最低和最低分排名字段逐项映射",
+    "西浦仅提取广西表；3大类共110实际录取人",
+    "原表计划人数与录取人数独立字段",
+    "中央民大合作为内地与港澳地区合作，未误作普通招生",
+    "旧年分数、分组线及招生计划均未冒充专业分",
+    "未知组码/精确批次/轮次不推断",
+    "原7校逐校真实尝试及可追溯缺口",
+    "来源引用与ID唯一性",
+    "本地原响应hash与归档hash保存，公开目录不含会话值"
+  ],
+  "limitations": [
+    "中央民大35条与西浦3大类是已读来源覆盖，不代表9校全部招生类别",
+    "原7校仍无可入库2026专业分",
+    "scoreComparable表示同一高考总分尺度可参考，不能保证录取",
+    "未单列政策加分处理，不声称裸分",
+    "本轮校外独立审阅由主任务完成"
+  ]
+}

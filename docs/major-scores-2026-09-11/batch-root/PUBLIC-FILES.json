@@ -1,0 +1,22 @@
+{
+  "files": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "QA.json",
+    "README.md",
+    "fetch.py",
+    "fetch_initial.py",
+    "fetch_entries.py",
+    "fetch_queries.py",
+    "probe_queries.py",
+    "public_api.py",
+    "fetch_final_queries.py",
+    "build.py",
+    "PUBLIC-FILES.json"
+  ],
+  "exclude": [
+    "raw/**",
+    "__pycache__/**"
+  ]
+}

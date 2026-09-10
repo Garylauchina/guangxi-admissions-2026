@@ -1,0 +1,356 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-09-11",
+  "scope": "七校官方来源实查与缺口验证；无新增2026专业最低分。",
+  "summary": {
+    "schoolsChecked": 7,
+    "newMajorRows": 0,
+    "successfulCurrentEmptySchoolQueries": 5,
+    "entryAccessLimitedSchools": 1,
+    "sources": 47,
+    "checks": 81,
+    "businessNoDataSchoolQueries": 1
+  },
+  "checks": [
+    {
+      "check": "SMU old positive control22/current no-result",
+      "passed": true
+    },
+    {
+      "check": "whu 物理类 current successful empty",
+      "passed": true
+    },
+    {
+      "check": "whu 历史类 current successful empty",
+      "passed": true
+    },
+    {
+      "check": "whu 全部 current successful empty",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2025_全部_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2025_历史类_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2025_物理类_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2024_全部_",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2024_历史类_",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2024_物理类_",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2023_全部_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2023_文史_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2023_理工_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2022_全部_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2022_文史_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2022_理工_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2021_全部_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2021_文史_校本部",
+      "passed": true
+    },
+    {
+      "check": "whu configuration no2026 广西_2021_理工_校本部",
+      "passed": true
+    },
+    {
+      "check": "tju 物理类 current successful empty",
+      "passed": true
+    },
+    {
+      "check": "tju 历史类 current successful empty",
+      "passed": true
+    },
+    {
+      "check": "tju 全部 current successful empty",
+      "passed": true
+    },
+    {
+      "check": "tju configuration no2026 广西_2025_全部_北洋园校区",
+      "passed": true
+    },
+    {
+      "check": "tju configuration no2026 广西_2025_物理类_北洋园校区",
+      "passed": true
+    },
+    {
+      "check": "NUAA current province empty",
+      "passed": true
+    },
+    {
+      "check": "NUAA 物理类 empty",
+      "passed": true
+    },
+    {
+      "check": "NUAA 历史类 empty",
+      "passed": true
+    },
+    {
+      "check": "NUAA latest2025",
+      "passed": true
+    },
+    {
+      "check": "HIT Weihai current config empty",
+      "passed": true
+    },
+    {
+      "check": "HIT Weihai latest2025",
+      "passed": true
+    },
+    {
+      "check": "Tongji latest2025",
+      "passed": true
+    },
+    {
+      "check": "Tongji current empty",
+      "passed": true
+    },
+    {
+      "check": "NWPU access limitation not counted as no-publication",
+      "passed": true
+    },
+    {
+      "check": "archive hash nuaa-app",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-js-652814e",
+      "passed": true
+    },
+    {
+      "check": "archive hash tju-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "check": "archive hash hitwh-gx-2025-config",
+      "passed": true
+    },
+    {
+      "check": "archive hash smu-entry",
+      "passed": true
+    },
+    {
+      "check": "archive hash nuaa-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-js-1d4e132",
+      "passed": true
+    },
+    {
+      "check": "archive hash whu-gx-2026-全部",
+      "passed": true
+    },
+    {
+      "check": "archive hash whu-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "check": "archive hash tju-gx-2026-全部",
+      "passed": true
+    },
+    {
+      "check": "archive hash whu-types-json",
+      "passed": true
+    },
+    {
+      "check": "archive hash tju-app",
+      "passed": true
+    },
+    {
+      "check": "archive hash whu-entry",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-years",
+      "passed": true
+    },
+    {
+      "check": "archive hash nuaa-years",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-js-8dffa81",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-js-5e0cf47",
+      "passed": true
+    },
+    {
+      "check": "archive hash tju-component",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-entry",
+      "passed": true
+    },
+    {
+      "check": "archive hash nuaa-entry",
+      "passed": true
+    },
+    {
+      "check": "archive hash tju-types",
+      "passed": true
+    },
+    {
+      "check": "archive hash tju-home",
+      "passed": true
+    },
+    {
+      "check": "archive hash whu-app",
+      "passed": true
+    },
+    {
+      "check": "archive hash hit-summary-gx",
+      "passed": true
+    },
+    {
+      "check": "archive hash whu-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "check": "archive hash nuaa-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-gx-2026",
+      "passed": true
+    },
+    {
+      "check": "archive hash whu-home",
+      "passed": true
+    },
+    {
+      "check": "archive hash hitwh-home",
+      "passed": true
+    },
+    {
+      "check": "archive hash tju-entry",
+      "passed": true
+    },
+    {
+      "check": "archive hash smu-query-config",
+      "passed": true
+    },
+    {
+      "check": "archive hash tju-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "check": "archive hash nwpu-2026-summary",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-js-2574580",
+      "passed": true
+    },
+    {
+      "check": "archive hash hitwh-entry",
+      "passed": true
+    },
+    {
+      "check": "archive hash nuaa-2026-provinces",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-js-373d896",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-js-77c07d0",
+      "passed": true
+    },
+    {
+      "check": "archive hash smu-gx-2026-all",
+      "passed": true
+    },
+    {
+      "check": "archive hash hitwh-gx-2026-config",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-js-c110f20",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-js-14b2303",
+      "passed": true
+    },
+    {
+      "check": "archive hash tongji-js-e14cf43",
+      "passed": true
+    },
+    {
+      "check": "archive hash smu-gx-2025-all",
+      "passed": true
+    },
+    {
+      "check": "archive hash nuaa-list",
+      "passed": true
+    },
+    {
+      "check": "7 distinct schools and notes",
+      "passed": true
+    },
+    {
+      "check": "local checking date",
+      "passed": true
+    },
+    {
+      "check": "all note references exist",
+      "passed": true
+    }
+  ],
+  "additionalValidation": [
+    {
+      "check": "seven school codes/names match current official filing identities",
+      "passed": true
+    },
+    {
+      "check": "current importer dry-run accepts seven audit notes and zero score rows",
+      "passed": true,
+      "before": 816,
+      "after": 816
+    },
+    {
+      "check": "all actual score output empty, no zero placeholder",
+      "passed": true
+    }
+  ]
+}

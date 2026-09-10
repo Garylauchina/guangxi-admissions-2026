@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "errorCode": 0,
+  "message": "",
+  "rows": [
+    {
+      "lxmc": "普通本科",
+      "lxdm": "01"
+    },
+    {
+      "lxmc": "民族班",
+      "lxdm": "36"
+    }
+  ],
+  "total": 2
+}

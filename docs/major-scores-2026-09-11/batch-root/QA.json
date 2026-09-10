@@ -1,0 +1,226 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-09-11",
+  "reviewedSchools": 6,
+  "newRecords": 0,
+  "checks": [
+    {
+      "check": "scut2026-empty-物理类",
+      "passed": true
+    },
+    {
+      "check": "scut2025-positive-物理类",
+      "passed": true
+    },
+    {
+      "check": "uestc2026-empty-物理类",
+      "passed": true
+    },
+    {
+      "check": "nankai2026-empty-物理类",
+      "passed": true
+    },
+    {
+      "check": "scut2026-empty-历史类",
+      "passed": true
+    },
+    {
+      "check": "scut2025-positive-历史类",
+      "passed": true
+    },
+    {
+      "check": "uestc2026-empty-历史类",
+      "passed": true
+    },
+    {
+      "check": "nankai2026-empty-历史类",
+      "passed": true
+    },
+    {
+      "check": "uestc2025-positive",
+      "passed": true
+    },
+    {
+      "check": "nankai2025-positive",
+      "passed": true
+    },
+    {
+      "check": "cpu2026-empty",
+      "passed": true
+    },
+    {
+      "check": "cpu2025-positive",
+      "passed": true
+    },
+    {
+      "check": "cqu2026-no-config",
+      "passed": true
+    },
+    {
+      "check": "cqu2025-positive-config",
+      "passed": true
+    },
+    {
+      "check": "ncepu-major-data.json-all-records",
+      "passed": true
+    },
+    {
+      "check": "ncepu-all-data.json-all-records",
+      "passed": true
+    },
+    {
+      "check": "uestc-menu-no2026",
+      "passed": true
+    },
+    {
+      "check": "nankai-menu-no2026",
+      "passed": true
+    },
+    {
+      "check": "scut-score-entry.html-hash",
+      "passed": true
+    },
+    {
+      "check": "scut-query.html-hash",
+      "passed": true
+    },
+    {
+      "check": "scut-current-min.html-hash",
+      "passed": true
+    },
+    {
+      "check": "scut-gx-2026-物理类.html-hash",
+      "passed": true
+    },
+    {
+      "check": "scut-gx-2026-历史类.html-hash",
+      "passed": true
+    },
+    {
+      "check": "scut-gx-2025-物理类.html-hash",
+      "passed": true
+    },
+    {
+      "check": "scut-gx-2025-历史类.html-hash",
+      "passed": true
+    },
+    {
+      "check": "uestc-home.html-hash",
+      "passed": true
+    },
+    {
+      "check": "uestc-query.html-hash",
+      "passed": true
+    },
+    {
+      "check": "uestc-app.js-hash",
+      "passed": true
+    },
+    {
+      "check": "uestc-lnfs.js-hash",
+      "passed": true
+    },
+    {
+      "check": "uestc-score-types.json-hash",
+      "passed": true
+    },
+    {
+      "check": "uestc-gx-2026-物理类.json-hash",
+      "passed": true
+    },
+    {
+      "check": "uestc-gx-2026-历史类.json-hash",
+      "passed": true
+    },
+    {
+      "check": "uestc-gx-2025-物理类.json-hash",
+      "passed": true
+    },
+    {
+      "check": "cqu-score-entry.html-hash",
+      "passed": true
+    },
+    {
+      "check": "cqu-query.js-hash",
+      "passed": true
+    },
+    {
+      "check": "cqu-config-2026.json-hash",
+      "passed": true
+    },
+    {
+      "check": "cqu-config-2025.json-hash",
+      "passed": true
+    },
+    {
+      "check": "ncepu-home.html-hash",
+      "passed": true
+    },
+    {
+      "check": "ncepu-score-entry.html-hash",
+      "passed": true
+    },
+    {
+      "check": "ncepu-query.js-hash",
+      "passed": true
+    },
+    {
+      "check": "ncepu-major-data.json-hash",
+      "passed": true
+    },
+    {
+      "check": "ncepu-all-data.json-hash",
+      "passed": true
+    },
+    {
+      "check": "nankai-score-query.html-hash",
+      "passed": true
+    },
+    {
+      "check": "nankai-score-params.json-hash",
+      "passed": true
+    },
+    {
+      "check": "nankai-gx-2026-物理类.json-hash",
+      "passed": true
+    },
+    {
+      "check": "nankai-gx-2026-历史类.json-hash",
+      "passed": true
+    },
+    {
+      "check": "nankai-gx-2025-物理类.json-hash",
+      "passed": true
+    },
+    {
+      "check": "cpu-score-page.html-hash",
+      "passed": true
+    },
+    {
+      "check": "cpu-score-query.js-hash",
+      "passed": true
+    },
+    {
+      "check": "cpu-gx-2026.json-hash",
+      "passed": true
+    },
+    {
+      "check": "cpu-gx-2025.json-hash",
+      "passed": true
+    }
+  ],
+  "uestcGuangxiMenuYears": [
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "nankaiGuangxiMenuYears": [
+    "2024",
+    "2025"
+  ],
+  "ncepuMajor2025Rows": 1308,
+  "ncepuGuangxi2025MajorRows": 43,
+  "rawPublished": false
+}

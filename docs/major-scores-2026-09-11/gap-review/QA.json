@@ -1,0 +1,914 @@
+{
+  "reviewedAt": "2026-09-11",
+  "auditKind": "major-score-gap-independent-review",
+  "scope": {
+    "schools": 13,
+    "networkRequests": 0,
+    "rawCopiedToOutput": false,
+    "majorScoreValuesAdded": 0
+  },
+  "summary": {
+    "supportedWithinStatedScope": 13,
+    "materialBlockingFindings": 0,
+    "wordingFindingsCorrected": 1,
+    "checks": 81,
+    "passed": 81,
+    "failed": 0
+  },
+  "findings": [
+    {
+      "id": "smu-response-summary",
+      "status": "resolved",
+      "severity": "wording",
+      "fact": "B汇总现已改为5校成功空列表、1校业务明确无数据；南方医科逐校说明原本已准确写明9999。"
+    }
+  ],
+  "records": [
+    {
+      "schoolCode": "10561",
+      "school": "华南理工大学",
+      "batch": "batch-root",
+      "reportedStatus": "empty-current-response",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "html-no-data",
+      "fact": "2026广西普通类两科HTTP200返回无结果提示；2025同接口两科有专业记录。公告列表2026发布日期对应2025数据。",
+      "positiveControlAndLimits": "同接口2025两科成绩正向对照；仅限普通类两科及所列公告。",
+      "sourceIds": [
+        "mscore-20260911-root-scut-score-entry-html",
+        "mscore-20260911-root-scut-query-html",
+        "mscore-20260911-root-scut-current-min-html",
+        "mscore-20260911-root-scut-gx-2026-物理类-html",
+        "mscore-20260911-root-scut-gx-2026-历史类-html",
+        "mscore-20260911-root-scut-gx-2025-物理类-html",
+        "mscore-20260911-root-scut-gx-2025-历史类-html"
+      ],
+      "evidence": [
+        {
+          "file": "batch-root/raw/scut-query.html",
+          "sha256": "5a28a4335806ed84fb85a9bbcb2b683b6dbc01be40bf8b43ddaed446a7bb8c53",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/scut-gx-2026-物理类.html",
+          "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/scut-gx-2026-历史类.html",
+          "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/scut-gx-2025-物理类.html",
+          "sha256": "ee577f38434b45976d4f706fbbe9c949f30a28da3a0e6d5591e660c7c1ed09f9",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/scut-gx-2025-历史类.html",
+          "sha256": "17923ad2bed00435622fb68cab637c5f4007a0facb00dbb994b6a43f51864d8a",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/scut-current-min.html",
+          "sha256": "6287f0128cbf7e2eec1070912bff8b6b532cc937f5050bc084b606dab7406d36",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "10614",
+      "school": "电子科技大学",
+      "batch": "batch-root",
+      "reportedStatus": "empty-current-response",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "success-empty",
+      "fact": "2026广西普通类本部两科code200/success=true/list空；广西配置最新2025，本部与沙河分列。",
+      "positiveControlAndLimits": "2025同接口本部普通类物理15条；不能外推沙河或其他类别。",
+      "sourceIds": [
+        "mscore-20260911-root-uestc-home-html",
+        "mscore-20260911-root-uestc-query-html",
+        "mscore-20260911-root-uestc-app-js",
+        "mscore-20260911-root-uestc-lnfs-js",
+        "mscore-20260911-root-uestc-score-types-json",
+        "mscore-20260911-root-uestc-gx-2026-物理类-json",
+        "mscore-20260911-root-uestc-gx-2026-历史类-json",
+        "mscore-20260911-root-uestc-gx-2025-物理类-json"
+      ],
+      "evidence": [
+        {
+          "file": "batch-root/raw/uestc-score-types.json",
+          "sha256": "e63be09a28116893ca1f024932be13af5a2c89d472c8f198374ea5634c98c6e9",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/uestc-gx-2026-物理类.json",
+          "sha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/uestc-gx-2026-历史类.json",
+          "sha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/uestc-gx-2025-物理类.json",
+          "sha256": "8f9553b35f5b2e629423b82df0df11fcfbf941f8bb3d4fa0713285fa75bfa068",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "10611",
+      "school": "重庆大学",
+      "batch": "batch-root",
+      "reportedStatus": "entry-only-year-gap",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "business-config-error",
+      "fact": "2026配置HTTP200但业务code500/msg空；2025同接口code0且广西选项完整。",
+      "positiveControlAndLimits": "2025正向对照是配置而非专业成绩；不能声称2026查询成功零记录。",
+      "sourceIds": [
+        "mscore-20260911-root-cqu-score-entry-html",
+        "mscore-20260911-root-cqu-query-js",
+        "mscore-20260911-root-cqu-config-2026-json",
+        "mscore-20260911-root-cqu-config-2025-json"
+      ],
+      "evidence": [
+        {
+          "file": "batch-root/raw/cqu-score-entry.html",
+          "sha256": "2f4b325e495fe072b2275f8451a863420a331be4d400a1e9725af28483b7d23b",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/cqu-config-2026.json",
+          "sha256": "4194e1d0aab95694ed1b246b3f3b507e663c1ec338b916bcfb89c7c9f00affc8",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/cqu-config-2025.json",
+          "sha256": "22c14785cfbc071ebf4c45498dcf612b81b10be8b3cb0125c2c153d8556f44c0",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "10054",
+      "school": "华北电力大学(北京)",
+      "batch": "batch-root",
+      "reportedStatus": "not-found-current-major",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "prior-year-data",
+      "fact": "专业JSON1308条和院校JSON114条均year2025，广西分别43和5条；2026是JSON生成时间。",
+      "positiveControlAndLimits": "全量公开JSON含旧年广西成绩；北京入口有北京地址并另链保定，本次未审保定。",
+      "sourceIds": [
+        "mscore-20260911-root-ncepu-home-html",
+        "mscore-20260911-root-ncepu-score-entry-html",
+        "mscore-20260911-root-ncepu-query-js",
+        "mscore-20260911-root-ncepu-major-data-json",
+        "mscore-20260911-root-ncepu-all-data-json"
+      ],
+      "evidence": [
+        {
+          "file": "batch-root/raw/ncepu-home.html",
+          "sha256": "519a22961247e5ff4f289ca63e59abf7f8d7ccc085119683de90be4793a9fac6",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/ncepu-score-entry.html",
+          "sha256": "94aaeda0b94f314566ffc7ff98c4dfe4fc591935df20898ce3b422f0042430db",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/ncepu-major-data.json",
+          "sha256": "c2855bd40d90b7aed2fa2627d58bf91294df77b5cc45fb037ae01e58d6209cf4",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/ncepu-all-data.json",
+          "sha256": "e7f6ce14591c2fc86ef4a217437bacc9eda8221cbeac8198e9470a4373adddc4",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "10055",
+      "school": "南开大学",
+      "batch": "batch-root",
+      "reportedStatus": "empty-current-response",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "success-empty",
+      "fact": "主站403与独立查询站分开；2026广西本科普通批两科state1且学校/专业列表空，广西配置2025/2024。",
+      "positiveControlAndLimits": "2025同接口物理9条专业记录；普通批指定查询不能外推其他类型。",
+      "sourceIds": [
+        "mscore-20260911-root-nankai-home-html",
+        "mscore-20260911-root-nankai-score-entry-html",
+        "mscore-20260911-root-nankai-score-query-html",
+        "mscore-20260911-root-nankai-score-params-json",
+        "mscore-20260911-root-nankai-gx-2026-物理类-json",
+        "mscore-20260911-root-nankai-gx-2026-历史类-json",
+        "mscore-20260911-root-nankai-gx-2025-物理类-json"
+      ],
+      "evidence": [
+        {
+          "file": "batch-root/raw/nankai-home.html.meta.json",
+          "sha256": "66080ea1ad1f66d8017a797e5ee3bd83407bd3afad1e99cc6d5c6cba016b07db",
+          "archiveHashVerified": null
+        },
+        {
+          "file": "batch-root/raw/nankai-score-entry.html.meta.json",
+          "sha256": "a2743280b99deaf0ce6b1319f21bb04da962f35c636285fcb47fde863159089f",
+          "archiveHashVerified": null
+        },
+        {
+          "file": "batch-root/raw/nankai-score-params.json",
+          "sha256": "43c9404dd1efc9b619f70e4570d5e362ecc8b9c237d85c1a5b66cf8bb8d6a689",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/nankai-gx-2026-物理类.json",
+          "sha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/nankai-gx-2026-历史类.json",
+          "sha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/nankai-gx-2025-物理类.json",
+          "sha256": "873307c5c27b37994c52b09e9d4e45340e16b9d146f3ee51afb2a77c66c5fb72",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "10316",
+      "school": "中国药科大学",
+      "batch": "batch-root",
+      "reportedStatus": "empty-current-response",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "success-empty",
+      "fact": "前端f8省份/f7年份与请求一致；2026广西status1/result true/total0/data空。默认分数表不显示省份年。",
+      "positiveControlAndLimits": "2025同接口total30，本次第一页14条f7均2025；2026导航为计划，不是默认分数年份。",
+      "sourceIds": [
+        "mscore-20260911-root-cpu-score-page-html",
+        "mscore-20260911-root-cpu-score-query-js",
+        "mscore-20260911-root-cpu-gx-2026-json",
+        "mscore-20260911-root-cpu-gx-2025-json"
+      ],
+      "evidence": [
+        {
+          "file": "batch-root/raw/cpu-score-page.html",
+          "sha256": "8cf067f201cb6c3a486c1d616839d6efc3d9d32d46f97959c8c678b5ffa5369a",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/cpu-score-query.js",
+          "sha256": "e0e06e5b7f1b11cfb6d758a473911bd9e18fa6a98f5b66d4820129729669fc50",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/cpu-gx-2026.json",
+          "sha256": "53b3fb37123df6f908dbf61d9b15f9b5c56bc1a9920953834257172ba219b42c",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-root/raw/cpu-gx-2025.json",
+          "sha256": "5045ca738fd5cc384d5ae0bc0dbaa19cc9f72bb3392cdd0bc96e9c2fa299e438",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "12121",
+      "school": "南方医科大学",
+      "batch": "batch-b",
+      "reportedStatus": "not-found-current-major",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "business-no-data",
+      "fact": "2026广西不限定科类类别，HTTP200/业务9999/明确无数据提示/data null；公开配置无需登录或短信。",
+      "positiveControlAndLimits": "2025同接口同字段22条；此为明确业务无数据，不应计为业务成功空列表，汇总已更正。",
+      "sourceIds": [
+        "ms-20260911-b-smu-entry",
+        "ms-20260911-b-smu-query-config",
+        "ms-20260911-b-smu-gx-2025-all",
+        "ms-20260911-b-smu-gx-2026-all"
+      ],
+      "evidence": [
+        {
+          "file": "batch-b/raw/smu-entry.html",
+          "sha256": "21d953e9b4c9b776894694ad0d270d2a41f502e4a7938d0594e14b863043b5af",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/smu-query-config.json",
+          "sha256": "9ec348c4efad39a7a38f19f1aa94d58cda0a184ebc56e6c5d1922c6549ac0606",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/smu-gx-2026-all.json",
+          "sha256": "b3009b9f298b8688416c5a0fb035cfe453b00929b8da525d32a779e52a3d6167",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/smu-gx-2025-all.json",
+          "sha256": "6d5c5d7e79c0e9e4f2b06b8304451bb0857750ce835ec5a73d6deef083841c02",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "10486",
+      "school": "武汉大学",
+      "batch": "batch-b",
+      "reportedStatus": "empty-current-response",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "success-empty",
+      "fact": "修正为JSON后的配置广西最高2025；2026广西校本部、全部类别三种科类均业务成功空list。",
+      "positiveControlAndLimits": "有旧年配置正向对照，未保存2025专业成绩对照；早先form请求HTTP500不作为空记录证据。",
+      "sourceIds": [
+        "ms-20260911-b-whu-home",
+        "ms-20260911-b-whu-entry",
+        "ms-20260911-b-whu-app",
+        "ms-20260911-b-whu-types-json",
+        "ms-20260911-b-whu-gx-2026-物理类",
+        "ms-20260911-b-whu-gx-2026-历史类",
+        "ms-20260911-b-whu-gx-2026-全部"
+      ],
+      "evidence": [
+        {
+          "file": "batch-b/raw/whu-types.meta.json",
+          "sha256": "d7b1001aedb5518214ebf885f60417ba020f703286c7d02c121b0c614b49f5b9",
+          "archiveHashVerified": null
+        },
+        {
+          "file": "batch-b/raw/whu-types-json.json",
+          "sha256": "73c66cf85e65fec9582bc9fe4a5b09c3a6ca58a4774ce7248ae42c9bf2744db9",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/whu-gx-2026-物理类.json",
+          "sha256": "7866e8b2e03cead9233274304ff403b74750deff7c814787420960e283ab8cbc",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/whu-gx-2026-历史类.json",
+          "sha256": "7866e8b2e03cead9233274304ff403b74750deff7c814787420960e283ab8cbc",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/whu-gx-2026-全部.json",
+          "sha256": "7866e8b2e03cead9233274304ff403b74750deff7c814787420960e283ab8cbc",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "10699",
+      "school": "西北工业大学",
+      "batch": "batch-b",
+      "reportedStatus": "unavailable",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "http-access-error",
+      "fact": "入口元数据HTTP412；官网2026招生总结广西650/1150位次为按省全校物理汇总，无专业列。",
+      "positiveControlAndLimits": "总结可读不代表专业查询可用；本次离线仅核保存的HTTP412，未重做网页读取。",
+      "sourceIds": [
+        "ms-20260911-b-nwpu-home",
+        "ms-20260911-b-nwpu-2026-summary"
+      ],
+      "evidence": [
+        {
+          "file": "batch-b/raw/nwpu-home.meta.json",
+          "sha256": "073b5eaae807d743a6941597daf22515a1f49bcb0645d4324ea8e7b2512f5f24",
+          "archiveHashVerified": null
+        },
+        {
+          "file": "batch-b/raw/nwpu-2026-summary.html",
+          "sha256": "d7194decfdebb1aaf28465f380a2dee29b7b49aa2eb893620817426885e50732",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "10056",
+      "school": "天津大学",
+      "batch": "batch-b",
+      "reportedStatus": "empty-current-response",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "success-empty",
+      "fact": "广西配置仅2025北洋园；2026广西北洋园全部类别三种科类均success true/list和sumList空。",
+      "positiveControlAndLimits": "有旧年配置，未保存2025专业成绩正向对照；历史空响应不能推定不招历史。",
+      "sourceIds": [
+        "ms-20260911-b-tju-home",
+        "ms-20260911-b-tju-entry",
+        "ms-20260911-b-tju-app",
+        "ms-20260911-b-tju-component",
+        "ms-20260911-b-tju-types",
+        "ms-20260911-b-tju-gx-2026-物理类",
+        "ms-20260911-b-tju-gx-2026-历史类",
+        "ms-20260911-b-tju-gx-2026-全部"
+      ],
+      "evidence": [
+        {
+          "file": "batch-b/raw/tju-component.js",
+          "sha256": "eb404f14db389de0a9c3603dd1faab863654c4fe8bd0654feb9aa342cae77f8c",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/tju-types.json",
+          "sha256": "a5472f4c598f69fcbdcf92bb392e9b0de752220ac91c090ea018f936ecc2235a",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/tju-gx-2026-物理类.json",
+          "sha256": "e7817caf06679f8c8ebacc58934ca001ab78a592874195e42eaf9ffa199988e7",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/tju-gx-2026-历史类.json",
+          "sha256": "e7817caf06679f8c8ebacc58934ca001ab78a592874195e42eaf9ffa199988e7",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/tju-gx-2026-全部.json",
+          "sha256": "e7817caf06679f8c8ebacc58934ca001ab78a592874195e42eaf9ffa199988e7",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "10287",
+      "school": "南京航空航天大学",
+      "batch": "batch-b",
+      "reportedStatus": "empty-current-response",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "success-empty",
+      "fact": "前端逐专业getAdmissionScore与year/sf/kl一致；年份最高2025，2026省份及两科data空且code0/status200。",
+      "positiveControlAndLimits": "年份API为正向配置证据，未保存2025广西专业成绩对照；未用概况接口代替专业分。",
+      "sourceIds": [
+        "ms-20260911-b-nuaa-entry",
+        "ms-20260911-b-nuaa-years",
+        "ms-20260911-b-nuaa-2026-provinces",
+        "ms-20260911-b-nuaa-gx-2026-物理类",
+        "ms-20260911-b-nuaa-gx-2026-历史类"
+      ],
+      "evidence": [
+        {
+          "file": "batch-b/raw/nuaa-entry.html",
+          "sha256": "33976d3b2dd50f0f9768dfb928cc1f8834350e8b87d42af4f69d49334aa5f189",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/nuaa-years.json",
+          "sha256": "6602cee071004f366fc692648cb10451a2beb74aa535ff281fe936edeb27b9d7",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/nuaa-2026-provinces.json",
+          "sha256": "9718950855ec842892e18aa21281a8a071eb6a1bb5d442df3f9117eb04e5389a",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/nuaa-gx-2026-物理类.json",
+          "sha256": "9718950855ec842892e18aa21281a8a071eb6a1bb5d442df3f9117eb04e5389a",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/nuaa-gx-2026-历史类.json",
+          "sha256": "9718950855ec842892e18aa21281a8a071eb6a1bb5d442df3f9117eb04e5389a",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "19213",
+      "school": "哈尔滨工业大学(威海)",
+      "batch": "batch-b",
+      "reportedStatus": "empty-current-response",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "success-empty",
+      "fact": "威海2026广西年份接口code0且类别/类型/list空；本部跨校区表2026为计划，成绩列为2025/2024。",
+      "positiveControlAndLimits": "同站2025省份切换接口4条专业，非与2026同端点严格同参对照；原科类综改，19213独立于10213。",
+      "sourceIds": [
+        "ms-20260911-b-hitwh-home",
+        "ms-20260911-b-hitwh-entry",
+        "ms-20260911-b-hitwh-gx-2025-config",
+        "ms-20260911-b-hitwh-gx-2026-config",
+        "ms-20260911-b-hit-summary-gx"
+      ],
+      "evidence": [
+        {
+          "file": "batch-b/raw/hitwh-entry.html",
+          "sha256": "17f87e4c45904bcf9e7157bfb14d4bd96a613aa5d587a9e8db13b624b1485141",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/hitwh-gx-2025-config.json",
+          "sha256": "fb7ea182f61a16a881497415376184b6121f31811bdf40710312428474159d64",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/hitwh-gx-2026-config.json",
+          "sha256": "23823605692693d85cb58f2074677c931038aedd731b869a7da489dd29e201a7",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/hit-summary-gx.html",
+          "sha256": "16253131b02a4668e9874fc8f289e12943333be2adc9b934acc8855e7e60e578",
+          "archiveHashVerified": true
+        }
+      ]
+    },
+    {
+      "schoolCode": "10247",
+      "school": "同济大学",
+      "batch": "batch-b",
+      "reportedStatus": "empty-current-response",
+      "reviewStatus": "supported-within-stated-scope",
+      "responseClass": "success-empty",
+      "fact": "官方前端广西provinceCode45；2026省45不限制科类类别，isSuccess true/totalCount0/items空，年份最高2025。",
+      "positiveControlAndLimits": "有年份API正向证据，未保存2025广西专业成绩对照；只支持当次查询结果。",
+      "sourceIds": [
+        "ms-20260911-b-tongji-entry",
+        "ms-20260911-b-tongji-js-2574580",
+        "ms-20260911-b-tongji-js-373d896",
+        "ms-20260911-b-tongji-js-5e0cf47",
+        "ms-20260911-b-tongji-years",
+        "ms-20260911-b-tongji-gx-2026"
+      ],
+      "evidence": [
+        {
+          "file": "batch-b/raw/tongji-js-2574580.js",
+          "sha256": "5081e740bbf1861251e8276ed303f540b254547b70e00fd4c0b803830476b928",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/tongji-js-5e0cf47.js",
+          "sha256": "abd7e12bf81cd31b7273369dc006c7eac6f031094ec6a386cf1f85956272b5de",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/tongji-years.json",
+          "sha256": "0dde1baf7c1b10c3ec46498cc4b25fb137bf261222ebe9dc71df8935efffe0ac",
+          "archiveHashVerified": true
+        },
+        {
+          "file": "batch-b/raw/tongji-gx-2026.json",
+          "sha256": "c3f14a9738523166c88cfcb03cd2bb48d87a4908ecbeccf70b0256c27b837b11",
+          "archiveHashVerified": true
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "id": "identity-10561",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10561",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-scut-query.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-scut-gx-2026-物理类.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-scut-gx-2026-历史类.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-scut-gx-2025-物理类.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-scut-gx-2025-历史类.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-scut-current-min.html",
+      "pass": true
+    },
+    {
+      "id": "identity-10614",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10614",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-uestc-score-types.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-uestc-gx-2026-物理类.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-uestc-gx-2026-历史类.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-uestc-gx-2025-物理类.json",
+      "pass": true
+    },
+    {
+      "id": "identity-10611",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10611",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-cqu-score-entry.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-cqu-config-2026.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-cqu-config-2025.json",
+      "pass": true
+    },
+    {
+      "id": "identity-10054",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10054",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-ncepu-home.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-ncepu-score-entry.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-ncepu-major-data.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-ncepu-all-data.json",
+      "pass": true
+    },
+    {
+      "id": "identity-10055",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10055",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-nankai-score-params.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-nankai-gx-2026-物理类.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-nankai-gx-2026-历史类.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-nankai-gx-2025-物理类.json",
+      "pass": true
+    },
+    {
+      "id": "identity-10316",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10316",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-cpu-score-page.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-cpu-score-query.js",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-cpu-gx-2026.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-root-cpu-gx-2025.json",
+      "pass": true
+    },
+    {
+      "id": "identity-12121",
+      "pass": true
+    },
+    {
+      "id": "source-closure-12121",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-smu-entry.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-smu-query-config.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-smu-gx-2026-all.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-smu-gx-2025-all.json",
+      "pass": true
+    },
+    {
+      "id": "identity-10486",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10486",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-whu-types-json.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-whu-gx-2026-物理类.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-whu-gx-2026-历史类.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-whu-gx-2026-全部.json",
+      "pass": true
+    },
+    {
+      "id": "identity-10699",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10699",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-nwpu-2026-summary.html",
+      "pass": true
+    },
+    {
+      "id": "identity-10056",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10056",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-tju-component.js",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-tju-types.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-tju-gx-2026-物理类.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-tju-gx-2026-历史类.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-tju-gx-2026-全部.json",
+      "pass": true
+    },
+    {
+      "id": "identity-10287",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10287",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-nuaa-entry.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-nuaa-years.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-nuaa-2026-provinces.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-nuaa-gx-2026-物理类.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-nuaa-gx-2026-历史类.json",
+      "pass": true
+    },
+    {
+      "id": "identity-19213",
+      "pass": true
+    },
+    {
+      "id": "source-closure-19213",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-hitwh-entry.html",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-hitwh-gx-2025-config.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-hitwh-gx-2026-config.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-hit-summary-gx.html",
+      "pass": true
+    },
+    {
+      "id": "identity-10247",
+      "pass": true
+    },
+    {
+      "id": "source-closure-10247",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-tongji-js-2574580.js",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-tongji-js-5e0cf47.js",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-tongji-years.json",
+      "pass": true
+    },
+    {
+      "id": "hash-batch-b-tongji-gx-2026.json",
+      "pass": true
+    },
+    {
+      "id": "b-response-summary-corrected",
+      "pass": true
+    },
+    {
+      "id": "no-placeholder-major-rows-batch-root",
+      "pass": true
+    },
+    {
+      "id": "no-placeholder-major-rows-batch-b",
+      "pass": true
+    }
+  ],
+  "inputSnapshots": [
+    {
+      "file": "batch-root/school-audit-notes.json",
+      "sha256": "ed9a567ee82b5a4eaac6e036eb5d3a05b508c154d94d6f1af04bed8de451e4fa"
+    },
+    {
+      "file": "batch-root/sources.json",
+      "sha256": "f65dd87581174a91c319c5000b6f3d7ae5597ade23c018182075a291325d1cb0"
+    },
+    {
+      "file": "batch-root/QA.json",
+      "sha256": "b71084739462b259d0831a9a91e2d0e0a5220286b179e63d17b14464d4b72238"
+    },
+    {
+      "file": "batch-b/school-audit-notes.json",
+      "sha256": "71baa3376289ab0d3c435f388fa171f9032b1ee748322b323d2e7d2d2ca0b733"
+    },
+    {
+      "file": "batch-b/sources.json",
+      "sha256": "72ca2d65fa8f204fe26e72d2ad3ae6cec5305d52e93e6c6a274d336711a37259"
+    },
+    {
+      "file": "batch-b/QA.json",
+      "sha256": "ddb1d1b80c9e9b2cbe4e326232112d318f2db0b6f0f49369bd592f9273c4a0eb"
+    }
+  ]
+}

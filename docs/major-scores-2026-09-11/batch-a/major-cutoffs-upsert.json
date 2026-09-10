@@ -1,0 +1,2589 @@
+[
+  {
+    "id": "major26-ce260aec20628b208f4e",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "民族学",
+    "score": 611,
+    "sourceMaximumScore": 619,
+    "sourceAverageScore": 615,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 959,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "619",
+      "avgcj": "615",
+      "mincj": "611",
+      "zymc": "民族学",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "959"
+    }
+  },
+  {
+    "id": "major26-e702694e67f9e0670429",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "汉语言文学（与教育学双学位）",
+    "score": 611,
+    "sourceMaximumScore": 617,
+    "sourceAverageScore": 614,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 959,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "617",
+      "avgcj": "614",
+      "mincj": "611",
+      "zymc": "汉语言文学（与教育学双学位）",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "959"
+    }
+  },
+  {
+    "id": "major26-b10f35d244cc175d6ac5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "汉语言文学",
+    "score": 610,
+    "sourceMaximumScore": 629,
+    "sourceAverageScore": 622,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1002,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 3,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "629",
+      "avgcj": "622",
+      "mincj": "610",
+      "zymc": "汉语言文学",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1002"
+    }
+  },
+  {
+    "id": "major26-75a651a724632f29f80e",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "法学类",
+    "score": 610,
+    "sourceMaximumScore": 625,
+    "sourceAverageScore": 615,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1002,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 4,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "625",
+      "avgcj": "615",
+      "mincj": "610",
+      "zymc": "法学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1002"
+    }
+  },
+  {
+    "id": "major26-fff5b9e6c7dc76d7b35b",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "历史学",
+    "score": 610,
+    "sourceMaximumScore": 616,
+    "sourceAverageScore": 613,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1002,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 5,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "616",
+      "avgcj": "613",
+      "mincj": "610",
+      "zymc": "历史学",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1002"
+    }
+  },
+  {
+    "id": "major26-6bdcef80acc8497414da",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "经济学类",
+    "score": 607,
+    "sourceMaximumScore": 615,
+    "sourceAverageScore": 609,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1126,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 6,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "615",
+      "avgcj": "609",
+      "mincj": "607",
+      "zymc": "经济学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1126"
+    }
+  },
+  {
+    "id": "major26-950330e880634a705b6f",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "公共管理类",
+    "score": 606,
+    "sourceMaximumScore": 614,
+    "sourceAverageScore": 610,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1168,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 7,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "614",
+      "avgcj": "610",
+      "mincj": "606",
+      "zymc": "公共管理类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1168"
+    }
+  },
+  {
+    "id": "major26-bacf5f435566afec61bc",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工商管理类",
+    "score": 606,
+    "sourceMaximumScore": 611,
+    "sourceAverageScore": 608,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1168,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 8,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "611",
+      "avgcj": "608",
+      "mincj": "606",
+      "zymc": "工商管理类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1168"
+    }
+  },
+  {
+    "id": "major26-f43d06eb8e2580aa599e",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "教育学",
+    "score": 606,
+    "sourceMaximumScore": 609,
+    "sourceAverageScore": 607,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1168,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 9,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "609",
+      "avgcj": "607",
+      "mincj": "606",
+      "zymc": "教育学",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1168"
+    }
+  },
+  {
+    "id": "major26-76dafddc6bd70f341bb7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "社会学类",
+    "score": 606,
+    "sourceMaximumScore": 607,
+    "sourceAverageScore": 607,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1168,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 10,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "607",
+      "avgcj": "607",
+      "mincj": "606",
+      "zymc": "社会学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1168"
+    }
+  },
+  {
+    "id": "major26-20c8035e39638084b78e",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "汉语国际教育",
+    "score": 606,
+    "sourceMaximumScore": 607,
+    "sourceAverageScore": 606,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1168,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 11,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "607",
+      "avgcj": "606",
+      "mincj": "606",
+      "zymc": "汉语国际教育",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1168"
+    }
+  },
+  {
+    "id": "major26-a0cb5b842c8420072008",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "历史学类",
+    "score": 603,
+    "sourceMaximumScore": 604,
+    "sourceAverageScore": 604,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1298,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 12,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "604",
+      "avgcj": "604",
+      "mincj": "603",
+      "zymc": "历史学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1298"
+    }
+  },
+  {
+    "id": "major26-a61d7060883141e42e7d",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "哲学类",
+    "score": 602,
+    "sourceMaximumScore": 602,
+    "sourceAverageScore": 602,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1345,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 13,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "602",
+      "avgcj": "602",
+      "mincj": "602",
+      "zymc": "哲学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1345"
+    }
+  },
+  {
+    "id": "major26-5ad292d49c5d3fe7f615",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "新闻传播学类",
+    "score": 600,
+    "sourceMaximumScore": 608,
+    "sourceAverageScore": 603,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1455,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ]
+    },
+    "sourceRow": 14,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "608",
+      "avgcj": "603",
+      "mincj": "600",
+      "zymc": "新闻传播学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1455"
+    }
+  },
+  {
+    "id": "major26-547621ccf17ec2194dbb",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "外国语言文学类",
+    "score": 599,
+    "sourceMaximumScore": 605,
+    "sourceAverageScore": 602,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1503,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-01"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-muc-charter-2026"
+      ]
+    },
+    "sourceRow": 15,
+    "sourceTable": "2026年广西历史类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "605",
+      "avgcj": "602",
+      "mincj": "599",
+      "zymc": "外国语言文学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "1503"
+    },
+    "admissionRequirements": "应试语种为英语；当地组织外语口试的，须参加且合格。"
+  },
+  {
+    "id": "major26-20613c539139d789e9d1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工商管理类",
+    "score": 597,
+    "sourceMaximumScore": 600,
+    "sourceAverageScore": 599,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "民族班",
+    "sourceCategory": "民族班",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1632,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-36",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-36",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-36"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-36",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-36"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-muc-charter-2026"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "2026年广西历史类/民族班/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "民族班",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "600",
+      "avgcj": "599",
+      "mincj": "597",
+      "zymc": "工商管理类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "36",
+      "minwc": "1632"
+    },
+    "admissionRequirements": "民族班招生对象为少数民族考生，须符合相应招生资格。"
+  },
+  {
+    "id": "major26-f45b128069920c565c46",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "公共管理类",
+    "score": 596,
+    "sourceMaximumScore": 598,
+    "sourceAverageScore": 597,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "民族班",
+    "sourceCategory": "民族班",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 1683,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-36",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-36",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-36"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-36",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-36"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-muc-charter-2026"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "2026年广西历史类/民族班/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "民族班",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "598",
+      "avgcj": "597",
+      "mincj": "596",
+      "zymc": "公共管理类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "36",
+      "minwc": "1683"
+    },
+    "admissionRequirements": "民族班招生对象为少数民族考生，须符合相应招生资格。"
+  },
+  {
+    "id": "major26-ffc0a13a38a2628c29ae",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "中国少数民族语言文学（语言学与民族文学）",
+    "score": 590,
+    "sourceMaximumScore": 591,
+    "sourceAverageScore": 591,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "民族班",
+    "sourceCategory": "民族班",
+    "sourceTrack": "历史类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 2075,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-6-36",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-6-36",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-6-36"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-6-36",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-6-36"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-muc-charter-2026"
+      ]
+    },
+    "sourceRow": 3,
+    "sourceTable": "2026年广西历史类/民族班/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "民族班",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "591",
+      "avgcj": "591",
+      "mincj": "590",
+      "zymc": "中国少数民族语言文学（语言学与民族文学）",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "36",
+      "minwc": "2075"
+    },
+    "admissionRequirements": "民族班招生对象为少数民族考生，须符合相应招生资格。 本方向学生入学后不得申请转入其他普通类专业。"
+  },
+  {
+    "id": "major26-58b7b275102e13326969",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "计算机类",
+    "score": 618,
+    "sourceMaximumScore": 625,
+    "sourceAverageScore": 621,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 5705,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "625",
+      "avgcj": "621",
+      "mincj": "618",
+      "zymc": "计算机类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "5705"
+    }
+  },
+  {
+    "id": "major26-0f3265b7a233b676bbe6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "电子信息类",
+    "score": 617,
+    "sourceMaximumScore": 622,
+    "sourceAverageScore": 619,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 5938,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "622",
+      "avgcj": "619",
+      "mincj": "617",
+      "zymc": "电子信息类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "5938"
+    }
+  },
+  {
+    "id": "major26-0b84ca25b9c83b4b41ee",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "光电信息科学与工程",
+    "score": 617,
+    "sourceMaximumScore": 619,
+    "sourceAverageScore": 618,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 5938,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 3,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "619",
+      "avgcj": "618",
+      "mincj": "617",
+      "zymc": "光电信息科学与工程",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "5938"
+    }
+  },
+  {
+    "id": "major26-2824ef9dafc5ce47ca0b",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "信息与计算科学",
+    "score": 616,
+    "sourceMaximumScore": 619,
+    "sourceAverageScore": 618,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 6197,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 4,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "619",
+      "avgcj": "618",
+      "mincj": "616",
+      "zymc": "信息与计算科学",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "6197"
+    }
+  },
+  {
+    "id": "major26-3b122f0069339f6871dc",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "纳米材料与技术",
+    "score": 616,
+    "sourceMaximumScore": 617,
+    "sourceAverageScore": 616,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 6197,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 5,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "617",
+      "avgcj": "616",
+      "mincj": "616",
+      "zymc": "纳米材料与技术",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "6197"
+    }
+  },
+  {
+    "id": "major26-c5c6bda03a1013a4382c",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "统计学类",
+    "score": 615,
+    "sourceMaximumScore": 617,
+    "sourceAverageScore": 616,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 6443,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 6,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "617",
+      "avgcj": "616",
+      "mincj": "615",
+      "zymc": "统计学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "6443"
+    }
+  },
+  {
+    "id": "major26-c3c5142b63c381eb146b",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "生物科学类",
+    "score": 614,
+    "sourceMaximumScore": 617,
+    "sourceAverageScore": 616,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 6697,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 7,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "617",
+      "avgcj": "616",
+      "mincj": "614",
+      "zymc": "生物科学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "6697"
+    }
+  },
+  {
+    "id": "major26-0e0de52ca6edba70b9f7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "环境科学与工程类",
+    "score": 614,
+    "sourceMaximumScore": 615,
+    "sourceAverageScore": 615,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 6697,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 8,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "615",
+      "avgcj": "615",
+      "mincj": "614",
+      "zymc": "环境科学与工程类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "6697"
+    }
+  },
+  {
+    "id": "major26-ffdaae02654ea5b54eb4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "法学类",
+    "score": 606,
+    "sourceMaximumScore": 615,
+    "sourceAverageScore": 610,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 8896,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 9,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "615",
+      "avgcj": "610",
+      "mincj": "606",
+      "zymc": "法学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "8896"
+    }
+  },
+  {
+    "id": "major26-3f4af2846aa496f5e02b",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "经济学类",
+    "score": 606,
+    "sourceMaximumScore": 614,
+    "sourceAverageScore": 610,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 8896,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 10,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "614",
+      "avgcj": "610",
+      "mincj": "606",
+      "zymc": "经济学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "8896"
+    }
+  },
+  {
+    "id": "major26-eae1a1b47c3b17e6d85a",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "数字经济",
+    "score": 604,
+    "sourceMaximumScore": 608,
+    "sourceAverageScore": 606,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 9529,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 11,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "608",
+      "avgcj": "606",
+      "mincj": "604",
+      "zymc": "数字经济",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "9529"
+    }
+  },
+  {
+    "id": "major26-fca9d0ac318ede16978a",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "社会学类",
+    "score": 604,
+    "sourceMaximumScore": 604,
+    "sourceAverageScore": 604,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 9529,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 12,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "604",
+      "avgcj": "604",
+      "mincj": "604",
+      "zymc": "社会学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "9529"
+    }
+  },
+  {
+    "id": "major26-460e8461ac665740c0f6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工商管理类",
+    "score": 602,
+    "sourceMaximumScore": 606,
+    "sourceAverageScore": 604,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通本科",
+    "sourceCategory": "普通本科",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 10154,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-01",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-01",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-01"
+      ]
+    },
+    "sourceRow": 13,
+    "sourceTable": "2026年广西物理类/普通本科/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "普通本科",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "606",
+      "avgcj": "604",
+      "mincj": "602",
+      "zymc": "工商管理类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "01",
+      "minwc": "10154"
+    }
+  },
+  {
+    "id": "major26-e11282277e21f5db5e5c",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "环境科学与工程类",
+    "score": 587,
+    "sourceMaximumScore": 598,
+    "sourceAverageScore": 594,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "国家专项",
+    "sourceCategory": "国家专项",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 15560,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-04",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-04",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-04"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-04",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-04"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-muc-charter-2026"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "2026年广西物理类/国家专项/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "国家专项",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "598",
+      "avgcj": "594",
+      "mincj": "587",
+      "zymc": "环境科学与工程类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "04",
+      "minwc": "15560"
+    },
+    "admissionRequirements": "须符合国家专项招生资格，按教育部相关政策执行。"
+  },
+  {
+    "id": "major26-277bc00dfb3e353afd0c",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "数据科学与大数据技术（合作办学）",
+    "score": 588,
+    "sourceMaximumScore": 598,
+    "sourceAverageScore": 594,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "合作办学",
+    "sourceCategory": "合作办学",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 15215,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-16",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-16",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-16"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-16",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-16"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-muc-charter-2026"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "2026年广西物理类/合作办学/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。原接口类型为合作办学，章程明确为内地与港澳地区合作办学。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "合作办学",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "598",
+      "avgcj": "594",
+      "mincj": "588",
+      "zymc": "数据科学与大数据技术（合作办学）",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "16",
+      "minwc": "15215"
+    },
+    "admissionRequirements": "数据科学与大数据技术为内地与港澳地区合作办学；只录取填报该专业志愿的考生，入学后不得申请转专业。"
+  },
+  {
+    "id": "major26-8ec98c1f0e3b4dd05488",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "生物科学类",
+    "score": 602,
+    "sourceMaximumScore": 613,
+    "sourceAverageScore": 607,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "民族班",
+    "sourceCategory": "民族班",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 10154,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-36",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-36",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-36"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-36",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-36"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-muc-charter-2026"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "2026年广西物理类/民族班/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "民族班",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "613",
+      "avgcj": "607",
+      "mincj": "602",
+      "zymc": "生物科学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "36",
+      "minwc": "10154"
+    },
+    "admissionRequirements": "民族班招生对象为少数民族考生，须符合相应招生资格。"
+  },
+  {
+    "id": "major26-1e8bb52fa436147bea6c",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "环境科学与工程类",
+    "score": 600,
+    "sourceMaximumScore": 613,
+    "sourceAverageScore": 604,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制招生录取分数；章程按投档总分分专业录取并原则上认可省级加分政策（上限20分）；分数表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "民族班",
+    "sourceCategory": "民族班",
+    "sourceTrack": "物理类",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": 10818,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260911-a-muc-majors-2026-gx-7-36",
+    "sourceIds": [
+      "major-20260911-a-muc-majors-2026-gx-7-36",
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-muc-majors-2026-gx-7-36"
+      ],
+      "rank": [
+        "major-20260911-a-muc-majors-2026-gx-7-36",
+        "major-20260911-a-muc-score-entry"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-muc-charter-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-muc-majors-2026-gx-7-36"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-muc-charter-2026"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "2026年广西物理类/民族班/分专业录取情况",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "官网分专业录取情况原值；网页说明分数有小数时向下取整。未列省编专业组码、精确批次及分轮次，保留空组码和汇总轮次。",
+    "sourceRecord": {
+      "avgwc": "",
+      "zslbmc": "民族班",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "613",
+      "avgcj": "604",
+      "mincj": "600",
+      "zymc": "环境科学与工程类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "36",
+      "minwc": "10818"
+    },
+    "admissionRequirements": "民族班招生对象为少数民族考生，须符合相应招生资格。"
+  },
+  {
+    "id": "major26-ad437ad673da35a5ab59",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "16302",
+    "school": "西交利物浦大学",
+    "track": "历史",
+    "batch": "本科批（具体批次待核）",
+    "group": null,
+    "major": "工商管理类",
+    "majorType": "正式招生大类",
+    "score": 501,
+    "sourceMaximumScore": 567,
+    "sourceAverageScore": null,
+    "plannedCount": 21,
+    "admittedCount": 21,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制大类录取最低分；章程按分数优先录取，投档成绩同分时比较不含政策性加分的高考成绩等；本表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "中外合作办学",
+    "sourceCategory": "高考选拔招生",
+    "sourceTrack": "历史",
+    "sourceSubjectRequirement": "历史+不限",
+    "requirementText": "历史+不限",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": null,
+    "sourceId": "major-20260911-a-xjtlu-score-2026",
+    "sourceIds": [
+      "major-20260911-a-xjtlu-score-2026",
+      "major-20260911-a-xjtlu-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "admittedCount": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "plannedCount": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "requirementText": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "requiredSubjects": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "subjectRule": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-xjtlu-charter-2026"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-xjtlu-charter-2026"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-xjtlu-charter-2026"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "2026年分省录取数据/广西壮族自治区",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "正式招生大类最低分，不是大类内各具体专业最低分。原表招生专业组列实际填写选科组合，不能据此生成省编组码；原表未分轮次。章程确定本科批次原则，广西具体批次名称未在该表单列，暂保留待核。",
+    "admissionRequirements": "按大类填报，招生大类名称与入学后就读专业没有直接关联；完成大一第一学期后选专业，须满足课程及部分专业成绩要求。专业课程全英文教学，学校不设外语单科高考最低线。",
+    "sourceRecord": {
+      "科类": "历史",
+      "招生专业组": "历史+不限",
+      "大类": "工商管理类",
+      "计划数": "21",
+      "录取数": "21",
+      "最高分": "567",
+      "最低分": "501"
+    }
+  },
+  {
+    "id": "major26-823b232fb10544eb040a",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "16302",
+    "school": "西交利物浦大学",
+    "track": "物理",
+    "batch": "本科批（具体批次待核）",
+    "group": null,
+    "major": "金融学类",
+    "majorType": "正式招生大类",
+    "score": 532,
+    "sourceMaximumScore": 632,
+    "sourceAverageScore": null,
+    "plannedCount": 27,
+    "admittedCount": 27,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制大类录取最低分；章程按分数优先录取，投档成绩同分时比较不含政策性加分的高考成绩等；本表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "中外合作办学",
+    "sourceCategory": "高考选拔招生",
+    "sourceTrack": "物理",
+    "sourceSubjectRequirement": "物理+不限",
+    "requirementText": "物理+不限",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": null,
+    "sourceId": "major-20260911-a-xjtlu-score-2026",
+    "sourceIds": [
+      "major-20260911-a-xjtlu-score-2026",
+      "major-20260911-a-xjtlu-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "admittedCount": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "plannedCount": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "requirementText": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "requiredSubjects": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "subjectRule": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-xjtlu-charter-2026"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-xjtlu-charter-2026"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-xjtlu-charter-2026"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "2026年分省录取数据/广西壮族自治区",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "正式招生大类最低分，不是大类内各具体专业最低分。原表招生专业组列实际填写选科组合，不能据此生成省编组码；原表未分轮次。章程确定本科批次原则，广西具体批次名称未在该表单列，暂保留待核。",
+    "admissionRequirements": "按大类填报，招生大类名称与入学后就读专业没有直接关联；完成大一第一学期后选专业，须满足课程及部分专业成绩要求。专业课程全英文教学，学校不设外语单科高考最低线。",
+    "sourceRecord": {
+      "科类": "物理",
+      "招生专业组": "物理+不限",
+      "大类": "金融学类",
+      "计划数": "27",
+      "录取数": "27",
+      "最高分": "632",
+      "最低分": "532"
+    }
+  },
+  {
+    "id": "major26-013803c6ffff92adb4e7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "16302",
+    "school": "西交利物浦大学",
+    "track": "物理",
+    "batch": "本科批（具体批次待核）",
+    "group": null,
+    "major": "电子信息类",
+    "majorType": "正式招生大类",
+    "score": 531,
+    "sourceMaximumScore": 605,
+    "sourceAverageScore": null,
+    "plannedCount": 62,
+    "admittedCount": 62,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制大类录取最低分；章程按分数优先录取，投档成绩同分时比较不含政策性加分的高考成绩等；本表未单列加分处理，不声明为裸分。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "中外合作办学",
+    "sourceCategory": "高考选拔招生",
+    "sourceTrack": "物理",
+    "sourceSubjectRequirement": "物理+化学",
+    "requirementText": "物理+化学",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "rank": null,
+    "sourceId": "major-20260911-a-xjtlu-score-2026",
+    "sourceIds": [
+      "major-20260911-a-xjtlu-score-2026",
+      "major-20260911-a-xjtlu-charter-2026"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "admittedCount": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "plannedCount": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "requirementText": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "requiredSubjects": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "subjectRule": [
+        "major-20260911-a-xjtlu-score-2026"
+      ],
+      "admissionType": [
+        "major-20260911-a-xjtlu-charter-2026"
+      ],
+      "admissionRequirements": [
+        "major-20260911-a-xjtlu-charter-2026"
+      ],
+      "scoreBasis": [
+        "major-20260911-a-xjtlu-charter-2026"
+      ]
+    },
+    "sourceRow": 3,
+    "sourceTable": "2026年分省录取数据/广西壮族自治区",
+    "reviewedAt": "2026-09-11T02:10:30.339518+08:00",
+    "note": "正式招生大类最低分，不是大类内各具体专业最低分。原表招生专业组列实际填写选科组合，不能据此生成省编组码；原表未分轮次。章程确定本科批次原则，广西具体批次名称未在该表单列，暂保留待核。",
+    "admissionRequirements": "按大类填报，招生大类名称与入学后就读专业没有直接关联；完成大一第一学期后选专业，须满足课程及部分专业成绩要求。专业课程全英文教学，学校不设外语单科高考最低线。",
+    "sourceRecord": {
+      "科类": "物理",
+      "招生专业组": "物理+化学",
+      "大类": "电子信息类",
+      "计划数": "62",
+      "录取数": "62",
+      "最高分": "605",
+      "最低分": "531"
+    }
+  }
+]

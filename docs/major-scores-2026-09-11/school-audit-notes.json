@@ -1,0 +1,1336 @@
+[
+  {
+    "id": "major-score-audit-2026-0911-10610",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "status": "access-restricted",
+    "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+    "sourceIds": [
+      "major-20260911-a-scu-home-zs",
+      "major-20260911-a-scu-college-score-list",
+      "major-20260911-a-scu-score-index-current",
+      "major-20260911-a-scu-score-spa"
+    ],
+    "checkedUrls": [
+      "https://zs.scu.edu.cn/",
+      "https://cpse.scu.edu.cn/zsjy/zsxx/bkszs/lnsj.htm",
+      "https://zs.scu.edu.cn/info/1105/3314.htm",
+      "https://zjczs.scu.edu.cn/aoadmin/#/scu-enrollscorew"
+    ],
+    "recordCount": 0,
+    "note": "四川大学招生网及当前分数索引均返回HTTP 412；公开分数查询系统返回HTTP 483，正文提示访问策略禁止访问。学院可读目录链接的是截止2025年的分数统计。未取得2026广西分专业录取数据。"
+  },
+  {
+    "id": "major-score-audit-2026-0911-10698",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "schoolCode": "10698",
+    "school": "西安交通大学",
+    "status": "access-restricted",
+    "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+    "sourceIds": [
+      "major-20260911-a-xjtu-score-entry"
+    ],
+    "checkedUrls": [
+      "https://zs.xjtu.edu.cn/bkscx/lnlqcx.htm"
+    ],
+    "recordCount": 0,
+    "note": "历年录取查询URL正常GET返回HTTP 200，但正文是访问验证/网站正在加载中页面，未取得专业查询表；本次未执行或绕过验证挑战。未取得2026广西分专业录取数据。"
+  },
+  {
+    "id": "major-score-audit-2026-0911-18213",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "schoolCode": "18213",
+    "school": "哈尔滨工业大学(深圳)",
+    "status": "current-year-not-listed",
+    "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+    "sourceIds": [
+      "major-20260911-a-hitsz-home",
+      "major-20260911-a-hitsz-score-entry",
+      "major-20260911-a-hitsz-score-years"
+    ],
+    "checkedUrls": [
+      "https://zsb.hitsz.edu.cn/zs_common/bkzn/zswz?flbs=2",
+      "https://zsb.hitsz.edu.cn/zs_common/bkzn/zswz/lnfs"
+    ],
+    "recordCount": 0,
+    "note": "公开历年分数前端已读取并实际查询年份接口，仅返回2025和2024，没有2026所需的年份ID。未猜测年份ID，未提交伪造2026参数；本轮没有2026广西专业分可采。"
+  },
+  {
+    "id": "major-score-audit-2026-0911-10286",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "status": "no-current-year-records",
+    "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+    "sourceIds": [
+      "major-20260911-a-seu-gx-list",
+      "major-20260911-a-seu-score-2025",
+      "major-20260911-a-seu-progress-2026"
+    ],
+    "checkedUrls": [
+      "https://zsb.seu.edu.cn/gxzzzzq/listm.htm",
+      "https://zsb.seu.edu.cn/2026/0113/c23741a552222/pagem.htm",
+      "https://zsb.seu.edu.cn/2026/0714/c23610a576713/pagem.htm"
+    ],
+    "recordCount": 0,
+    "note": "广西官方目录的本年资料为2026招生计划；最新可读分专业录取表虽在2026-01-13发布，正文年份是2025。2026录取进度公告不列专业分。未将计划或旧年分数拼成2026记录。"
+  },
+  {
+    "id": "major-score-audit-2026-0911-10533",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "schoolCode": "10533",
+    "school": "中南大学",
+    "status": "no-current-year-records",
+    "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+    "sourceIds": [
+      "major-20260911-a-csu-score-entry",
+      "major-20260911-a-csu-score-config",
+      "major-20260911-a-csu-score-2026-history",
+      "major-20260911-a-csu-score-2026-physics"
+    ],
+    "checkedUrls": [
+      "https://zhaosheng.csu.edu.cn/lnfs/bkptl.htm",
+      "https://job-web-api.jobpi.cn/enroll/config/v2/2614?sch_school_id=21393",
+      "https://job-web-api.jobpi.cn/enroll/2614?sch_school_id=21393&page=1&page_size=9999&filter_column=%7B%22A%22%3A2026%2C%22B%22%3A%22%E5%B9%BF%E8%A5%BF%22%2C%22C%22%3A%22%E5%8E%86%E5%8F%B2%E7%B1%BB%22%7D",
+      "https://job-web-api.jobpi.cn/enroll/2614?sch_school_id=21393&page=1&page_size=9999&filter_column=%7B%22A%22%3A2026%2C%22B%22%3A%22%E5%B9%BF%E8%A5%BF%22%2C%22C%22%3A%22%E7%89%A9%E7%90%86%E7%B1%BB%22%7D"
+    ],
+    "recordCount": 0,
+    "note": "已读取本科普通类公开前端和接口配置。当前年份选项为2020至2025；使用前端公开字段分别请求2026/广西/物理类、历史类，均成功返回code=200、list=[]、total=0。没有分页遗漏或专业分入库；不能据空结果断言校方所有渠道均未发布。"
+  },
+  {
+    "id": "major-score-audit-2026-0911-10013",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "status": "access-restricted",
+    "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+    "sourceIds": [
+      "major-20260911-a-bupt-home",
+      "major-20260911-a-bupt-score-2024-entry"
+    ],
+    "checkedUrls": [
+      "https://zsb.bupt.edu.cn/",
+      "https://zsb.bupt.edu.cn/info/1003/2386.htm"
+    ],
+    "recordCount": 0,
+    "note": "本科招生网及检索发现的旧年分数公告入口均返回HTTP 412，未取得可读专业表。旧年检索条目不当作2026录取分；本轮未取得2026广西专业实际录取数据。"
+  },
+  {
+    "id": "major-score-audit-2026-0911-19246",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "schoolCode": "19246",
+    "school": "复旦大学医学院",
+    "status": "no-current-year-records",
+    "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+    "sourceIds": [
+      "major-20260911-a-fudan-score-list",
+      "major-20260911-a-fudan-score-2025",
+      "major-20260911-a-fudan-med-charter-2026"
+    ],
+    "checkedUrls": [
+      "https://ao.fudan.edu.cn/36333/list.htm",
+      "https://ao.fudan.edu.cn/b7/a6/c36333a767910/page.htm",
+      "https://news.fudan.edu.cn/2026/0528/c4a149374/page.htm"
+    ],
+    "recordCount": 0,
+    "note": "官方分数目录最新可读表为2025年分省录取分数，2026-01-21发布；表中医学院列主要为院校科类汇总，不能当作2026单专业分数。2026章程明确本部与医学院招生分别实施；本包保留医学院独立代码19246。"
+  },
+  {
+    "id": "major-score-audit-2026-0911-10052",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "status": "collected-partial",
+    "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+    "sourceIds": [
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-tracks-2026-gx",
+      "major-20260911-a-muc-types-2026-gx-6",
+      "major-20260911-a-muc-types-2026-gx-7",
+      "major-20260911-a-muc-charter-2026",
+      "major-20260911-a-muc-majors-2026-gx-6-01",
+      "major-20260911-a-muc-majors-2026-gx-6-36",
+      "major-20260911-a-muc-majors-2026-gx-7-01",
+      "major-20260911-a-muc-majors-2026-gx-7-04",
+      "major-20260911-a-muc-majors-2026-gx-7-16",
+      "major-20260911-a-muc-majors-2026-gx-7-36"
+    ],
+    "checkedUrls": [
+      "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+      "https://zb.muc.edu.cn/content/zs/93108d8f-5802-11f1-98a5-6c92bf4353bb.htm"
+    ],
+    "recordCount": 35,
+    "note": "2026广西物理/历史公开分专业接口采得35条：普通本科28、民族班5、国家专项1、合作办学1。六个科类类别响应均核对total等于rows长度，完整采集本次公开选项下的35条；体育科类未进入采集。保留专业最低分排名与资格限制；仍缺省编组码、精确批次、分轮次及录取人数，不宣称全部招生项目已覆盖。"
+  },
+  {
+    "id": "major-score-audit-2026-0911-16302",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "schoolCode": "16302",
+    "school": "西交利物浦大学",
+    "status": "collected-partial",
+    "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+    "sourceIds": [
+      "major-20260911-a-xjtlu-score-2026",
+      "major-20260911-a-xjtlu-policy-index",
+      "major-20260911-a-xjtlu-charter-2026"
+    ],
+    "checkedUrls": [
+      "https://www.xjtlu.edu.cn/zh/admissions/domestic/ug/2023luqushuju",
+      "https://www.xjtlu.edu.cn/zh/admissions/ug/domestic/admission-policy",
+      "https://www.xjtlu.edu.cn/wp-content/uploads/2026/05/8988b8e1529327ca85e0f611494aa080.pdf"
+    ],
+    "recordCount": 3,
+    "note": "2026年分省录取数据正文的广西表采得3个正式招生大类、实际录取110人（历史21、物理89）。计划数与录取数分别转录。URL含2023但当前h1为2026。学校按大类招生，大类名不等于入学后具体专业；组列是选科组合，省编组码及分轮次仍缺，具体批次名称待核。"
+  },
+  {
+    "id": "review-major-gap-12121",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "school": "南方医科大学",
+    "schoolCode": "12121",
+    "checkedAt": "2026-09-11",
+    "status": "not-found-current-major",
+    "recordCount": 0,
+    "majorScoreCount": 0,
+    "accessLimitType": "year-unavailable-and-empty-query",
+    "entryUrl": "https://portal.smu.edu.cn/bkzs/bkzn/wnfs.htm",
+    "sourceIds": [
+      "ms-20260911-b-smu-entry",
+      "ms-20260911-b-smu-query-config",
+      "ms-20260911-b-smu-gx-2025-all",
+      "ms-20260911-b-smu-gx-2026-all"
+    ],
+    "checkedUrls": [
+      "https://portal.smu.edu.cn/bkzs/bkzn/wnfs.htm",
+      "https://portal.smu.edu.cn/aop_component//webber/formquery/query/front/items/get",
+      "https://portal.smu.edu.cn/aop_component//webber/formquery/data/get/info"
+    ],
+    "availableYears": [
+      2025,
+      2024,
+      2023
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "ms-20260911-b-smu-query-config",
+        "request": {
+          "owner": "1322328145",
+          "templateCode": "Form-1682646893042-8980"
+        },
+        "status": 200
+      },
+      {
+        "sourceId": "ms-20260911-b-smu-gx-2025-all",
+        "request": {
+          "owner": "1322328145",
+          "datas": {
+            "Item-1682646893546-4802": "广西",
+            "Item-1682646893546-4308": "2025",
+            "Item-1682646893546-6882": "",
+            "Item-1682646893546-9988": ""
+          },
+          "templateCode": "Form-1682646893042-8980",
+          "current": 1,
+          "size": 10000,
+          "pageCode": "",
+          "ifRandomCode": true
+        },
+        "status": 200
+      },
+      {
+        "sourceId": "ms-20260911-b-smu-gx-2026-all",
+        "request": {
+          "owner": "1322328145",
+          "datas": {
+            "Item-1682646893546-4802": "广西",
+            "Item-1682646893546-4308": "2026",
+            "Item-1682646893546-6882": "",
+            "Item-1682646893546-9988": ""
+          },
+          "templateCode": "Form-1682646893042-8980",
+          "current": 1,
+          "size": 10000,
+          "pageCode": "",
+          "ifRandomCode": true
+        },
+        "status": 200
+      }
+    ],
+    "note": "官方往年分数入口提供2025/2024/2023。公开表单配置明确无需登录、无需短信验证码；按页面真实字段、广西、2026及不限定科类/类别查询，HTTP 200、业务码9999并明确“未查询到相关数据”。同样广西2025查询得到22条，仅作接口正向对照，不计入2026专业分。",
+    "scope": "本轮仅限列出的官方页面、配置及请求，不宣称全校全部入口均未公布。未取得实际分数不表示0分、不招生或录取尚未完成。"
+  },
+  {
+    "id": "review-major-gap-10486",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "school": "武汉大学",
+    "schoolCode": "10486",
+    "checkedAt": "2026-09-11",
+    "status": "empty-current-response",
+    "recordCount": 0,
+    "majorScoreCount": 0,
+    "accessLimitType": "year-unavailable-and-empty-query",
+    "entryUrl": "https://zsdata.whu.edu.cn/public/wzgl/#/fscx",
+    "sourceIds": [
+      "ms-20260911-b-whu-home",
+      "ms-20260911-b-whu-entry",
+      "ms-20260911-b-whu-app",
+      "ms-20260911-b-whu-types-json",
+      "ms-20260911-b-whu-gx-2026-物理类",
+      "ms-20260911-b-whu-gx-2026-历史类",
+      "ms-20260911-b-whu-gx-2026-全部"
+    ],
+    "checkedUrls": [
+      "https://zsdata.whu.edu.cn/public/wzgl/#/fscx",
+      "https://aoff.whu.edu.cn/",
+      "https://zsdata.whu.edu.cn/public/wzgl/",
+      "https://zsdata.whu.edu.cn/public/wzgl/js/app.a1258ec5.js",
+      "https://zsdata.whu.edu.cn/wzgl/wxmini/api/front/lqxx/getType",
+      "https://zsdata.whu.edu.cn/wzgl/wxmini/api/front/lqxx/getList"
+    ],
+    "availableYears": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "ms-20260911-b-whu-types-json",
+        "request": {
+          "type": "lnfs"
+        },
+        "status": 200
+      },
+      {
+        "sourceId": "ms-20260911-b-whu-gx-2026-物理类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "物理类",
+          "xqmc": "校本部"
+        },
+        "status": 200
+      },
+      {
+        "sourceId": "ms-20260911-b-whu-gx-2026-历史类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "历史类",
+          "xqmc": "校本部"
+        },
+        "status": 200
+      },
+      {
+        "sourceId": "ms-20260911-b-whu-gx-2026-全部",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "全部",
+          "xqmc": "校本部"
+        },
+        "status": 200
+      }
+    ],
+    "note": "从本校主页进入公开分数查询并读取当前前端。广西配置最新2025，物理/历史及普通、单设投档、国家专项等均无2026配置。按真实JSON参数查2026广西、校本部、全部类别，物理/历史/全部三个请求均成功返回空list。初次误用form的500已用前端JSON请求纠正，未把500当作未发布证据。",
+    "scope": "本轮仅限列出的官方页面、配置及请求，不宣称全校全部入口均未公布。未取得实际分数不表示0分、不招生或录取尚未完成。"
+  },
+  {
+    "id": "review-major-gap-10699",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "school": "西北工业大学",
+    "schoolCode": "10699",
+    "checkedAt": "2026-09-11",
+    "status": "unavailable",
+    "recordCount": 0,
+    "majorScoreCount": 0,
+    "accessLimitType": "official-entry-http-412-and-summary-not-major-level",
+    "entryUrl": "https://zsb.nwpu.edu.cn/",
+    "sourceIds": [
+      "ms-20260911-b-nwpu-home",
+      "ms-20260911-b-nwpu-2026-summary"
+    ],
+    "checkedUrls": [
+      "https://zsb.nwpu.edu.cn/",
+      "https://www.nwpu.edu.cn/info/1208/125738.htm"
+    ],
+    "availableYears": null,
+    "queryConditions": [],
+    "note": "本科招生入口直接访问和网页读取均返回HTTP 412，未取得分专业查询配置。已读学校官网2026本科招生工作总结，虽有广西650分/1150位次，但表格按省汇总全校物理类，不是具体专业或正式招生大类最低分，未导入专业线。本次尚不能判断该校其他官方入口是否已公开2026专业分。",
+    "scope": "本轮仅限列出的官方页面、配置及请求，不宣称全校全部入口均未公布。未取得实际分数不表示0分、不招生或录取尚未完成。"
+  },
+  {
+    "id": "review-major-gap-10056",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "school": "天津大学",
+    "schoolCode": "10056",
+    "checkedAt": "2026-09-11",
+    "status": "empty-current-response",
+    "recordCount": 0,
+    "majorScoreCount": 0,
+    "accessLimitType": "year-unavailable-and-empty-query",
+    "entryUrl": "https://zsdata.tju.edu.cn/zsdata/lqxx/#/lnfs",
+    "sourceIds": [
+      "ms-20260911-b-tju-home",
+      "ms-20260911-b-tju-entry",
+      "ms-20260911-b-tju-app",
+      "ms-20260911-b-tju-component",
+      "ms-20260911-b-tju-types",
+      "ms-20260911-b-tju-gx-2026-物理类",
+      "ms-20260911-b-tju-gx-2026-历史类",
+      "ms-20260911-b-tju-gx-2026-全部"
+    ],
+    "checkedUrls": [
+      "https://zsdata.tju.edu.cn/zsdata/lqxx/#/lnfs",
+      "https://zs.tju.edu.cn/",
+      "https://zsdata.tju.edu.cn/zsdata/lqxx/",
+      "https://zsdata.tju.edu.cn/zsdata/lqxx/js/app.5e99a1d9.js",
+      "https://zsdata.tju.edu.cn/zsdata/lqxx/js/lqcxjg.6cb03fa5.js",
+      "https://zsdata.tju.edu.cn/lqxx/s/api/front/lqxx/getType",
+      "https://zsdata.tju.edu.cn/lqxx/s/api/front/lqxx/getList"
+    ],
+    "availableYears": [
+      2025
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "ms-20260911-b-tju-types",
+        "request": {
+          "type": "lnfs"
+        },
+        "status": 200
+      },
+      {
+        "sourceId": "ms-20260911-b-tju-gx-2026-物理类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "物理类",
+          "xqmc": "北洋园校区"
+        },
+        "status": 200
+      },
+      {
+        "sourceId": "ms-20260911-b-tju-gx-2026-历史类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "历史类",
+          "xqmc": "北洋园校区"
+        },
+        "status": 200
+      },
+      {
+        "sourceId": "ms-20260911-b-tju-gx-2026-全部",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "全部",
+          "xqmc": "北洋园校区"
+        },
+        "status": 200
+      }
+    ],
+    "note": "从官方主页链接进入历年分数，前端明确实际API仍为/lqxx/s/。广西配置只有2025北洋园校区、物理/全部，类别含普通、国家专项、高校专项；没有2026。按2026广西、北洋园校区、全部类别查询物理/历史/全部，均HTTP 200且success=true，list和sumList为空。未把历史空结果推定为该校不招历史。",
+    "scope": "本轮仅限列出的官方页面、配置及请求，不宣称全校全部入口均未公布。未取得实际分数不表示0分、不招生或录取尚未完成。"
+  },
+  {
+    "id": "review-major-gap-10287",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "school": "南京航空航天大学",
+    "schoolCode": "10287",
+    "checkedAt": "2026-09-11",
+    "status": "empty-current-response",
+    "recordCount": 0,
+    "majorScoreCount": 0,
+    "accessLimitType": "year-unavailable-and-empty-query",
+    "entryUrl": "https://zs.nuaa.edu.cn/lnlqfs/list.psp",
+    "sourceIds": [
+      "ms-20260911-b-nuaa-entry",
+      "ms-20260911-b-nuaa-years",
+      "ms-20260911-b-nuaa-2026-provinces",
+      "ms-20260911-b-nuaa-gx-2026-物理类",
+      "ms-20260911-b-nuaa-gx-2026-历史类"
+    ],
+    "checkedUrls": [
+      "https://zs.nuaa.edu.cn/lnlqfs/list.psp",
+      "https://zsservice.nuaa.edu.cn/zsw-admin/api/admissionScore/years",
+      "https://zsservice.nuaa.edu.cn/zsw-admin/api/admissionScore/provinces?year=2026",
+      "https://zsservice.nuaa.edu.cn/zsw-admin/api/getAdmissionScore?year=2026&sf=%E5%B9%BF%E8%A5%BF&kl=%E7%89%A9%E7%90%86%E7%B1%BB",
+      "https://zsservice.nuaa.edu.cn/zsw-admin/api/getAdmissionScore?year=2026&sf=%E5%B9%BF%E8%A5%BF&kl=%E5%8E%86%E5%8F%B2%E7%B1%BB"
+    ],
+    "availableYears": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "ms-20260911-b-nuaa-gx-2026-物理类",
+        "request": {
+          "year": "2026",
+          "sf": "广西",
+          "kl": "物理类"
+        },
+        "status": 200
+      },
+      {
+        "sourceId": "ms-20260911-b-nuaa-gx-2026-历史类",
+        "request": {
+          "year": "2026",
+          "sf": "广西",
+          "kl": "历史类"
+        },
+        "status": 200
+      }
+    ],
+    "note": "当前录取分数页的公开年份API最新2025；2026可选省份为空。按前端真实year/sf/kl字段查询2026广西物理类及历史类、不限定类别，均成功返回空data。查询的是getAdmissionScore逐专业接口，没有把getAdmissionScoreOverview概况当成专业分。",
+    "scope": "本轮仅限列出的官方页面、配置及请求，不宣称全校全部入口均未公布。未取得实际分数不表示0分、不招生或录取尚未完成。"
+  },
+  {
+    "id": "review-major-gap-19213",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "school": "哈尔滨工业大学(威海)",
+    "schoolCode": "19213",
+    "checkedAt": "2026-09-11",
+    "status": "empty-current-response",
+    "recordCount": 0,
+    "majorScoreCount": 0,
+    "accessLimitType": "year-unavailable-and-empty-query",
+    "entryUrl": "https://zsb.hitwh.edu.cn/home/query/score",
+    "sourceIds": [
+      "ms-20260911-b-hitwh-home",
+      "ms-20260911-b-hitwh-entry",
+      "ms-20260911-b-hitwh-gx-2025-config",
+      "ms-20260911-b-hitwh-gx-2026-config",
+      "ms-20260911-b-hit-summary-gx"
+    ],
+    "checkedUrls": [
+      "https://zsb.hitwh.edu.cn/home/query/score",
+      "https://zsb.hitwh.edu.cn/",
+      "https://zsb.hitwh.edu.cn/api/score_qb_province",
+      "https://zsb.hitwh.edu.cn/api/score_qb_year",
+      "https://zsb.hit.edu.cn/information/summary?province=%E5%B9%BF%E8%A5%BF"
+    ],
+    "availableYears": [
+      2025,
+      2024,
+      2023
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "ms-20260911-b-hitwh-gx-2025-config",
+        "request": {
+          "year": "2025",
+          "province": "广西",
+          "category": "综改",
+          "enroll_type": "普通类"
+        },
+        "status": 200
+      },
+      {
+        "sourceId": "ms-20260911-b-hitwh-gx-2026-config",
+        "request": {
+          "year": "2026",
+          "province": "广西",
+          "category": "综改",
+          "enroll_type": "普通类"
+        },
+        "status": 200
+      }
+    ],
+    "note": "威海校区官方分数页及广西配置均只列2025/2024/2023；2026广西年份查询成功返回空类别、空招生类型及空list。原系统广西科类名为“综改”，未擅自拆成物理/历史。另核校本部官网广西三校区汇总表，2026列是计划，最高/平均/最低对应2025及2024，不能把2026计划表头误套到旧分。威海代码19213独立保留，不与10213本部混并。",
+    "scope": "本轮仅限列出的官方页面、配置及请求，不宣称全校全部入口均未公布。未取得实际分数不表示0分、不招生或录取尚未完成。"
+  },
+  {
+    "id": "review-major-gap-10247",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "school": "同济大学",
+    "schoolCode": "10247",
+    "checkedAt": "2026-09-11",
+    "status": "empty-current-response",
+    "recordCount": 0,
+    "majorScoreCount": 0,
+    "accessLimitType": "year-unavailable-and-empty-query",
+    "entryUrl": "https://bkzs.tongji.edu.cn/luqu/admission",
+    "sourceIds": [
+      "ms-20260911-b-tongji-entry",
+      "ms-20260911-b-tongji-js-2574580",
+      "ms-20260911-b-tongji-js-373d896",
+      "ms-20260911-b-tongji-js-5e0cf47",
+      "ms-20260911-b-tongji-years",
+      "ms-20260911-b-tongji-gx-2026"
+    ],
+    "checkedUrls": [
+      "https://bkzs.tongji.edu.cn/luqu/admission",
+      "https://bkzs.tongji.edu.cn/pc/2574580.js",
+      "https://bkzs.tongji.edu.cn/pc/373d896.js",
+      "https://bkzs.tongji.edu.cn/pc/5e0cf47.js",
+      "https://ag-tongji-pc.edudata.cn/youzy.youz.cc.enrolldata.enterdata.year.getall",
+      "https://ag-tongji-pc.edudata.cn/youzy.youz.cc.enrolldata.enterdata.query"
+    ],
+    "availableYears": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "ms-20260911-b-tongji-gx-2026",
+        "request": {
+          "year": 2026,
+          "provinceCode": 45,
+          "pageIndex": 1,
+          "pageSize": 50
+        },
+        "status": 200
+      }
+    ],
+    "note": "已读取同济官方前端的公开查询流程、字段和签名算法，按正常未登录请求查询。年份API最新2025；实际专业录取接口以year=2026、provinceCode=45、pageIndex=1/pageSize=50查询，isSuccess=true但totalCount=0、items=[]。请求不限定科类及类别，故空结果不是只查某一科类；未使用个人登录令牌，也未保存会话值。",
+    "scope": "本轮仅限列出的官方页面、配置及请求，不宣称全校全部入口均未公布。未取得实际分数不表示0分、不招生或录取尚未完成。"
+  },
+  {
+    "id": "major-score-review-20260911c-11319",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11319",
+    "school": "江西水利电力大学",
+    "status": "collected",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://envo.juwp.edu.cn/info/1185/6212.htm",
+    "checkedUrls": [
+      "https://envo.juwp.edu.cn/info/1185/6212.htm",
+      "https://envo.juwp.edu.cn/info/1185/6502.htm",
+      "https://envo.juwp.edu.cn/info/1186/5432.htm"
+    ],
+    "sourceIds": [
+      "major-c-20260911-juwp-gx-6212",
+      "major-c-20260911-juwp-gx-6502",
+      "major-c-20260911-juwp-charter"
+    ],
+    "importedRecordCount": 18,
+    "note": "本轮采集18条2026广西单专业实际录取最低分，所有数值逐行对应官方原表，未用学校或专业组投档线代替专业录取分。完整覆盖列明原表的广西普通高考专业行；未证明覆盖学校全年全部录取轮次。其中2条为定向培养军士，单独保留资格类别；原表位次跨行次序有不一致，rank全部留空、原值放sourceMinimumRank供核查，不参与位次比较。",
+    "evidenceGaps": [
+      "原公告未明确区分首轮与征集；不冒称首轮",
+      "专业组码未在该分数表公布",
+      "原表最低分位次跨行次序不一致，位次比较停用"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-11552",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11552",
+    "school": "四川旅游学院",
+    "status": "collected",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://www.sctu.edu.cn/zsjyc/info/1018/2267.htm",
+    "checkedUrls": [
+      "https://www.sctu.edu.cn/zsjyc/info/1018/2267.htm",
+      "https://www.sctu.edu.cn/zsjyc/info/1017/2114.htm"
+    ],
+    "sourceIds": [
+      "major-c-20260911-sctu-gx-2267",
+      "major-c-20260911-sctu-charter"
+    ],
+    "importedRecordCount": 5,
+    "note": "本轮采集5条2026广西单专业实际录取最低分，所有数值逐行对应官方原表，未用学校或专业组投档线代替专业录取分。完整覆盖列明原表的广西普通高考专业行；未证明覆盖学校全年全部录取轮次。",
+    "evidenceGaps": [
+      "原公告未明确区分首轮与征集；不冒称首轮"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-10120",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10120",
+    "school": "山西大同大学",
+    "status": "collected",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://zhs.sxdtdx.edu.cn/news-show-431.html",
+    "checkedUrls": [
+      "https://zhs.sxdtdx.edu.cn/news-show-431.html",
+      "https://zhs.sxdtdx.edu.cn/news-show-421.html"
+    ],
+    "sourceIds": [
+      "major-c-20260911-sxdt-admission",
+      "major-c-20260911-sxdt-charter"
+    ],
+    "importedRecordCount": 8,
+    "note": "本轮采集8条2026广西单专业实际录取最低分，所有数值逐行对应官方原表，未用学校或专业组投档线代替专业录取分。完整覆盖列明原表的广西普通高考专业行；未证明覆盖学校全年全部录取轮次。",
+    "evidenceGaps": [
+      "原公告未明确区分首轮与征集；不冒称首轮",
+      "专业组码未在该分数表公布",
+      "山西大同原表未提供平均分、位次和专业选科要求"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-11313",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11313",
+    "school": "福建商学院",
+    "status": "collected",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://zsb.fjbu.edu.cn/info/1121/7711.htm",
+    "checkedUrls": [
+      "https://zsb.fjbu.edu.cn/info/1121/7711.htm",
+      "https://zsb.fjbu.edu.cn/__local/6/73/99/6446D4758253177993062B3978B_A3A99843_2175D.pdf",
+      "https://zsb.fjbu.edu.cn/info/1161/7611.htm"
+    ],
+    "sourceIds": [
+      "major-c-20260911-fjbu-gx",
+      "major-c-20260911-fjbu-pdf",
+      "major-c-20260911-fjbu-charter"
+    ],
+    "importedRecordCount": 63,
+    "note": "本轮采集63条2026广西单专业实际录取最低分，所有数值逐行对应官方原表，未用学校或专业组投档线代替专业录取分。完整覆盖列明原表的广西普通高考专业行；未证明覆盖学校全年全部录取轮次。",
+    "evidenceGaps": [
+      "原公告未明确区分首轮与征集；不冒称首轮",
+      "专业组码未在该分数表公布"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-10190",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10190",
+    "school": "长春工业大学",
+    "status": "entry-only-year-gap",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://bzkzs.ccut.edu.cn/lnsfx.jsp?urltype=tree.TreeTempUrl&wbtreeid=1077",
+    "checkedUrls": [
+      "https://bzkzs.ccut.edu.cn/lnsfx.jsp?urltype=tree.TreeTempUrl&wbtreeid=1077",
+      "https://bzkzs.ccut.edu.cn/system/resource/importdata/getData.jsp?sf=",
+      "https://bzkzs.ccut.edu.cn/system/resource/importdata/getData.jsp",
+      "https://bzkzs.ccut.edu.cn/system/resource/importdata/getData.jsp",
+      "https://bzkzs.ccut.edu.cn/lnsfx.jsp?wbtreeid=1077"
+    ],
+    "sourceIds": [
+      "major-c-20260911-ccut-entry",
+      "major-c-20260911-ccut-provinces",
+      "major-c-20260911-ccut-gx-years",
+      "major-c-20260911-ccut-gx-tracks",
+      "major-c-20260911-ccut-gx-2026"
+    ],
+    "importedRecordCount": 0,
+    "note": "已按公开JS的省份/层次/年份级联接口核查：广西本科年份选项只含2025—2020；2026广西科类返回空，直接2026广西本科表单也无结果。默认页的2026吉林专业数据未入库。",
+    "evidenceGaps": [
+      "2026广西专业录取分未公开在本轮所查查询条件下"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-10684",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10684",
+    "school": "曲靖师范学院",
+    "status": "entry-only-year-gap",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://zs.qjnu.edu.cn/contents/12912/182913.html",
+    "checkedUrls": [
+      "https://zs.qjnu.edu.cn/contents/12912/182913.html",
+      "https://zs.qjnu.edu.cn/channels/12914.html"
+    ],
+    "sourceIds": [
+      "major-c-20260911-qjnu-status",
+      "major-c-20260911-qjnu-history"
+    ],
+    "importedRecordCount": 0,
+    "note": "2026进度页显示广西普通类7月21日录取结束，公告标题为无链接文本；历年分数栏目最新全日制本科分省分专业表为2025。未将录取进度或2025统计作2026专业分。",
+    "evidenceGaps": [
+      "2026广西单专业录取统计未取得"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-10636",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10636",
+    "school": "四川师范大学",
+    "status": "unavailable",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://zs.sicnu.edu.cn/SubPage.aspx?Id=2",
+    "checkedUrls": [
+      "https://zs.sicnu.edu.cn/SubPage.aspx?Id=2"
+    ],
+    "sourceIds": [
+      "major-c-20260911-sicnu-notices"
+    ],
+    "importedRecordCount": 0,
+    "note": "公开招生首页及公告栏目本轮返回WAF安全助手环境检查页；HTTPS、HTTP均未取得正文，当前无可用浏览器。搜索结果显示2026广西普通本科录取结束公告线索，但未以摘要拼接数据。",
+    "evidenceGaps": [
+      "2026广西专业原表访问受限"
+    ]
+  },
+  {
+    "id": "major-score-review-20260911c-13287",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分核查",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "13287",
+    "school": "湖州学院",
+    "status": "group-only",
+    "checkedAt": "2026-09-11T02:17:58.024856+08:00",
+    "entryUrl": "https://zsw.zjhzu.edu.cn/2026/0725/c16a43436/page.htm",
+    "checkedUrls": [
+      "https://zsw.zjhzu.edu.cn/2026/0725/c16a43436/page.htm"
+    ],
+    "sourceIds": [
+      "major-c-20260911-hzu-gx"
+    ],
+    "importedRecordCount": 0,
+    "note": "官方2026广西普通录取快讯仅给出物理/历史科类整体最高最低分，并注明正投不含征集；无单专业实际最低分，未导入该汇总数。",
+    "evidenceGaps": [
+      "单专业录取最低分缺失"
+    ]
+  },
+  {
+    "id": "review-major-20260911-root-10561",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10561",
+    "school": "华南理工大学",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分来源复查",
+    "checkedAt": "2026-09-11",
+    "status": "empty-current-response",
+    "recordCount": 0,
+    "sourceIds": [
+      "mscore-20260911-root-scut-score-entry-html",
+      "mscore-20260911-root-scut-query-html",
+      "mscore-20260911-root-scut-current-min-html",
+      "mscore-20260911-root-scut-gx-2026-物理类-html",
+      "mscore-20260911-root-scut-gx-2026-历史类-html",
+      "mscore-20260911-root-scut-gx-2025-物理类-html",
+      "mscore-20260911-root-scut-gx-2025-历史类-html"
+    ],
+    "checkedUrls": [
+      "https://admission.scut.edu.cn/30821/list.htm",
+      "https://admission.scut.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/16.rst?_p=YXM9MzQ4JnQ9MTcyMyZwPTEmbT1OJg__&mongo=false",
+      "https://admission.scut.edu.cn/lqzdfstj/list.htm",
+      "https://admission.scut.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/16.rst?_p=YXM9MzQ4JnQ9MTcyMyZwPTEmbT1OJg__&mobileTemplate=false"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-20260911-root-scut-score-entry-html",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-scut-query-html",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-scut-current-min-html",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-scut-gx-2026-物理类-html",
+        "request": {
+          "cq16s188": "2026",
+          "cq16s189": "广西",
+          "cq16s190": "普通类",
+          "cq16s191": "理工/物理类"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-scut-gx-2026-历史类-html",
+        "request": {
+          "cq16s188": "2026",
+          "cq16s189": "广西",
+          "cq16s190": "普通类",
+          "cq16s191": "文史/历史类"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-scut-gx-2025-物理类-html",
+        "request": {
+          "cq16s188": "2025",
+          "cq16s189": "广西",
+          "cq16s190": "普通类",
+          "cq16s191": "理工/物理类"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-scut-gx-2025-历史类-html",
+        "request": {
+          "cq16s188": "2025",
+          "cq16s189": "广西",
+          "cq16s190": "普通类",
+          "cq16s191": "文史/历史类"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      }
+    ],
+    "note": "官方年份菜单为2025/2024/2023；按页面实际字段分别查询2026广西普通类物理、历史，均返回“没有您想要的查询结果”，2025两科正向对照有记录。另一个最新分数公告栏目发布于2026的广西文章，实际数据年为2025。不将计划、旧年分或空结果用作2026专业最低分。",
+    "scope": "仅对本轮实际读取的官方页面和明确参数负责；未取得不表示学校未招生或所有渠道均未公布。"
+  },
+  {
+    "id": "review-major-20260911-root-10614",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10614",
+    "school": "电子科技大学",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分来源复查",
+    "checkedAt": "2026-09-11",
+    "status": "empty-current-response",
+    "recordCount": 0,
+    "sourceIds": [
+      "mscore-20260911-root-uestc-home-html",
+      "mscore-20260911-root-uestc-query-html",
+      "mscore-20260911-root-uestc-app-js",
+      "mscore-20260911-root-uestc-lnfs-js",
+      "mscore-20260911-root-uestc-score-types-json",
+      "mscore-20260911-root-uestc-gx-2026-物理类-json",
+      "mscore-20260911-root-uestc-gx-2026-历史类-json",
+      "mscore-20260911-root-uestc-gx-2025-物理类-json"
+    ],
+    "checkedUrls": [
+      "https://zs.uestc.edu.cn/",
+      "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/",
+      "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/js/app.b9fb24b1.js",
+      "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/js/lqcxjg.7ac4330b.js",
+      "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getType",
+      "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getList"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-20260911-root-uestc-home-html",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-uestc-query-html",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-uestc-app-js",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-uestc-lnfs-js",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-uestc-score-types-json",
+        "request": {
+          "type": "lnfs"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-uestc-gx-2026-物理类-json",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "普通类",
+          "klmc": "物理类",
+          "xqmc": "电子科技大学"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-uestc-gx-2026-历史类-json",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "普通类",
+          "klmc": "历史类",
+          "xqmc": "电子科技大学"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-uestc-gx-2025-物理类-json",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2025",
+          "zslb": "普通类",
+          "klmc": "物理类",
+          "xqmc": "电子科技大学"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      }
+    ],
+    "note": "当前官方公开分数菜单广西年份最高2025。按前端实际JSON字段查询2026广西普通类、本部、物理及历史，两次code200且专业列表空；2025物理正向对照有结果。校区字段已限定本部，不将沙河校区或旧年分数混入。其他资格类别的2026记录本轮未取得。",
+    "scope": "仅对本轮实际读取的官方页面和明确参数负责；未取得不表示学校未招生或所有渠道均未公布。"
+  },
+  {
+    "id": "review-major-20260911-root-10611",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10611",
+    "school": "重庆大学",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分来源复查",
+    "checkedAt": "2026-09-11",
+    "status": "entry-only-year-gap",
+    "recordCount": 0,
+    "sourceIds": [
+      "mscore-20260911-root-cqu-score-entry-html",
+      "mscore-20260911-root-cqu-query-js",
+      "mscore-20260911-root-cqu-config-2026-json",
+      "mscore-20260911-root-cqu-config-2025-json"
+    ],
+    "checkedUrls": [
+      "https://zhaosheng.cqu.edu.cn/pub/desktopend/queryadmitline",
+      "https://zhaosheng.cqu.edu.cn/pagejs/pub/desktopend/querydata/listqueryitem1.js?v=20260726",
+      "https://zhaosheng.cqu.edu.cn/pub/share/getQueryConditionByAdmitLine"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-20260911-root-cqu-score-entry-html",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-cqu-query-js",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-cqu-config-2026-json",
+        "request": {
+          "year": "2026"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-cqu-config-2025-json",
+        "request": {
+          "year": "2025"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      }
+    ],
+    "note": "官方年份菜单只有2025/2024/2023。按页面实际接口请求2026查询配置，返回应用code500且msg为空，不能建立本年专业查询；2025同接口code0且字段/广西选项完整。属于本年配置不可用的证据，不冒称2026查询成功但零录取，也不以强基综合分或全校最低分替代。",
+    "scope": "仅对本轮实际读取的官方页面和明确参数负责；未取得不表示学校未招生或所有渠道均未公布。"
+  },
+  {
+    "id": "review-major-20260911-root-10054",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10054",
+    "school": "华北电力大学(北京)",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分来源复查",
+    "checkedAt": "2026-09-11",
+    "status": "not-found-current-major",
+    "recordCount": 0,
+    "sourceIds": [
+      "mscore-20260911-root-ncepu-home-html",
+      "mscore-20260911-root-ncepu-score-entry-html",
+      "mscore-20260911-root-ncepu-query-js",
+      "mscore-20260911-root-ncepu-major-data-json",
+      "mscore-20260911-root-ncepu-all-data-json"
+    ],
+    "checkedUrls": [
+      "https://goto.ncepu.edu.cn/",
+      "https://goto.ncepu.edu.cn/wnfs/index.htm",
+      "https://goto.ncepu.edu.cn/js/json_filter_2.js?v=1788977662928",
+      "https://goto.ncepu.edu.cn/common/major_json.json",
+      "https://goto.ncepu.edu.cn/common/aii_json.json"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-20260911-root-ncepu-home-html",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-ncepu-score-entry-html",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-ncepu-query-js",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-ncepu-major-data-json",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-ncepu-all-data-json",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      }
+    ],
+    "note": "官网分数页直接读取公开JSON，全量1308条专业记录和114条院校汇总记录的数据年均为2025，其中广西分别43条和5条。JSON生成时间为2026不改变其表内年份；本轮未取得2026广西专业线。北京与保定使用独立入口及院校代码，不混用。",
+    "scope": "仅对本轮实际读取的官方页面和明确参数负责；未取得不表示学校未招生或所有渠道均未公布。"
+  },
+  {
+    "id": "review-major-20260911-root-10055",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10055",
+    "school": "南开大学",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分来源复查",
+    "checkedAt": "2026-09-11",
+    "status": "empty-current-response",
+    "recordCount": 0,
+    "sourceIds": [
+      "mscore-20260911-root-nankai-home-html",
+      "mscore-20260911-root-nankai-score-entry-html",
+      "mscore-20260911-root-nankai-score-query-html",
+      "mscore-20260911-root-nankai-score-params-json",
+      "mscore-20260911-root-nankai-gx-2026-物理类-json",
+      "mscore-20260911-root-nankai-gx-2026-历史类-json",
+      "mscore-20260911-root-nankai-gx-2025-物理类-json"
+    ],
+    "checkedUrls": [
+      "https://zsb.nankai.edu.cn/",
+      "https://zsb.nankai.edu.cn/Baokao/fenshu.html",
+      "https://lqcx.nankai.edu.cn/zsw/lnfs.html",
+      "https://lqcx.nankai.edu.cn/f/ajax_lnfs_param",
+      "https://lqcx.nankai.edu.cn/f/ajax_lnfs"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-20260911-root-nankai-home-html",
+        "request": null,
+        "httpStatus": null,
+        "accessError": "HTTP Error 403: Forbidden"
+      },
+      {
+        "sourceId": "mscore-20260911-root-nankai-score-entry-html",
+        "request": null,
+        "httpStatus": null,
+        "accessError": "HTTP Error 403: Forbidden"
+      },
+      {
+        "sourceId": "mscore-20260911-root-nankai-score-query-html",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-nankai-score-params-json",
+        "request": {},
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-nankai-gx-2026-物理类-json",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "本科普通批"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-nankai-gx-2026-历史类-json",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "本科普通批"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-nankai-gx-2025-物理类-json",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "zslx": "本科普通批"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      }
+    ],
+    "note": "招生主站直接读取403；通过官网导航的独立录取查询站正常公开会话流程已成功读取年份菜单及分数接口。广西菜单只有2025/2024，本科普通批2026物理、历史均state1且学校/专业列表为空，2025物理有正向对照。访问限制与查询结果分别记录，不用2024招生宣传附件补充2026分数。",
+    "scope": "仅对本轮实际读取的官方页面和明确参数负责；未取得不表示学校未招生或所有渠道均未公布。"
+  },
+  {
+    "id": "review-major-20260911-root-10316",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10316",
+    "school": "中国药科大学",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分来源复查",
+    "checkedAt": "2026-09-11",
+    "status": "empty-current-response",
+    "recordCount": 0,
+    "sourceIds": [
+      "mscore-20260911-root-cpu-score-page-html",
+      "mscore-20260911-root-cpu-score-query-js",
+      "mscore-20260911-root-cpu-gx-2026-json",
+      "mscore-20260911-root-cpu-gx-2025-json"
+    ],
+    "checkedUrls": [
+      "https://zb.cpu.edu.cn/fs/listm.htm",
+      "https://zb.cpu.edu.cn/_upload/tpl/03/37/823/template823/search_lqfs.js",
+      "https://zb.cpu.edu.cn/_wp3services/generalQuery?queryObj=articles"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-20260911-root-cpu-score-page-html",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-cpu-score-query-js",
+        "request": null,
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-cpu-gx-2026-json",
+        "request": {
+          "siteId": 225,
+          "columnId": 10209,
+          "pageIndex": 1,
+          "rows": 14,
+          "orders": "[]",
+          "returnInfos": "[{\"name\": \"f1\"}, {\"name\": \"f2\"}, {\"name\": \"f3\"}, {\"name\": \"f4\"}, {\"name\": \"f5\"}, {\"name\": \"f6\"}, {\"name\": \"f7\"}, {\"name\": \"f10\"}, {\"name\": \"f9\"}]",
+          "conditions": "[{\"orConditions\": [{\"field\": \"f8\", \"value\": \"广西\", \"judge\": \"=\"}]}, {\"orConditions\": [{\"field\": \"f7\", \"value\": \"2026\", \"judge\": \"=\"}]}]"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      },
+      {
+        "sourceId": "mscore-20260911-root-cpu-gx-2025-json",
+        "request": {
+          "siteId": 225,
+          "columnId": 10209,
+          "pageIndex": 1,
+          "rows": 14,
+          "orders": "[]",
+          "returnInfos": "[{\"name\": \"f1\"}, {\"name\": \"f2\"}, {\"name\": \"f3\"}, {\"name\": \"f4\"}, {\"name\": \"f5\"}, {\"name\": \"f6\"}, {\"name\": \"f7\"}, {\"name\": \"f10\"}, {\"name\": \"f9\"}]",
+          "conditions": "[{\"orConditions\": [{\"field\": \"f8\", \"value\": \"广西\", \"judge\": \"=\"}]}, {\"orConditions\": [{\"field\": \"f7\", \"value\": \"2025\", \"judge\": \"=\"}]}]"
+        },
+        "httpStatus": 200,
+        "accessError": null
+      }
+    ],
+    "note": "官方年份选项最新2025；按页面查询脚本的省份f8=广西、年份f7=2026请求，成功响应但total0/data空，2025广西正向对照有结果。默认分数表未展示年份和省份，不能因页面导航写2026招生计划而将默认表中的专业分误标为2026广西。",
+    "scope": "仅对本轮实际读取的官方页面和明确参数负责；未取得不表示学校未招生或所有渠道均未公布。"
+  }
+]

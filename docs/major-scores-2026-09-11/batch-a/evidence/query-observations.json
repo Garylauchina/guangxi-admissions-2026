@@ -1,0 +1,80 @@
+{
+  "hitsz": {
+    "exposedYears": [
+      2025,
+      2024
+    ],
+    "requested2026Majors": false,
+    "reason": "前端没有2026所需年份ID，不猜测。",
+    "sourceIds": [
+      "major-20260911-a-hitsz-score-entry",
+      "major-20260911-a-hitsz-score-years"
+    ]
+  },
+  "csu": {
+    "exposedYears": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "filterColumns": {
+      "A": "年份--80",
+      "B": "省份--80",
+      "C": "科类--120"
+    },
+    "queries": [
+      {
+        "year": 2026,
+        "province": "广西",
+        "track": "历史类",
+        "total": 0
+      },
+      {
+        "year": 2026,
+        "province": "广西",
+        "track": "物理类",
+        "total": 0
+      }
+    ],
+    "sourceIds": [
+      "major-20260911-a-csu-score-config",
+      "major-20260911-a-csu-score-2026-history",
+      "major-20260911-a-csu-score-2026-physics"
+    ]
+  },
+  "muc": {
+    "year": 2026,
+    "province": "广西",
+    "trackCodes": [
+      "6",
+      "7"
+    ],
+    "excludedTrack": {
+      "code": "12",
+      "label": "体育类（物理类）",
+      "queriedMajors": false
+    },
+    "pagination": "前端无分页参数；六个响应total均等于rows长度。",
+    "sourceIds": [
+      "major-20260911-a-muc-score-entry",
+      "major-20260911-a-muc-tracks-2026-gx"
+    ]
+  },
+  "yearBoundary": {
+    "seu": {
+      "publicationYear": 2026,
+      "scoreYear": 2025
+    },
+    "fudan": {
+      "publicationYear": 2026,
+      "scoreYear": 2025
+    },
+    "xjtlu": {
+      "urlContains": "2023",
+      "pageTitleYear": 2026
+    }
+  }
+}

@@ -8,6 +8,14 @@ export function specialLabel(row) {
 }
 export const schoolKey = name => (name || '').replace(/[（）()\s]/g, '');
 export const recordSourceIds = row => [...new Set([...(row.sourceIds || []), ...(row.sourceId ? [row.sourceId] : []), ...Object.values(row.fieldSourceIds || {}).flat()])];
+const reviewDateFormat = new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'});
+export function reviewDate(value) {
+  if (!value) return '';
+  if (/^\d{4}-\d{2}-\d{2}$/.test(value)) return value;
+  const date = new Date(value);
+  if (!Number.isFinite(date.getTime())) return '';
+  return reviewDateFormat.format(date);
+}
 export function exactGroupKey(row) {
   return row.year && row.schoolCode && row.school && row.group && row.track && row.batch ? [row.year, String(row.schoolCode), schoolKey(row.school), row.track, row.batch, String(row.group)].join('|') : null;
 }

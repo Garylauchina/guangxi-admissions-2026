@@ -1,0 +1,52 @@
+[
+  {
+    "id": "smu-gx-2025-all",
+    "schoolCode": "12121",
+    "url": "https://portal.smu.edu.cn/aop_component//webber/formquery/data/get/info",
+    "data": {
+      "owner": "1322328145",
+      "datas": {
+        "Item-1682646893546-4802": "广西",
+        "Item-1682646893546-4308": "2025",
+        "Item-1682646893546-6882": "",
+        "Item-1682646893546-9988": ""
+      },
+      "templateCode": "Form-1682646893042-8980",
+      "current": 1,
+      "size": 10000,
+      "pageCode": "",
+      "ifRandomCode": true
+    },
+    "encoding": "json",
+    "publicHeaders": {
+      "Authorization": "tourist",
+      "owner": "1322328145"
+    },
+    "note": "前端query配置msgCode=N和needLogin=N；未使用验证码或登录会话；空科类和类别按前端初始化不限制查询。"
+  },
+  {
+    "id": "smu-gx-2026-all",
+    "schoolCode": "12121",
+    "url": "https://portal.smu.edu.cn/aop_component//webber/formquery/data/get/info",
+    "data": {
+      "owner": "1322328145",
+      "datas": {
+        "Item-1682646893546-4802": "广西",
+        "Item-1682646893546-4308": "2026",
+        "Item-1682646893546-6882": "",
+        "Item-1682646893546-9988": ""
+      },
+      "templateCode": "Form-1682646893042-8980",
+      "current": 1,
+      "size": 10000,
+      "pageCode": "",
+      "ifRandomCode": true
+    },
+    "encoding": "json",
+    "publicHeaders": {
+      "Authorization": "tourist",
+      "owner": "1322328145"
+    },
+    "note": "前端query配置msgCode=N和needLogin=N；未使用验证码或登录会话；空科类和类别按前端初始化不限制查询。"
+  }
+]

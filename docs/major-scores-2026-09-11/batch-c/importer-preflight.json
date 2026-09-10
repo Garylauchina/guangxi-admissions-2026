@@ -1,0 +1,480 @@
+{
+  "before": 816,
+  "after": 910,
+  "added": 94,
+  "updated": 0,
+  "schoolCodes": 21,
+  "pending": 3,
+  "changes": [
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-2",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-3",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-4",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-5",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-6",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-7",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-8",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-9",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-10",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-11",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-12",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-13",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-14",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-15",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-16",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6212-2-17",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6502-2-2",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11319-juwp-gx-6502-2-3",
+      "school": "江西水利电力大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11552-sctu-gx-2267-1-2",
+      "school": "四川旅游学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11552-sctu-gx-2267-1-3",
+      "school": "四川旅游学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11552-sctu-gx-2267-1-4",
+      "school": "四川旅游学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11552-sctu-gx-2267-1-5",
+      "school": "四川旅游学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11552-sctu-gx-2267-1-6",
+      "school": "四川旅游学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-10120-sxdt-admission-1-2",
+      "school": "山西大同大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-10120-sxdt-admission-1-3",
+      "school": "山西大同大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-10120-sxdt-admission-1-4",
+      "school": "山西大同大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-10120-sxdt-admission-1-5",
+      "school": "山西大同大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-10120-sxdt-admission-1-6",
+      "school": "山西大同大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-10120-sxdt-admission-1-7",
+      "school": "山西大同大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-10120-sxdt-admission-1-8",
+      "school": "山西大同大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-10120-sxdt-admission-1-9",
+      "school": "山西大同大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-1",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-2",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-3",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-4",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-5",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-6",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-7",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-8",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-9",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-10",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-11",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-12",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-13",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-14",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-15",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-16",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-17",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-18",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-19",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-20",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-21",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-22",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-23",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-24",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-25",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-26",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-27",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-28",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-29",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-30",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-31",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-32",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-33",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-34",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-35",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-36",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-37",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-38",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-39",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-40",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-41",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-42",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-1-43",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-44",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-45",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-46",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-47",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-48",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-49",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-50",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-51",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-52",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-53",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-54",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-55",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-56",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-57",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-58",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-59",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-60",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-61",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-62",
+      "school": "福建商学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0911c-11313-fjbu-pdf-2-63",
+      "school": "福建商学院",
+      "action": "add"
+    }
+  ]
+}

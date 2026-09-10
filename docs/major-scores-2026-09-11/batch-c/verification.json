@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "sourceCellChecks": 564,
+  "recordCount": 94,
+  "newSchools": 4,
+  "ordinaryRows": 90,
+  "cooperationRows": 2,
+  "militaryDirectedRows": 2,
+  "baselineMajorScoreCount": 816,
+  "excludedExistingSchools": 17,
+  "excludedTopTargetSchools": 20,
+  "allSourceArchiveHashes": "passed",
+  "allFieldSourceReferences": "passed",
+  "unknownGroupsRemainNull": 89,
+  "allUnknownRoundsExplicit": 94,
+  "unreliableRanksDisabled": 18,
+  "publicJsonNoSessionFields": "passed"
+}

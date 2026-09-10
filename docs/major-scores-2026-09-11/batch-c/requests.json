@@ -1,0 +1,159 @@
+[
+  [
+    "ccut-entry",
+    "https://bzkzs.ccut.edu.cn/lnsfx.jsp?urltype=tree.TreeTempUrl&wbtreeid=1077"
+  ],
+  [
+    "ccut-gx-2026",
+    "https://bzkzs.ccut.edu.cn/lnsfx.jsp?wbtreeid=1077",
+    {
+      "sf": "广西",
+      "cc": "本科",
+      "nf": "2026",
+      "kl": "",
+      "zy": ""
+    }
+  ],
+  [
+    "qjnu-status",
+    "https://zs.qjnu.edu.cn/contents/12912/182913.html"
+  ],
+  [
+    "ccut-provinces",
+    "https://bzkzs.ccut.edu.cn/system/resource/importdata/getData.jsp?sf=",
+    {
+      "code_root_dm": "sf",
+      "siteName": "1731311923",
+      "templateid": "1"
+    }
+  ],
+  [
+    "juwp-entry",
+    "https://envo.juwp.edu.cn/"
+  ],
+  [
+    "juwp-oldentry",
+    "https://envo.nit.edu.cn/"
+  ],
+  [
+    "qjnu-history",
+    "https://zs.qjnu.edu.cn/channels/12914.html"
+  ],
+  [
+    "ccut-gx-years",
+    "https://bzkzs.ccut.edu.cn/system/resource/importdata/getData.jsp",
+    {
+      "parentCode": "sf,cc",
+      "parentValue": "广西,本科",
+      "code_root_dm": "nf",
+      "siteName": "1731311923",
+      "templateid": "1"
+    }
+  ],
+  [
+    "ccut-gx-tracks",
+    "https://bzkzs.ccut.edu.cn/system/resource/importdata/getData.jsp",
+    {
+      "parentCode": "sf,cc,nf",
+      "parentValue": "广西,本科,2026",
+      "code_root_dm": "kl",
+      "siteName": "1731311923",
+      "templateid": "1"
+    }
+  ],
+  [
+    "ccut-gx-physics",
+    "https://bzkzs.ccut.edu.cn/lnsfx.jsp?wbtreeid=1077",
+    {
+      "sf": "广西",
+      "cc": "本科",
+      "nf": "2026",
+      "kl": "物理类",
+      "zy": ""
+    }
+  ],
+  [
+    "juwp-notices",
+    "https://envo.juwp.edu.cn/index/tzgg.htm"
+  ],
+  [
+    "sctu-notices",
+    "https://www.sctu.edu.cn/zsjyc/"
+  ],
+  [
+    "sicnu-entry",
+    "https://zs.sicnu.edu.cn/"
+  ],
+  [
+    "juwp-notices-55",
+    "https://envo.juwp.edu.cn/index/tzgg/55.htm"
+  ],
+  [
+    "juwp-notices-54",
+    "https://envo.juwp.edu.cn/index/tzgg/54.htm"
+  ],
+  [
+    "juwp-notices-53",
+    "https://envo.juwp.edu.cn/index/tzgg/53.htm"
+  ],
+  [
+    "juwp-notices-52",
+    "https://envo.juwp.edu.cn/index/tzgg/52.htm"
+  ],
+  [
+    "sctu-news",
+    "https://www.sctu.edu.cn/zsjyc/zsxx/zsdt.htm"
+  ],
+  [
+    "juwp-gx-6502",
+    "https://envo.juwp.edu.cn/info/1185/6502.htm"
+  ],
+  [
+    "juwp-gx-6212",
+    "https://envo.juwp.edu.cn/info/1185/6212.htm"
+  ],
+  [
+    "sctu-gx-2267",
+    "https://www.sctu.edu.cn/zsjyc/info/1018/2267.htm"
+  ],
+  [
+    "sicnu-notices",
+    "https://zs.sicnu.edu.cn/SubPage.aspx?Id=2"
+  ],
+  [
+    "sicnu-http",
+    "http://zs.sicnu.edu.cn/SubPage.aspx?Id=2"
+  ],
+  [
+    "juwp-charter",
+    "https://envo.juwp.edu.cn/info/1186/5432.htm"
+  ],
+  [
+    "sxdt-admission",
+    "https://zhs.sxdtdx.edu.cn/news-show-431.html"
+  ],
+  [
+    "hzu-gx",
+    "https://zsw.zjhzu.edu.cn/2026/0725/c16a43436/page.htm"
+  ],
+  [
+    "fjbu-gx",
+    "https://zsb.fjbu.edu.cn/info/1121/7711.htm"
+  ],
+  [
+    "fjbu-pdf",
+    "https://zsb.fjbu.edu.cn/__local/6/73/99/6446D4758253177993062B3978B_A3A99843_2175D.pdf"
+  ],
+  [
+    "sctu-charter",
+    "https://www.sctu.edu.cn/zsjyc/info/1017/2114.htm"
+  ],
+  [
+    "fjbu-charter",
+    "https://zsb.fjbu.edu.cn/info/1161/7611.htm"
+  ],
+  [
+    "sxdt-charter",
+    "https://zhs.sxdtdx.edu.cn/news-show-421.html"
+  ]
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "whu-entry",
+    "schoolCode": "10486",
+    "url": "https://zsdata.whu.edu.cn/public/wzgl/"
+  },
+  {
+    "id": "tju-entry",
+    "schoolCode": "10056",
+    "url": "https://zsdata.tju.edu.cn/zsdata/lqxx/"
+  },
+  {
+    "id": "hitwh-entry",
+    "schoolCode": "19213",
+    "url": "https://zsb.hitwh.edu.cn/home/query/score"
+  },
+  {
+    "id": "nuaa-app",
+    "schoolCode": "10287",
+    "url": "https://zs.nuaa.edu.cn/_upload/tpl/09/45/2373/template2373/js/app.js"
+  },
+  {
+    "id": "nuaa-list",
+    "schoolCode": "10287",
+    "url": "https://zs.nuaa.edu.cn/_upload/tpl/09/45/2373/template2373/js/list.js"
+  },
+  {
+    "id": "tongji-js-1d4e132",
+    "schoolCode": "10247",
+    "url": "https://bkzs.tongji.edu.cn/pc/1d4e132.js"
+  },
+  {
+    "id": "tongji-js-c110f20",
+    "schoolCode": "10247",
+    "url": "https://bkzs.tongji.edu.cn/pc/c110f20.js"
+  },
+  {
+    "id": "tongji-js-2574580",
+    "schoolCode": "10247",
+    "url": "https://bkzs.tongji.edu.cn/pc/2574580.js"
+  },
+  {
+    "id": "tongji-js-14b2303",
+    "schoolCode": "10247",
+    "url": "https://bkzs.tongji.edu.cn/pc/14b2303.js"
+  },
+  {
+    "id": "tongji-js-652814e",
+    "schoolCode": "10247",
+    "url": "https://bkzs.tongji.edu.cn/pc/652814e.js"
+  },
+  {
+    "id": "tongji-js-e14cf43",
+    "schoolCode": "10247",
+    "url": "https://bkzs.tongji.edu.cn/pc/e14cf43.js"
+  },
+  {
+    "id": "tongji-js-8dffa81",
+    "schoolCode": "10247",
+    "url": "https://bkzs.tongji.edu.cn/pc/8dffa81.js"
+  },
+  {
+    "id": "tongji-js-77c07d0",
+    "schoolCode": "10247",
+    "url": "https://bkzs.tongji.edu.cn/pc/77c07d0.js"
+  },
+  {
+    "id": "tongji-js-373d896",
+    "schoolCode": "10247",
+    "url": "https://bkzs.tongji.edu.cn/pc/373d896.js"
+  },
+  {
+    "id": "tongji-js-5e0cf47",
+    "schoolCode": "10247",
+    "url": "https://bkzs.tongji.edu.cn/pc/5e0cf47.js"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "files": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "QA.json",
+    "README.md",
+    "collect.py",
+    "build.py",
+    "tongji_public.py",
+    "requests.json",
+    "requests-2.json",
+    "requests-3.json",
+    "requests-4.json",
+    "requests-5.json",
+    "requests-6.json",
+    "requests-7.json",
+    "requests-8.json",
+    "PUBLIC-FILES.json"
+  ],
+  "excluded": [
+    "raw/**",
+    "__pycache__/**"
+  ],
+  "note": "仅白名单可公开。Authorization=tourist是学校前端公开访客常量，不是登录令牌；未保存Cookie、用户令牌或会话签名值。"
+}

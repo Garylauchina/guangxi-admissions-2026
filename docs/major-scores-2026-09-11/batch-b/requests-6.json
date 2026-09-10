@@ -1,0 +1,25 @@
+[
+  {
+    "id": "whu-types-json",
+    "schoolCode": "10486",
+    "url": "https://zsdata.whu.edu.cn/wzgl/wxmini/api/front/lqxx/getType",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "smu-query-config",
+    "schoolCode": "12121",
+    "url": "https://portal.smu.edu.cn/aop_component//webber/formquery/query/front/items/get",
+    "data": {
+      "owner": "1322328145",
+      "templateCode": "Form-1682646893042-8980"
+    },
+    "encoding": "json",
+    "publicHeaders": {
+      "Authorization": "tourist",
+      "owner": "1322328145"
+    }
+  }
+]

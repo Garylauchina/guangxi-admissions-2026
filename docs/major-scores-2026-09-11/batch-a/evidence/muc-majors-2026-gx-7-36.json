@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "errorCode": 0,
+  "message": "",
+  "rows": [
+    {
+      "avgwc": "",
+      "zslbmc": "民族班",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "613",
+      "avgcj": "607",
+      "mincj": "602",
+      "zymc": "生物科学类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "36",
+      "minwc": "10154"
+    },
+    {
+      "avgwc": "",
+      "zslbmc": "民族班",
+      "year": 2026,
+      "klmc": "物理类",
+      "maxcj": "613",
+      "avgcj": "604",
+      "mincj": "600",
+      "zymc": "环境科学与工程类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "36",
+      "minwc": "10818"
+    }
+  ],
+  "total": 2
+}

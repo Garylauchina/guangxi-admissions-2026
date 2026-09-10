@@ -1,0 +1,4 @@
+from fetch import fetch
+from concurrent.futures import ThreadPoolExecutor
+JOBS=[('uestc-lnfs.js','https://chaxun.uestc.edu.cn/public/zsdata/lqxx/js/lqcxjg.7ac4330b.js'),('scut-query.html','https://admission.scut.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/16.rst?_p=YXM9MzQ4JnQ9MTcyMyZwPTEmbT1OJg__&mongo=false'),('uestc-app.js','https://chaxun.uestc.edu.cn/public/zsdata/lqxx/js/app.b9fb24b1.js'),('cqu-query.js','https://zhaosheng.cqu.edu.cn/pagejs/pub/desktopend/querydata/listqueryitem1.js?v=20260726'),('ncepu-major-data.json','https://goto.ncepu.edu.cn/common/major_json.json'),('ncepu-all-data.json','https://goto.ncepu.edu.cn/common/aii_json.json'),('ncepu-query.js','https://goto.ncepu.edu.cn/js/json_filter_2.js?v=1788977662928'),('nankai-score-query.html','https://lqcx.nankai.edu.cn/zsw/lnfs.html')]
+with ThreadPoolExecutor(max_workers=4) as p:list(p.map(lambda j:fetch(*j),JOBS))

@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "errorCode": 0,
+  "message": "",
+  "rows": [
+    {
+      "lxmc": "普通本科",
+      "lxdm": "01"
+    },
+    {
+      "lxmc": "国家专项",
+      "lxdm": "04"
+    },
+    {
+      "lxmc": "合作办学",
+      "lxdm": "16"
+    },
+    {
+      "lxmc": "民族班",
+      "lxdm": "36"
+    }
+  ],
+  "total": 4
+}

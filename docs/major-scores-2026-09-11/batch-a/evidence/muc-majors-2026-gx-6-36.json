@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "errorCode": 0,
+  "message": "",
+  "rows": [
+    {
+      "avgwc": "",
+      "zslbmc": "民族班",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "600",
+      "avgcj": "599",
+      "mincj": "597",
+      "zymc": "工商管理类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "36",
+      "minwc": "1632"
+    },
+    {
+      "avgwc": "",
+      "zslbmc": "民族班",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "598",
+      "avgcj": "597",
+      "mincj": "596",
+      "zymc": "公共管理类",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "36",
+      "minwc": "1683"
+    },
+    {
+      "avgwc": "",
+      "zslbmc": "民族班",
+      "year": 2026,
+      "klmc": "历史类",
+      "maxcj": "591",
+      "avgcj": "591",
+      "mincj": "590",
+      "zymc": "中国少数民族语言文学（语言学与民族文学）",
+      "sfmc": "广西",
+      "maxwc": "",
+      "zslbdm": "36",
+      "minwc": "2075"
+    }
+  ],
+  "total": 3
+}

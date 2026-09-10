@@ -1,0 +1,13 @@
+{
+  "publicFiles": [
+    "gap-review.md",
+    "QA.json",
+    "build_review.py",
+    "PUBLIC-FILES.json"
+  ],
+  "excluded": [
+    "../batch-root/raw/**",
+    "../batch-b/raw/**"
+  ],
+  "note": "脚本只读本地已有证据，不联网；输出仅事实和哈希。"
+}

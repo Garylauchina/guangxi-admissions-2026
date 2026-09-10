@@ -1,0 +1,39 @@
+[
+  {
+    "id": "whu-app",
+    "schoolCode": "10486",
+    "url": "https://zsdata.whu.edu.cn/public/wzgl/js/app.a1258ec5.js"
+  },
+  {
+    "id": "tju-app",
+    "schoolCode": "10056",
+    "url": "https://zsdata.tju.edu.cn/zsdata/lqxx/js/app.5e99a1d9.js"
+  },
+  {
+    "id": "tju-component",
+    "schoolCode": "10056",
+    "url": "https://zsdata.tju.edu.cn/zsdata/lqxx/js/lqcxjg.6cb03fa5.js"
+  },
+  {
+    "id": "hitwh-gx-2025-config",
+    "schoolCode": "19213",
+    "url": "https://zsb.hitwh.edu.cn/api/score_qb_province",
+    "data": {
+      "year": "2025",
+      "province": "广西",
+      "category": "综改",
+      "enroll_type": "普通类"
+    }
+  },
+  {
+    "id": "hitwh-gx-2026-config",
+    "schoolCode": "19213",
+    "url": "https://zsb.hitwh.edu.cn/api/score_qb_year",
+    "data": {
+      "year": "2026",
+      "province": "广西",
+      "category": "综改",
+      "enroll_type": "普通类"
+    }
+  }
+]
