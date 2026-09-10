@@ -1,0 +1,578 @@
+[
+  {
+    "id": "major26-root-zjiet-1-历史",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "历史",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "电子商务",
+    "score": 435,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 435,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 1,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-2-物理",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "物理",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "食品检验检测技术",
+    "score": 403,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 403,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 1,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 2,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-3-物理",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "物理",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "食品营养与健康",
+    "score": 421,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 421,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 1,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 3,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-4-历史",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "历史",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "市场营销",
+    "score": 424,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 435,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 2,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 4,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-5-历史",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "历史",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "现代物流管理",
+    "score": 424,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 424,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 2,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 5,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-5-物理",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "物理",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "现代物流管理",
+    "score": 414,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 427,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 2,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 5,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-6-历史",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "历史",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "应用英语",
+    "score": 424,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 443,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 3,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 6,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-6-物理",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "物理",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "应用英语",
+    "score": 402,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 417,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 3,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 6,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-7-历史",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "历史",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "跨境电子商务",
+    "score": 427,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 427,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 1,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 7,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-7-物理",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "物理",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "跨境电子商务",
+    "score": 443,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 443,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 1,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 7,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-8-历史",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "历史",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "金融科技应用",
+    "score": 419,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 419,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 1,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 8,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  },
+  {
+    "id": "major26-root-zjiet-9-物理",
+    "year": 2026,
+    "province": "广西",
+    "school": "浙江经贸职业技术学院",
+    "schoolCode": "12864",
+    "track": "物理",
+    "batch": "高职高专（批次待核）",
+    "group": null,
+    "major": "会展策划与管理",
+    "score": 402,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 440,
+    "sourceAverageScore": null,
+    "plannedCount": null,
+    "admittedCount": 2,
+    "rank": null,
+    "rankType": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceId": "major-score-root-zjiet-page",
+    "sourceIds": [
+      "major-score-root-zjiet-table"
+    ],
+    "sourceRow": 9,
+    "sourceTable": "广西专业录取情况图表（行号不含表头）",
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33315",
+        "gxeea-2026-33316"
+      ],
+      "score": [
+        "major-score-root-zjiet-table"
+      ],
+      "admittedCount": [
+        "major-score-root-zjiet-table"
+      ]
+    },
+    "note": "官方图表仅列实际录取数与最高、最低分，未列计划人数、广西专业组代码和录取轮次；批次也未单列，保持待核。加分处理未在本表单独说明，以学校录取口径为准。",
+    "reviewedAt": "2026-09-10",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": []
+  }
+]

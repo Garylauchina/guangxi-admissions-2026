@@ -1,0 +1,3606 @@
+[
+  {
+    "id": "major-2026-c-glmu-2daf81af3bd1b696",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "450",
+    "major": "临床医学(定向医学生,柳州市柳城县)",
+    "score": 553,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 559,
+    "sourceAverageScore": 555.33,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.641416+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-6e37633dfb6e1660",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "450",
+    "major": "临床医学(定向医学生,柳州市柳江区)",
+    "score": 516,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 543,
+    "sourceAverageScore": 530.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.641416+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-7c8e2361eea7bb80",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "450",
+    "major": "临床医学(定向医学生,柳州市柳南区)",
+    "score": 548,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 554,
+    "sourceAverageScore": 551.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.641416+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-9ef90a712ca56056",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "450",
+    "major": "临床医学(定向医学生,柳州市鹿寨县)",
+    "score": 527,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 558,
+    "sourceAverageScore": 538.33,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.641416+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-6f965b2c4f5baf9c",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "450",
+    "major": "临床医学(定向医学生,柳州市融安县)",
+    "score": 512,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 514,
+    "sourceAverageScore": 513.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.641416+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-5436ea4239d9302a",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "450",
+    "major": "临床医学(定向医学生,柳州市融水苗族自治县)",
+    "score": 525,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 525,
+    "sourceAverageScore": 525.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.641416+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-982dc8c40ad045d1",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "450",
+    "major": "临床医学(定向医学生,柳州市三江侗族自治县)",
+    "score": 524,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 557,
+    "sourceAverageScore": 541.63,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.641416+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-450-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-f7e3660e4261c9bc",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "451",
+    "major": "临床医学(定向医学生,桂林市平乐县)",
+    "score": 574,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 574,
+    "sourceAverageScore": 574.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-451-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.641897+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-451-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-451-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-6e00b26ee8ea9120",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "452",
+    "major": "临床医学(定向医学生,贵港市港南区)",
+    "score": 558,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 560,
+    "sourceAverageScore": 559.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-452-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.642039+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-452-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-452-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-363766be9aeb6d89",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "452",
+    "major": "临床医学(定向医学生,贵港市平南县)",
+    "score": 567,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 595,
+    "sourceAverageScore": 581.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-452-5",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.642039+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-452-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-452-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-1fa7988b5924a089",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "452",
+    "major": "临床医学(定向医学生,贵港市覃塘区)",
+    "score": 563,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 571,
+    "sourceAverageScore": 566.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-452-5",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.642039+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-452-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-452-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-1b976b8140cd464f",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "453",
+    "major": "临床医学(定向医学生,玉林市北流市)",
+    "score": 562,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 580,
+    "sourceAverageScore": 571.33,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.642175+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-453-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-453-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-ec80d02d9d4585da",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "453",
+    "major": "临床医学(定向医学生,玉林市博白县)",
+    "score": 561,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 567,
+    "sourceAverageScore": 563.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.642175+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-453-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-453-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-2e3fd02e86f95d2c",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "453",
+    "major": "临床医学(定向医学生,玉林市福绵区)",
+    "score": 553,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 586,
+    "sourceAverageScore": 570.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.642175+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-453-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-453-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-c0ea1fe5a9b4fe82",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "453",
+    "major": "临床医学(定向医学生,玉林市陆川县)",
+    "score": 549,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 564,
+    "sourceAverageScore": 555.63,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.642175+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-453-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-453-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-fa4a80ba8e51c769",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "453",
+    "major": "临床医学(定向医学生,玉林市容县)",
+    "score": 562,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 576,
+    "sourceAverageScore": 569.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.642175+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-453-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-453-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-f6fa0f1476ba6ed4",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科提前批其他三类",
+    "round": "录取汇总（轮次未分）",
+    "group": "454",
+    "major": "临床医学(定向医学生,贺州市富川瑶族自治县)",
+    "score": 580,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 590,
+    "sourceAverageScore": 585.0,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-6-454-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。定向服务地区见专业名；须签订培养及定向就业协议，承诺毕业后在相关基层医疗卫生机构服务6年。",
+    "admissionType": "农村订单定向免费医学生",
+    "rawAdmissionType": "国家免费医学生_普通类",
+    "reviewedAt": "2026-09-10T09:21:08.642289+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-454-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-6-454-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-8a501bfa89fe8bde",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "历史",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "101",
+    "major": "社会工作(医学方向)",
+    "score": 470,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 491,
+    "sourceAverageScore": 475.49,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:09.885396+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-101-1"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-101-1"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-21fee6075efc110c",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "历史",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "101",
+    "major": "市场营销(医药方向)",
+    "score": 468,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 501,
+    "sourceAverageScore": 472.21,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:09.885396+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-101-1"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-101-1"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-c8db78f417209c69",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "历史",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "101",
+    "major": "公共事业管理(卫生事业管理方向)",
+    "score": 473,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 503,
+    "sourceAverageScore": 478.84,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:09.885396+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-101-1"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-101-1"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-9428ed9efdab5ba8",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "历史",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "101",
+    "major": "健康服务与管理",
+    "score": 480,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 500,
+    "sourceAverageScore": 485.1,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:09.885396+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-101-1"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-101-1"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-e31b825cdf8eb283",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "历史",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "101",
+    "major": "养老服务管理",
+    "score": 478,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 503,
+    "sourceAverageScore": 483.68,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:09.885396+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-101-1"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-101-1"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-cebe5c7fb636259a",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "历史",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "102",
+    "major": "护理学",
+    "score": 465,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 490,
+    "sourceAverageScore": 472.41,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-102-1",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:09.891166+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-102-1"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-102-1"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-e4e25d9732f84f1c",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "150",
+    "major": "临床医学",
+    "score": 515,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 585,
+    "sourceAverageScore": 539.18,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-150-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:09.904333+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-150-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-150-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-60fd98a1d6109f8e",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "151",
+    "major": "儿科学",
+    "score": 509,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 558,
+    "sourceAverageScore": 524.58,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-151-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:09.907226+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-151-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-151-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-a31de0e3542fd123",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "152",
+    "major": "医学影像学",
+    "score": 532,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 568,
+    "sourceAverageScore": 542.6,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-152-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.420908+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-152-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-152-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-826b6956915486c4",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "153",
+    "major": "口腔医学",
+    "score": 565,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 589,
+    "sourceAverageScore": 572.32,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-153-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.427392+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-153-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-153-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-0333ad63d36ef4f3",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "154",
+    "major": "基础医学",
+    "score": 427,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 506,
+    "sourceAverageScore": 464.29,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-154-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.434570+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-154-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-154-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-a183c597ba470684",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "154",
+    "major": "预防医学",
+    "score": 398,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 571,
+    "sourceAverageScore": 447.8,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-154-5",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.434570+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-154-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-154-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-753b1b21144a1816",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "154",
+    "major": "临床药学",
+    "score": 457,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 527,
+    "sourceAverageScore": 488.56,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-154-5",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.434570+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-154-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-154-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-685816e89c9088a1",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "155",
+    "major": "生物技术",
+    "score": 453,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 558,
+    "sourceAverageScore": 470.5,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.479185+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-7afc2b5f20f147c2",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "155",
+    "major": "生物医学工程",
+    "score": 461,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 541,
+    "sourceAverageScore": 476.59,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.479185+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-f9cafc7b04db0eb7",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "155",
+    "major": "生物制药",
+    "score": 464,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 502,
+    "sourceAverageScore": 478.61,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.479185+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-c36d74134a50d09c",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "155",
+    "major": "食品卫生与营养学",
+    "score": 451,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 506,
+    "sourceAverageScore": 469.55,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.479185+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-66fc7c001957ef35",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "155",
+    "major": "药学",
+    "score": 464,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 536,
+    "sourceAverageScore": 482.94,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.479185+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-4ba2a23a3a7fabe6",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "155",
+    "major": "中药学",
+    "score": 452,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 508,
+    "sourceAverageScore": 470.05,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.479185+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-595f92386564a756",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "155",
+    "major": "医学检验技术",
+    "score": 479,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 533,
+    "sourceAverageScore": 496.92,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.479185+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-5061440225dfd9e7",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "155",
+    "major": "康复治疗学",
+    "score": 446,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 517,
+    "sourceAverageScore": 468.4,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.479185+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-4dca91320867f056",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "155",
+    "major": "卫生检验与检疫",
+    "score": 446,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 535,
+    "sourceAverageScore": 470.91,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+    "sourceTable": 1,
+    "sourceRow": 10,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.479185+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-b695cfc534d01747",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "155",
+    "major": "智能医学工程",
+    "score": 452,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 525,
+    "sourceAverageScore": 474.46,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+    "sourceTable": 1,
+    "sourceRow": 11,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.479185+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-155-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-530b6d0632e000f6",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "156",
+    "major": "市场营销(医药方向)",
+    "score": 434,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 494,
+    "sourceAverageScore": 453.35,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.581540+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-156-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-156-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-c84c5e42ce6fa76b",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "156",
+    "major": "公共事业管理(卫生事业管理方向)",
+    "score": 434,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 482,
+    "sourceAverageScore": 449.07,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.581540+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-156-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-156-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-3098aa0ee7cc5954",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "156",
+    "major": "健康服务与管理",
+    "score": 459,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 479,
+    "sourceAverageScore": 466.09,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.581540+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-156-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-156-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-b99fac477bd4cfa8",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "156",
+    "major": "养老服务管理",
+    "score": 452,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 489,
+    "sourceAverageScore": 463.25,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.581540+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-156-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-156-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-2c299e70afc6c550",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "156",
+    "major": "信息管理与信息系统",
+    "score": 437,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 490,
+    "sourceAverageScore": 457.21,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.581540+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-156-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-156-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-06c7d59206504a31",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "157",
+    "major": "护理学",
+    "score": 409,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 523,
+    "sourceAverageScore": 441.38,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-157-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.938533+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-157-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-157-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-164ad440281b3d57",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "158",
+    "major": "助产学",
+    "score": 433,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 461,
+    "sourceAverageScore": 441.16,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-158-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。2026章程规定助产学限招女生，建议身高低于155cm的女生慎重报考。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:10.954164+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-158-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-158-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-de12263ea7f12e18",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "750",
+    "major": "护理学",
+    "score": 430,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 488,
+    "sourceAverageScore": 455.4,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-750-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。民族班仅招少数民族考生。",
+    "admissionType": "民族班",
+    "rawAdmissionType": "非定向_民族班",
+    "reviewedAt": "2026-09-10T09:21:11.002955+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-750-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-750-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-5a3d0739746ad28b",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "950",
+    "major": "康复治疗学(中澳学分互认联合培养项目)",
+    "score": 377,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 476,
+    "sourceAverageScore": 418.67,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-950-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。为中澳学分互认联合培养项目，属2026章程第十一条所列“中高计划”；依据第二十条，招生录取要求英语单科不低于90分（150分制），英语单科满分非150分时须达到满分的60%。不能与普通非联合培养专业合并比较；收费及出国培养条件须另看项目简章。",
+    "admissionType": "中澳学分互认联合培养项目",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:11.455208+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-950-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-950-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "foreignLanguageRequirement": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    },
+    "foreignLanguageRequirement": {
+      "language": "英语",
+      "minimumScore": 90,
+      "scoreScaleMaximum": 150,
+      "minimumRatio": 0.6,
+      "appliesAt": "招生录取",
+      "note": "英语单科满分非150分时按满分60%折算；依据2026章程第十一条和第二十条。"
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-37f7f2272c15f7e7",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "951",
+    "major": "食品卫生与营养学(中澳学分互认联合培养项目)",
+    "score": 410,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 460,
+    "sourceAverageScore": 428.88,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-951-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。为中澳学分互认联合培养项目，属2026章程第十一条所列“中高计划”；依据第二十条，招生录取要求英语单科不低于90分（150分制），英语单科满分非150分时须达到满分的60%。不能与普通非联合培养专业合并比较；收费及出国培养条件须另看项目简章。",
+    "admissionType": "中澳学分互认联合培养项目",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:11.500606+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-951-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-951-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "foreignLanguageRequirement": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    },
+    "foreignLanguageRequirement": {
+      "language": "英语",
+      "minimumScore": 90,
+      "scoreScaleMaximum": 150,
+      "minimumRatio": 0.6,
+      "appliesAt": "招生录取",
+      "note": "英语单科满分非150分时按满分60%折算；依据2026章程第十一条和第二十条。"
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-5f6dc19fd601a04e",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "952",
+    "major": "药学(中澳学分互认联合培养项目)",
+    "score": 405,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 410,
+    "sourceAverageScore": 407.5,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-952-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。为中澳学分互认联合培养项目，属2026章程第十一条所列“中高计划”；依据第二十条，招生录取要求英语单科不低于90分（150分制），英语单科满分非150分时须达到满分的60%。不能与普通非联合培养专业合并比较；收费及出国培养条件须另看项目简章。",
+    "admissionType": "中澳学分互认联合培养项目",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:11.542715+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-952-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-952-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "foreignLanguageRequirement": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    },
+    "foreignLanguageRequirement": {
+      "language": "英语",
+      "minimumScore": 90,
+      "scoreScaleMaximum": 150,
+      "minimumRatio": 0.6,
+      "appliesAt": "招生录取",
+      "note": "英语单科满分非150分时按满分60%折算；依据2026章程第十一条和第二十条。"
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-0cd5771ff1791a67",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "953",
+    "major": "医学检验技术(中澳学分互认联合培养项目)",
+    "score": 371,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 464,
+    "sourceAverageScore": 423.44,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-953-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。为中澳学分互认联合培养项目，属2026章程第十一条所列“中高计划”；依据第二十条，招生录取要求英语单科不低于90分（150分制），英语单科满分非150分时须达到满分的60%。不能与普通非联合培养专业合并比较；收费及出国培养条件须另看项目简章。",
+    "admissionType": "中澳学分互认联合培养项目",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:11.642237+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-953-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-953-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "foreignLanguageRequirement": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    },
+    "foreignLanguageRequirement": {
+      "language": "英语",
+      "minimumScore": 90,
+      "scoreScaleMaximum": 150,
+      "minimumRatio": 0.6,
+      "appliesAt": "招生录取",
+      "note": "英语单科满分非150分时按满分60%折算；依据2026章程第十一条和第二十条。"
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-64aaa3bf6a2c542b",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "954",
+    "major": "智能医学工程(中澳学分互认联合培养项目)",
+    "score": 415,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 439,
+    "sourceAverageScore": 422.25,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-7-954-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。为中澳学分互认联合培养项目，属2026章程第十一条所列“中高计划”；依据第二十条，招生录取要求英语单科不低于90分（150分制），英语单科满分非150分时须达到满分的60%。不能与普通非联合培养专业合并比较；收费及出国培养条件须另看项目简章。",
+    "admissionType": "中澳学分互认联合培养项目",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:11.648470+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-954-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-7-954-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "note": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "foreignLanguageRequirement": [
+        "mscore-c-2026-glmu-charter"
+      ]
+    },
+    "foreignLanguageRequirement": {
+      "language": "英语",
+      "minimumScore": 90,
+      "scoreScaleMaximum": 150,
+      "minimumRatio": 0.6,
+      "appliesAt": "招生录取",
+      "note": "英语单科满分非150分时按满分60%折算；依据2026章程第十一条和第二十条。"
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-1a857878b26a6ffe",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "高职高专普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "181",
+    "major": "医学生物技术",
+    "score": 383,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 425,
+    "sourceAverageScore": 396.42,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-E-181-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:12.041155+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-E-181-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-E-181-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-d98e47978ae04b69",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "高职高专普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "182",
+    "major": "药学",
+    "score": 390,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 429,
+    "sourceAverageScore": 402.11,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-E-182-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:12.151446+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-E-182-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-E-182-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-060e7102882aa1f7",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "高职高专普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "183",
+    "major": "药品经营与管理",
+    "score": 365,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 421,
+    "sourceAverageScore": 383.38,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-E-183-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:12.168977+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-E-183-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-E-183-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  },
+  {
+    "id": "major-2026-c-glmu-884753b7864158b3",
+    "year": 2026,
+    "province": "广西",
+    "school": "桂林医科大学",
+    "schoolCode": "10601",
+    "track": "物理",
+    "batch": "高职高专普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": "184",
+    "major": "护理",
+    "score": 366,
+    "scoreType": "专业录取最低分",
+    "sourceMaximumScore": 424,
+    "sourceAverageScore": 381.44,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "mscore-c-2026-glmu-g-E-184-5",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "note": "官方历年录取分数查询逐专业结果；表头“投档单位”是类别筛选字段，本行最低分属于对应专业录取统计。未分首轮与征集，按录取汇总保留。学校按高考投档总分（含政策性加分）进行专业录取，非校测或艺体综合分。",
+    "admissionType": "普通类",
+    "rawAdmissionType": "非定向_普通类",
+    "reviewedAt": "2026-09-10T09:21:12.487418+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考投档总分（含政策性加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "school": [
+        "mscore-c-2026-glmu-charter"
+      ],
+      "track": [
+        "mscore-c-2026-glmu-2026-select"
+      ],
+      "group": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-E-184-5"
+      ],
+      "admissionType": [
+        "mscore-c-2026-glmu-2026-select",
+        "mscore-c-2026-glmu-g-E-184-5"
+      ],
+      "scoreBasis": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ],
+      "scoreComparable": [
+        "mscore-c-2026-glmu-charter",
+        "mscore-c-2026-gx-scale-policy"
+      ]
+    }
+  }
+]

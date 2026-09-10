@@ -1,0 +1,1708 @@
+[
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10001",
+    "school": "北京大学",
+    "status": "entry-only-year-gap",
+    "entryUrl": "https://bkzs.pku.edu.cn/xxgk/lqfsx/2f23dc2f47ae4f46a90d39efd06c7b1a.htm",
+    "checkedAt": "2026-09-10T09:19:02.561496+00:00",
+    "sourceIds": [
+      "major-a-pku-score-index",
+      "major-a-pku-score-page"
+    ],
+    "checkedUrls": [
+      "https://bkzs.pku.edu.cn/xxgk/lqfsx/index.htm",
+      "https://bkzs.pku.edu.cn/xxgk/lqfsx/2f23dc2f47ae4f46a90d39efd06c7b1a.htm"
+    ],
+    "availableYears": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017",
+      "2016",
+      "2015"
+    ],
+    "queryResults": [],
+    "importedRecordCount": 0,
+    "note": "官方分数入口重定向到当前分数表，年份最高2025；广西行按省份/招生类别列文理分数，未取得2026广西分专业实际录取信息。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "科类、批次、类别与分数口径须取得本年资料后核定"
+    ],
+    "id": "major-score-review-batch-a-10001",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "19001",
+    "school": "北京大学医学部",
+    "status": "entry-only-year-gap",
+    "entryUrl": "https://bkzs.bjmu.edu.cn/zsxx/lnfs/index.htm",
+    "checkedAt": "2026-09-10T09:19:02.484109+00:00",
+    "sourceIds": [
+      "major-a-med-home",
+      "major-a-med-score-index",
+      "major-a-med-score-2025"
+    ],
+    "checkedUrls": [
+      "https://bkzs.bjmu.edu.cn/",
+      "https://bkzs.bjmu.edu.cn/zsxx/lnfs/index.htm",
+      "https://bkzs.bjmu.edu.cn/zsxx/lnfs/824ff31b4cd64f299143feeb899d76c8.htm"
+    ],
+    "availableYears": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "queryResults": [],
+    "importedRecordCount": 0,
+    "note": "官方历年分数栏目列2025、2024、2023；已打开最新各专业分数公告核实其标题和表格属于2025，未作为2026资料导入。医学部19001与北大本部10001分开审计。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "科类、批次、类别与分数口径须取得本年资料后核定"
+    ],
+    "id": "major-score-review-batch-a-19001",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10003",
+    "school": "清华大学",
+    "status": "entry-only-year-gap",
+    "entryUrl": "https://www.join-tsinghua.edu.cn/xxgk/lnlqfsx.htm",
+    "checkedAt": "2026-09-10T09:19:02.471092+00:00",
+    "sourceIds": [
+      "major-a-thu-general",
+      "major-a-thu-score-index",
+      "major-a-thu-score-2024"
+    ],
+    "checkedUrls": [
+      "https://www.join-tsinghua.edu.cn/gnxs/gktz.htm",
+      "https://www.join-tsinghua.edu.cn/xxgk/lnlqfsx.htm",
+      "https://www.join-tsinghua.edu.cn/info/1032/1945.htm"
+    ],
+    "availableYears": [
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017",
+      "2016",
+      "2015",
+      "2014",
+      "2013",
+      "2012",
+      "2011"
+    ],
+    "queryResults": [],
+    "importedRecordCount": 0,
+    "note": "官方高考统招页所链接的历年录取分数栏目最新可读公告为2024各省各批次分数；不是2026广西分专业实际录取表，未导入。个人录取查询入口需要考生信息，不用于搜集个人数据。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "科类、批次、类别与分数口径须取得本年资料后核定"
+    ],
+    "id": "major-score-review-batch-a-10003",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "status": "current-year-query-empty",
+    "entryUrl": "https://rdzs.ruc.edu.cn/zsw/lnfs.html",
+    "checkedAt": "2026-09-10T09:20:12.536264+00:00",
+    "sourceIds": [
+      "major-a-ruc-score-entry",
+      "major-a-ruc-score-params",
+      "major-a-ruc-plan-entry-tplt",
+      "major-a-ruc-score-2026-physics",
+      "major-a-ruc-score-2026-history"
+    ],
+    "checkedUrls": [
+      "https://rdzs.ruc.edu.cn/zsw/lnfs.html",
+      "https://rdzs.ruc.edu.cn/f/ajax_lnfs_param",
+      "https://rdzs.ruc.edu.cn/static/front/ruc/basic/js/tplt.js",
+      "https://rdzs.ruc.edu.cn/f/ajax_lnfs"
+    ],
+    "availableYears": [
+      "2025"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "major-a-ruc-score-2026-physics",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "本科一批"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      },
+      {
+        "sourceId": "major-a-ruc-score-2026-history",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "本科一批"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      }
+    ],
+    "importedRecordCount": 0,
+    "note": "已核对官方历年分数页面及公开接口；广西年份选项最高为2025。实际提交2026年广西本科一批查询，接口成功响应但专业和院校汇总列表均为空。这表示本轮查询没有得到本年记录，不代表学校未招生或穷尽性证明未发布。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "专业组与省内批次未取得",
+      "首轮与征集未区分",
+      "最低位次未取得",
+      "2026专业分的成绩统计口径未取得"
+    ],
+    "id": "major-score-review-batch-a-10002",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "status": "current-year-query-empty",
+    "entryUrl": "https://zsfw.ustc.edu.cn/zsw/lnfs.html",
+    "checkedAt": "2026-09-10T09:21:05.426565+00:00",
+    "sourceIds": [
+      "major-a-ustc-score-entry",
+      "major-a-ustc-score-params",
+      "major-a-ustc-plan-entry-tplt",
+      "major-a-ustc-score-2026-physics",
+      "major-a-ustc-strong-base-exclusion"
+    ],
+    "checkedUrls": [
+      "https://zsfw.ustc.edu.cn/zsw/lnfs.html",
+      "https://zsfw.ustc.edu.cn/f/ajax_lnfs_param",
+      "https://zsfw.ustc.edu.cn/static/front/ustc/basic/js/tplt.js",
+      "https://zsfw.ustc.edu.cn/f/ajax_lnfs",
+      "https://zsb.ustc.edu.cn/2026/0626/c35499a745702/page.htm"
+    ],
+    "availableYears": [
+      "2025",
+      "2024"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "major-a-ustc-score-2026-physics",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "普通本科"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      }
+    ],
+    "importedRecordCount": 0,
+    "note": "已核对官方历年分数页面及公开接口；广西年份选项最高为2025。实际提交2026年广西普通本科查询，接口成功响应但专业和院校汇总列表均为空。另检索到的2026强基公告使用综合成绩，已排除；查询配置只展示省份投档线，showField3为空，不能假设存在分专业实际录取分。这表示本轮查询没有得到本年记录，不代表学校未招生或穷尽性证明未发布。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "专业组与省内批次未取得",
+      "首轮与征集未区分",
+      "最低位次未取得",
+      "2026专业分的成绩统计口径未取得"
+    ],
+    "id": "major-score-review-batch-a-10358",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10007",
+    "school": "北京理工大学",
+    "status": "current-year-query-empty",
+    "entryUrl": "https://admission.bit.edu.cn/static/front/bit/basic/html_web/lnfs.html",
+    "checkedAt": "2026-09-10T09:20:12.471017+00:00",
+    "sourceIds": [
+      "major-a-bit-score-entry",
+      "major-a-bit-score-params",
+      "major-a-bit-plan-entry-tplt",
+      "major-a-bit-score-2026-physics",
+      "major-a-bit-score-2026-history"
+    ],
+    "checkedUrls": [
+      "https://admission.bit.edu.cn/static/front/bit/basic/html_web/lnfs.html",
+      "https://admission.bit.edu.cn/f/ajax_lnfs_param",
+      "https://admission.bit.edu.cn/static/front/bit/basic/js/tplt.js",
+      "https://admission.bit.edu.cn/f/ajax_lnfs"
+    ],
+    "availableYears": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "major-a-bit-score-2026-physics",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "统招"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      },
+      {
+        "sourceId": "major-a-bit-score-2026-history",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "统招"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      }
+    ],
+    "importedRecordCount": 0,
+    "note": "已核对官方历年分数页面及公开接口；广西年份选项最高为2025。实际提交2026年广西统招查询，接口成功响应但专业和院校汇总列表均为空。这表示本轮查询没有得到本年记录，不代表学校未招生或穷尽性证明未发布。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "专业组与省内批次未取得",
+      "首轮与征集未区分",
+      "最低位次未取得",
+      "2026专业分的成绩统计口径未取得"
+    ],
+    "id": "major-score-review-batch-a-10007",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10006",
+    "school": "北京航空航天大学",
+    "status": "current-year-query-empty",
+    "entryUrl": "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/lnfs.html",
+    "checkedAt": "2026-09-10T09:21:36.213680+00:00",
+    "sourceIds": [
+      "major-a-buaa-score-entry",
+      "major-a-buaa-score-params",
+      "major-a-buaa-plan-entry-tplt",
+      "major-a-buaa-score-2026-physics",
+      "major-a-buaa-score-2026-history",
+      "major-a-buaa-score-map",
+      "major-a-buaa-score-gx-page"
+    ],
+    "checkedUrls": [
+      "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/lnfs.html",
+      "https://lqcx.buaa.edu.cn/f/ajax_lnfs_param",
+      "https://lqcx.buaa.edu.cn/static/front/buaa/basic/js/tplt.js",
+      "https://lqcx.buaa.edu.cn/f/ajax_lnfs",
+      "https://zs.buaa.edu.cn/bkzn/lnfs.htm",
+      "https://zs.buaa.edu.cn/info/1082/1247.htm"
+    ],
+    "availableYears": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "major-a-buaa-score-2026-physics",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "统招"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      },
+      {
+        "sourceId": "major-a-buaa-score-2026-history",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "统招"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      }
+    ],
+    "importedRecordCount": 0,
+    "note": "已核对官方历年分数页面及公开接口；广西年份选项最高为2025。实际提交2026年广西统招查询，接口成功响应但专业和院校汇总列表均为空。另一个官网省份地图的广西链接只提供2018/2017年；该地图数据为旧年，不能作为2026专业录取分。这表示本轮查询没有得到本年记录，不代表学校未招生或穷尽性证明未发布。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "专业组与省内批次未取得",
+      "首轮与征集未区分",
+      "最低位次未取得",
+      "2026专业分的成绩统计口径未取得"
+    ],
+    "id": "major-score-review-batch-a-10006",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "status": "collected-with-source-conflict",
+    "entryUrl": "https://zs.huuc.edu.cn/info/1179/4818.htm",
+    "checkedAt": "2026-09-10T09:26:38.933184+00:00",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-index",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "checkedUrls": [
+      "https://zs.huuc.edu.cn/info/1179/4818.htm",
+      "https://zs.huuc.edu.cn/list201506.jsp?urltype=tree.TreeTempUrl&wbtreeid=1103",
+      "https://zs.huuc.edu.cn/info/1103/4769.htm",
+      "https://www.gxeea.cn/view/content_624_33106.htm"
+    ],
+    "availableYears": [
+      "2026"
+    ],
+    "queryResults": [],
+    "importedRecordCount": 16,
+    "comparableRecordCount": 15,
+    "sourceConflictRecordCount": 1,
+    "note": "官网2026年8月14日外省本科录取表的广西段16条，物理15、历史1。15条常规数值可按普通高考总分口径参考；学校章程认可政策加分，原表未单列加分处理方式，不称裸分。城市地下空间工程最高423、最低418、平均428.2，保留原值并关闭该条分数比较。未列广西正式批次、专业组、最低位次、录取人数及轮次。",
+    "evidenceGaps": [
+      "城市地下空间工程原表平均超过最高，须由学校澄清",
+      "广西正式批次和专业组未列",
+      "最低位次及录取人数未列",
+      "轮次未分"
+    ],
+    "id": "major-score-review-batch-a-11765",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10248",
+    "school": "上海交通大学",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "not-found-current-major",
+    "checkedUrls": [
+      "https://admissions.sjtu.edu.cn/",
+      "https://admissions.sjtu.edu.cn/rnapi/newsList"
+    ],
+    "sourceIds": [
+      "major-score-b-sjtu-home",
+      "major-score-b-sjtu-score-news-list"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 0,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": "no-current-major-source",
+    "note": "官方分数栏目最新数据年2025；未取得2026广西两科普通或明确资格类别的单专业实际最低分。仅能确认本轮未找到，不能宣称学校不招生。",
+    "id": "major-score-review-batch-b-10248",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "19248",
+    "school": "上海交通大学医学院",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "not-found-current-major",
+    "checkedUrls": [
+      "https://www.shsmu.edu.cn/ygzs/zsxx/lnfs.htm",
+      "https://www.shsmu.edu.cn/ygzs/info/1025/1206.htm"
+    ],
+    "sourceIds": [
+      "major-score-b-sjtu-med-score-list",
+      "major-score-b-sjtu-med-latest-score-article"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 0,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": "no-current-major-source",
+    "note": "官方最新可读分数文章为2025普通批次；未取得2026广西专业最低分。独立校码，不与交大本部混用。",
+    "id": "major-score-review-batch-b-19248",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10246",
+    "school": "复旦大学",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "not-found-current-major",
+    "checkedUrls": [
+      "https://ao.fudan.edu.cn/36333/list.htm"
+    ],
+    "sourceIds": [
+      "major-score-b-fudan-score-list"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 0,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": "no-current-major-source",
+    "note": "官方分数栏目最新为2025分省录取分数，未取得2026广西专业最低分；未采用搜索中的旧年参考、预测或其他省综评成绩。",
+    "id": "major-score-review-batch-b-10246",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10335",
+    "school": "浙江大学",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "not-found-current-major",
+    "checkedUrls": [
+      "https://zdzsc.zju.edu.cn/87260/list.htm",
+      "https://zdzsc.zju.edu.cn/2026/0617/c87260a3179915/page.htm"
+    ],
+    "sourceIds": [
+      "major-score-b-zju-score-list",
+      "major-score-b-zju-score-2026-article"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 0,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": "no-current-major-source",
+    "note": "2026-06-17发布文章实际是2025年分省投档线，年度和分数层级都不符合2026广西专业实际最低分；未将医学院等独立代码并入本部。",
+    "id": "major-score-review-batch-b-10335",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10284",
+    "school": "南京大学",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "empty-current-response",
+    "checkedUrls": [
+      "https://bkzs.nju.edu.cn/static/front/nju/basic/html_web/lnfs.html",
+      "https://bkzs.nju.edu.cn/static/front/nju/basic/js/tplt.js",
+      "https://bkzs.nju.edu.cn/f/ajax_lnfs_param",
+      "https://bkzs.nju.edu.cn/f/ajax_lnfs",
+      "https://bkzs.nju.edu.cn/f/ajax_lnfs"
+    ],
+    "sourceIds": [
+      "major-score-b-nju-score-page",
+      "major-score-b-nju-tplt-js",
+      "major-score-b-nju-score-params-session",
+      "major-score-b-nju-scores-gx-2026-probe-1",
+      "major-score-b-nju-scores-gx-2026-probe-2"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 0,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": "empty-year-query",
+    "note": "正常公开流程已跑通；分数菜单广西只有2025/2024/2023。对2026物理与历史普通批次分别作明确标注的缺年探查，两次均state1且省/专业列表为空。未见2026资格类别选项，未猜测专项参数。",
+    "id": "major-score-review-batch-b-10284",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10637",
+    "school": "重庆师范大学",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "collected-partial",
+    "checkedUrls": [
+      "https://zsb.cqnu.edu.cn/info/10438/88323.htm",
+      "https://www.gxeea.cn/view/content_624_33107.htm"
+    ],
+    "sourceIds": [
+      "major-score-b-cqnu-2026-outside-results",
+      "major-score-b-cqnu-code-gxeea"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 11,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": null,
+    "note": "本轮实际录入11条2026广西专业最低分，历史5/物理6，其中征集1。排除艺术3和多专业合计5；这是可明确到单一专业/正式大类的部分覆盖，其他专业仍有缺口。",
+    "id": "major-score-review-batch-b-10637",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10593",
+    "school": "广西大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "unavailable",
+    "accessLimitType": "not-found-in-checked-index",
+    "recordCount": 0,
+    "excludedRecordCount": 0,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-gxu-lines"
+    ],
+    "checkedUrls": [
+      "https://zs.gxu.edu.cn/child/xinxichaxun.jsp?urltype=tree.TreeTempUrl&wbtreeid=1232"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-gxu-lines",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      }
+    ],
+    "note": "已重读官方录取分数栏目；最新普通本科结果标题为2025年，发布于2026年的条目是2025少数民族预科。未得到2026专业实际录取分。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。",
+    "id": "major-score-review-batch-c-10593",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10602",
+    "school": "广西师范大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "unavailable",
+    "accessLimitType": "year-unavailable",
+    "recordCount": 0,
+    "excludedRecordCount": 0,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-gxnu-index",
+      "mscore-c-2026-gxnu-query",
+      "mscore-c-2026-gxnu-years",
+      "mscore-c-2026-gxnu-lines-all",
+      "mscore-c-2026-gxnu-lines-json"
+    ],
+    "checkedUrls": [
+      "https://bkzs.gxnu.edu.cn/lnfs_12177/list.htm",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/pScorePage",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/selectYear",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/GetScoreData"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-gxnu-index",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-gxnu-query",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-gxnu-years",
+        "request": {},
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-gxnu-lines-all",
+        "request": {
+          "year": "2026",
+          "province": "广西",
+          "bigStuType": "",
+          "major": "",
+          "majorType": "",
+          "stuType": ""
+        },
+        "requestEncoding": "form",
+        "status": null,
+        "error": "HTTP Error 415: "
+      },
+      {
+        "sourceId": "mscore-c-2026-gxnu-lines-json",
+        "request": {
+          "year": "2026",
+          "province": "广西",
+          "bigStuType": "",
+          "major": "",
+          "majorType": "",
+          "stuType": ""
+        },
+        "requestEncoding": "json",
+        "status": 200,
+        "error": null
+      }
+    ],
+    "note": "已读官方分数栏目及当前查询页JS；年份接口仅2025/2024/2023。2026广西不限专业类别的JSON查询返回空数组。最初form请求415已用前端JSON编码纠正；不把415作为未发布证据。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。",
+    "id": "major-score-review-batch-c-10602",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "unavailable",
+    "accessLimitType": "not-found-in-checked-index",
+    "recordCount": 0,
+    "excludedRecordCount": 0,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-gxmzu-home",
+      "mscore-c-2026-gxmzu-lines"
+    ],
+    "checkedUrls": [
+      "https://zs.gxmzu.edu.cn/",
+      "https://zs.gxmzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1101"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-gxmzu-home",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-gxmzu-lines",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      }
+    ],
+    "note": "已从首页进入历年分数完整当前列表；普通、国家专项、地方专项、民族班、公费师范、中外合作和学分互认等最新表均为2025，未取得2026专业实际最低分。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。",
+    "id": "major-score-review-batch-c-10608",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "unavailable",
+    "accessLimitType": "year-unavailable-and-empty-query",
+    "recordCount": 0,
+    "excludedRecordCount": 0,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-nnnu-old-home",
+      "mscore-c-2026-nnnu-current-entry",
+      "mscore-c-2026-nnnu-app",
+      "mscore-c-2026-nnnu-component",
+      "mscore-c-2026-nnnu-types",
+      "mscore-c-2026-nnnu-2026-物理类",
+      "mscore-c-2026-nnnu-2026-历史类",
+      "mscore-c-2026-nnnu-2026-全部",
+      "mscore-c-2026-nnnu-home",
+      "mscore-c-2026-nnnu-query"
+    ],
+    "checkedUrls": [
+      "https://zs.nnnu.edu.cn/",
+      "https://zsw.nnnu.edu.cn/zsdata/lqxx/",
+      "https://zsw.nnnu.edu.cn/zsdata/lqxx/js/app.4fa9fdca.js",
+      "https://zsw.nnnu.edu.cn/zsdata/lqxx/js/lqcxjg.e6efaaac.js",
+      "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getType",
+      "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+      "https://zsw.nnnu.edu.cn/",
+      "https://zsw.nnnu.edu.cn/lqxx/#/lnfs"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-nnnu-old-home",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-current-entry",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-app",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-component",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-types",
+        "request": {
+          "type": "lnfs"
+        },
+        "requestEncoding": "json",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-2026-物理类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "物理类",
+          "xqmc": ""
+        },
+        "requestEncoding": "json",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-2026-历史类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "历史类",
+          "xqmc": ""
+        },
+        "requestEncoding": "json",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-2026-全部",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "全部",
+          "xqmc": ""
+        },
+        "requestEncoding": "json",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-home",
+        "request": null,
+        "requestEncoding": null,
+        "status": null,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-query",
+        "request": null,
+        "requestEncoding": null,
+        "status": null,
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "note": "当前官网链接的前端位于/zsdata/lqxx/，但其JS明确API仍为/lqxx/s/；因此不能将先前API空结果归因于路径错误。当前lnfs/getType仅含2025等既有年份，无2026；按真实字段查询2026/广西/物理类、历史类、全部及类别全部，均成功空列表。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。",
+    "id": "major-score-review-batch-c-10603",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10601",
+    "school": "桂林医科大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "collected",
+    "accessLimitType": "collected",
+    "recordCount": 57,
+    "excludedRecordCount": 5,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-glmu-home",
+      "mscore-c-2026-glmu-score",
+      "mscore-c-2026-glmu-2026-select",
+      "mscore-c-2026-glmu-charter",
+      "mscore-c-2026-glmu-g-7-952-5",
+      "mscore-c-2026-glmu-g-8-758-5",
+      "mscore-c-2026-glmu-g-7-153-5",
+      "mscore-c-2026-glmu-all-p2",
+      "mscore-c-2026-glmu-g-8-751-5",
+      "mscore-c-2026-glmu-g-7-156-5",
+      "mscore-c-2026-glmu-g-6-452-5",
+      "mscore-c-2026-glmu-all-p4",
+      "mscore-c-2026-glmu-g-7-954-5",
+      "mscore-c-2026-glmu-g-6-451-5",
+      "mscore-c-2026-glmu-all-p3",
+      "mscore-c-2026-glmu-g-7-155-5",
+      "mscore-c-2026-glmu-g-6-454-5",
+      "mscore-c-2026-glmu-g-7-150-5",
+      "mscore-c-2026-glmu-g-E-183-5",
+      "mscore-c-2026-glmu-all-p5",
+      "mscore-c-2026-glmu-g-7-951-5",
+      "mscore-c-2026-glmu-g-7-752-5",
+      "mscore-c-2026-glmu-g-6-453-5",
+      "mscore-c-2026-glmu-g-7-101-1",
+      "mscore-c-2026-glmu-g-7-157-5",
+      "mscore-c-2026-glmu-2026-all",
+      "mscore-c-2026-glmu-g-E-184-5",
+      "mscore-c-2026-glmu-g-E-181-5",
+      "mscore-c-2026-glmu-g-7-759-5",
+      "mscore-c-2026-glmu-g-7-152-5",
+      "mscore-c-2026-glmu-g-7-953-5",
+      "mscore-c-2026-glmu-all-p6",
+      "mscore-c-2026-glmu-g-7-750-5",
+      "mscore-c-2026-glmu-g-7-719-1",
+      "mscore-c-2026-glmu-g-7-158-5",
+      "mscore-c-2026-glmu-g-7-950-5",
+      "mscore-c-2026-glmu-g-7-151-5",
+      "mscore-c-2026-glmu-g-E-182-5",
+      "mscore-c-2026-glmu-g-7-154-5",
+      "mscore-c-2026-glmu-g-7-102-1",
+      "mscore-c-2026-glmu-g-6-450-5",
+      "mscore-c-2026-glmu-all-p7"
+    ],
+    "checkedUrls": [
+      "https://jyw.glmu.edu.cn/zhaosheng/school!homeIndex.htm",
+      "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScore.htm",
+      "https://jyw.glmu.edu.cn/zhaosheng/school!ajaxGetScoreSelectInfo.htm",
+      "https://jyw.glmu.edu.cn/zhaosheng/school!articleDetail.htm?recruitArticle.searchArticleId=145",
+      "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-glmu-home",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-score",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-2026-select",
+        "request": {
+          "selectYear": "2026",
+          "selectProvinceId": "20"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-charter",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-952-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "952",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-8-758-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "8",
+          "recruitScore.tddw": "758",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-153-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "153",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p2",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "2",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-8-751-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "8",
+          "recruitScore.tddw": "751",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "156",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-6-452-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "6",
+          "recruitScore.tddw": "452",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p4",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "4",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-954-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "954",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-6-451-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "6",
+          "recruitScore.tddw": "451",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p3",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "3",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "155",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-6-454-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "6",
+          "recruitScore.tddw": "454",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-150-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "150",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-E-183-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "E",
+          "recruitScore.tddw": "183",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "5",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-951-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "951",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-752-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "752",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "6",
+          "recruitScore.tddw": "453",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "101",
+          "recruitScore.kldm": "1",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-157-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "157",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-2026-all",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-E-184-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "E",
+          "recruitScore.tddw": "184",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-E-181-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "E",
+          "recruitScore.tddw": "181",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-759-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "759",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-152-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "152",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-953-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "953",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p6",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "6",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-750-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "750",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-719-1",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "719",
+          "recruitScore.kldm": "1",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-158-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "158",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-950-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "950",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-151-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "151",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-E-182-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "E",
+          "recruitScore.tddw": "182",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-154-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "154",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-102-1",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "102",
+          "recruitScore.kldm": "1",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "6",
+          "recruitScore.tddw": "450",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p7",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "7",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      }
+    ],
+    "note": "取得2026广西全部7页62行；31个唯一批次/投档单位筛选合计62行与分页多重集一致。收录57条具体专业实录分，5条预科班单独排除。当前官方查询没有区分首轮/征集，标录取汇总；排名和选科要求未列，保留未知。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。",
+    "id": "major-score-review-batch-c-10601",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "schoolCode": "10599",
+    "school": "右江民族医学院",
+    "year": 2026,
+    "province": "广西",
+    "status": "unavailable",
+    "accessLimitType": "not-found-in-checked-index",
+    "recordCount": 0,
+    "excludedRecordCount": 0,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-ymun-home",
+      "mscore-c-2026-ymun-lines"
+    ],
+    "checkedUrls": [
+      "https://yyzs.ymun.edu.cn/",
+      "https://yyzs.ymun.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-ymun-home",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-ymun-lines",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      }
+    ],
+    "note": "已核对校部代码10599并重读官网及历年分数栏目；最新广西专业、区外专业、定向医学生录取分统计均为2025。首页2026征集公告是余额，不用于专业实录分。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。",
+    "id": "major-score-review-batch-c-10599",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查"
+  },
+  {
+    "id": "major-score-review-root-10487",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查",
+    "schoolCode": "10487",
+    "school": "华中科技大学",
+    "checkedAt": "2026-09-10",
+    "status": "not-found-current-major",
+    "sourceIds": [
+      "major-score-root-hust-scores"
+    ],
+    "checkedUrls": [
+      "https://zsb.hust.edu.cn/bkzn/fsfzyfsx.htm"
+    ],
+    "recordCount": 0,
+    "note": "官方分省分专业分数页面的实际年份数据只有2025、2024、2023，未取得2026广西专业实际最低分；2026计划及强基分数不能补代普通专业录取分。"
+  },
+  {
+    "id": "major-score-review-root-10213",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查",
+    "schoolCode": "10213",
+    "school": "哈尔滨工业大学",
+    "checkedAt": "2026-09-10",
+    "status": "not-found-current-major",
+    "sourceIds": [
+      "major-score-root-hit-scores",
+      "major-score-root-hit-query-2026"
+    ],
+    "checkedUrls": [
+      "https://zsb.hit.edu.cn/information/score",
+      "https://zsb.hit.edu.cn/information/score?province=%E5%B9%BF%E8%A5%BF&year=2026"
+    ],
+    "recordCount": 0,
+    "note": "官方分数查询当前提供2025/2024；显式请求广西2026后实际页面仍显示2025广西，因此不将该返回误记为2026。未取得本轮所查2026普通专业最低分。"
+  },
+  {
+    "id": "major-score-review-root-10558",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查",
+    "schoolCode": "10558",
+    "school": "中山大学",
+    "checkedAt": "2026-09-10",
+    "status": "empty-current-response",
+    "sourceIds": [
+      "major-score-root-sysu-params",
+      "major-score-root-sysu-2026-物理类",
+      "major-score-root-sysu-2026-历史类",
+      "major-score-root-sysu-control-2025"
+    ],
+    "checkedUrls": [
+      "https://admission.sysu.edu.cn/f/ajax_lnfs_param",
+      "https://admission.sysu.edu.cn/f/ajax_lnfs"
+    ],
+    "recordCount": 0,
+    "note": "正常公开查询流程已跑通。广西菜单最新为2025；2026物理、历史普通录取均成功响应但学校/专业列表为空，2025物理正向对照有专业数据。只记录本轮未取得，不断言学校尚未公布；不猜补其他招生类别。"
+  },
+  {
+    "id": "major-score-review-root-14008",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查",
+    "schoolCode": "14008",
+    "school": "重庆三峡医药高等专科学校",
+    "checkedAt": "2026-09-10",
+    "status": "source-conflict",
+    "sourceIds": [
+      "major-score-root-sxyyc-recheck"
+    ],
+    "checkedUrls": [
+      "https://www.sxyyc.net/zsb/info/1015/2257.htm"
+    ],
+    "recordCount": 0,
+    "note": "重新取得的官网内容摘要与前轮一致，2条冲突未修正：物理医学检验技术录取1人却记最低335/最高411；物理预防医学录取1人却记最低283/最高424。保留原文并继续排除分数比较，不以专业组线猜改。"
+  },
+  {
+    "id": "major-score-review-root-12864",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查",
+    "schoolCode": "12864",
+    "school": "浙江经贸职业技术学院",
+    "checkedAt": "2026-09-10",
+    "status": "collected-partial",
+    "sourceIds": [
+      "major-score-root-zjiet-page",
+      "major-score-root-zjiet-table"
+    ],
+    "checkedUrls": [
+      "https://zs.zjiet.edu.cn/2026/0817/c1030a71607/pagem.htm",
+      "https://zs.zjiet.edu.cn/_upload/article/images/d3/d0/2f45bca2432097a3305865280ad0/47dacf98-54ea-476d-ac7d-7e1bafb91ce3_d.png"
+    ],
+    "recordCount": 12,
+    "note": "官方广西录取图表新增12条专业分（历史6、物理6），对应20名实际录取考生。双人读图与两科合计均一致。9个专业名称按科类分列；空白格不作0分、合计行不作为专业。仍缺专业组、精确批次和轮次，以及分专业计划人数。"
+  }
+]

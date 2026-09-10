@@ -1,0 +1,162 @@
+[
+  {
+    "schoolCode": "10248",
+    "school": "上海交通大学",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "not-found-current-major",
+    "checkedUrls": [
+      "https://admissions.sjtu.edu.cn/",
+      "https://admissions.sjtu.edu.cn/rnapi/newsList"
+    ],
+    "sourceIds": [
+      "major-score-b-sjtu-home",
+      "major-score-b-sjtu-score-news-list"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 0,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": "no-current-major-source",
+    "note": "官方分数栏目最新数据年2025；未取得2026广西两科普通或明确资格类别的单专业实际最低分。仅能确认本轮未找到，不能宣称学校不招生。"
+  },
+  {
+    "schoolCode": "19248",
+    "school": "上海交通大学医学院",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "not-found-current-major",
+    "checkedUrls": [
+      "https://www.shsmu.edu.cn/ygzs/zsxx/lnfs.htm",
+      "https://www.shsmu.edu.cn/ygzs/info/1025/1206.htm"
+    ],
+    "sourceIds": [
+      "major-score-b-sjtu-med-score-list",
+      "major-score-b-sjtu-med-latest-score-article"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 0,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": "no-current-major-source",
+    "note": "官方最新可读分数文章为2025普通批次；未取得2026广西专业最低分。独立校码，不与交大本部混用。"
+  },
+  {
+    "schoolCode": "10246",
+    "school": "复旦大学",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "not-found-current-major",
+    "checkedUrls": [
+      "https://ao.fudan.edu.cn/36333/list.htm"
+    ],
+    "sourceIds": [
+      "major-score-b-fudan-score-list"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 0,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": "no-current-major-source",
+    "note": "官方分数栏目最新为2025分省录取分数，未取得2026广西专业最低分；未采用搜索中的旧年参考、预测或其他省综评成绩。"
+  },
+  {
+    "schoolCode": "10335",
+    "school": "浙江大学",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "not-found-current-major",
+    "checkedUrls": [
+      "https://zdzsc.zju.edu.cn/87260/list.htm",
+      "https://zdzsc.zju.edu.cn/2026/0617/c87260a3179915/page.htm"
+    ],
+    "sourceIds": [
+      "major-score-b-zju-score-list",
+      "major-score-b-zju-score-2026-article"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 0,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": "no-current-major-source",
+    "note": "2026-06-17发布文章实际是2025年分省投档线，年度和分数层级都不符合2026广西专业实际最低分；未将医学院等独立代码并入本部。"
+  },
+  {
+    "schoolCode": "10284",
+    "school": "南京大学",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "empty-current-response",
+    "checkedUrls": [
+      "https://bkzs.nju.edu.cn/static/front/nju/basic/html_web/lnfs.html",
+      "https://bkzs.nju.edu.cn/static/front/nju/basic/js/tplt.js",
+      "https://bkzs.nju.edu.cn/f/ajax_lnfs_param",
+      "https://bkzs.nju.edu.cn/f/ajax_lnfs",
+      "https://bkzs.nju.edu.cn/f/ajax_lnfs"
+    ],
+    "sourceIds": [
+      "major-score-b-nju-score-page",
+      "major-score-b-nju-tplt-js",
+      "major-score-b-nju-score-params-session",
+      "major-score-b-nju-scores-gx-2026-probe-1",
+      "major-score-b-nju-scores-gx-2026-probe-2"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 0,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": "empty-year-query",
+    "note": "正常公开流程已跑通；分数菜单广西只有2025/2024/2023。对2026物理与历史普通批次分别作明确标注的缺年探查，两次均state1且省/专业列表为空。未见2026资格类别选项，未猜测专项参数。"
+  },
+  {
+    "schoolCode": "10637",
+    "school": "重庆师范大学",
+    "year": 2026,
+    "province": "广西",
+    "checkedAt": "2026-09-10T09:23:01.279205+00:00",
+    "status": "collected-partial",
+    "checkedUrls": [
+      "https://zsb.cqnu.edu.cn/info/10438/88323.htm",
+      "https://www.gxeea.cn/view/content_624_33107.htm"
+    ],
+    "sourceIds": [
+      "major-score-b-cqnu-2026-outside-results",
+      "major-score-b-cqnu-code-gxeea"
+    ],
+    "tracksChecked": [
+      "物理",
+      "历史"
+    ],
+    "qualificationScope": "普通高考及来源明确列出的资格类别；未取得的2026类别不猜补",
+    "recordCount": 11,
+    "recordCountMeaning": "本批已采集记录数，零不表示学校不招生或录取分为零",
+    "accessRestriction": "none",
+    "evidenceGapType": null,
+    "note": "本轮实际录入11条2026广西专业最低分，历史5/物理6，其中征集1。排除艺术3和多专业合计5；这是可明确到单一专业/正式大类的部分覆盖，其他专业仍有缺口。"
+  }
+]

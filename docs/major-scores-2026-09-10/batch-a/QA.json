@@ -1,0 +1,33 @@
+{
+  "status": "pass-with-evidence-gaps-and-source-conflict",
+  "year": 2026,
+  "province": "广西",
+  "schoolCount": 8,
+  "newMajorCutoffRows": 16,
+  "comparableRows": 15,
+  "sourceConflictRows": 1,
+  "majorRowsByTrack": {
+    "物理": 15,
+    "历史": 1
+  },
+  "successfulCurrentYearApiQueries": 7,
+  "currentYearQueriesWithMajorRows": 0,
+  "sourceCount": 34,
+  "sourceHashesVerified": 34,
+  "errors": [],
+  "checks": [
+    "8所学校均有已访问官方来源及逐校结论",
+    "四校公开CSRF流程成功，参数与2026广西查询保存",
+    "河南城建广西16条按原表列逐条解析，最低减控制线等于线差",
+    "旧年/院校线/专业组线/强基综合分没有导入",
+    "无招生计划人数转作录取人数",
+    "1条平均高于最高的原文冲突保留，关闭比较",
+    "公开文件不含个人查询结果或会话值"
+  ],
+  "limitations": [
+    "原7校仍无本年专业分数；新增16条仅覆盖河南城建官网广西段",
+    "15条普通高考总分可参考，不能声称剔除了政策加分",
+    "空列表不等于无招生，不是学校未发布的穷尽性证明",
+    "静态栏目只核对列出的页面，未遍查所有历史网页"
+  ]
+}

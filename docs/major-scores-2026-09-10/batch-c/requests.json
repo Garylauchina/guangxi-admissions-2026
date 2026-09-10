@@ -1,0 +1,661 @@
+[
+  [
+    "gxu-lines",
+    "https://zs.gxu.edu.cn/child/xinxichaxun.jsp?urltype=tree.TreeTempUrl&wbtreeid=1232"
+  ],
+  [
+    "gxnu-index",
+    "https://bkzs.gxnu.edu.cn/lnfs_12177/list.htm"
+  ],
+  [
+    "gxnu-query",
+    "https://ibkzs.gxnu.edu.cn/RobotSys/pScorePage"
+  ],
+  [
+    "gxmzu-home",
+    "https://zs.gxmzu.edu.cn/"
+  ],
+  [
+    "nnnu-home",
+    "https://zsw.nnnu.edu.cn/"
+  ],
+  [
+    "glmu-home",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!homeIndex.htm"
+  ],
+  [
+    "ymun-home",
+    "https://yyzs.ymun.edu.cn/"
+  ],
+  [
+    "gxmzu-lines",
+    "https://zs.gxmzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1101"
+  ],
+  [
+    "ymun-lines",
+    "https://yyzs.ymun.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"
+  ],
+  [
+    "glmu-score",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScore.htm"
+  ],
+  [
+    "nnnu-old-home",
+    "https://zs.nnnu.edu.cn/"
+  ],
+  [
+    "nnnu-query",
+    "https://zsw.nnnu.edu.cn/lqxx/#/lnfs"
+  ],
+  [
+    "gxnu-years",
+    "https://ibkzs.gxnu.edu.cn/RobotSys/selectYear",
+    {}
+  ],
+  [
+    "gxnu-lines-all",
+    "https://ibkzs.gxnu.edu.cn/RobotSys/GetScoreData",
+    {
+      "year": "2026",
+      "province": "广西",
+      "bigStuType": "",
+      "major": "",
+      "majorType": "",
+      "stuType": ""
+    }
+  ],
+  [
+    "glmu-2026-select",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!ajaxGetScoreSelectInfo.htm",
+    {
+      "selectYear": "2026",
+      "selectProvinceId": "20"
+    }
+  ],
+  [
+    "nnnu-current-entry",
+    "https://zsw.nnnu.edu.cn/zsdata/lqxx/"
+  ],
+  [
+    "glmu-2026-all",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "",
+      "recruitScore.tddw": "",
+      "recruitScore.kldm": "",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "gxnu-lines-json",
+    "https://ibkzs.gxnu.edu.cn/RobotSys/GetScoreData",
+    {
+      "year": "2026",
+      "province": "广西",
+      "bigStuType": "",
+      "major": "",
+      "majorType": "",
+      "stuType": ""
+    },
+    "json"
+  ],
+  [
+    "nnnu-app",
+    "https://zsw.nnnu.edu.cn/zsdata/lqxx/js/app.4fa9fdca.js"
+  ],
+  [
+    "glmu-g-6-450-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "6",
+      "recruitScore.tddw": "450",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-6-451-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "6",
+      "recruitScore.tddw": "451",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-6-452-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "6",
+      "recruitScore.tddw": "452",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-6-453-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "6",
+      "recruitScore.tddw": "453",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-6-454-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "6",
+      "recruitScore.tddw": "454",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-101-1",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "101",
+      "recruitScore.kldm": "1",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-102-1",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "102",
+      "recruitScore.kldm": "1",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-719-1",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "719",
+      "recruitScore.kldm": "1",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-150-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "150",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-151-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "151",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-152-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "152",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-153-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "153",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-154-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "154",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-155-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "155",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-156-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "156",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-157-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "157",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-158-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "158",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-750-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "750",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-752-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "752",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-759-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "759",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-950-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "950",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-951-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "951",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-952-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "952",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-953-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "953",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-7-954-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "7",
+      "recruitScore.tddw": "954",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-8-751-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "8",
+      "recruitScore.tddw": "751",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-8-758-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "8",
+      "recruitScore.tddw": "758",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-E-181-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "E",
+      "recruitScore.tddw": "181",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-E-182-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "E",
+      "recruitScore.tddw": "182",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-E-183-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "E",
+      "recruitScore.tddw": "183",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-g-E-184-5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "E",
+      "recruitScore.tddw": "184",
+      "recruitScore.kldm": "5",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西"
+    }
+  ],
+  [
+    "glmu-all-p2",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "",
+      "recruitScore.tddw": "",
+      "recruitScore.kldm": "",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西",
+      "currentPage": "2",
+      "pageSize": "10"
+    }
+  ],
+  [
+    "glmu-all-p3",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "",
+      "recruitScore.tddw": "",
+      "recruitScore.kldm": "",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西",
+      "currentPage": "3",
+      "pageSize": "10"
+    }
+  ],
+  [
+    "glmu-all-p4",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "",
+      "recruitScore.tddw": "",
+      "recruitScore.kldm": "",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西",
+      "currentPage": "4",
+      "pageSize": "10"
+    }
+  ],
+  [
+    "glmu-all-p5",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "",
+      "recruitScore.tddw": "",
+      "recruitScore.kldm": "",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西",
+      "currentPage": "5",
+      "pageSize": "10"
+    }
+  ],
+  [
+    "glmu-all-p6",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "",
+      "recruitScore.tddw": "",
+      "recruitScore.kldm": "",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西",
+      "currentPage": "6",
+      "pageSize": "10"
+    }
+  ],
+  [
+    "glmu-all-p7",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm",
+    {
+      "recruitScore.provinceId": "20",
+      "recruitScore.year": "2026",
+      "recruitScore.batchNo": "",
+      "recruitScore.tddw": "",
+      "recruitScore.kldm": "",
+      "recruitScore.xjClass": "",
+      "recruitScore.provinceName": "广西",
+      "currentPage": "7",
+      "pageSize": "10"
+    }
+  ],
+  [
+    "nnnu-types",
+    "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getType",
+    {
+      "type": "lnfs"
+    },
+    "json"
+  ],
+  [
+    "nnnu-component",
+    "https://zsw.nnnu.edu.cn/zsdata/lqxx/js/lqcxjg.e6efaaac.js"
+  ],
+  [
+    "glmu-charter",
+    "https://jyw.glmu.edu.cn/zhaosheng/school!articleDetail.htm?recruitArticle.searchArticleId=145"
+  ],
+  [
+    "gx-2026-exam-scheme",
+    "https://yyzs.ymun.edu.cn/info/1062/1527.htm"
+  ],
+  [
+    "nnnu-2026-物理类",
+    "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "物理类",
+      "xqmc": ""
+    },
+    "json"
+  ],
+  [
+    "nnnu-2026-历史类",
+    "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "历史类",
+      "xqmc": ""
+    },
+    "json"
+  ],
+  [
+    "nnnu-2026-全部",
+    "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "全部",
+      "xqmc": ""
+    },
+    "json"
+  ]
+]

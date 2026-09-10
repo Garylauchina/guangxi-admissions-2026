@@ -1,0 +1,397 @@
+[
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10001",
+    "school": "北京大学",
+    "status": "entry-only-year-gap",
+    "entryUrl": "https://bkzs.pku.edu.cn/xxgk/lqfsx/2f23dc2f47ae4f46a90d39efd06c7b1a.htm",
+    "checkedAt": "2026-09-10T09:19:02.561496+00:00",
+    "sourceIds": [
+      "major-a-pku-score-index",
+      "major-a-pku-score-page"
+    ],
+    "checkedUrls": [
+      "https://bkzs.pku.edu.cn/xxgk/lqfsx/index.htm",
+      "https://bkzs.pku.edu.cn/xxgk/lqfsx/2f23dc2f47ae4f46a90d39efd06c7b1a.htm"
+    ],
+    "availableYears": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017",
+      "2016",
+      "2015"
+    ],
+    "queryResults": [],
+    "importedRecordCount": 0,
+    "note": "官方分数入口重定向到当前分数表，年份最高2025；广西行按省份/招生类别列文理分数，未取得2026广西分专业实际录取信息。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "科类、批次、类别与分数口径须取得本年资料后核定"
+    ]
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "19001",
+    "school": "北京大学医学部",
+    "status": "entry-only-year-gap",
+    "entryUrl": "https://bkzs.bjmu.edu.cn/zsxx/lnfs/index.htm",
+    "checkedAt": "2026-09-10T09:19:02.484109+00:00",
+    "sourceIds": [
+      "major-a-med-home",
+      "major-a-med-score-index",
+      "major-a-med-score-2025"
+    ],
+    "checkedUrls": [
+      "https://bkzs.bjmu.edu.cn/",
+      "https://bkzs.bjmu.edu.cn/zsxx/lnfs/index.htm",
+      "https://bkzs.bjmu.edu.cn/zsxx/lnfs/824ff31b4cd64f299143feeb899d76c8.htm"
+    ],
+    "availableYears": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "queryResults": [],
+    "importedRecordCount": 0,
+    "note": "官方历年分数栏目列2025、2024、2023；已打开最新各专业分数公告核实其标题和表格属于2025，未作为2026资料导入。医学部19001与北大本部10001分开审计。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "科类、批次、类别与分数口径须取得本年资料后核定"
+    ]
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10003",
+    "school": "清华大学",
+    "status": "entry-only-year-gap",
+    "entryUrl": "https://www.join-tsinghua.edu.cn/xxgk/lnlqfsx.htm",
+    "checkedAt": "2026-09-10T09:19:02.471092+00:00",
+    "sourceIds": [
+      "major-a-thu-general",
+      "major-a-thu-score-index",
+      "major-a-thu-score-2024"
+    ],
+    "checkedUrls": [
+      "https://www.join-tsinghua.edu.cn/gnxs/gktz.htm",
+      "https://www.join-tsinghua.edu.cn/xxgk/lnlqfsx.htm",
+      "https://www.join-tsinghua.edu.cn/info/1032/1945.htm"
+    ],
+    "availableYears": [
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017",
+      "2016",
+      "2015",
+      "2014",
+      "2013",
+      "2012",
+      "2011"
+    ],
+    "queryResults": [],
+    "importedRecordCount": 0,
+    "note": "官方高考统招页所链接的历年录取分数栏目最新可读公告为2024各省各批次分数；不是2026广西分专业实际录取表，未导入。个人录取查询入口需要考生信息，不用于搜集个人数据。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "科类、批次、类别与分数口径须取得本年资料后核定"
+    ]
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "status": "current-year-query-empty",
+    "entryUrl": "https://rdzs.ruc.edu.cn/zsw/lnfs.html",
+    "checkedAt": "2026-09-10T09:20:12.536264+00:00",
+    "sourceIds": [
+      "major-a-ruc-score-entry",
+      "major-a-ruc-score-params",
+      "major-a-ruc-plan-entry-tplt",
+      "major-a-ruc-score-2026-physics",
+      "major-a-ruc-score-2026-history"
+    ],
+    "checkedUrls": [
+      "https://rdzs.ruc.edu.cn/zsw/lnfs.html",
+      "https://rdzs.ruc.edu.cn/f/ajax_lnfs_param",
+      "https://rdzs.ruc.edu.cn/static/front/ruc/basic/js/tplt.js",
+      "https://rdzs.ruc.edu.cn/f/ajax_lnfs"
+    ],
+    "availableYears": [
+      "2025"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "major-a-ruc-score-2026-physics",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "本科一批"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      },
+      {
+        "sourceId": "major-a-ruc-score-2026-history",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "本科一批"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      }
+    ],
+    "importedRecordCount": 0,
+    "note": "已核对官方历年分数页面及公开接口；广西年份选项最高为2025。实际提交2026年广西本科一批查询，接口成功响应但专业和院校汇总列表均为空。这表示本轮查询没有得到本年记录，不代表学校未招生或穷尽性证明未发布。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "专业组与省内批次未取得",
+      "首轮与征集未区分",
+      "最低位次未取得",
+      "2026专业分的成绩统计口径未取得"
+    ]
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "status": "current-year-query-empty",
+    "entryUrl": "https://zsfw.ustc.edu.cn/zsw/lnfs.html",
+    "checkedAt": "2026-09-10T09:21:05.426565+00:00",
+    "sourceIds": [
+      "major-a-ustc-score-entry",
+      "major-a-ustc-score-params",
+      "major-a-ustc-plan-entry-tplt",
+      "major-a-ustc-score-2026-physics",
+      "major-a-ustc-strong-base-exclusion"
+    ],
+    "checkedUrls": [
+      "https://zsfw.ustc.edu.cn/zsw/lnfs.html",
+      "https://zsfw.ustc.edu.cn/f/ajax_lnfs_param",
+      "https://zsfw.ustc.edu.cn/static/front/ustc/basic/js/tplt.js",
+      "https://zsfw.ustc.edu.cn/f/ajax_lnfs",
+      "https://zsb.ustc.edu.cn/2026/0626/c35499a745702/page.htm"
+    ],
+    "availableYears": [
+      "2025",
+      "2024"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "major-a-ustc-score-2026-physics",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "普通本科"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      }
+    ],
+    "importedRecordCount": 0,
+    "note": "已核对官方历年分数页面及公开接口；广西年份选项最高为2025。实际提交2026年广西普通本科查询，接口成功响应但专业和院校汇总列表均为空。另检索到的2026强基公告使用综合成绩，已排除；查询配置只展示省份投档线，showField3为空，不能假设存在分专业实际录取分。这表示本轮查询没有得到本年记录，不代表学校未招生或穷尽性证明未发布。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "专业组与省内批次未取得",
+      "首轮与征集未区分",
+      "最低位次未取得",
+      "2026专业分的成绩统计口径未取得"
+    ]
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10007",
+    "school": "北京理工大学",
+    "status": "current-year-query-empty",
+    "entryUrl": "https://admission.bit.edu.cn/static/front/bit/basic/html_web/lnfs.html",
+    "checkedAt": "2026-09-10T09:20:12.471017+00:00",
+    "sourceIds": [
+      "major-a-bit-score-entry",
+      "major-a-bit-score-params",
+      "major-a-bit-plan-entry-tplt",
+      "major-a-bit-score-2026-physics",
+      "major-a-bit-score-2026-history"
+    ],
+    "checkedUrls": [
+      "https://admission.bit.edu.cn/static/front/bit/basic/html_web/lnfs.html",
+      "https://admission.bit.edu.cn/f/ajax_lnfs_param",
+      "https://admission.bit.edu.cn/static/front/bit/basic/js/tplt.js",
+      "https://admission.bit.edu.cn/f/ajax_lnfs"
+    ],
+    "availableYears": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "major-a-bit-score-2026-physics",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "统招"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      },
+      {
+        "sourceId": "major-a-bit-score-2026-history",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "统招"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      }
+    ],
+    "importedRecordCount": 0,
+    "note": "已核对官方历年分数页面及公开接口；广西年份选项最高为2025。实际提交2026年广西统招查询，接口成功响应但专业和院校汇总列表均为空。这表示本轮查询没有得到本年记录，不代表学校未招生或穷尽性证明未发布。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "专业组与省内批次未取得",
+      "首轮与征集未区分",
+      "最低位次未取得",
+      "2026专业分的成绩统计口径未取得"
+    ]
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10006",
+    "school": "北京航空航天大学",
+    "status": "current-year-query-empty",
+    "entryUrl": "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/lnfs.html",
+    "checkedAt": "2026-09-10T09:21:36.213680+00:00",
+    "sourceIds": [
+      "major-a-buaa-score-entry",
+      "major-a-buaa-score-params",
+      "major-a-buaa-plan-entry-tplt",
+      "major-a-buaa-score-2026-physics",
+      "major-a-buaa-score-2026-history",
+      "major-a-buaa-score-map",
+      "major-a-buaa-score-gx-page"
+    ],
+    "checkedUrls": [
+      "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/lnfs.html",
+      "https://lqcx.buaa.edu.cn/f/ajax_lnfs_param",
+      "https://lqcx.buaa.edu.cn/static/front/buaa/basic/js/tplt.js",
+      "https://lqcx.buaa.edu.cn/f/ajax_lnfs",
+      "https://zs.buaa.edu.cn/bkzn/lnfs.htm",
+      "https://zs.buaa.edu.cn/info/1082/1247.htm"
+    ],
+    "availableYears": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "major-a-buaa-score-2026-physics",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "统招"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      },
+      {
+        "sourceId": "major-a-buaa-score-2026-history",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "统招"
+        },
+        "state": 1,
+        "schoolSummaryRowCount": 0,
+        "majorRowCount": 0,
+        "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+      }
+    ],
+    "importedRecordCount": 0,
+    "note": "已核对官方历年分数页面及公开接口；广西年份选项最高为2025。实际提交2026年广西统招查询，接口成功响应但专业和院校汇总列表均为空。另一个官网省份地图的广西链接只提供2018/2017年；该地图数据为旧年，不能作为2026专业录取分。这表示本轮查询没有得到本年记录，不代表学校未招生或穷尽性证明未发布。",
+    "evidenceGaps": [
+      "2026广西分专业最低录取分未取得",
+      "专业组与省内批次未取得",
+      "首轮与征集未区分",
+      "最低位次未取得",
+      "2026专业分的成绩统计口径未取得"
+    ]
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "status": "collected-with-source-conflict",
+    "entryUrl": "https://zs.huuc.edu.cn/info/1179/4818.htm",
+    "checkedAt": "2026-09-10T09:26:38.933184+00:00",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-index",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "checkedUrls": [
+      "https://zs.huuc.edu.cn/info/1179/4818.htm",
+      "https://zs.huuc.edu.cn/list201506.jsp?urltype=tree.TreeTempUrl&wbtreeid=1103",
+      "https://zs.huuc.edu.cn/info/1103/4769.htm",
+      "https://www.gxeea.cn/view/content_624_33106.htm"
+    ],
+    "availableYears": [
+      "2026"
+    ],
+    "queryResults": [],
+    "importedRecordCount": 16,
+    "comparableRecordCount": 15,
+    "sourceConflictRecordCount": 1,
+    "note": "官网2026年8月14日外省本科录取表的广西段16条，物理15、历史1。15条常规数值可按普通高考总分口径参考；学校章程认可政策加分，原表未单列加分处理方式，不称裸分。城市地下空间工程最高423、最低418、平均428.2，保留原值并关闭该条分数比较。未列广西正式批次、专业组、最低位次、录取人数及轮次。",
+    "evidenceGaps": [
+      "城市地下空间工程原表平均超过最高，须由学校澄清",
+      "广西正式批次和专业组未列",
+      "最低位次及录取人数未列",
+      "轮次未分"
+    ]
+  }
+]

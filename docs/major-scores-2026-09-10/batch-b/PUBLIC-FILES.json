@@ -1,0 +1,28 @@
+{
+  "files": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "excluded-records.json",
+    "cqnu-guangxi-table.json",
+    "web-search-log.json",
+    "QA.json",
+    "README.md",
+    "QUALITY-REPORT.md",
+    "PUBLIC-FILES.json",
+    "build.py",
+    "validate.py",
+    "html_tables.py",
+    "fetch_evidence.py",
+    "fetch_nju_scores.py",
+    "public-fetch-manifest.json"
+  ],
+  "exclude": [
+    "raw/**",
+    "__pycache__/**",
+    "fetch-results.json",
+    "fetch-manifest.json",
+    "fetch-manifest-2.json"
+  ],
+  "note": "Only these aggregate outputs and public reproduction scripts are approved for inclusion in this batch; source session values are not stored."
+}

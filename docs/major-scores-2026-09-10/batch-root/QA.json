@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "newRows": 12,
+  "independentImageReview": "两个代理分别逐格读取原始图，12条全部一致",
+  "zjietTotals": {
+    "历史": {
+      "rows": 6,
+      "admitted": 10,
+      "max": 443,
+      "min": 419
+    },
+    "物理": {
+      "rows": 6,
+      "admitted": 10,
+      "max": 443,
+      "min": 402
+    }
+  },
+  "hustAvailableYears": [
+    "2025",
+    "2024",
+    "2023"
+  ],
+  "sysu2026EmptyQueries": 2,
+  "sysu2025PositiveControl": true,
+  "sxyycHashUnchanged": true,
+  "existingConflictsRetained": 2,
+  "rawPublic": false
+}

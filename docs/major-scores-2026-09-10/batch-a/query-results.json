@@ -1,0 +1,93 @@
+[
+  {
+    "sourceId": "major-a-ruc-score-2026-physics",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "本科一批"
+    },
+    "state": 1,
+    "schoolSummaryRowCount": 0,
+    "majorRowCount": 0,
+    "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+  },
+  {
+    "sourceId": "major-a-ruc-score-2026-history",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "本科一批"
+    },
+    "state": 1,
+    "schoolSummaryRowCount": 0,
+    "majorRowCount": 0,
+    "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+  },
+  {
+    "sourceId": "major-a-ustc-score-2026-physics",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通本科"
+    },
+    "state": 1,
+    "schoolSummaryRowCount": 0,
+    "majorRowCount": 0,
+    "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+  },
+  {
+    "sourceId": "major-a-bit-score-2026-physics",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "统招"
+    },
+    "state": 1,
+    "schoolSummaryRowCount": 0,
+    "majorRowCount": 0,
+    "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+  },
+  {
+    "sourceId": "major-a-bit-score-2026-history",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "统招"
+    },
+    "state": 1,
+    "schoolSummaryRowCount": 0,
+    "majorRowCount": 0,
+    "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+  },
+  {
+    "sourceId": "major-a-buaa-score-2026-physics",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "统招"
+    },
+    "state": 1,
+    "schoolSummaryRowCount": 0,
+    "majorRowCount": 0,
+    "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+  },
+  {
+    "sourceId": "major-a-buaa-score-2026-history",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "统招"
+    },
+    "state": 1,
+    "schoolSummaryRowCount": 0,
+    "majorRowCount": 0,
+    "result": "请求成功，2026广西普通类别院校和专业列表均为空"
+  }
+]

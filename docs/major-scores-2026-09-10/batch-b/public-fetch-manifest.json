@@ -1,0 +1,64 @@
+[
+  {
+    "id": "nju-score-page",
+    "url": "https://bkzs.nju.edu.cn/static/front/nju/basic/html_web/lnfs.html",
+    "expectedSha256": "a6b8d0f8d4430366bd003cb363743e71eaf991a7db767ea80cce49c59095e7cf"
+  },
+  {
+    "id": "nju-tplt-js",
+    "url": "https://bkzs.nju.edu.cn/static/front/nju/basic/js/tplt.js",
+    "ext": "js",
+    "expectedSha256": "a2eae168e09dc96153737116b915e75d9bd91171d15c4595d7e71e34a28dd832"
+  },
+  {
+    "id": "fudan-score-list",
+    "url": "https://ao.fudan.edu.cn/36333/list.htm",
+    "expectedSha256": "94423acd8ebc747fd51992cae2015bac8926c20475b34757e80bed37f0607047"
+  },
+  {
+    "id": "sjtu-med-score-list",
+    "url": "https://www.shsmu.edu.cn/ygzs/zsxx/lnfs.htm",
+    "expectedSha256": "fc28fc9c60a12ac65bd881412820510c8a0bb203a4e35a45253eca6a15b6828b"
+  },
+  {
+    "id": "zju-score-list",
+    "url": "https://zdzsc.zju.edu.cn/87260/list.htm",
+    "expectedSha256": "ac4301de7992db5f7640f032a4552f92cd38d51c7e1c6d36581d541864b63945"
+  },
+  {
+    "id": "sjtu-home",
+    "url": "https://admissions.sjtu.edu.cn/",
+    "expectedSha256": "882a7972de78932e7c27807d81d2440b42bc3d64d483d64d38a2e2221e2f7aeb"
+  },
+  {
+    "id": "sjtu-score-news-list",
+    "url": "https://admissions.sjtu.edu.cn/rnapi/newsList",
+    "request": {
+      "subjectsID": 3810062,
+      "pageNum": 1,
+      "pageSize": 100
+    },
+    "ext": "json",
+    "expectedSha256": "224119a085759f48b93d7c7831a717a4f77cf165f02c7292e3a231c94c1d049a"
+  },
+  {
+    "id": "zju-score-2026-article",
+    "url": "https://zdzsc.zju.edu.cn/2026/0617/c87260a3179915/page.htm",
+    "expectedSha256": "757330ae5ac4b8282377574ca3e1167bd73e92ff1ac2e19e213439e17d087f22"
+  },
+  {
+    "id": "sjtu-med-latest-score-article",
+    "url": "https://www.shsmu.edu.cn/ygzs/info/1025/1206.htm",
+    "expectedSha256": "8649ed742aee9c71eae08d07f04301bbe79f9b3abdd2c20f4e2572847bc1456f"
+  },
+  {
+    "id": "cqnu-2026-outside-results",
+    "url": "https://zsb.cqnu.edu.cn/info/10438/88323.htm",
+    "expectedSha256": "03a8d29544c6d1478f0365e56e7737b8425cc9284f49afec5ab2a71a280a8401"
+  },
+  {
+    "id": "cqnu-code-gxeea",
+    "url": "https://www.gxeea.cn/view/content_624_33107.htm",
+    "expectedSha256": "b7b7f3534ffd33458f46f42c4639d4b9b588d7799741326f113f9566d5560820"
+  }
+]

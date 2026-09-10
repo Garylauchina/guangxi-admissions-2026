@@ -1,0 +1,2079 @@
+{
+  "checkedAt": "2026-09-10",
+  "status": "passed-data-values",
+  "batch": "C",
+  "batchSha256": "d2649e124665cd840115144c45275467bea4c008a246550a043ce6710eb1d5c2",
+  "reviewMethod": "Independent standard-library flat-table parser; no collector/parser reuse. Full row, request, configuration, pagination and archived-hash comparison; selected original cells separately read by reviewer.",
+  "summary": {
+    "rows": 57,
+    "configurationEntries": 32,
+    "uniqueQueryGroups": 31,
+    "includedGroups": 26,
+    "sourceRows": 62,
+    "excludedPreparatoryRows": 5,
+    "byTrack": {
+      "物理": 51,
+      "历史": 6
+    },
+    "byAdmissionType": {
+      "农村订单定向免费医学生": 17,
+      "普通类": 34,
+      "民族班": 1,
+      "中澳学分互认联合培养项目": 5
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "rows": 10
+    },
+    {
+      "page": 2,
+      "rows": 10
+    },
+    {
+      "page": 3,
+      "rows": 10
+    },
+    {
+      "page": 4,
+      "rows": 10
+    },
+    {
+      "page": 5,
+      "rows": 10
+    },
+    {
+      "page": 6,
+      "rows": 10
+    },
+    {
+      "page": 7,
+      "rows": 2
+    }
+  ],
+  "groups": [
+    {
+      "query": "glmu-g-6-450-5",
+      "group": "450",
+      "track": "物理类",
+      "batch": "本科提前批其他三类",
+      "rawCount": 7,
+      "includedCount": 7,
+      "archiveSha256": "7ded16d4d67d494fc8c8c5ac0cd76725204d5bbc0754f8d601434e725fcaa157"
+    },
+    {
+      "query": "glmu-g-6-451-5",
+      "group": "451",
+      "track": "物理类",
+      "batch": "本科提前批其他三类",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "0d1f68e5bf3f9200a0df9717b0ee5b5930c4b03cb5ef037575ebdb75aedf4f96"
+    },
+    {
+      "query": "glmu-g-6-452-5",
+      "group": "452",
+      "track": "物理类",
+      "batch": "本科提前批其他三类",
+      "rawCount": 3,
+      "includedCount": 3,
+      "archiveSha256": "2ccd1e87be25ca3a0b5d0aa68162b3aefb519c70c80c947e630add117a8a5902"
+    },
+    {
+      "query": "glmu-g-6-453-5",
+      "group": "453",
+      "track": "物理类",
+      "batch": "本科提前批其他三类",
+      "rawCount": 5,
+      "includedCount": 5,
+      "archiveSha256": "44ea830b16eeca69decb6cda5d9f01f35f739af28c0c64a8466ba19b19fb0db2"
+    },
+    {
+      "query": "glmu-g-6-454-5",
+      "group": "454",
+      "track": "物理类",
+      "batch": "本科提前批其他三类",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "1bbb146865204b01eb5b64706d7de9e8961692d96ad1883ee4dc79e21b98d6e5"
+    },
+    {
+      "query": "glmu-g-7-101-1",
+      "group": "101",
+      "track": "历史类",
+      "batch": "本科普通批",
+      "rawCount": 5,
+      "includedCount": 5,
+      "archiveSha256": "e1edacf005cd97acd0b14d90afe99442d581393eb2e99eb79b4f9123aa3f484a"
+    },
+    {
+      "query": "glmu-g-7-102-1",
+      "group": "102",
+      "track": "历史类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "93e38f660f48cd991304d72ae6f97052616f15e9bceabf07e80e156f90df30a6"
+    },
+    {
+      "query": "glmu-g-7-719-1",
+      "group": "719",
+      "track": "历史类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 0,
+      "archiveSha256": "4541e72adb3d9606c6d8f9d1ed317bdafa06b1a522646b48a123ec176912bb70"
+    },
+    {
+      "query": "glmu-g-7-150-5",
+      "group": "150",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "bbf9460ec53fd7532950c1d940ffc583da2b3ebeb201e8003f8e06a457208977"
+    },
+    {
+      "query": "glmu-g-7-151-5",
+      "group": "151",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "78154f52468ba1c8b0f0684d6357d074728147c879250dc018aeb1e36e1f0914"
+    },
+    {
+      "query": "glmu-g-7-152-5",
+      "group": "152",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "e5195c2530c3ca38cca15119467057a9032323052e92b3400014337b6aea40d5"
+    },
+    {
+      "query": "glmu-g-7-153-5",
+      "group": "153",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "ef7e24ed7682ea80e0336f1a4d2cd24c96e498c7635f51a149b45604de886f2d"
+    },
+    {
+      "query": "glmu-g-7-154-5",
+      "group": "154",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 3,
+      "includedCount": 3,
+      "archiveSha256": "640051cb57bb7cb60ea0aca604e8632de5d01be042774c9af9d8059fd4fea6f6"
+    },
+    {
+      "query": "glmu-g-7-155-5",
+      "group": "155",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 10,
+      "includedCount": 10,
+      "archiveSha256": "e880856255f682db1de389139f381d8205e1a4b1f827996f63fc83821319473b"
+    },
+    {
+      "query": "glmu-g-7-156-5",
+      "group": "156",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 5,
+      "includedCount": 5,
+      "archiveSha256": "0496856bc7a04a9b198d62ef4d0bb388d1d6b38ad3a746682330dc0e6aad0125"
+    },
+    {
+      "query": "glmu-g-7-157-5",
+      "group": "157",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "d39d660973c340b4410f315e68a24097d8ded622e38faae473314ebd8cd99d56"
+    },
+    {
+      "query": "glmu-g-7-158-5",
+      "group": "158",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "042381280c404cfd6d6f228ae30b0898ae67b3ea7a9dbfc170c7ebdd1c9158c2"
+    },
+    {
+      "query": "glmu-g-7-750-5",
+      "group": "750",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "e92f504bc4228fee621b8e45e37dd5cc470fe5d3bd323f7057e8da2ccca06c0d"
+    },
+    {
+      "query": "glmu-g-7-752-5",
+      "group": "752",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 0,
+      "archiveSha256": "c84d7e9a96747b1091827f62ee899531e1d059b44f238fdf935878cab2b5e9fc"
+    },
+    {
+      "query": "glmu-g-7-759-5",
+      "group": "759",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 0,
+      "archiveSha256": "bac9ccb644e88f984d9f12363665d614621b364e17499966e4c655cc370a1d51"
+    },
+    {
+      "query": "glmu-g-7-950-5",
+      "group": "950",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "fc63093f3a5a084ffc15d0d10d79b4c6bea4b0bbb0788f49e241167a71814047"
+    },
+    {
+      "query": "glmu-g-7-951-5",
+      "group": "951",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "e42e1e1c1a69b5eb42414c9bf34dd15faf4f3b2bd3bf4d126a57611a7c58c62a"
+    },
+    {
+      "query": "glmu-g-7-952-5",
+      "group": "952",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "54901b34ab9b015ebebf52fa00413fdd35c5d52ea487aadee0d95140d0681bd9"
+    },
+    {
+      "query": "glmu-g-7-953-5",
+      "group": "953",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "671c92a386e0a4b86cc06533200b793b82ec08c4bd7c4a9b4ea7e2fafadaa859"
+    },
+    {
+      "query": "glmu-g-7-954-5",
+      "group": "954",
+      "track": "物理类",
+      "batch": "本科普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "ac60bb8c23a36541e4141c06c95663512861b23848f767aaba3649b5003810b7"
+    },
+    {
+      "query": "glmu-g-8-751-5",
+      "group": "751",
+      "track": "物理类",
+      "batch": "其他预科批",
+      "rawCount": 1,
+      "includedCount": 0,
+      "archiveSha256": "5f484d02e8966cced3d47b231cf28b6da95075437055c5ae04df30e10220651f"
+    },
+    {
+      "query": "glmu-g-8-758-5",
+      "group": "758",
+      "track": "物理类",
+      "batch": "其他预科批",
+      "rawCount": 1,
+      "includedCount": 0,
+      "archiveSha256": "6d4df3fc653ee3568779d1be5f4ed034b6f2a18a71513b3739451ede24eb06f3"
+    },
+    {
+      "query": "glmu-g-E-181-5",
+      "group": "181",
+      "track": "物理类",
+      "batch": "高职高专普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "06b09de4a2b3603519e08d8fc45de68990c97a5264a68bccde02d6e48579c15d"
+    },
+    {
+      "query": "glmu-g-E-182-5",
+      "group": "182",
+      "track": "物理类",
+      "batch": "高职高专普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "5fb7540bebb39a14e5e001d00de9d0b60584b41555d491dfbcb9d01b4aeb6299"
+    },
+    {
+      "query": "glmu-g-E-183-5",
+      "group": "183",
+      "track": "物理类",
+      "batch": "高职高专普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "9b71984223a9f4911d871e5a9d344303e21caf006993b63a0d57801f176da580"
+    },
+    {
+      "query": "glmu-g-E-184-5",
+      "group": "184",
+      "track": "物理类",
+      "batch": "高职高专普通批",
+      "rawCount": 1,
+      "includedCount": 1,
+      "archiveSha256": "83af147dbde1f53affd1ed42710febed2d145b2e57a0aacb7a45bf582430c8e2"
+    }
+  ],
+  "rowComparisons": [
+    {
+      "id": "major-2026-c-glmu-2daf81af3bd1b696",
+      "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-6e37633dfb6e1660",
+      "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+      "sourceRow": 3,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-7c8e2361eea7bb80",
+      "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+      "sourceRow": 4,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-9ef90a712ca56056",
+      "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+      "sourceRow": 5,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-6f965b2c4f5baf9c",
+      "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+      "sourceRow": 6,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-5436ea4239d9302a",
+      "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+      "sourceRow": 7,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-982dc8c40ad045d1",
+      "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+      "sourceRow": 8,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-f7e3660e4261c9bc",
+      "sourceId": "mscore-c-2026-glmu-g-6-451-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-6e00b26ee8ea9120",
+      "sourceId": "mscore-c-2026-glmu-g-6-452-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-363766be9aeb6d89",
+      "sourceId": "mscore-c-2026-glmu-g-6-452-5",
+      "sourceRow": 3,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-1fa7988b5924a089",
+      "sourceId": "mscore-c-2026-glmu-g-6-452-5",
+      "sourceRow": 4,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-1b976b8140cd464f",
+      "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-ec80d02d9d4585da",
+      "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+      "sourceRow": 3,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-2e3fd02e86f95d2c",
+      "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+      "sourceRow": 4,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-c0ea1fe5a9b4fe82",
+      "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+      "sourceRow": 5,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-fa4a80ba8e51c769",
+      "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+      "sourceRow": 6,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-f6fa0f1476ba6ed4",
+      "sourceId": "mscore-c-2026-glmu-g-6-454-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-8a501bfa89fe8bde",
+      "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-21fee6075efc110c",
+      "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+      "sourceRow": 3,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-c8db78f417209c69",
+      "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+      "sourceRow": 4,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-9428ed9efdab5ba8",
+      "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+      "sourceRow": 5,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-e31b825cdf8eb283",
+      "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+      "sourceRow": 6,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-cebe5c7fb636259a",
+      "sourceId": "mscore-c-2026-glmu-g-7-102-1",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-e4e25d9732f84f1c",
+      "sourceId": "mscore-c-2026-glmu-g-7-150-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-60fd98a1d6109f8e",
+      "sourceId": "mscore-c-2026-glmu-g-7-151-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-a31de0e3542fd123",
+      "sourceId": "mscore-c-2026-glmu-g-7-152-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-826b6956915486c4",
+      "sourceId": "mscore-c-2026-glmu-g-7-153-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-0333ad63d36ef4f3",
+      "sourceId": "mscore-c-2026-glmu-g-7-154-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-a183c597ba470684",
+      "sourceId": "mscore-c-2026-glmu-g-7-154-5",
+      "sourceRow": 3,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-753b1b21144a1816",
+      "sourceId": "mscore-c-2026-glmu-g-7-154-5",
+      "sourceRow": 4,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-685816e89c9088a1",
+      "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-7afc2b5f20f147c2",
+      "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+      "sourceRow": 3,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-f9cafc7b04db0eb7",
+      "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+      "sourceRow": 4,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-c36d74134a50d09c",
+      "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+      "sourceRow": 5,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-66fc7c001957ef35",
+      "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+      "sourceRow": 6,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-4ba2a23a3a7fabe6",
+      "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+      "sourceRow": 7,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-595f92386564a756",
+      "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+      "sourceRow": 8,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-5061440225dfd9e7",
+      "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+      "sourceRow": 9,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-4dca91320867f056",
+      "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+      "sourceRow": 10,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-b695cfc534d01747",
+      "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+      "sourceRow": 11,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-530b6d0632e000f6",
+      "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-c84c5e42ce6fa76b",
+      "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+      "sourceRow": 3,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-3098aa0ee7cc5954",
+      "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+      "sourceRow": 4,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-b99fac477bd4cfa8",
+      "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+      "sourceRow": 5,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-2c299e70afc6c550",
+      "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+      "sourceRow": 6,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-06c7d59206504a31",
+      "sourceId": "mscore-c-2026-glmu-g-7-157-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-164ad440281b3d57",
+      "sourceId": "mscore-c-2026-glmu-g-7-158-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-de12263ea7f12e18",
+      "sourceId": "mscore-c-2026-glmu-g-7-750-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-5a3d0739746ad28b",
+      "sourceId": "mscore-c-2026-glmu-g-7-950-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-37f7f2272c15f7e7",
+      "sourceId": "mscore-c-2026-glmu-g-7-951-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-5f6dc19fd601a04e",
+      "sourceId": "mscore-c-2026-glmu-g-7-952-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-0cd5771ff1791a67",
+      "sourceId": "mscore-c-2026-glmu-g-7-953-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-64aaa3bf6a2c542b",
+      "sourceId": "mscore-c-2026-glmu-g-7-954-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-1a857878b26a6ffe",
+      "sourceId": "mscore-c-2026-glmu-g-E-181-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-d98e47978ae04b69",
+      "sourceId": "mscore-c-2026-glmu-g-E-182-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-060e7102882aa1f7",
+      "sourceId": "mscore-c-2026-glmu-g-E-183-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-2026-c-glmu-884753b7864158b3",
+      "sourceId": "mscore-c-2026-glmu-g-E-184-5",
+      "sourceRow": 2,
+      "matchedFields": [
+        "year",
+        "province",
+        "schoolCode",
+        "school",
+        "track",
+        "batch",
+        "group",
+        "major",
+        "score",
+        "sourceMaximumScore",
+        "sourceAverageScore",
+        "rawAdmissionType",
+        "admissionType",
+        "round",
+        "sourceTable",
+        "scoreType"
+      ],
+      "passed": true
+    }
+  ],
+  "filingIdentityCrossCheck": [
+    {
+      "id": "major-2026-c-glmu-2daf81af3bd1b696",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-6e37633dfb6e1660",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-7c8e2361eea7bb80",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-9ef90a712ca56056",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-6f965b2c4f5baf9c",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-5436ea4239d9302a",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-982dc8c40ad045d1",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-f7e3660e4261c9bc",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-6e00b26ee8ea9120",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-363766be9aeb6d89",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-1fa7988b5924a089",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-1b976b8140cd464f",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-ec80d02d9d4585da",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-2e3fd02e86f95d2c",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-c0ea1fe5a9b4fe82",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-fa4a80ba8e51c769",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-f6fa0f1476ba6ed4",
+      "corroboratedByExistingFilingIdentity": false,
+      "note": "本科提前批未包含于本站16个普通批投档表，组码仍有本校2026广西配置及逐组回包直接证明。"
+    },
+    {
+      "id": "major-2026-c-glmu-8a501bfa89fe8bde",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-21fee6075efc110c",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-c8db78f417209c69",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-9428ed9efdab5ba8",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-e31b825cdf8eb283",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-cebe5c7fb636259a",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-e4e25d9732f84f1c",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-60fd98a1d6109f8e",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-a31de0e3542fd123",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-826b6956915486c4",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-0333ad63d36ef4f3",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-a183c597ba470684",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-753b1b21144a1816",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-685816e89c9088a1",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-7afc2b5f20f147c2",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-f9cafc7b04db0eb7",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-c36d74134a50d09c",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-66fc7c001957ef35",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-4ba2a23a3a7fabe6",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-595f92386564a756",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-5061440225dfd9e7",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-4dca91320867f056",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-b695cfc534d01747",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-530b6d0632e000f6",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-c84c5e42ce6fa76b",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-3098aa0ee7cc5954",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-b99fac477bd4cfa8",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-2c299e70afc6c550",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-06c7d59206504a31",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-164ad440281b3d57",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-de12263ea7f12e18",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-5a3d0739746ad28b",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-37f7f2272c15f7e7",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-5f6dc19fd601a04e",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-0cd5771ff1791a67",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-64aaa3bf6a2c542b",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-1a857878b26a6ffe",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-d98e47978ae04b69",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-060e7102882aa1f7",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    },
+    {
+      "id": "major-2026-c-glmu-884753b7864158b3",
+      "corroboratedByExistingFilingIdentity": true,
+      "note": null
+    }
+  ],
+  "manualCellReadbacks": [
+    {
+      "group": "450",
+      "major": "临床医学(定向医学生,柳州市柳城县)",
+      "maximum": 559,
+      "average": 555.33,
+      "minimum": 553
+    },
+    {
+      "group": "451",
+      "major": "临床医学(定向医学生,桂林市平乐县)",
+      "maximum": 574,
+      "average": 574.0,
+      "minimum": 574
+    },
+    {
+      "group": "101",
+      "major": "社会工作(医学方向)",
+      "maximum": 491,
+      "average": 475.49,
+      "minimum": 470
+    },
+    {
+      "group": "155",
+      "major": "生物技术",
+      "maximum": 558,
+      "average": 470.5,
+      "minimum": 453
+    },
+    {
+      "group": "155",
+      "major": "康复治疗学",
+      "maximum": 517,
+      "average": 468.4,
+      "minimum": 446
+    },
+    {
+      "group": "750",
+      "major": "护理学",
+      "maximum": 488,
+      "average": 455.4,
+      "minimum": 430
+    },
+    {
+      "group": "950",
+      "major": "康复治疗学(中澳学分互认联合培养项目)",
+      "maximum": 476,
+      "average": 418.67,
+      "minimum": 377
+    },
+    {
+      "group": "952",
+      "major": "药学(中澳学分互认联合培养项目)",
+      "maximum": 410,
+      "average": 407.5,
+      "minimum": 405
+    },
+    {
+      "group": "953",
+      "major": "医学检验技术(中澳学分互认联合培养项目)",
+      "maximum": 464,
+      "average": 423.44,
+      "minimum": 371
+    },
+    {
+      "group": "184",
+      "major": "护理",
+      "maximum": 424,
+      "average": 381.44,
+      "minimum": 366
+    }
+  ],
+  "limits": [
+    "原始响应哈希的真实性不能独立重构会话脱敏前字节；本次独立核实归档字节哈希及元数据一致。",
+    "本次仅按原始官方归档重算逐组分值；实时分数入口独立读取超时，章程实时读取成功。",
+    "轮次未分，全部保留录取汇总；不能因为最低分碰巧与某轮组线相同改成首轮或征集。"
+  ],
+  "recommendations": [
+    {
+      "id": "C-ENGLISH-90",
+      "severity": "P2",
+      "status": "fixed-and-independently-verified",
+      "note": "中澳5条现已补章程第20条英语单科90/150及其他满分60%要求，并具章程字段来源；不影响专业最低总分本身可比性。",
+      "sourceUrl": "https://jyw.glmu.edu.cn/zhaosheng/school!articleDetail.htm?recruitArticle.searchArticleId=145"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  "major-cutoffs-upsert.json",
+  "sources.json",
+  "school-audit-notes.json",
+  "query-results.json",
+  "parameter-evidence.json",
+  "QA.json",
+  "public-fetch-manifest.json",
+  "collector.py",
+  "replay.py",
+  "build.py",
+  "verify.py",
+  "README.md",
+  "PUBLIC-FILES.json",
+  "parse_huuc.py",
+  "source-conflicts.json",
+  "huuc-table-evidence.json"
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "major-2026-huuc-gx-f14f15a3b59c",
+    "major": "城市地下空间工程（数智岩土方向）",
+    "sourceRow": 14,
+    "sourceHtmlRow": 305,
+    "sourceId": "major-a-huuc-score-2026",
+    "originalValues": {
+      "score": 418,
+      "sourceMaximumScore": 423,
+      "sourceAverageScore": 428.2
+    },
+    "issue": "原表平均分高于最高分，无法判断哪个字段误录；三个原值均保留，不参加分数比较。"
+  }
+]

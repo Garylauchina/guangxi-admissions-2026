@@ -1,0 +1,124 @@
+{
+  "year": 2026,
+  "checkedAt": "2026-09-10T09:39:54.311Z",
+  "baselineCommit": "4f11e4b57c82384b74662dc918059e19d1ec9cdf",
+  "reviewedSchoolCodes": 25,
+  "sourceRecordsAdded": 121,
+  "before": {
+    "records": 720,
+    "schools": 13,
+    "pending": 2
+  },
+  "after": {
+    "records": 816,
+    "schools": 17,
+    "pending": 3
+  },
+  "added": {
+    "records": 96,
+    "comparable": 95,
+    "pending": 1,
+    "schools": [
+      {
+        "schoolCode": "11765",
+        "school": "河南城建学院",
+        "records": 16,
+        "comparable": 15,
+        "pending": 1,
+        "physics": 15,
+        "history": 1,
+        "rounds": [
+          "录取汇总（轮次未分）"
+        ],
+        "unknownGroup": 16,
+        "unknownBatch": 16
+      },
+      {
+        "schoolCode": "10637",
+        "school": "重庆师范大学",
+        "records": 11,
+        "comparable": 11,
+        "pending": 0,
+        "physics": 6,
+        "history": 5,
+        "rounds": [
+          "录取汇总（轮次未分）",
+          "征集（次数未分）"
+        ],
+        "unknownGroup": 11,
+        "unknownBatch": 0
+      },
+      {
+        "schoolCode": "10601",
+        "school": "桂林医科大学",
+        "records": 57,
+        "comparable": 57,
+        "pending": 0,
+        "physics": 51,
+        "history": 6,
+        "rounds": [
+          "录取汇总（轮次未分）"
+        ],
+        "unknownGroup": 0,
+        "unknownBatch": 0
+      },
+      {
+        "schoolCode": "12864",
+        "school": "浙江经贸职业技术学院",
+        "records": 12,
+        "comparable": 12,
+        "pending": 0,
+        "physics": 6,
+        "history": 6,
+        "rounds": [
+          "录取汇总（轮次未分）"
+        ],
+        "unknownGroup": 12,
+        "unknownBatch": 12
+      }
+    ]
+  },
+  "oldMajorRecordsUnchanged": 720,
+  "preserved": {
+    "cutoffs": {
+      "unchanged": true,
+      "sha256": "d1766a2c8cece80db3c6a2d8548149e3ce255f87083cc95e981149f809b0d0a3"
+    },
+    "plans": {
+      "unchanged": true,
+      "sha256": "420360a7eb6d1604d132d1f462fde668ea8faf97d8e69ad4bb6b3efb413d316c"
+    },
+    "ranks": {
+      "unchanged": true,
+      "sha256": "5443c315a0a247763d8fbdee018066eeccf7b6d4a696148c2187d0baa09f2cea"
+    },
+    "special-programs": {
+      "unchanged": true,
+      "sha256": "1999c07cdbdc4db44795a8e023e404d95155239f76ed9072909591788d28cd58"
+    },
+    "policies": {
+      "unchanged": true,
+      "sha256": "612490a108b0e78983fcca17cc1b81309667008ac0c099109af3503dd96af830"
+    },
+    "supplementary-plans": {
+      "unchanged": true,
+      "sha256": "36a11aa3b17d27da8f3c141591318a7ca5400241ab705af9e534c2a7a15139aa"
+    },
+    "plan-source-catalog": {
+      "unchanged": true,
+      "sha256": "52212e98c0ecb5ff9eecc5c377b513fc901cd49db80425cf86f96716b3f4731f"
+    },
+    "major-filing-cutoffs": {
+      "unchanged": true,
+      "sha256": "8544539e7e48f80fcd33838d8130199130b48b20be653b663bf57f4f7cc2829a"
+    }
+  },
+  "limits": [
+    "部分覆盖，复查未取得不表示学校没有发布",
+    "不以2025数据或专业组投档分填补2026专业分",
+    "来源未区分轮次则保留汇总，不充作首轮",
+    "组码和精确批次未知保持待核",
+    "专业录取数不转换成计划数",
+    "加分处理按高校说明，不一律称为裸分"
+  ]
+}

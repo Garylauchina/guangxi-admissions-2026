@@ -1,0 +1,990 @@
+[
+  {
+    "schoolCode": "10593",
+    "school": "广西大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "unavailable",
+    "accessLimitType": "not-found-in-checked-index",
+    "recordCount": 0,
+    "excludedRecordCount": 0,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-gxu-lines"
+    ],
+    "checkedUrls": [
+      "https://zs.gxu.edu.cn/child/xinxichaxun.jsp?urltype=tree.TreeTempUrl&wbtreeid=1232"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-gxu-lines",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      }
+    ],
+    "note": "已重读官方录取分数栏目；最新普通本科结果标题为2025年，发布于2026年的条目是2025少数民族预科。未得到2026专业实际录取分。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。"
+  },
+  {
+    "schoolCode": "10602",
+    "school": "广西师范大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "unavailable",
+    "accessLimitType": "year-unavailable",
+    "recordCount": 0,
+    "excludedRecordCount": 0,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-gxnu-index",
+      "mscore-c-2026-gxnu-query",
+      "mscore-c-2026-gxnu-years",
+      "mscore-c-2026-gxnu-lines-all",
+      "mscore-c-2026-gxnu-lines-json"
+    ],
+    "checkedUrls": [
+      "https://bkzs.gxnu.edu.cn/lnfs_12177/list.htm",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/pScorePage",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/selectYear",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/GetScoreData"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-gxnu-index",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-gxnu-query",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-gxnu-years",
+        "request": {},
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-gxnu-lines-all",
+        "request": {
+          "year": "2026",
+          "province": "广西",
+          "bigStuType": "",
+          "major": "",
+          "majorType": "",
+          "stuType": ""
+        },
+        "requestEncoding": "form",
+        "status": null,
+        "error": "HTTP Error 415: "
+      },
+      {
+        "sourceId": "mscore-c-2026-gxnu-lines-json",
+        "request": {
+          "year": "2026",
+          "province": "广西",
+          "bigStuType": "",
+          "major": "",
+          "majorType": "",
+          "stuType": ""
+        },
+        "requestEncoding": "json",
+        "status": 200,
+        "error": null
+      }
+    ],
+    "note": "已读官方分数栏目及当前查询页JS；年份接口仅2025/2024/2023。2026广西不限专业类别的JSON查询返回空数组。最初form请求415已用前端JSON编码纠正；不把415作为未发布证据。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。"
+  },
+  {
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "unavailable",
+    "accessLimitType": "not-found-in-checked-index",
+    "recordCount": 0,
+    "excludedRecordCount": 0,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-gxmzu-home",
+      "mscore-c-2026-gxmzu-lines"
+    ],
+    "checkedUrls": [
+      "https://zs.gxmzu.edu.cn/",
+      "https://zs.gxmzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1101"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-gxmzu-home",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-gxmzu-lines",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      }
+    ],
+    "note": "已从首页进入历年分数完整当前列表；普通、国家专项、地方专项、民族班、公费师范、中外合作和学分互认等最新表均为2025，未取得2026专业实际最低分。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。"
+  },
+  {
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "unavailable",
+    "accessLimitType": "year-unavailable-and-empty-query",
+    "recordCount": 0,
+    "excludedRecordCount": 0,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-nnnu-old-home",
+      "mscore-c-2026-nnnu-current-entry",
+      "mscore-c-2026-nnnu-app",
+      "mscore-c-2026-nnnu-component",
+      "mscore-c-2026-nnnu-types",
+      "mscore-c-2026-nnnu-2026-物理类",
+      "mscore-c-2026-nnnu-2026-历史类",
+      "mscore-c-2026-nnnu-2026-全部",
+      "mscore-c-2026-nnnu-home",
+      "mscore-c-2026-nnnu-query"
+    ],
+    "checkedUrls": [
+      "https://zs.nnnu.edu.cn/",
+      "https://zsw.nnnu.edu.cn/zsdata/lqxx/",
+      "https://zsw.nnnu.edu.cn/zsdata/lqxx/js/app.4fa9fdca.js",
+      "https://zsw.nnnu.edu.cn/zsdata/lqxx/js/lqcxjg.e6efaaac.js",
+      "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getType",
+      "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+      "https://zsw.nnnu.edu.cn/",
+      "https://zsw.nnnu.edu.cn/lqxx/#/lnfs"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-nnnu-old-home",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-current-entry",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-app",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-component",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-types",
+        "request": {
+          "type": "lnfs"
+        },
+        "requestEncoding": "json",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-2026-物理类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "物理类",
+          "xqmc": ""
+        },
+        "requestEncoding": "json",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-2026-历史类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "历史类",
+          "xqmc": ""
+        },
+        "requestEncoding": "json",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-2026-全部",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "全部",
+          "xqmc": ""
+        },
+        "requestEncoding": "json",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-home",
+        "request": null,
+        "requestEncoding": null,
+        "status": null,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "sourceId": "mscore-c-2026-nnnu-query",
+        "request": null,
+        "requestEncoding": null,
+        "status": null,
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "note": "当前官网链接的前端位于/zsdata/lqxx/，但其JS明确API仍为/lqxx/s/；因此不能将先前API空结果归因于路径错误。当前lnfs/getType仅含2025等既有年份，无2026；按真实字段查询2026/广西/物理类、历史类、全部及类别全部，均成功空列表。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。"
+  },
+  {
+    "schoolCode": "10601",
+    "school": "桂林医科大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "collected",
+    "accessLimitType": "collected",
+    "recordCount": 57,
+    "excludedRecordCount": 5,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-glmu-home",
+      "mscore-c-2026-glmu-score",
+      "mscore-c-2026-glmu-2026-select",
+      "mscore-c-2026-glmu-charter",
+      "mscore-c-2026-glmu-g-7-952-5",
+      "mscore-c-2026-glmu-g-8-758-5",
+      "mscore-c-2026-glmu-g-7-153-5",
+      "mscore-c-2026-glmu-all-p2",
+      "mscore-c-2026-glmu-g-8-751-5",
+      "mscore-c-2026-glmu-g-7-156-5",
+      "mscore-c-2026-glmu-g-6-452-5",
+      "mscore-c-2026-glmu-all-p4",
+      "mscore-c-2026-glmu-g-7-954-5",
+      "mscore-c-2026-glmu-g-6-451-5",
+      "mscore-c-2026-glmu-all-p3",
+      "mscore-c-2026-glmu-g-7-155-5",
+      "mscore-c-2026-glmu-g-6-454-5",
+      "mscore-c-2026-glmu-g-7-150-5",
+      "mscore-c-2026-glmu-g-E-183-5",
+      "mscore-c-2026-glmu-all-p5",
+      "mscore-c-2026-glmu-g-7-951-5",
+      "mscore-c-2026-glmu-g-7-752-5",
+      "mscore-c-2026-glmu-g-6-453-5",
+      "mscore-c-2026-glmu-g-7-101-1",
+      "mscore-c-2026-glmu-g-7-157-5",
+      "mscore-c-2026-glmu-2026-all",
+      "mscore-c-2026-glmu-g-E-184-5",
+      "mscore-c-2026-glmu-g-E-181-5",
+      "mscore-c-2026-glmu-g-7-759-5",
+      "mscore-c-2026-glmu-g-7-152-5",
+      "mscore-c-2026-glmu-g-7-953-5",
+      "mscore-c-2026-glmu-all-p6",
+      "mscore-c-2026-glmu-g-7-750-5",
+      "mscore-c-2026-glmu-g-7-719-1",
+      "mscore-c-2026-glmu-g-7-158-5",
+      "mscore-c-2026-glmu-g-7-950-5",
+      "mscore-c-2026-glmu-g-7-151-5",
+      "mscore-c-2026-glmu-g-E-182-5",
+      "mscore-c-2026-glmu-g-7-154-5",
+      "mscore-c-2026-glmu-g-7-102-1",
+      "mscore-c-2026-glmu-g-6-450-5",
+      "mscore-c-2026-glmu-all-p7"
+    ],
+    "checkedUrls": [
+      "https://jyw.glmu.edu.cn/zhaosheng/school!homeIndex.htm",
+      "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScore.htm",
+      "https://jyw.glmu.edu.cn/zhaosheng/school!ajaxGetScoreSelectInfo.htm",
+      "https://jyw.glmu.edu.cn/zhaosheng/school!articleDetail.htm?recruitArticle.searchArticleId=145",
+      "https://jyw.glmu.edu.cn/zhaosheng/school!admissionScoreSel.htm"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-glmu-home",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-score",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-2026-select",
+        "request": {
+          "selectYear": "2026",
+          "selectProvinceId": "20"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-charter",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-952-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "952",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-8-758-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "8",
+          "recruitScore.tddw": "758",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-153-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "153",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p2",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "2",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-8-751-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "8",
+          "recruitScore.tddw": "751",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-156-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "156",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-6-452-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "6",
+          "recruitScore.tddw": "452",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p4",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "4",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-954-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "954",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-6-451-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "6",
+          "recruitScore.tddw": "451",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p3",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "3",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-155-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "155",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-6-454-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "6",
+          "recruitScore.tddw": "454",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-150-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "150",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-E-183-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "E",
+          "recruitScore.tddw": "183",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "5",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-951-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "951",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-752-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "752",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-6-453-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "6",
+          "recruitScore.tddw": "453",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-101-1",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "101",
+          "recruitScore.kldm": "1",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-157-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "157",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-2026-all",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-E-184-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "E",
+          "recruitScore.tddw": "184",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-E-181-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "E",
+          "recruitScore.tddw": "181",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-759-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "759",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-152-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "152",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-953-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "953",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p6",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "6",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-750-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "750",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-719-1",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "719",
+          "recruitScore.kldm": "1",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-158-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "158",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-950-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "950",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-151-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "151",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-E-182-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "E",
+          "recruitScore.tddw": "182",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-154-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "154",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-7-102-1",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "7",
+          "recruitScore.tddw": "102",
+          "recruitScore.kldm": "1",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-g-6-450-5",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "6",
+          "recruitScore.tddw": "450",
+          "recruitScore.kldm": "5",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-glmu-all-p7",
+        "request": {
+          "recruitScore.provinceId": "20",
+          "recruitScore.year": "2026",
+          "recruitScore.batchNo": "",
+          "recruitScore.tddw": "",
+          "recruitScore.kldm": "",
+          "recruitScore.xjClass": "",
+          "recruitScore.provinceName": "广西",
+          "currentPage": "7",
+          "pageSize": "10"
+        },
+        "requestEncoding": "form",
+        "status": 200,
+        "error": null
+      }
+    ],
+    "note": "取得2026广西全部7页62行；31个唯一批次/投档单位筛选合计62行与分页多重集一致。收录57条具体专业实录分，5条预科班单独排除。当前官方查询没有区分首轮/征集，标录取汇总；排名和选科要求未列，保留未知。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。"
+  },
+  {
+    "schoolCode": "10599",
+    "school": "右江民族医学院",
+    "year": 2026,
+    "province": "广西",
+    "status": "unavailable",
+    "accessLimitType": "not-found-in-checked-index",
+    "recordCount": 0,
+    "excludedRecordCount": 0,
+    "checkedAt": "2026-09-10",
+    "sourceIds": [
+      "mscore-c-2026-ymun-home",
+      "mscore-c-2026-ymun-lines"
+    ],
+    "checkedUrls": [
+      "https://yyzs.ymun.edu.cn/",
+      "https://yyzs.ymun.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048"
+    ],
+    "queryConditions": [
+      {
+        "sourceId": "mscore-c-2026-ymun-home",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      },
+      {
+        "sourceId": "mscore-c-2026-ymun-lines",
+        "request": null,
+        "requestEncoding": null,
+        "status": 200,
+        "error": null
+      }
+    ],
+    "note": "已核对校部代码10599并重读官网及历年分数栏目；最新广西专业、区外专业、定向医学生录取分统计均为2025。首页2026征集公告是余额，不用于专业实录分。",
+    "scope": "仅限明确列出的官方页面、查询配置与参数；不宣称全校或全部公众号均未发布。"
+  }
+]

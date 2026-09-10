@@ -33,6 +33,9 @@ test('非定向计划不会因含有定向两字误判为资格限制计划',()=
   assert.equal(filterRows([row],{kind:'general',band:'all'}).length,1);
   assert.equal(filterRows([{...row,note:'非定向；国家专项计划'}],{kind:'general',band:'all'}).length,0);
   assert.equal(filterRows([{...row,category:'精准专项'}],{kind:'general',band:'all'}).length,0);
+  assert.equal(filterRows([{...row,sourceCategory:'国家专项'}],{kind:'general',band:'all'}).length,0);
+  assert.equal(filterRows([{...row,category:'未注明招生类别'}],{kind:'general',band:'all'}).length,0);
+  assert.equal(filterRows([{...row,category:'未注明招生类别'}],{kind:'all',band:'all'}).length,1);
   assert.equal(filterRows([{...row,major:'金融学（精准专项）'}],{kind:'general',band:'all'}).length,0);
   assert.equal(filterRows([{...row,note:'普通类；不含预科直升；批次待核'}],{kind:'general',band:'all'}).length,1);
 });
@@ -47,6 +50,8 @@ test('原文分数存在未解决冲突时不参与分数比较',()=>{
   const opts={track:'物理',reference:500,band:'20',includeUnknown:false};
   assert.equal(filterRows([row],opts).length,0);
   assert.equal(filterRows([row],{...opts,includeUnknown:true}).length,1);
+  const actual={...row,scoreComparable:true,scoreType:'专业录取最低分',score:500,referenceScore:100};
+  assert.equal(filterRows([actual],opts).length,1,'组参考分不得覆盖实际专业最低分');
 });
 test('专业组连接必须同时匹配年、校、科类、批次和组码', () => {
   const a={year:2026,schoolCode:'10001',school:'某大学',track:'物理',batch:'本科普通批',group:'101'};

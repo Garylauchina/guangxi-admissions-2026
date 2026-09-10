@@ -1,10 +1,10 @@
 export const SPECIAL = /专项|预科|民族班|定向|免费|公费|精准|地方优师|边防|乡村|基层|只投|资格名单|仅招|只招|限招|须为|政治面貌/;
-export const restrictionText = row => `${row.note || ''} ${row.batch || ''} ${row.category || ''} ${row.admissionType || ''} ${row.major || ''}`.replaceAll('非定向','').replaceAll('不含预科直升','');
+export const restrictionText = row => `${row.note || ''} ${row.batch || ''} ${row.category || ''} ${row.admissionType || ''} ${row.sourceCategory || ''} ${row.rawAdmissionType || ''} ${row.major || ''}`.replaceAll('非定向','').replaceAll('不含预科直升','');
 export function specialLabel(row) {
   if (row.category === '未注明招生类别') return '招生类别待核';
   const text = restrictionText(row);
   const labels = ['国家专项', '地方专项', '高校专项', '预科', '民族班', '公费', '免费', '定向'];
-  return labels.filter(x => text.includes(x)).join(' · ') || (SPECIAL.test(text) ? '有资格或地域限制' : '一般计划');
+  return labels.filter(x => text.includes(x)).join(' · ') || (SPECIAL.test(text) ? '有资格或地域限制' : row.admissionType && row.admissionType !== '普通类' ? row.admissionType : '一般计划');
 }
 export const schoolKey = name => (name || '').replace(/[（）()\s]/g, '');
 export const recordSourceIds = row => [...new Set([...(row.sourceIds || []), ...(row.sourceId ? [row.sourceId] : []), ...Object.values(row.fieldSourceIds || {}).flat()])];
@@ -45,13 +45,13 @@ export function scoreMatch(score, reference, band, includeUnknown = true) {
   const radius = Number(band);
   return Math.abs(score - reference) <= radius;
 }
-export const comparableScore = row => row.scoreComparable === false ? null : row.referenceScore ?? row.score ?? null;
+export const comparableScore = row => row.scoreComparable === false ? null : row.scoreType === '专业录取最低分' ? row.score ?? null : row.referenceScore ?? row.score ?? null;
 export function filterRows(rows, opts) {
   const query = (opts.query || '').trim().toLowerCase();
   return rows.filter(r => {
     if (opts.track && r.track !== opts.track) return false;
     if (opts.batch && opts.batch !== 'all' && r.batch !== opts.batch) return false;
-    if (opts.kind === 'general' && SPECIAL.test(restrictionText(r))) return false;
+    if (opts.kind === 'general' && (r.category === '未注明招生类别' || SPECIAL.test(restrictionText(r)))) return false;
     if (opts.kind === 'special' && !SPECIAL.test(restrictionText(r))) return false;
     if (query && ![r.school, r.schoolCode, r.group, r.major, r.note, ...(r.joinedMajors || [])].filter(Boolean).join(' ').toLowerCase().includes(query)) return false;
     if (!scoreMatch(comparableScore(r), opts.reference, opts.band, opts.includeUnknown)) return false;

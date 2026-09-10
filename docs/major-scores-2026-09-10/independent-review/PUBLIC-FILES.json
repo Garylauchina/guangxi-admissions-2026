@@ -1,0 +1,13 @@
+{
+  "files": [
+    "REVIEW.md",
+    "review-results.json",
+    "batch-c-review.json",
+    "importer-probes-fixed.json",
+    "regression-tests.txt",
+    "review_c.py",
+    "probe-importer.mjs",
+    "PUBLIC-FILES.json"
+  ],
+  "note": "以上文件可公开，仅含官方事实、合成回归反例、哈希和核验说明。不包含raw原始归档、会话值或私人学生资料；不要递归复制父目录。"
+}

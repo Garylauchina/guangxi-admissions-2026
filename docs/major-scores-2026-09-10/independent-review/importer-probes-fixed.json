@@ -1,0 +1,105 @@
+{
+  "checkedAt": "2026-09-10T09:39:31.760Z",
+  "note": "Synthetic regression probes, not real admissions records; does not modify repository. imported=true describes observed validator acceptance, not confirmed correctness.",
+  "hashes": {
+    "scripts/import-major-score-batch.mjs": "e384b1f9b3c09c8cd7be212676bef21d27111e4f8b6c5b6e1b05a50d27de4177",
+    "site/logic.js": "cb38e275a24d5f6e186c429fe722ffc1c34a52e6cf16802a7335aecc2e4fed41",
+    "site/app.js": "012c2c3e43a8e2efe8db05b2d41a608ee8f6443b12267863c74252cf06c44f1a"
+  },
+  "results": [
+    {
+      "name": "wrongYear",
+      "patch": {
+        "year": 2025
+      },
+      "imported": false,
+      "error": "Expected values to be strictly equal:"
+    },
+    {
+      "name": "wrongProvince",
+      "patch": {
+        "province": "广东"
+      },
+      "imported": false,
+      "error": "Expected values to be strictly equal:"
+    },
+    {
+      "name": "referenceScoreOverride",
+      "patch": {
+        "referenceScore": 100
+      },
+      "imported": false,
+      "error": "Major score cannot be replaced by a group reference: independent-fixture"
+    },
+    {
+      "name": "unknownCategory",
+      "patch": {
+        "admissionType": "未注明招生类别",
+        "category": "未注明招生类别"
+      },
+      "imported": true,
+      "compared": 515,
+      "generalFilter": 0
+    },
+    {
+      "name": "sourceOnlyTargeted",
+      "patch": {
+        "sourceCategory": "国家专项计划"
+      },
+      "imported": true,
+      "compared": 515,
+      "generalFilter": 0
+    },
+    {
+      "name": "sourceOnlyRound",
+      "patch": {
+        "round": "首轮",
+        "sourceNote": "征集"
+      },
+      "imported": false,
+      "error": "Supplementary evidence cannot establish first-round scores: independent-fixture"
+    },
+    {
+      "name": "sourceScoreConflict",
+      "patch": {
+        "scoreEvidenceGaps": [
+          "最低分原文尚不能核实"
+        ],
+        "scoreComparable": true
+      },
+      "imported": false,
+      "error": "Unresolved score evidence cannot be compared: independent-fixture"
+    },
+    {
+      "name": "wrongScale",
+      "patch": {
+        "scoreScaleMaximum": 100,
+        "score": 90,
+        "scoreBasis": "综合评价成绩"
+      },
+      "imported": false,
+      "error": "Different score scale: independent-fixture"
+    },
+    {
+      "name": "nonScoreConflict",
+      "patch": {
+        "conflictFields": [
+          "filingScoreInSource"
+        ],
+        "evidenceStatus": "source-conflict"
+      },
+      "imported": true,
+      "compared": 515,
+      "generalFilter": 1
+    },
+    {
+      "name": "zeroAdmitted",
+      "patch": {
+        "score": 0,
+        "admittedCount": 0
+      },
+      "imported": false,
+      "error": "No admitted students cannot establish an actual cutoff: independent-fixture"
+    }
+  ]
+}

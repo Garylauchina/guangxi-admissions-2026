@@ -1,0 +1,1825 @@
+{
+  "passed": true,
+  "checkedAt": "2026-09-10",
+  "checks": [
+    {
+      "check": "院校身份 广西大学",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "院校身份 广西师范大学",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "院校身份 广西民族大学",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "院校身份 南宁师范大学",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "院校身份 桂林医科大学",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "院校身份 右江民族医学院",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "桂林医科大学当前名称及标识码",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "章程第十一条中澳五专业属于中高计划",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "章程第二十条英语90分或满分60%",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "官方完整分页62行",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-6-450-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-6-450-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-450-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-450-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-450-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-450-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-450-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-450-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-450-5:5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-450-5:5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-450-5:6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-450-5:6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-450-5:7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-450-5:7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-450-5:8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-450-5:8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-6-451-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-6-451-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-451-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-451-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-6-452-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-6-452-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-452-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-452-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-452-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-452-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-452-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-452-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-6-453-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-6-453-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-453-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-453-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-453-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-453-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-453-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-453-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-453-5:5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-453-5:5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-453-5:6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-453-5:6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-6-454-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-6-454-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-6-454-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-6-454-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-101-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-101-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-101-1:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-101-1:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-101-1:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-101-1:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-101-1:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-101-1:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-101-1:5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-101-1:5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-101-1:6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-101-1:6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-102-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-102-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-102-1:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-102-1:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-719-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-719-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-719-1:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-150-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-150-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-150-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-150-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-151-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-151-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-151-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-151-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-152-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-152-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-152-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-152-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-153-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-153-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-153-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-153-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-154-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-154-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-154-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-154-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-154-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-154-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-154-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-154-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-155-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-155-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-155-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-155-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-155-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-155-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-155-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-155-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-155-5:5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-155-5:5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-155-5:6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-155-5:6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-155-5:7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-155-5:7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-155-5:8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-155-5:8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-155-5:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-155-5:9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-155-5:10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-155-5:10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-155-5:11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-155-5:11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-156-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-156-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-156-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-156-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-156-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-156-5:3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-156-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-156-5:4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-156-5:5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-156-5:5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-156-5:6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-156-5:6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-157-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-157-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-157-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-157-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-158-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-158-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-158-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-158-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-750-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-750-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-750-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-750-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-752-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-752-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-752-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-759-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-759-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-759-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-950-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-950-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-950-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-950-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-951-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-951-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-951-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-951-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-952-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-952-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-952-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-952-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-953-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-953-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-953-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-953-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-7-954-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-7-954-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-7-954-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-7-954-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置重复单位语义一致",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-8-751-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-8-751-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-8-751-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-8-758-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-8-758-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-8-758-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-E-181-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-E-181-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-E-181-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-E-181-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-E-182-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-E-182-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-E-182-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-E-182-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-E-183-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-E-183-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-E-183-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-E-183-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "配置明确2026广西科类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "专业分数表表头 glmu-g-E-184-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组无未抓分页 glmu-g-E-184-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "年批次类型逐行对应 glmu-g-E-184-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "最低平均最高有序 glmu-g-E-184-5:2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "逐组与完整分页多重集完全相同",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "57专业行与5预科排除闭合",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "同一组不同专业确有不同最低分",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "无计划或录取人数写入",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "未知轮次未标首轮",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "当前数据ID唯一",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "现站同ID无不同数值",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "六校都有实际核验记录",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "所有来源引用可解析",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-952-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-8-758-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-2026-select",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-153-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-all-p2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-8-751-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-156-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 nnnu-current-entry",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-6-452-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-all-p4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 nnnu-component",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 nnnu-2026-历史类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 gxnu-years",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-954-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-6-451-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-all-p3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-155-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 gxmzu-home",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-6-454-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-150-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 gxnu-index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-E-183-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-all-p5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-951-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 gxu-lines",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-752-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-score",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 nnnu-2026-物理类",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-6-453-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-101-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 ymun-lines",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-157-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-2026-all",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-E-184-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 gxnu-query",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 nnnu-app",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-E-181-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-759-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 ymun-home",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-152-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-charter",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-953-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-all-p6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-750-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-719-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-158-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 nnnu-old-home",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 gxnu-lines-json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 nnnu-types",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-950-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-151-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-E-182-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-home",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-154-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 gxmzu-lines",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-7-102-1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-g-6-450-5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 nnnu-2026-全部",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "归档哈希 glmu-all-p7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-2daf81af3bd1b696",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-6e37633dfb6e1660",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-7c8e2361eea7bb80",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-9ef90a712ca56056",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-6f965b2c4f5baf9c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-5436ea4239d9302a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-982dc8c40ad045d1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-f7e3660e4261c9bc",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-6e00b26ee8ea9120",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-363766be9aeb6d89",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-1fa7988b5924a089",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-1b976b8140cd464f",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-ec80d02d9d4585da",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-2e3fd02e86f95d2c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-c0ea1fe5a9b4fe82",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-fa4a80ba8e51c769",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-f6fa0f1476ba6ed4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-8a501bfa89fe8bde",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-21fee6075efc110c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-c8db78f417209c69",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-9428ed9efdab5ba8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-e31b825cdf8eb283",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-cebe5c7fb636259a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-e4e25d9732f84f1c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-60fd98a1d6109f8e",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-a31de0e3542fd123",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-826b6956915486c4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-0333ad63d36ef4f3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-a183c597ba470684",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-753b1b21144a1816",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-685816e89c9088a1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-7afc2b5f20f147c2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-f9cafc7b04db0eb7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-c36d74134a50d09c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-66fc7c001957ef35",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-4ba2a23a3a7fabe6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-595f92386564a756",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-5061440225dfd9e7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-4dca91320867f056",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-b695cfc534d01747",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-530b6d0632e000f6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-c84c5e42ce6fa76b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-3098aa0ee7cc5954",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-b99fac477bd4cfa8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-2c299e70afc6c550",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-06c7d59206504a31",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-164ad440281b3d57",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-de12263ea7f12e18",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-5a3d0739746ad28b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-37f7f2272c15f7e7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-5f6dc19fd601a04e",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-0cd5771ff1791a67",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-64aaa3bf6a2c542b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-1a857878b26a6ffe",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-d98e47978ae04b69",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-060e7102882aa1f7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "省份年分数口径 major-2026-c-glmu-884753b7864158b3",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "summary": {
+    "reviewedSchools": 6,
+    "collectedSchools": 1,
+    "rows": 57,
+    "excludedPreparatoryRows": 5,
+    "byTrack": {
+      "物理": 51,
+      "历史": 6
+    },
+    "byAdmissionType": {
+      "农村订单定向免费医学生": 17,
+      "普通类": 34,
+      "民族班": 1,
+      "中澳学分互认联合培养项目": 5
+    },
+    "byBatch": {
+      "本科提前批其他三类": 17,
+      "本科普通批": 36,
+      "高职高专普通批": 4
+    }
+  },
+  "verificationChecks": [
+    {
+      "check": "57条且均桂林医科10601",
+      "passed": true
+    },
+    {
+      "check": "51物理6历史",
+      "passed": true
+    },
+    {
+      "check": "34普通17定向1民族5中澳",
+      "passed": true
+    },
+    {
+      "check": "无错误年份省份或未知分数",
+      "passed": true
+    },
+    {
+      "check": "最高与平均字段约定一致",
+      "passed": true
+    },
+    {
+      "check": "中澳五项目英语条件和章程来源逐项补齐",
+      "passed": true
+    },
+    {
+      "check": "组码双来源",
+      "passed": true
+    },
+    {
+      "check": "无预科冒充专业",
+      "passed": true
+    },
+    {
+      "check": "保留完整查询缺口",
+      "passed": true
+    },
+    {
+      "check": "五校负面结论限于已查范围",
+      "passed": true
+    },
+    {
+      "check": "公开数据无敏感会话字段",
+      "passed": true
+    },
+    {
+      "check": "全部原始分数关联表行",
+      "passed": true
+    },
+    {
+      "check": "所有分数来源有原响应和归档哈希",
+      "passed": true
+    },
+    {
+      "check": "满分口径辅助来源归档限制可见",
+      "passed": true
+    }
+  ]
+}

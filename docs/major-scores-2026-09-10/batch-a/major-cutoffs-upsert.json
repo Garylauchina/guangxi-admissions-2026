@@ -1,0 +1,808 @@
+[
+  {
+    "id": "major-2026-huuc-gx-87726f356b99",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "电气工程及其自动化",
+    "score": 478,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 484,
+    "sourceAverageScore": 481.0,
+    "controlScore": 368,
+    "scoreDifference": 110,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 1,
+    "sourceHtmlRow": 292,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-ef99027be13c",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "水文与水资源工程",
+    "score": 440,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 451,
+    "sourceAverageScore": 443.8,
+    "controlScore": 368,
+    "scoreDifference": 72,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 2,
+    "sourceHtmlRow": 293,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-2d474bc85130",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "测绘工程（时空信息方向）",
+    "score": 436,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 448,
+    "sourceAverageScore": 443.2,
+    "controlScore": 368,
+    "scoreDifference": 68,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 3,
+    "sourceHtmlRow": 294,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-b1ea3ee3d1d7",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "化学工程与工艺",
+    "score": 433,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 442,
+    "sourceAverageScore": 436.2,
+    "controlScore": 368,
+    "scoreDifference": 65,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 4,
+    "sourceHtmlRow": 295,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-fdab18fb6a40",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "材料化学",
+    "score": 432,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 437,
+    "sourceAverageScore": 435.0,
+    "controlScore": 368,
+    "scoreDifference": 64,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 5,
+    "sourceHtmlRow": 296,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-af04f430e7d7",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工程管理",
+    "score": 430,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 435,
+    "sourceAverageScore": 432.2,
+    "controlScore": 368,
+    "scoreDifference": 62,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 6,
+    "sourceHtmlRow": 297,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-85622be6bdf6",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "智能建造（建筑机器人方向）",
+    "score": 426,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 436,
+    "sourceAverageScore": 433.2,
+    "controlScore": 368,
+    "scoreDifference": 58,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 7,
+    "sourceHtmlRow": 298,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-78be3cc5660d",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "环境工程",
+    "score": 426,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 440,
+    "sourceAverageScore": 431.7,
+    "controlScore": 368,
+    "scoreDifference": 58,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 8,
+    "sourceHtmlRow": 299,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-2c69d7cc33cd",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "生物工程",
+    "score": 423,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 430,
+    "sourceAverageScore": 426.4,
+    "controlScore": 368,
+    "scoreDifference": 55,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 9,
+    "sourceHtmlRow": 300,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-e29fdc8662ed",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "环保设备工程",
+    "score": 423,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 436,
+    "sourceAverageScore": 428.6,
+    "controlScore": 368,
+    "scoreDifference": 55,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 10,
+    "sourceHtmlRow": 301,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-d5e4f718fe25",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "建筑学（历史遗产数字化保护方向）",
+    "score": 422,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 461,
+    "sourceAverageScore": 434.8,
+    "controlScore": 368,
+    "scoreDifference": 54,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 11,
+    "sourceHtmlRow": 302,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-8066713f4818",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "智慧交通",
+    "score": 421,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 449,
+    "sourceAverageScore": 428.8,
+    "controlScore": 368,
+    "scoreDifference": 53,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 12,
+    "sourceHtmlRow": 303,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-c4a7f676561c",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "土木工程（数智结构方向）",
+    "score": 418,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 438,
+    "sourceAverageScore": 428.2,
+    "controlScore": 368,
+    "scoreDifference": 50,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 13,
+    "sourceHtmlRow": 304,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-f14f15a3b59c",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "城市地下空间工程（数智岩土方向）",
+    "score": 418,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": false,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 423,
+    "sourceAverageScore": 428.2,
+    "controlScore": 368,
+    "scoreDifference": 50,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 14,
+    "sourceHtmlRow": 305,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。原表最高423、最低418、平均428.2，平均分超过最高分；保留原文数值并标记冲突，不擅自更正。",
+    "evidenceStatus": "source-conflict",
+    "scoreEvidenceGaps": [
+      "原表平均分超过最高分，冲突字段待学校澄清"
+    ],
+    "conflictFields": [
+      "sourceAverageScore",
+      "sourceMaximumScore",
+      "score"
+    ],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-5c3c1eb39dd3",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "道路桥梁与渡河工程（数智建造方向）",
+    "score": 416,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 431,
+    "sourceAverageScore": 423.3,
+    "controlScore": 368,
+    "scoreDifference": 48,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 15,
+    "sourceHtmlRow": 306,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  },
+  {
+    "id": "major-2026-huuc-gx-f554d26297e2",
+    "province": "广西",
+    "year": 2026,
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "风景园林（数智景观与生态设计方向）",
+    "score": 443,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "sourceAdmissionType": "广西本科录取情况（物理类/历史类）",
+    "scoreComparable": true,
+    "scoreBasis": "普通高考总分口径；学校认可政策加分，原表未单列加分处理方式",
+    "rank": null,
+    "rankType": null,
+    "sourceMaximumScore": 446,
+    "sourceAverageScore": 444.2,
+    "controlScore": 398,
+    "scoreDifference": 45,
+    "sourceId": "major-a-huuc-score-2026",
+    "sourceIds": [
+      "major-a-huuc-score-2026",
+      "major-a-huuc-charter-2026",
+      "major-a-huuc-school-code-evidence"
+    ],
+    "fieldSourceIds": {
+      "schoolCode": [
+        "major-a-huuc-school-code-evidence"
+      ],
+      "scoreComparable": [
+        "major-a-huuc-charter-2026"
+      ]
+    },
+    "sourceSection": "2026广西本科录取情况",
+    "sourceTable": "2026广西本科录取情况",
+    "sourceRow": 16,
+    "sourceHtmlRow": 307,
+    "reviewedAt": "2026-09-10T09:26:38.933184+00:00",
+    "note": "原页广西本科录取情况表直接给出专业最低分；未区分首轮和征集，未列广西正式批次、专业组、专业最低位次或录取人数。学校2026招生章程第14条以高考投档成绩为依据、第19条认可政策加分；原表未单列加分处理方式，可按学校普通高考总分口径参考，不称为裸分。",
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null
+  }
+]

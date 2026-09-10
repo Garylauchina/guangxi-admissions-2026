@@ -1,0 +1,169 @@
+[
+  {
+    "id": "major-score-root-hust-scores",
+    "title": "华中科技大学分省分专业分数线（可选2025/2024/2023）",
+    "url": "https://zsb.hust.edu.cn/bkzn/fsfzyfsx.htm",
+    "publisher": "华中科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T09:18:25.433830+00:00",
+    "sha256": "e1dddbd8394c5a0c03de1fbe2ec7d82edec538bbd339c6feabb6e62f3d4f0dc2",
+    "sourceDataYear": null,
+    "method": "官方公开页面或页面原有查询接口；会话仅在内存中使用，不发布会话字段。",
+    "requestMethod": "GET",
+    "notes": []
+  },
+  {
+    "id": "major-score-root-hit-scores",
+    "title": "哈尔滨工业大学分省分专业录取分数查询",
+    "url": "https://zsb.hit.edu.cn/information/score",
+    "publisher": "哈尔滨工业大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T09:18:59.867314+00:00",
+    "sha256": "f9eb4c95ce0a2b50f3c658d0e37e4b3be2bf22fe7448ba521c2e379d9a05cf85",
+    "sourceDataYear": null,
+    "method": "官方公开页面或页面原有查询接口；会话仅在内存中使用，不发布会话字段。",
+    "requestMethod": "GET",
+    "notes": []
+  },
+  {
+    "id": "major-score-root-hit-query-2026",
+    "title": "哈尔滨工业大学广西2026查询探查（实际回退到2025）",
+    "url": "https://zsb.hit.edu.cn/information/score?province=%E5%B9%BF%E8%A5%BF&year=2026",
+    "publisher": "哈尔滨工业大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T09:19:41.489339+00:00",
+    "sha256": "0d3c2d7552d20f33543985263925989d2e7d7c2d7c55a87c7b5ea0ee6bb6aff2",
+    "sourceDataYear": 2025,
+    "method": "官方公开页面或页面原有查询接口；会话仅在内存中使用，不发布会话字段。",
+    "requestMethod": "GET",
+    "notes": []
+  },
+  {
+    "id": "major-score-root-sysu-params",
+    "title": "中山大学历年分数菜单（广西最新2025）",
+    "url": "https://admission.sysu.edu.cn/f/ajax_lnfs_param",
+    "publisher": "中山大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T09:19:00.556998+00:00",
+    "sha256": "034f5492456c49fffb047566d31ad8c799e67308409dbeaf85bc7828922839d1",
+    "sourceDataYear": null,
+    "method": "官方公开页面或页面原有查询接口；会话仅在内存中使用，不发布会话字段。",
+    "requestMethod": "POST",
+    "notes": [],
+    "requestData": {},
+    "archiveSha256": "60578d609312bd92783f9e77d70af0557f64289af59822ef5ae9ff057b813200",
+    "redactedFields": [
+      "jessionid"
+    ]
+  },
+  {
+    "id": "major-score-root-sysu-2026-物理类",
+    "title": "中山大学广西2026物理类普通录取查询（空响应）",
+    "url": "https://admission.sysu.edu.cn/f/ajax_lnfs",
+    "publisher": "中山大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T09:19:42.039620+00:00",
+    "sha256": "d6141d0360d9999b41debb8444561f2a4015f7a3324c9647327e6232f1a8be78",
+    "sourceDataYear": 2026,
+    "method": "官方公开页面或页面原有查询接口；会话仅在内存中使用，不发布会话字段。",
+    "requestMethod": "POST",
+    "notes": [],
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通录取"
+    },
+    "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9",
+    "redactedFields": [
+      "jessionid"
+    ]
+  },
+  {
+    "id": "major-score-root-sysu-2026-历史类",
+    "title": "中山大学广西2026历史类普通录取查询（空响应）",
+    "url": "https://admission.sysu.edu.cn/f/ajax_lnfs",
+    "publisher": "中山大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T09:19:42.413610+00:00",
+    "sha256": "d6141d0360d9999b41debb8444561f2a4015f7a3324c9647327e6232f1a8be78",
+    "sourceDataYear": 2026,
+    "method": "官方公开页面或页面原有查询接口；会话仅在内存中使用，不发布会话字段。",
+    "requestMethod": "POST",
+    "notes": [],
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "普通录取"
+    },
+    "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9",
+    "redactedFields": [
+      "jessionid"
+    ]
+  },
+  {
+    "id": "major-score-root-sysu-control-2025",
+    "title": "中山大学广西2025物理普通录取查询（旧年正向对照）",
+    "url": "https://admission.sysu.edu.cn/f/ajax_lnfs",
+    "publisher": "中山大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T09:19:42.603657+00:00",
+    "sha256": "5f33bd0dd2acc10a28059f02a50f361661e9bd9382fca9d1b92070ac998d64fd",
+    "sourceDataYear": 2025,
+    "method": "官方公开页面或页面原有查询接口；会话仅在内存中使用，不发布会话字段。",
+    "requestMethod": "POST",
+    "notes": [],
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "普通录取"
+    },
+    "archiveSha256": "16389aaa8aa97d2e472a0587fb1629745568afcf2edbe6374a120202825501fb",
+    "redactedFields": [
+      "jessionid"
+    ]
+  },
+  {
+    "id": "major-score-root-sxyyc-recheck",
+    "title": "重庆三峡医药高等专科学校2026录取结果复查（2条冲突未修正）",
+    "url": "https://www.sxyyc.net/zsb/info/1015/2257.htm",
+    "publisher": "重庆三峡医药高等专科学校",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T09:18:25.434066+00:00",
+    "sha256": "cf4d40a45d9663828594cf3a8a2c399912a4ff17dc82a42da17f513ae25c36e5",
+    "sourceDataYear": 2026,
+    "method": "官方公开页面或页面原有查询接口；会话仅在内存中使用，不发布会话字段。",
+    "requestMethod": "GET",
+    "notes": []
+  },
+  {
+    "id": "major-score-root-zjiet-page",
+    "title": "【广西】2026年分专业录取情况一览表",
+    "url": "https://zs.zjiet.edu.cn/2026/0817/c1030a71607/pagem.htm",
+    "publisher": "浙江经贸职业技术学院",
+    "publishedAt": "2026-08-13",
+    "accessedAt": "2026-09-10T09:25:59.924509+00:00",
+    "sha256": "81b2b818809675bb5a1549a39675d55d5a43937772016e9e1344d8a07cc2726c",
+    "sourceDataYear": 2026,
+    "method": "官方公开页面或页面原有查询接口；会话仅在内存中使用，不发布会话字段。",
+    "requestMethod": "GET",
+    "notes": []
+  },
+  {
+    "id": "major-score-root-zjiet-table",
+    "title": "浙江经贸职业技术学院2026广西专业录取结果原图",
+    "url": "https://zs.zjiet.edu.cn/_upload/article/images/d3/d0/2f45bca2432097a3305865280ad0/47dacf98-54ea-476d-ac7d-7e1bafb91ce3_d.png",
+    "publisher": "浙江经贸职业技术学院",
+    "publishedAt": "2026-08-13",
+    "accessedAt": "2026-09-10T09:26:13.662032+00:00",
+    "sha256": "89899ba0ada7df5ad4d1f2f0087512fe326b88b2e56e04e72b4e7338af301837",
+    "sourceDataYear": 2026,
+    "method": "原始PNG双人独立逐单元格目视转录；分别复算历史与物理录取人数、最高和最低合计，12行均一致。",
+    "requestMethod": "GET",
+    "notes": [
+      "正文日期为2026-08-13，不按URL路径0817推定发布日期。人数是录取数；图未标批次、轮次和专业组。"
+    ]
+  }
+]

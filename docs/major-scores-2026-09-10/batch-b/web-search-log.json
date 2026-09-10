@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-09-10",
+  "method": "web搜索仅作官方来源定位与补充；最终缺口判断来自下列下载的官方栏目或公开API，空搜索不等同于学校未发布。",
+  "queries": [
+    {
+      "schoolCode": "10248",
+      "query": "site:sjtu.edu.cn 2026 广西 最低分",
+      "result": "未定位2026广西专业最低分，官网历年分数栏目最高数据年2025"
+    },
+    {
+      "schoolCode": "19248",
+      "query": "site:shsmu.edu.cn 2026 广西 录取分数",
+      "result": "未定位2026广西专业最低分，官方分数栏目最新2025"
+    },
+    {
+      "schoolCode": "10246",
+      "query": "site:fudan.edu.cn 2026 广西 最低分；site:ao.fudan.edu.cn 2026 分专业",
+      "result": "未定位2026广西专业最低分，官方分数栏目最新2025"
+    },
+    {
+      "schoolCode": "10335",
+      "query": "site:zju.edu.cn 2026 广西 录取分数；site:zdzsc.zju.edu.cn 2026 分专业",
+      "result": "未定位2026广西专业最低分；官方2026发布文章实为2025校/组投档线"
+    },
+    {
+      "schoolCode": "10284",
+      "query": "site:bkzs.nju.edu.cn 2026 广西 录取；site:bkzs.nju.edu.cn 2026 录取分数",
+      "result": "未定位2026专业线；官网分数API当前2026两科返回空列表"
+    }
+  ]
+}

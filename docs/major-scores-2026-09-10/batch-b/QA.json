@@ -1,0 +1,108 @@
+{
+  "status": "PASS",
+  "recordCount": 11,
+  "schoolCount": 1,
+  "auditedSchoolCount": 6,
+  "sourceCount": 14,
+  "trackCounts": {
+    "历史": 5,
+    "物理": 6
+  },
+  "roundCounts": {
+    "录取汇总（轮次未分）": 10,
+    "征集（次数未分）": 1
+  },
+  "fullSourceDataRows": 370,
+  "guangxiSourceRows": 19,
+  "excludedGuangxiRows": [
+    {
+      "sourceRow": 1,
+      "province": "广西",
+      "batch": "艺术类本科批",
+      "track": "艺术（美术）-历史类",
+      "major": "视觉传达设计",
+      "sourceScore": "532",
+      "sourceNote": "",
+      "reason": "艺术体育口径，不是本批一般750分高考专业录取最低分"
+    },
+    {
+      "sourceRow": 2,
+      "province": "广西",
+      "batch": "艺术类本科批",
+      "track": "艺术（美术）-历史类",
+      "major": "环境设计",
+      "sourceScore": "526",
+      "sourceNote": "",
+      "reason": "艺术体育口径，不是本批一般750分高考专业录取最低分"
+    },
+    {
+      "sourceRow": 3,
+      "province": "广西",
+      "batch": "艺术类本科批",
+      "track": "艺术（美术）-历史类",
+      "major": "服装与服饰设计",
+      "sourceScore": "526",
+      "sourceNote": "",
+      "reason": "艺术体育口径，不是本批一般750分高考专业录取最低分"
+    },
+    {
+      "sourceRow": 227,
+      "province": "广西",
+      "batch": "本科批",
+      "track": "历史类",
+      "major": "社会工作等专业",
+      "sourceScore": "538",
+      "sourceNote": "",
+      "reason": "多个专业合并公布最低分，不能拆成各专业实际最低分"
+    },
+    {
+      "sourceRow": 233,
+      "province": "广西",
+      "batch": "本科批",
+      "track": "历史类",
+      "major": "秘书学等专业",
+      "sourceScore": "549",
+      "sourceNote": "",
+      "reason": "多个专业合并公布最低分，不能拆成各专业实际最低分"
+    },
+    {
+      "sourceRow": 234,
+      "province": "广西",
+      "batch": "本科批",
+      "track": "历史类",
+      "major": "工商管理类、旅游管理",
+      "sourceScore": "531",
+      "sourceNote": "",
+      "reason": "多个专业合并公布最低分，不能拆成各专业实际最低分"
+    },
+    {
+      "sourceRow": 236,
+      "province": "广西",
+      "batch": "本科批",
+      "track": "物理类",
+      "major": "材料类等专业",
+      "sourceScore": "520",
+      "sourceNote": "",
+      "reason": "多个专业合并公布最低分，不能拆成各专业实际最低分"
+    },
+    {
+      "sourceRow": 241,
+      "province": "广西",
+      "batch": "本科批",
+      "track": "物理类",
+      "major": "光电信息科学与工程等专业",
+      "sourceScore": "538",
+      "sourceNote": "",
+      "reason": "多个专业合并公布最低分，不能拆成各专业实际最低分"
+    }
+  ],
+  "outsideGuangxiExcludedRows": 351,
+  "currentYearEmptySchoolCount": 5,
+  "publicWhitelistCount": 16,
+  "errors": [],
+  "limitations": [
+    "PASS仅表示本批11条及对应缺口/排除规则验证通过，不表示6校专业线全部覆盖。",
+    "重庆师大未标征集的10条不能称首轮；1条征集未分次数。",
+    "5校缺口来自当前实际读取，不等于已穷尽所有发布渠道或该校不招生。"
+  ]
+}

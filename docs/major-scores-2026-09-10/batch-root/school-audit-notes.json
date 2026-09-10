@@ -1,0 +1,105 @@
+[
+  {
+    "id": "major-score-review-root-10487",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查",
+    "schoolCode": "10487",
+    "school": "华中科技大学",
+    "checkedAt": "2026-09-10",
+    "status": "not-found-current-major",
+    "sourceIds": [
+      "major-score-root-hust-scores"
+    ],
+    "checkedUrls": [
+      "https://zsb.hust.edu.cn/bkzn/fsfzyfsx.htm"
+    ],
+    "recordCount": 0,
+    "note": "官方分省分专业分数页面的实际年份数据只有2025、2024、2023，未取得2026广西专业实际最低分；2026计划及强基分数不能补代普通专业录取分。"
+  },
+  {
+    "id": "major-score-review-root-10213",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查",
+    "schoolCode": "10213",
+    "school": "哈尔滨工业大学",
+    "checkedAt": "2026-09-10",
+    "status": "not-found-current-major",
+    "sourceIds": [
+      "major-score-root-hit-scores",
+      "major-score-root-hit-query-2026"
+    ],
+    "checkedUrls": [
+      "https://zsb.hit.edu.cn/information/score",
+      "https://zsb.hit.edu.cn/information/score?province=%E5%B9%BF%E8%A5%BF&year=2026"
+    ],
+    "recordCount": 0,
+    "note": "官方分数查询当前提供2025/2024；显式请求广西2026后实际页面仍显示2025广西，因此不将该返回误记为2026。未取得本轮所查2026普通专业最低分。"
+  },
+  {
+    "id": "major-score-review-root-10558",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查",
+    "schoolCode": "10558",
+    "school": "中山大学",
+    "checkedAt": "2026-09-10",
+    "status": "empty-current-response",
+    "sourceIds": [
+      "major-score-root-sysu-params",
+      "major-score-root-sysu-2026-物理类",
+      "major-score-root-sysu-2026-历史类",
+      "major-score-root-sysu-control-2025"
+    ],
+    "checkedUrls": [
+      "https://admission.sysu.edu.cn/f/ajax_lnfs_param",
+      "https://admission.sysu.edu.cn/f/ajax_lnfs"
+    ],
+    "recordCount": 0,
+    "note": "正常公开查询流程已跑通。广西菜单最新为2025；2026物理、历史普通录取均成功响应但学校/专业列表为空，2025物理正向对照有专业数据。只记录本轮未取得，不断言学校尚未公布；不猜补其他招生类别。"
+  },
+  {
+    "id": "major-score-review-root-14008",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查",
+    "schoolCode": "14008",
+    "school": "重庆三峡医药高等专科学校",
+    "checkedAt": "2026-09-10",
+    "status": "source-conflict",
+    "sourceIds": [
+      "major-score-root-sxyyc-recheck"
+    ],
+    "checkedUrls": [
+      "https://www.sxyyc.net/zsb/info/1015/2257.htm"
+    ],
+    "recordCount": 0,
+    "note": "重新取得的官网内容摘要与前轮一致，2条冲突未修正：物理医学检验技术录取1人却记最低335/最高411；物理预防医学录取1人却记最低283/最高424。保留原文并继续排除分数比较，不以专业组线猜改。"
+  },
+  {
+    "id": "major-score-review-root-12864",
+    "year": 2026,
+    "province": "广西",
+    "auditKind": "major-scores",
+    "title": "2026广西专业录取分复查",
+    "schoolCode": "12864",
+    "school": "浙江经贸职业技术学院",
+    "checkedAt": "2026-09-10",
+    "status": "collected-partial",
+    "sourceIds": [
+      "major-score-root-zjiet-page",
+      "major-score-root-zjiet-table"
+    ],
+    "checkedUrls": [
+      "https://zs.zjiet.edu.cn/2026/0817/c1030a71607/pagem.htm",
+      "https://zs.zjiet.edu.cn/_upload/article/images/d3/d0/2f45bca2432097a3305865280ad0/47dacf98-54ea-476d-ac7d-7e1bafb91ce3_d.png"
+    ],
+    "recordCount": 12,
+    "note": "官方广西录取图表新增12条专业分（历史6、物理6），对应20名实际录取考生。双人读图与两科合计均一致。9个专业名称按科类分列；空白格不作0分、合计行不作为专业。仍缺专业组、精确批次和轮次，以及分专业计划人数。"
+  }
+]

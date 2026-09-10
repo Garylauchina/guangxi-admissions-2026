@@ -1,0 +1,467 @@
+[
+  {
+    "schoolCode": "10002",
+    "sourceId": "major-a-ruc-score-params",
+    "dataPath": "data.ssmc_nf_klmc_sex_campus_zslx_Map.广西",
+    "availableOptions": [
+      {
+        "klmc": "历史类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "新路引航专项计划"
+      },
+      {
+        "klmc": "历史类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "本科一批"
+      },
+      {
+        "klmc": "历史类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "国家专项"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "新路引航专项计划"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "本科一批"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "国家专项"
+      }
+    ],
+    "showField": {
+      "showField1": [
+        {
+          "fieldName": "nf",
+          "label": "年份",
+          "sort": 10,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "ssmc",
+          "label": "省份",
+          "sort": 20,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "klmc",
+          "label": "科类",
+          "sort": 30,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "zylx",
+          "label": "招生类型",
+          "sort": 40,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "minScore",
+          "label": "最低分",
+          "sort": 50,
+          "width": "14.286%",
+          "isSortColumn": "1"
+        },
+        {
+          "fieldName": "avgScore",
+          "label": "平均分",
+          "sort": 60,
+          "width": "14.286%",
+          "isSortColumn": "1"
+        },
+        {
+          "fieldName": "maxScore",
+          "label": "最高分",
+          "sort": 70,
+          "width": "14.286%",
+          "isSortColumn": "1"
+        }
+      ],
+      "showField3": [
+        {
+          "fieldName": "nf",
+          "label": "年份",
+          "sort": 10,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "ssmc",
+          "label": "省市",
+          "sort": 20,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "klmc",
+          "label": "科类",
+          "sort": 30,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "zymc",
+          "label": "专业",
+          "sort": 40,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "minScore",
+          "label": "最低分",
+          "sort": 50,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "avgScore",
+          "label": "平均分",
+          "sort": 60,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "maxScore",
+          "label": "最高分",
+          "sort": 70,
+          "width": "14.286%",
+          "isSortColumn": "0"
+        }
+      ]
+    },
+    "sourceRemarks": {
+      "remark1": ""
+    }
+  },
+  {
+    "schoolCode": "10358",
+    "sourceId": "major-a-ustc-score-params",
+    "dataPath": "data.ssmc_nf_klmc_sex_campus_zslx_Map.广西",
+    "availableOptions": [
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "普通本科"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2024",
+        "zslx": "普通本科"
+      }
+    ],
+    "showField": {
+      "showField1": [
+        {
+          "fieldName": "nf",
+          "label": "年份",
+          "sort": 10,
+          "width": "8.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "ssmc",
+          "label": "省份",
+          "sort": 20,
+          "width": "8.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "klmc",
+          "label": "科类",
+          "sort": 30,
+          "width": "10.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "zylx",
+          "label": "类型",
+          "sort": 40,
+          "width": "10.286%",
+          "isSortColumn": "0"
+        },
+        {
+          "fieldName": "minScore",
+          "label": "投档线",
+          "sort": 50,
+          "width": "8.286%",
+          "isSortColumn": "1"
+        },
+        {
+          "fieldName": "maxScore",
+          "label": "最高分",
+          "sort": 70,
+          "width": "8.286%",
+          "isSortColumn": "1"
+        }
+      ],
+      "showField3": []
+    },
+    "sourceRemarks": {
+      "remark1": "<p><span style=\"color:#e74c3c;\">仅供参考，以各省级考试院或招办公布数据为准 </span></p>"
+    }
+  },
+  {
+    "schoolCode": "10007",
+    "sourceId": "major-a-bit-score-params",
+    "dataPath": "data.ssmc_nf_klmc_sex_campus_zslx_Map.广西",
+    "availableOptions": [
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "历史类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "艺术类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "艺术类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "艺术类"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2024",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "历史类",
+        "campus": "",
+        "sex": "",
+        "nf": "2024",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "艺术类",
+        "campus": "",
+        "sex": "",
+        "nf": "2024",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "艺术类",
+        "campus": "",
+        "sex": "",
+        "nf": "2024",
+        "zslx": "艺术类"
+      },
+      {
+        "klmc": "理工",
+        "campus": "",
+        "sex": "",
+        "nf": "2023",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "理工",
+        "campus": "",
+        "sex": "",
+        "nf": "2022",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "理工",
+        "campus": "",
+        "sex": "",
+        "nf": "2021",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "理工",
+        "campus": "",
+        "sex": "",
+        "nf": "2020",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "文史",
+        "campus": "",
+        "sex": "",
+        "nf": "2020",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "理工",
+        "campus": "",
+        "sex": "",
+        "nf": "2019",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "文史",
+        "campus": "",
+        "sex": "",
+        "nf": "2019",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "理工",
+        "campus": "",
+        "sex": "",
+        "nf": "2018",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "文史",
+        "campus": "",
+        "sex": "",
+        "nf": "2018",
+        "zslx": "统招"
+      }
+    ],
+    "showField": {
+      "showField1": [],
+      "showField3": []
+    },
+    "sourceRemarks": {
+      "remark1": ""
+    }
+  },
+  {
+    "schoolCode": "10006",
+    "sourceId": "major-a-buaa-score-params",
+    "dataPath": "data.ssmc_nf_klmc_sex_campus_zslx_Map.广西",
+    "availableOptions": [
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "中外合作办学"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "国家专项"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "民族班"
+      },
+      {
+        "klmc": "历史类",
+        "campus": "",
+        "sex": "",
+        "nf": "2025",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2024",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2024",
+        "zslx": "国家专项"
+      },
+      {
+        "klmc": "物理类",
+        "campus": "",
+        "sex": "",
+        "nf": "2024",
+        "zslx": "民族班"
+      },
+      {
+        "klmc": "历史类",
+        "campus": "",
+        "sex": "",
+        "nf": "2024",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "理工",
+        "campus": "",
+        "sex": "",
+        "nf": "2023",
+        "zslx": "统招"
+      },
+      {
+        "klmc": "理工",
+        "campus": "",
+        "sex": "",
+        "nf": "2023",
+        "zslx": "国家专项"
+      },
+      {
+        "klmc": "理工",
+        "campus": "",
+        "sex": "",
+        "nf": "2023",
+        "zslx": "民族班"
+      },
+      {
+        "klmc": "文史",
+        "campus": "",
+        "sex": "",
+        "nf": "2023",
+        "zslx": "统招"
+      }
+    ],
+    "showField": {
+      "showField1": [],
+      "showField3": []
+    },
+    "sourceRemarks": {
+      "remark1": ""
+    }
+  }
+]

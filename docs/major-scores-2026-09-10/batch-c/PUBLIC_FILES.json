@@ -1,0 +1,22 @@
+{
+  "files": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "excluded-records.json",
+    "QA.json",
+    "requests.json",
+    "collect.py",
+    "parse_tables.py",
+    "build_batch.py",
+    "verify_batch.py",
+    "核验说明.md",
+    "policy-read-note.json",
+    "PUBLIC_FILES.json"
+  ],
+  "excludeDirectories": [
+    "raw",
+    "__pycache__"
+  ],
+  "note": "仅白名单文件可公开；raw目录含原页面及官方静态脚本，仅本地复核，禁止整目录递归发布。"
+}

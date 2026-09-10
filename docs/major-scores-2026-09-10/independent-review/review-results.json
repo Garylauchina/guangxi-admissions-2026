@@ -1,0 +1,120 @@
+{
+  "checkedAt": "2026-09-10T09:39:31.760Z",
+  "status": "ready",
+  "scope": [
+    "新专业分导入器及比较/筛选/详情逻辑",
+    "C包57条桂林医科大学实际专业分全量原始表格比对",
+    "根包浙江经贸12条图片读数已在前序独立回复核验，本报告不扩展其采集范围"
+  ],
+  "openBlockingFindings": 0,
+  "findings": [
+    {
+      "id": "I-REFERENCE",
+      "severity": "P1",
+      "title": "组参考分可覆盖专业真实最低分",
+      "originalRisk": "额外referenceScore=100在修复前覆盖score=515，导致卡片、排序和导出比较错误。",
+      "resolution": "导入禁入referenceScore/matchedGroupId，真实专业分比较函数直接使用score。",
+      "status": "fixed-and-independently-verified",
+      "probe": "referenceScoreOverride"
+    },
+    {
+      "id": "I-SCALE",
+      "severity": "P1",
+      "title": "明示不同满分制仍可进入高考总分比较",
+      "originalRisk": "scoreScaleMaximum=100、scoreBasis=综合评价成绩的90分行修复前仍可导入比较。",
+      "resolution": "导入拒绝明示非750分制和校测/综合成绩口径；允许官方750分制高考总分及其加分口径。",
+      "status": "fixed-and-independently-verified",
+      "probe": "wrongScale"
+    },
+    {
+      "id": "I-ROUND",
+      "severity": "P2",
+      "title": "来源征集记录可误标为首轮",
+      "originalRisk": "round首轮且sourceNote征集修复前通过导入。",
+      "resolution": "导入对来源轮次及明确征集备注加冲突校验。",
+      "status": "fixed-and-independently-verified",
+      "probe": "sourceOnlyRound"
+    },
+    {
+      "id": "I-SCORE-GAP",
+      "severity": "P1",
+      "title": "已记最低分证据缺口仍可比较",
+      "originalRisk": "非空scoreEvidenceGaps与scoreComparable=true的矛盾组合修复前被接受。",
+      "resolution": "有分数证据缺口必须不参与分数比较。",
+      "status": "fixed-and-independently-verified",
+      "probe": "sourceScoreConflict"
+    },
+    {
+      "id": "I-CONFLICT-SCOPE",
+      "severity": "P2",
+      "title": "非分数冲突错误阻断有效专业分",
+      "originalRisk": "仅filingScoreInSource或planIdentity冲突也被强制设为不可比较，与既有玉林审核口径不一致。",
+      "resolution": "按分数相关字段判定，保留非专业分冲突的可证专业分。",
+      "status": "fixed-and-independently-verified",
+      "probe": "nonScoreConflict"
+    },
+    {
+      "id": "I-QUALIFICATION",
+      "severity": "P2",
+      "title": "原始资格类别未进入一般筛选规则",
+      "originalRisk": "sourceCategory国家专项可出现在一般筛选；类别待核计划也留在默认一般计划列表。后者原界面只承诺排除已标注资格，属于边界改善。",
+      "resolution": "纳入sourceCategory/rawAdmissionType，类别待核排除出一般筛选；全类别仍可查看。",
+      "status": "fixed-and-independently-verified",
+      "probe": "sourceOnlyTargeted"
+    },
+    {
+      "id": "I-ZERO-ADMITTED",
+      "severity": "P2",
+      "title": "明确零录取可能生成零分实际录取线",
+      "originalRisk": "score=0且admittedCount=0修复前可作为实际录取线比较；本轮真实包无此行。",
+      "resolution": "明确录取数0的记录拒绝进入实际专业分。",
+      "status": "fixed-and-independently-verified",
+      "probe": "zeroAdmitted"
+    },
+    {
+      "id": "C-ENGLISH-90",
+      "severity": "P2",
+      "title": "中澳项目遗漏已公开英语单科门槛",
+      "originalRisk": "第十一条项目定义与第二十条英语要求能直接关联，但初稿仅提示另核项目条件。",
+      "resolution": "5条中澳记录已补英语90/150或其他满分60%，fieldSourceIds.note指向本校2026章程。",
+      "status": "fixed-and-independently-verified",
+      "probe": null
+    }
+  ],
+  "codeHashes": {
+    "scripts/import-major-score-batch.mjs": "e384b1f9b3c09c8cd7be212676bef21d27111e4f8b6c5b6e1b05a50d27de4177",
+    "site/logic.js": "cb38e275a24d5f6e186c429fe722ffc1c34a52e6cf16802a7335aecc2e4fed41",
+    "site/app.js": "012c2c3e43a8e2efe8db05b2d41a608ee8f6443b12267863c74252cf06c44f1a"
+  },
+  "batchCSha256": "d2649e124665cd840115144c45275467bea4c008a246550a043ce6710eb1d5c2",
+  "batchC": {
+    "rows": 57,
+    "configurationEntries": 32,
+    "uniqueQueryGroups": 31,
+    "includedGroups": 26,
+    "sourceRows": 62,
+    "excludedPreparatoryRows": 5,
+    "byTrack": {
+      "物理": 51,
+      "历史": 6
+    },
+    "byAdmissionType": {
+      "农村订单定向免费医学生": 17,
+      "普通类": 34,
+      "民族班": 1,
+      "中澳学分互认联合培养项目": 5
+    }
+  },
+  "regressionTests": {
+    "passed": 13,
+    "failed": 0,
+    "command": "node --test tests/major-score-batch.test.mjs tests/logic.test.mjs tests/app.test.mjs"
+  },
+  "limitations": [
+    "原始响应哈希的真实性不能独立重构会话脱敏前字节；本次独立核实归档字节哈希及元数据一致。",
+    "本次仅按原始官方归档重算逐组分值；实时分数入口独立读取超时，章程实时读取成功。",
+    "轮次未分，全部保留录取汇总；不能因为最低分碰巧与某轮组线相同改成首轮或征集。",
+    "本审阅不代表对所有学校或所有历史来源重新联网核验；数据来源内容正确性仍需逐批资料审核，字符串和数值校验无法替代原始资料。",
+    "年份和省份的新行校验已用反例确认拒绝；原有720条既有基线不因本轮导入测试自动获得省份重新审核。"
+  ]
+}
