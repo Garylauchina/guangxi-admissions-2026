@@ -1,0 +1,331 @@
+[
+  {
+    "planId": "plan26-88ebba325105de74",
+    "track": "历史",
+    "major": "中医学（“5+3”一体化）",
+    "group": "111",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-b71a19600cd2bf39",
+    "track": "物理",
+    "major": "中医学（“5+3”一体化）",
+    "group": "151",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-f7c84df754d7e911",
+    "track": "历史",
+    "major": "中医学",
+    "group": "112",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-6f46a1aa4a808c47",
+    "track": "物理",
+    "major": "中医学",
+    "group": "152",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-6da081338fd3e7b3",
+    "track": "历史",
+    "major": "中医学（国家专项计划）",
+    "group": "511",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-49f218e6afb1de35",
+    "track": "物理",
+    "major": "中医学（国家专项计划）",
+    "group": "551",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-dddfd304158b54cb",
+    "track": "历史",
+    "major": "中医学（地方专项计划）",
+    "group": "512",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-65a46c9d5924b4b0",
+    "track": "物理",
+    "major": "中医学（地方专项计划）",
+    "group": "552",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-06f18583adbac17c",
+    "track": "历史",
+    "major": "中医康复学",
+    "group": "112",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-d28d7fa4897867e6",
+    "track": "物理",
+    "major": "中医康复学",
+    "group": "152",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-3fde66ba40c3fb37",
+    "track": "历史",
+    "major": "中医骨伤科学",
+    "group": "112",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-31e678c3b51d0a49",
+    "track": "物理",
+    "major": "中医骨伤科学",
+    "group": "152",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-ab5b97d4a800f282",
+    "track": "历史",
+    "major": "针灸推拿学",
+    "group": "112",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-3eaa0ec4f8f444ab",
+    "track": "物理",
+    "major": "针灸推拿学",
+    "group": "152",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-5720383d6bd21126",
+    "track": "历史",
+    "major": "针灸推拿学（民族班）",
+    "group": "711",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-bdf6271d8f085e1c",
+    "track": "物理",
+    "major": "针灸推拿学（民族班）",
+    "group": "751",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-7557ce264b223794",
+    "track": "历史",
+    "major": "壮医学",
+    "group": "112",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-f91d68e12ee25e23",
+    "track": "物理",
+    "major": "壮医学",
+    "group": "152",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-5f43091b914ac7ae",
+    "track": "历史",
+    "major": "壮医学（民族班）",
+    "group": "711",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-3dfa60493dfa0a76",
+    "track": "物理",
+    "major": "壮医学（民族班）",
+    "group": "751",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-15493fe14adc3946",
+    "track": "物理",
+    "major": "中西医临床医学",
+    "group": "155",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-f1562f1210ff85b8",
+    "track": "物理",
+    "major": "临床医学",
+    "group": "154",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-2f9e44742f53653a",
+    "track": "物理",
+    "major": "临床医学（国家专项计划）",
+    "group": "553",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-33e52e23b8064504",
+    "track": "物理",
+    "major": "临床医学（地方专项计划）",
+    "group": "554",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-8444438f6e8f4ec3",
+    "track": "物理",
+    "major": "口腔医学",
+    "group": "153",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-9d8e1bfe2cacc02e",
+    "track": "物理",
+    "major": "预防医学",
+    "group": "156",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-9b43819610ac864a",
+    "track": "物理",
+    "major": "医学检验技术",
+    "group": "158",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-d144456f01b83d07",
+    "track": "物理",
+    "major": "医学影像技术",
+    "group": "158",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-139340afa163596f",
+    "track": "物理",
+    "major": "康复治疗学",
+    "group": "158",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-2a01c2a28ea10da4",
+    "track": "物理",
+    "major": "临床药学",
+    "group": "157",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-52f03271cca0e1b7",
+    "track": "物理",
+    "major": "中药学",
+    "group": "157",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-8d0ff5cc015ae6ab",
+    "track": "物理",
+    "major": "药学",
+    "group": "157",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-f8956e2f3ec6f047",
+    "track": "物理",
+    "major": "制药工程",
+    "group": "157",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-94031829ff8a8a8b",
+    "track": "物理",
+    "major": "医学信息工程",
+    "group": "158",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-e8b5d4081a57aeea",
+    "track": "物理",
+    "major": "食品质量与安全",
+    "group": "158",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-048b12f615d5b02c",
+    "track": "物理",
+    "major": "护理学",
+    "group": "159",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-99f7773f8340f3e7",
+    "track": "历史",
+    "major": "健康服务与管理",
+    "group": "113",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-328ce0d4bf8fc025",
+    "track": "物理",
+    "major": "健康服务与管理",
+    "group": "160",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-7c5b120d1ced87ee",
+    "track": "历史",
+    "major": "免费少数民族预科班（预科A类）",
+    "group": "713",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-b2bb64ce4c05e02b",
+    "track": "物理",
+    "major": "免费少数民族预科班（预科A类）",
+    "group": "753",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-88450738858fa936",
+    "track": "历史",
+    "major": "少数民族预科班（预科B类）",
+    "group": "712",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-41e8b6d0a619ef56",
+    "track": "物理",
+    "major": "少数民族预科班（预科B类）",
+    "group": "752",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-343db0a21cad4f67",
+    "track": "历史",
+    "major": "针灸推拿",
+    "group": "114",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-2d9288eee5707d0d",
+    "track": "物理",
+    "major": "针灸推拿",
+    "group": "161",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-ff0365dc8330ecf4",
+    "track": "物理",
+    "major": "中药学",
+    "group": "162",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-830296952b75ef91",
+    "track": "物理",
+    "major": "药学",
+    "group": "162",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  },
+  {
+    "planId": "plan26-bff764ac6c83167f",
+    "track": "物理",
+    "major": "护理",
+    "group": "163",
+    "sourceId": "audit-plan26-gxtcm_groups_image"
+  }
+]

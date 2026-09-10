@@ -1,0 +1,383 @@
+{
+  "strong-2026-pku": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "audit-special-source-2026-pku-brochure"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10001"
+    ]
+  },
+  "strong-2026-thu": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "special-source-2026-thu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10003"
+    ]
+  },
+  "strong-2026-ruc": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-ruc"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-buaa": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "audit-special-source-2026-buaa-brochure"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。另实际访问该校报名平台公共入口，仅见报名界面框架，未显示省份计划数据；不能据此断言原报名期也不可查。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10006"
+    ]
+  },
+  "strong-2026-bit": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-bit"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-cau": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "special-source-2026-cau"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10019"
+    ]
+  },
+  "strong-2026-bnu": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "special-source-2026-bnu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10027"
+    ]
+  },
+  "strong-2026-muc": {
+    "status": "not-applicable-province",
+    "sourceIds": [
+      "special-source-2026-muc"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026官方完整招生范围不含广西；这里空值表示本省不适用，不是等待补录计划人数。"
+  },
+  "strong-2026-nankai": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-nankai"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-tju": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "audit-special-source-2026-tju-brochure"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10056"
+    ]
+  },
+  "strong-2026-dlut": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-dlut"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-neu": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "special-source-2026-neu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10145"
+    ]
+  },
+  "strong-2026-jlu": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-jlu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-hit": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-hit"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-fudan": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "special-source-2026-fudan"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10246"
+    ]
+  },
+  "strong-2026-tongji": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "special-source-2026-tongji"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10247"
+    ]
+  },
+  "strong-2026-sjtu": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-sjtu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-ecnu": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "special-source-2026-ecnu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10269"
+    ]
+  },
+  "strong-2026-nju": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-nju"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-seu": {
+    "status": "not-applicable-province",
+    "sourceIds": [
+      "special-source-2026-seu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026官方完整招生范围不含广西；这里空值表示本省不适用，不是等待补录计划人数。"
+  },
+  "strong-2026-zju": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "special-source-2026-zju"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10335"
+    ]
+  },
+  "strong-2026-ustc": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "special-source-2026-ustc"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。另实际访问该校报名平台公共入口，仅见报名界面框架，未显示省份计划数据；不能据此断言原报名期也不可查。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10358"
+    ]
+  },
+  "strong-2026-xmu": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "special-source-2026-xmu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10384"
+    ]
+  },
+  "strong-2026-sdu": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-sdu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-ouc": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-ouc"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-whu": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-whu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-hust": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "audit-special-source-2026-hust-brochure"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10487"
+    ]
+  },
+  "strong-2026-hnu": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "audit-special-source-2026-hnu-brochure"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10532"
+    ]
+  },
+  "strong-2026-csu": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "audit-special-source-2026-csu-brochure"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10533"
+    ]
+  },
+  "strong-2026-sysu": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-sysu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-scut": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-scut"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-scu": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-scu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-cqu": {
+    "status": "registration-system-no-public-count",
+    "sourceIds": [
+      "audit-special-source-2026-cqu-brochure"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+    "systemUrls": [
+      "https://bm.chsi.com.cn/jcxkzs/sch/10611"
+    ]
+  },
+  "strong-2026-uestc": {
+    "status": "not-applicable-province",
+    "sourceIds": [
+      "audit-special-source-2026-uestc-brochure"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026官方完整招生范围不含广西；这里空值表示本省不适用，不是等待补录计划人数。"
+  },
+  "strong-2026-xjtu": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-xjtu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-nwpu": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-nwpu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-nwafu": {
+    "status": "primary-page-access-limited",
+    "sourceIds": [
+      "special-source-2026-nwafu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+    "systemUrls": []
+  },
+  "strong-2026-lzu": {
+    "status": "province-count-table-not-obtained",
+    "sourceIds": [
+      "special-source-2026-lzu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮已检查2026简章及所列招生范围/成绩公告；取得的材料未给出可读广西人数表，无法确认完整专业名额。",
+    "systemUrls": []
+  },
+  "strong-2026-nudt": {
+    "status": "not-applicable-province",
+    "sourceIds": [
+      "audit-special-source-2026-nudt-brochure"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "2026官方完整招生范围不含广西；这里空值表示本省不适用，不是等待补录计划人数。"
+  }
+}

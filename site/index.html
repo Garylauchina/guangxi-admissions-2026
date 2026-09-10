@@ -23,6 +23,7 @@
       <button type="button" data-view="plans">专业招生计划</button>
       <button type="button" data-view="majorCutoffs">专业录取分数</button>
       <button type="button" data-view="special">强基与竞赛</button>
+      <button type="button" data-view="gaps">院校数据缺口</button>
       <button type="button" data-view="sources">数据与方法</button>
     </nav>
     <section id="data-error" class="error-box" hidden><h2>数据暂时未能载入</h2><p>请检查网络后刷新页面。也可以从上方公开仓库下载数据。</p><button type="button" id="reload">重新加载</button><p id="error-detail" class="muted"></p></section>
@@ -31,6 +32,7 @@
         <div class="panel-top"><h2 id="filter-title">我的筛选条件</h2><button class="text-button" id="reset" type="button">重置</button></div>
         <form id="filters">
           <label for="track">首选科目</label><select id="track" name="track"><option value="物理">物理类</option><option value="历史">历史类</option></select>
+          <p id="track-help" class="help">首选：物理、历史二选一。再选：化学、生物、政治、地理四选二，可在“专业招生计划”中筛选。</p>
           <div class="field-pair"><div><label for="mode">参考方式</label><select id="mode"><option value="score">2026 分数</option><option value="rank">2026 参考位次</option></select></div><div><label for="value" id="value-label">高考总分</label><input id="value" inputmode="numeric" type="number" min="0" max="750" step="1" placeholder="例如 550"></div></div>
           <div id="reference-note" class="reference-note">不填分数也可以浏览。分数须按 2026 年口径；跨年优先结合位次比较。</div>
           <label for="band">与参考分数的距离</label><select id="band"><option value="20">上下 20 分</option><option value="40">上下 40 分</option><option value="below">不高于参考分数</option><option value="all">不限分数</option></select>
@@ -53,6 +55,14 @@
       </section>
     </div>
     <section id="special-view" class="content-view" hidden aria-labelledby="special-title"><div class="section-heading"><div><h2 id="special-title">强基与竞赛升学通道</h2><p>报名资格、入围和录取是不同阶段。以下是 2026 年历史资料，报名时间均已结束。</p></div></div><div id="special-policy"></div><div class="special-controls"><label for="special-query">搜索学校或项目 <input id="special-query" type="search" placeholder="例如：浙江大学、数学、保送"></label><label for="special-status">广西招生证据 <select id="special-status"><option value="all">全部（含待核实与不招生）</option><option value="confirmed">已确认面向广西</option><option value="unknown">广西范围待核实</option><option value="excluded">已确认不面向广西</option></select></label></div><p id="special-count" class="muted" aria-live="polite"></p><div id="special-list" class="special-grid"></div></section>
+    <section id="gaps-view" class="content-view" hidden aria-labelledby="gaps-title">
+      <div class="section-heading"><h2 id="gaps-title">逐校查看数据缺口</h2><p>盘点本站已收录资料。没有收录不等于没有招生；有部分记录也不代表该校、该组专业已完整。</p></div>
+      <div id="gap-overview" class="notice"></div>
+      <div class="special-controls"><label for="gap-query">院校名称或代码 <input id="gap-query" type="search" placeholder="例如：广西大学、10593"></label><label for="gap-status">查看范围 <select id="gap-status"><option value="all">全部院校</option><option value="collected">已收录计划或专业录取线</option><option value="no-plans">尚未收录专业计划</option><option value="no-majors">尚未收录专业录取线</option><option value="subjects">计划选科要求有缺口</option><option value="reviewed">本轮有逐校复查记录</option></select></label></div>
+      <p id="gap-count" class="muted" aria-live="polite"></p><div id="gap-list" class="gap-grid"></div>
+      <div class="pagination"><button type="button" id="gap-prev" class="outline-button">上一页</button><span id="gap-page"></span><button type="button" id="gap-next" class="outline-button">下一页</button></div>
+      <p class="help"><a href="./data/school-coverage.json" download>下载逐校数据覆盖台账 ↓</a> · <a href="./data/school-audit-notes.json" download>下载本轮复查记录 ↓</a> · <a href="./data/major-filing-cutoffs.json" download>另存的专业投档记录（非实际录取线）↓</a>。首轮无出档分数是官方表中的空值，不能当作零分或缺少采集。</p>
+    </section>
     <section id="sources-view" class="content-view" hidden aria-labelledby="sources-title"><h2 id="sources-title">数据覆盖与使用方法</h2><div id="coverage-detail"></div><div class="method-grid"><article><h3>分数线怎么看</h3><p>专业组投档线是该轮进入一个专业组的最低分，不是组内每个专业的录取分。本站只在同年、同校、同科类、同批次、同组码全部匹配时关联计划与组线。</p><p>分差表示“参考分数减去 2026 年线”，不等于录取概率。征集与首次投档、普通类与强基综合成绩均分开展示。</p></article><article><h3>位次怎么用</h3><p>位次模式用广西 2026 年“总成绩＋全国性加分”一分一档表换算参考分。同分显示区间；未公开的高分档和空缺档不推算。该区间不是专业组精确投档位次。</p><p>跨年分数不可直接等同。地方性加分适用范围、同分排序及投档资格还需核对广西当年规定。</p></article><article><h3>筛选之后做什么</h3><p>先查看计划、选科要求和学费，再确认体检、单科、外语语种、调剂、专项资格及校区。没有收录的计划不等于该校没有招生。</p><p>本科提前批、艺术、体育及单独招生等不与普通类分数混比。最终填报请使用广西官方系统。</p></article><article><h3>公开与隐私</h3><p>本站由个人整理，不是考试院或高校的官方填报服务。分数不上传服务器；备选存在本机，清除浏览器数据会丢失。</p><p>代码公开，结构化事实保留来源、采集时间和原始文件摘要。欢迎通过仓库 Issue 提供官方来源勘误。</p></article></div><div class="source-heading"><h3>来源台账</h3><a href="./data/sources.json" download>下载来源 JSON ↓</a></div><div id="sources-list"></div></section>
   </main>
   <footer><span>广西志愿参考 · 2026 公开资料整理</span><div><a href="https://www.gxeea.cn/" target="_blank" rel="noopener noreferrer">广西招生考试院 ↗</a><a href="https://zyfz.gxeea.cn/" target="_blank" rel="noopener noreferrer">广西阳光志愿 ↗</a><a href="https://gaokao.chsi.com.cn/" target="_blank" rel="noopener noreferrer">阳光高考 ↗</a></div></footer>

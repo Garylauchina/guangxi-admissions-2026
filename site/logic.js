@@ -1,13 +1,23 @@
 export const SPECIAL = /专项|预科|民族班|定向|免费|公费|精准|地方优师|边防|乡村|基层|只投|资格名单|仅招|只招|限招|须为|政治面貌/;
-export const restrictionText = row => `${row.note || ''} ${row.batch || ''} ${row.category || ''} ${row.admissionType || ''} ${row.major || ''}`.replaceAll('非定向','');
+export const restrictionText = row => `${row.note || ''} ${row.batch || ''} ${row.category || ''} ${row.admissionType || ''} ${row.major || ''}`.replaceAll('非定向','').replaceAll('不含预科直升','');
 export function specialLabel(row) {
   const text = restrictionText(row);
   const labels = ['国家专项', '地方专项', '高校专项', '预科', '民族班', '公费', '免费', '定向'];
   return labels.filter(x => text.includes(x)).join(' · ') || (SPECIAL.test(text) ? '有资格或地域限制' : '一般计划');
 }
 export const schoolKey = name => (name || '').replace(/[（）()\s]/g, '');
+export const recordSourceIds = row => [...new Set([...(row.sourceIds || []), ...(row.sourceId ? [row.sourceId] : []), ...Object.values(row.fieldSourceIds || {}).flat()])];
 export function exactGroupKey(row) {
-  return row.group && row.track && row.batch ? [row.year, schoolKey(row.school), row.track, row.batch, String(row.group)].join('|') : null;
+  return row.year && row.schoolCode && row.school && row.group && row.track && row.batch ? [row.year, String(row.schoolCode), schoolKey(row.school), row.track, row.batch, String(row.group)].join('|') : null;
+}
+export function firstRoundIndex(rows) {
+  const index = new Map();
+  for (const row of rows.filter(r => r.round === '首轮')) {
+    const key = exactGroupKey(row);
+    if (!key || index.has(key)) throw new Error('首轮专业组身份缺失或重复，请核查数据。');
+    index.set(key, row);
+  }
+  return index;
 }
 export function getReference(value, mode, track, ranks) {
   if (value === '' || value === null || value === undefined) return { score: null, empty: true };
@@ -28,12 +38,13 @@ export function subjectStatus(row, selected) {
   return ok ? 'match' : 'mismatch';
 }
 export function scoreMatch(score, reference, band, includeUnknown = true) {
-  if (reference === null || reference === undefined || band === 'all') return true;
   if (score === null || score === undefined) return includeUnknown;
+  if (reference === null || reference === undefined || band === 'all') return true;
   if (band === 'below') return score <= reference;
   const radius = Number(band);
   return Math.abs(score - reference) <= radius;
 }
+export const comparableScore = row => row.scoreComparable === false ? null : row.referenceScore ?? row.score ?? null;
 export function filterRows(rows, opts) {
   const query = (opts.query || '').trim().toLowerCase();
   return rows.filter(r => {
@@ -42,7 +53,7 @@ export function filterRows(rows, opts) {
     if (opts.kind === 'general' && SPECIAL.test(restrictionText(r))) return false;
     if (opts.kind === 'special' && !SPECIAL.test(restrictionText(r))) return false;
     if (query && ![r.school, r.schoolCode, r.group, r.major, r.note, ...(r.joinedMajors || [])].filter(Boolean).join(' ').toLowerCase().includes(query)) return false;
-    if (!scoreMatch(r.referenceScore ?? r.score, opts.reference, opts.band, opts.includeUnknown)) return false;
+    if (!scoreMatch(comparableScore(r), opts.reference, opts.band, opts.includeUnknown)) return false;
     if (opts.subjects?.length && subjectStatus(r, opts.subjects) === 'mismatch') return false;
     if (opts.onlyVerifiedSubjects && (!r.subjectRule || r.subjectRule === 'unknown')) return false;
     if (opts.savedOnly && !opts.saved.has(r.id)) return false;

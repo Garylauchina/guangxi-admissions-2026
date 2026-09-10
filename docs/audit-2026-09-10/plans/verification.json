@@ -1,0 +1,158 @@
+{
+  "baselineCount": 1584,
+  "outputCount": 1497,
+  "excluded": 87,
+  "baseIdPartitionExact": true,
+  "baselinePlanCountsUnchanged": true,
+  "teacherMergeCountsMatchBaseline": true,
+  "apiYearProvinceAndOverview": [
+    {
+      "file": "raw/gxmu_plan_0.json",
+      "rows": 14,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 1046,
+      "overviewCount": 1046,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxmu_plan_1.json",
+      "rows": 62,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 4785,
+      "overviewCount": 4785,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxmzu_plan_0.json",
+      "rows": 1,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 5,
+      "overviewCount": 5,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxmzu_plan_1.json",
+      "rows": 61,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 2153,
+      "overviewCount": 2153,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxmzu_plan_2.json",
+      "rows": 4,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 50,
+      "overviewCount": 50,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxmzu_plan_3.json",
+      "rows": 90,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 4779,
+      "overviewCount": 4779,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxu_plan_0.json",
+      "rows": 18,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 343,
+      "overviewCount": 343,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxu_plan_1.json",
+      "rows": 112,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 3246,
+      "overviewCount": 3246,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxufe_plan_0.json",
+      "rows": 1,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 25,
+      "overviewCount": 25,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxufe_plan_1.json",
+      "rows": 47,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 1346,
+      "overviewCount": 1346,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxufe_plan_2.json",
+      "rows": 1,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 35,
+      "overviewCount": 35,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/gxufe_plan_3.json",
+      "rows": 72,
+      "years": [
+        "2026"
+      ],
+      "province": "广西45",
+      "planCount": 3128,
+      "overviewCount": 3128,
+      "totalsMatch": true
+    },
+    {
+      "file": "raw/nnnu_plan_all.json",
+      "rows": 196,
+      "year": "2026",
+      "province": "广西",
+      "totalsMatch": true
+    }
+  ],
+  "explicitPublicRequests": 40,
+  "sourceHashChecksPassed": true,
+  "glutPaginationProbe": {
+    "page1": "raw/glut_plan.html",
+    "page2": "raw/glut_page2_probe.html",
+    "identicalBody": true,
+    "interpretation": "pageNo=2返回与pageNo=1相同表，服务端未展示分页或总页数，不能宣称空页或全区完整。"
+  },
+  "limitation": "接口汇总一致证明这些已查询条件的行总和一致，不证明学校全部方向、特殊类别或全区院校覆盖完整。"
+}

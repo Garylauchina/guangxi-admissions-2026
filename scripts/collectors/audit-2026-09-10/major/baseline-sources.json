@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ylu-2026-7162",
+    "title": "玉林师范学院2026年广西各批次最低分录取公告",
+    "url": "https://zjw.ylu.edu.cn/info/1013/7162.htm",
+    "publisher": "玉林师范学院招生就业处",
+    "publishedAt": "2026-07-11T12:36:04+08:00",
+    "accessedAt": "2026-09-10T04:47:57.238654+00:00",
+    "sha256": "339bb362aa75539f42cc20674f2b6d2d3d27a9d293d0f835ebb2d96dcc43bcf6",
+    "recordCount": 129,
+    "rawPath": "raw/ylu-2026-7162.html",
+    "method": "Official UTF-8 HTML; expand merged cells; select regular bachelor and non-sports publicly funded teacher tables; preserve major minimum, planned count, admitted count as distinct source columns.",
+    "notes": [
+      "网页初始发布日期早于部分录取批次，页面后续更新时间未单列；accessedAt 是本次数据快照时间。",
+      "艺体专业分及综合投档分未混入。预科为单独项目，不列作本科专业录取线。",
+      "正投表含征集附行，已按专业名的征集标识拆分。计划数不可跨首轮和征集直接相加。",
+      "高校公告历史912组出档分与考试院不一致；保留实际专业最低分并显示冲突标记。"
+    ]
+  },
+  {
+    "id": "nepu-2026-10476",
+    "title": "2026年广西本科普通批录取公示",
+    "url": "https://zsxxw.nepu.edu.cn/info/1164/10476.htm",
+    "publisher": "东北石油大学招生办",
+    "publishedAt": "2026-07-24",
+    "accessedAt": "2026-09-10T04:51:14.151808+00:00",
+    "sha256": "9e31490310ae10b4232f2f13398d52e4bb36736172d77bdbf9e5f52d20ac6370",
+    "recordCount": 56,
+    "method": "Official HTML table; expand declared rowspan/colspan; preserve original score and headcount meanings; validate numeric columns and source totals.",
+    "rawPath": "raw/nepu-2026.html",
+    "notes": [
+      "物理类计划及录取均166人，历史类均24人；逐专业相加与原表整体行一致。",
+      "未公布专业组及再选科目。计划列属于录取阶段公示，未核实最初发布计划版本。",
+      "原文未拆分首轮与征集，不能标成纯首轮专业线。",
+      "详细录取信息请登录各省市招考院网站查询。 "
+    ]
+  },
+  {
+    "id": "qqhru-2026-4903",
+    "title": "2026年广西录取分数线——本科批",
+    "url": "https://zs.qqhru.edu.cn/info/1140/4903.htm",
+    "publisher": "齐齐哈尔大学招生就业处",
+    "publishedAt": "2026-07-24",
+    "accessedAt": "2026-09-10T04:51:11.303880+00:00",
+    "sha256": "1d3c38887333584d8d857901ae1e52412d39570042d51031dffef4819ff7b572",
+    "recordCount": 29,
+    "method": "Official HTML table; expand declared rowspan/colspan; preserve original score and headcount meanings; validate numeric columns and source totals.",
+    "rawPath": "raw/qqhru-2026.html",
+    "notes": [
+      "表头为投档成绩，按专业给出录取最低、最高、平均分。",
+      "省控线历史类398，物理类368；征集志愿投档成绩：市场营销455，林学453。",
+      "同分排位1、同分排位7不是全区位次，保留在原备注。",
+      "原页无计划或录取人数列，不推算人数。 "
+    ]
+  },
+  {
+    "id": "cqie-plan-2026-78111",
+    "title": "2026年广西本科招生专业及计划",
+    "url": "https://www.cqie.edu.cn/html/7/content/26/06/78111.shtml",
+    "publisher": "重庆工程学院",
+    "publishedAt": "2026-06-17",
+    "accessedAt": "2026-09-10T04:52:24.691786+00:00",
+    "sha256": "2dfea81bc7de12b9cb0688de7444db931c6af7d4c8d0d610f4b5bb7157df42ec",
+    "recordCount": 15,
+    "method": "Official HTML table; expand declared rowspan/colspan; preserve original score and headcount meanings; validate numeric columns and source totals.",
+    "rawPath": "raw/cqie-plan-2026.html",
+    "notes": [
+      "历史类10人，物理类108人，合计118人。各专业行数与总数一致。",
+      "招生代码和最终招生计划以广西考试院公布为准。",
+      "大数据管理与应用学费待定，保存为null。",
+      "有明确专业组、选科要求、志愿专业代号；大类下含专业仅列在note，不重复计计划人数。 "
+    ]
+  },
+  {
+    "id": "cqie-2026-78849",
+    "title": "2026年录取公告（广西本科批）",
+    "url": "https://zs.cqie.edu.cn/html/7/content/26/07/78849.shtml",
+    "publisher": "重庆工程学院",
+    "publishedAt": "2026-07-27",
+    "accessedAt": "2026-09-10T04:51:09.647968+00:00",
+    "sha256": "51782ead6e8c027270f87579144cef257bbdd468dc8d109898ebb5c5ee4c8480",
+    "recordCount": 15,
+    "method": "Official HTML table; expand declared rowspan/colspan; preserve original score and headcount meanings; validate numeric columns and source totals.",
+    "rawPath": "raw/cqie-2026.html",
+    "notes": [
+      "学校公告称广西普通类本科批录取工作已完成，招生计划录满。没有分专业录取人数，不能据此生成admittedCount。",
+      "学校按考生总成绩从高分到低分进行专业录取。",
+      "录取分数源与专业组/计划数源分开标记；后者来自2026-06-17官方计划。",
+      "公示未区分首轮和征集，按录取汇总展示。 "
+    ]
+  },
+  {
+    "id": "sdjtu-2026-7012",
+    "title": "2026年广西本科批招生录取信息公告",
+    "url": "https://zsw.sdjtu.edu.cn/info/1012/7012.htm",
+    "publisher": "山东交通学院招生就业处",
+    "publishedAt": "2026-07-25",
+    "accessedAt": "2026-09-10T04:58:14.025901+00:00",
+    "sha256": "a16123a83718d619603127cc10710ed276d6c21e1dd06c038edd8ef2a663b508",
+    "recordCount": 24,
+    "method": "Official HTML table; expand declared rowspan/colspan; preserve original score and headcount meanings; validate numeric columns and source totals.",
+    "rawPath": "raw/sdjtu-2026-7012.html",
+    "notes": [
+      "24条专业录取结果，录取数合计60人；未公布计划数，不转换为计划数据。",
+      "原表分数线列历史398/物理368为本科控制线，专业录取最低分是另一列。",
+      "所有专业为本科批、非定向、学制4年；中外合作办学双证项目从专业原名称识别，单独标记。",
+      "未公布专业组和录取轮次，分别保存null和录取汇总（轮次未分）。"
+    ]
+  }
+]

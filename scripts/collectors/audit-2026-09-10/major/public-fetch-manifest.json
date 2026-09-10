@@ -1,0 +1,360 @@
+[
+  {
+    "id": "ylu-2026-7162",
+    "school": "玉林师范学院招生就业处",
+    "url": "https://zjw.ylu.edu.cn/info/1013/7162.htm",
+    "expectedSha256": "339bb362aa75539f42cc20674f2b6d2d3d27a9d293d0f835ebb2d96dcc43bcf6"
+  },
+  {
+    "id": "nepu-2026-10476",
+    "school": "东北石油大学招生办",
+    "url": "https://zsxxw.nepu.edu.cn/info/1164/10476.htm",
+    "expectedSha256": "9e31490310ae10b4232f2f13398d52e4bb36736172d77bdbf9e5f52d20ac6370"
+  },
+  {
+    "id": "qqhru-2026-4903",
+    "school": "齐齐哈尔大学招生就业处",
+    "url": "https://zs.qqhru.edu.cn/info/1140/4903.htm",
+    "expectedSha256": "1d3c38887333584d8d857901ae1e52412d39570042d51031dffef4819ff7b572"
+  },
+  {
+    "id": "cqie-plan-2026-78111",
+    "school": "重庆工程学院",
+    "url": "https://www.cqie.edu.cn/html/7/content/26/06/78111.shtml",
+    "expectedSha256": "2dfea81bc7de12b9cb0688de7444db931c6af7d4c8d0d610f4b5bb7157df42ec"
+  },
+  {
+    "id": "cqie-2026-78849",
+    "school": "重庆工程学院",
+    "url": "https://zs.cqie.edu.cn/html/7/content/26/07/78849.shtml",
+    "expectedSha256": "51782ead6e8c027270f87579144cef257bbdd468dc8d109898ebb5c5ee4c8480"
+  },
+  {
+    "id": "sdjtu-2026-7012",
+    "school": "山东交通学院招生就业处",
+    "url": "https://zsw.sdjtu.edu.cn/info/1012/7012.htm",
+    "expectedSha256": "a16123a83718d619603127cc10710ed276d6c21e1dd06c038edd8ef2a663b508"
+  },
+  {
+    "id": "ncwu-lines",
+    "school": "华北水利水电大学",
+    "url": "https://www2.ncwu.edu.cn/zhaoshengwang/lntj/gx.htm",
+    "expectedSha256": "eb1c5db7f215d30fc40e982666d88819676ef2059b65d276cd9b6d033b2a29dc"
+  },
+  {
+    "id": "sxyyc-lines",
+    "school": "待原页确认校名",
+    "url": "https://www.sxyyc.net/zsb/info/1015/2257.htm",
+    "expectedSha256": "cf4d40a45d9663828594cf3a8a2c399912a4ff17dc82a42da17f513ae25c36e5"
+  },
+  {
+    "id": "lngpi-lines",
+    "school": "辽宁轨道交通职业学院",
+    "url": "https://www.lngpi.edu.cn/zs/info/1410/3891.htm",
+    "expectedSha256": "99d98878ca481f24c7a5c54ee8b3ab5f061505e4c3dcf4440ff4fabf136af25a"
+  },
+  {
+    "id": "bsu-lines-normal",
+    "school": "北京体育大学",
+    "url": "https://bm.bsu.edu.cn/lscj/index.aspx?type=1&year=2026&pprov=45",
+    "expectedSha256": "cb8368aff9f7a70e5078fa5b71c4812199f61590e62123ce0549e0435aaf71c1"
+  },
+  {
+    "id": "bsu-lines-cooperation",
+    "school": "北京体育大学",
+    "url": "https://bm.bsu.edu.cn/lscj/index.aspx?pprov=45&type=3&year=2026",
+    "expectedSha256": "6dda0c56c09d5e7535407a6aba2add046ad8f706d599140e26a3169bf3e95b7c"
+  },
+  {
+    "id": "guat-lines",
+    "school": "桂林航天工业学院",
+    "url": "https://zsw.guat.edu.cn/info/1022/2027.htm",
+    "expectedSha256": "f42435bdf1d1efdef2474d6bfbc99af92b1a66b96c4e2d7eb7cb688d9d5dcb33"
+  },
+  {
+    "id": "glut-lines-2026",
+    "school": "桂林理工大学",
+    "url": "https://zscx.glut.edu.cn/f/listScore",
+    "request": {
+      "pageNo": 1,
+      "pageSize": 1000,
+      "year": "2026",
+      "area": "广西",
+      "subject": "",
+      "specialty": "",
+      "batch": "",
+      "type": ""
+    },
+    "requestEncoding": "form",
+    "expectedSha256": "4a5f1f7a1aadd37e388730784d6b5bb9b08419b2c4b90562d81ee9ddba46aa30"
+  },
+  {
+    "id": "bsuc-lines-normal",
+    "url": "https://zs.bsuc.edu.cn/info/1041/3302.htm",
+    "expectedSha256": "d553132572c3cae7aa72843fb230b30d66c04f89c86da08eb74a7801d7d96f5f"
+  },
+  {
+    "id": "bsuc-lines-special",
+    "url": "https://zs.bsuc.edu.cn/info/1041/3301.htm",
+    "expectedSha256": "a02d7ad00ba8a9d603f64e2926236dc5f4a0532b964697e17bb105f1af4a3d67"
+  },
+  {
+    "id": "bsuc-lines-normal-img-4",
+    "url": "https://zs.bsuc.edu.cn/__local/E/19/60/F8BE3D58B1A665436C3D653E540_BA3B998C_3DD82.png",
+    "ext": "png",
+    "expectedSha256": "6288039f4a8d01bbff4a32633e692837585558655ca38f9764b1ab4ad4af7ff3"
+  },
+  {
+    "id": "bsuc-lines-special-img-1",
+    "url": "https://zs.bsuc.edu.cn/__local/0/23/D2/87A3DCC8BCB66CEAB9F9DD16BCB_6FD7D8DB_290DF.png",
+    "ext": "png",
+    "expectedSha256": "fe0eca2f005018f30fb7c69ce6468475d781dae103c6096863240b0e8cd2bc27"
+  },
+  {
+    "id": "bsuc-lines-special-img-2",
+    "url": "https://zs.bsuc.edu.cn/__local/9/8B/94/4F3A3A4F69781E165959EA2401B_11887E0C_14D1D.png",
+    "ext": "png",
+    "expectedSha256": "69d2ae5e1408d3a29d4b224e7291784e2e4d497af3fe976b0b18be5fcd4d9c2a"
+  },
+  {
+    "id": "bsuc-lines-normal-img-3",
+    "url": "https://zs.bsuc.edu.cn/__local/D/AD/AF/C982FF14CC364C11E1B3863AA7A_154B8E06_23A79.png",
+    "ext": "png",
+    "expectedSha256": "90f6cadb2d4490dbe3bcfaffba81618aeb51f9514a722634ec9c840a9543bd9e"
+  },
+  {
+    "id": "gxmu-score-portal",
+    "school": "广西医科大学",
+    "url": "https://zhaolu.zjzw.cn/release-page/overyears?key=482520a4aec68801752d74b7",
+    "expectedSha256": "1346cb355672379cd33a8c1825a5c8e2f945050852c1a2b3b62145b0c2c880bd"
+  },
+  {
+    "id": "gxmu-score-config",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relHistoryData/config?key=482520a4aec68801752d74b7",
+    "request": {},
+    "ext": "json",
+    "expectedSha256": "5a32babf8c8835b9277649122567bba625cf134219cdf7d44e6d08cacb9f6d40"
+  },
+  {
+    "id": "gxmu-lines-2026-valid",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relHistoryData/dataSearch?key=482520a4aec68801752d74b7",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "show_fields": [
+        "year",
+        "province_name",
+        "level",
+        "enroll_type",
+        "subjects",
+        "batch",
+        "major",
+        "max_score",
+        "highest_position",
+        "min_score",
+        "lowest_position",
+        "average"
+      ]
+    },
+    "ext": "json",
+    "expectedSha256": "4f0cc85a16205aba555a078c971443ced2b36b8bc3cc50ebcf4f319e7475a0c4"
+  },
+  {
+    "id": "gxgc-lines-physics",
+    "school": "广西工程职业学院",
+    "url": "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-07/9123.html",
+    "expectedSha256": "1c1cbb621a11727691caa6305f51e6b2bb18579242c583046b668d3f1b6bf079"
+  },
+  {
+    "id": "gxgc-lines-history",
+    "school": "广西工程职业学院",
+    "url": "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-07/9122.html",
+    "expectedSha256": "f895e9e461abde7ccdc6c2ef680c67649c54511d83928ee10e9eee5ebf222c4a"
+  },
+  {
+    "id": "content_624_33106",
+    "url": "https://www.gxeea.cn/view/content_624_33106.htm",
+    "ext": "html",
+    "expectedSha256": "41328e51288ba14955f435ecfa92a1cb9c68feddbb49d95e05fa014ac37042bf"
+  },
+  {
+    "id": "content_624_33107",
+    "url": "https://www.gxeea.cn/view/content_624_33107.htm",
+    "ext": "html",
+    "expectedSha256": "b7b7f3534ffd33458f46f42c4639d4b9b588d7799741326f113f9566d5560820"
+  },
+  {
+    "id": "gxnu-index",
+    "school": "广西师范大学",
+    "url": "https://bkzs.gxnu.edu.cn/lnfs_12177/list.htm",
+    "expectedSha256": "468109c2e2fbbb2af33fa67f7960ebae24e014aa0858c54b097330472a26e876"
+  },
+  {
+    "id": "gxnu-years",
+    "school": "广西师范大学",
+    "url": "https://ibkzs.gxnu.edu.cn/RobotSys/selectYear",
+    "request": {},
+    "requestEncoding": "form",
+    "ext": "json",
+    "expectedSha256": "ad8a3215da94b872cba1959c3790f71167b4c2a939b03d8b735cddcb63236dda"
+  },
+  {
+    "id": "gxnu-lines-all",
+    "school": "广西师范大学",
+    "url": "https://ibkzs.gxnu.edu.cn/RobotSys/GetScoreData",
+    "request": {
+      "year": "2026",
+      "province": "广西",
+      "bigStuType": "",
+      "major": "",
+      "majorType": "",
+      "stuType": ""
+    },
+    "ext": "json",
+    "expectedSha256": "b3283bf184bb082f364b8537776bc6b15fce2ff9f9acb3fb11ae87da394bfd4b"
+  },
+  {
+    "id": "guet-index",
+    "school": "桂林电子科技大学",
+    "url": "https://www.guet.edu.cn/zs/6004/list.htm",
+    "expectedSha256": "ec41eb24c1afba03fbc5c9bc0195666c932f330d52039ceaa73bff2da60d01fc"
+  },
+  {
+    "id": "guet-query",
+    "school": "桂林电子科技大学",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/60.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mongo=true",
+    "expectedSha256": "1f8368a3caf558e5b7f7e9f6d9d440ad46a8adce66721df546719a53ec2b7141"
+  },
+  {
+    "id": "gxu-lines-entry",
+    "school": "广西大学",
+    "url": "https://zs.gxu.edu.cn/child/xinxichaxun.jsp?urltype=tree.TreeTempUrl&wbtreeid=1232",
+    "expectedSha256": "303cd2059e866826c16d6ef134723289743152e9f0ab14127e5d104a7a9be697"
+  },
+  {
+    "id": "gxmzu-index",
+    "school": "广西民族大学",
+    "url": "https://zs.gxmzu.edu.cn/",
+    "expectedSha256": "39dbe4b4cb74e83b9a8a33177d3c1a9140f1b01ff5a1f75348124b4f207c78c1"
+  },
+  {
+    "id": "gxnun-lines-index",
+    "school": "广西民族师范学院",
+    "url": "https://zsw.gxnun.edu.cn/zsfs.htm",
+    "expectedSha256": "331f2a4133eddfc3b7d9badf56f7f55cd6fcfb997a46abeedaa9ff7b84808287"
+  },
+  {
+    "id": "nnnu-lines-物理类",
+    "school": "南宁师范大学",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "物理类",
+      "xqmc": ""
+    },
+    "requestEncoding": "json",
+    "ext": "json",
+    "expectedSha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40"
+  },
+  {
+    "id": "nnnu-lines-历史类",
+    "school": "南宁师范大学",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "历史类",
+      "xqmc": ""
+    },
+    "requestEncoding": "json",
+    "ext": "json",
+    "expectedSha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40"
+  },
+  {
+    "id": "xidian-lines-物理类",
+    "school": "西安电子科技大学",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "物理类",
+      "xqmc": "长安校区"
+    },
+    "requestEncoding": "json",
+    "ext": "json",
+    "expectedSha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40"
+  },
+  {
+    "id": "tju-lines-物理类",
+    "school": "天津大学",
+    "url": "https://zsdata.tju.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "物理类",
+      "xqmc": "北洋园校区"
+    },
+    "requestEncoding": "json",
+    "ext": "json",
+    "expectedSha256": "fd559ae7fbd5a939f156079d80575c0ca5d43794e3b31c55e2abbe486448a8de"
+  },
+  {
+    "id": "uestc-lines-物理类",
+    "school": "电子科技大学",
+    "url": "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "物理类",
+      "xqmc": "电子科技大学"
+    },
+    "requestEncoding": "json",
+    "ext": "json",
+    "expectedSha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40"
+  },
+  {
+    "id": "gxufe-home",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/www/subWebSites/zsxx/index.html",
+    "expectedSha256": "f795787d04cb27adc2d3c438fae653478d6bf797af33eb32756ceb77777e8a0e"
+  },
+  {
+    "id": "bbgu-home",
+    "school": "北部湾大学",
+    "url": "https://zsw.bbgu.edu.cn/",
+    "expectedSha256": "f7035d24ecf30b89e9b4b62fd5055bdfed8d28e921a1b1fe4a1517305fb51feb"
+  },
+  {
+    "id": "gxtcm-home",
+    "school": "广西中医药大学",
+    "url": "https://www.gxtcmu.edu.cn/zs",
+    "expectedSha256": "2f626b79f5269bc80ab4519e2525eba7822fb7bf554f126c3ce5460ae84866a7"
+  },
+  {
+    "id": "gxtcm-advance",
+    "school": "广西中医药大学",
+    "url": "https://www.gxtcmu.edu.cn/zs/zsjz/content_88515",
+    "expectedSha256": "b5b8841bcff41397ad7432e47349d21c41eac8c9f0538474843c9070a804e48b"
+  },
+  {
+    "id": "gxtcm-vocational",
+    "school": "广西中医药大学",
+    "url": "https://www.gxtcmu.edu.cn/zs/zsjz/content_89174",
+    "expectedSha256": "8d505d25e60d0a7af50349f53682a01e664606c61fe21df1e3fccf67f27df2fb"
+  }
+]

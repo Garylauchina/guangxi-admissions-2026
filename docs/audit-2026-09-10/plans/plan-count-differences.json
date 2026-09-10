@@ -1,0 +1,47 @@
+[
+  {
+    "planId": "plan26-cf1eafde86f5426d",
+    "school": "玉林师范学院",
+    "major": "园林",
+    "track": "物理",
+    "originalPublishedCount": 42,
+    "laterAdmissionTablePlanCount": 43,
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "HTML第9表，第45行（含表头）",
+        "detail": "专业、科类、类别及组码直接同一行；未采用分数值。"
+      }
+    ]
+  },
+  {
+    "planId": "plan26-3080176899af78f4",
+    "school": "玉林师范学院",
+    "major": "数学与应用数学",
+    "track": "物理",
+    "originalPublishedCount": 209,
+    "laterAdmissionTablePlanCount": 219,
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "HTML第9表，第25行（含表头）",
+        "detail": "专业、科类、类别及组码直接同一行；未采用分数值。"
+      }
+    ]
+  },
+  {
+    "planId": "plan26-5599d953f6c9a31c",
+    "school": "玉林师范学院",
+    "major": "汉语言文学",
+    "track": "历史",
+    "originalPublishedCount": 208,
+    "laterAdmissionTablePlanCount": 218,
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "HTML第8表，第20行（含表头）",
+        "detail": "专业、科类、类别及组码直接同一行；未采用分数值。"
+      }
+    ]
+  }
+]

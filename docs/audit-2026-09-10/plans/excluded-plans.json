@@ -1,0 +1,2605 @@
+[
+  {
+    "plan": {
+      "id": "plan26-4559929f45ffb3de",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "经济学",
+      "majorCode": "020101",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-dabe83b64c8d2a15",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "经济学",
+      "majorCode": "020101",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-fd1e57ebea3adfa8",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "金融学",
+      "majorCode": "020301",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-d608c15bf1e04c15",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "金融学",
+      "majorCode": "020301",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-a2aabb84fce27fea",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "法学",
+      "majorCode": "030101",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 9,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-af1916821b19e22d",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "法学",
+      "majorCode": "030101",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-b2995c94e4568a49",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "政治学与行政学",
+      "majorCode": "030201",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-04092dea9575f483",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "政治学与行政学",
+      "majorCode": "030201",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-e84d7e0757d49212",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "社会工作",
+      "majorCode": "030302",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-194d3bbd68c1dfa1",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "社会工作",
+      "majorCode": "030302",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-8572a8d59eb3f78a",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "思想政治教育",
+      "majorCode": "030503",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 8,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-f1be3f8cdb0e53fb",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "思想政治教育",
+      "majorCode": "030503",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-2bcf28bdf2d02fb3",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "教育技术学",
+      "majorCode": "040104",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-fec5d4a3537a8b46",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "学前教育",
+      "majorCode": "040106",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-90e9accd0ae72c77",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "学前教育",
+      "majorCode": "040106",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 8,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-31365857637438d8",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "小学教育",
+      "majorCode": "040107",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 12,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-2e64fd9464d6cae3",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "小学教育",
+      "majorCode": "040107",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 10,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-01ff783bf30ca8e0",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "人工智能教育",
+      "majorCode": "040117",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-ff55d38a7365221d",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "人工智能教育",
+      "majorCode": "040117",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-1c7317ead42c1e37",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "汉语言文学",
+      "majorCode": "050101",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 13,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-54e96e508c949d7d",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "英语",
+      "majorCode": "050201",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 16,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-7bf70100efcaa570",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "英语",
+      "majorCode": "050201",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 10,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-f08333704a1d29e9",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "翻译",
+      "majorCode": "050261",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 3,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-066a3feb3db53877",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "翻译",
+      "majorCode": "050261",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 12,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-921dd3970ffb8e72",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "新闻学",
+      "majorCode": "050301",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 3,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-d98a807bb39333c4",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "网络与新媒体",
+      "majorCode": "050306",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 3,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-b5993a77433978c0",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "历史学",
+      "majorCode": "060101",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 10,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-4a581993f74d1b15",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "数学与应用数学",
+      "majorCode": "070101",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 10,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-05ecf371a4293fe3",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "信息与计算科学",
+      "majorCode": "070102",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-6020c6045560afab",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "物理学",
+      "majorCode": "070201",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 10,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-b29e62274e5507e9",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "化学",
+      "majorCode": "070301",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 12,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-1a80c85bd23e5c5f",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "应用化学",
+      "majorCode": "070302",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-787fb03c016bae22",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "地理科学",
+      "majorCode": "070501",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 11,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-31f7413613aeb5a1",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "地理信息科学",
+      "majorCode": "070504",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-05ced43740a2b6aa",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "生物科学",
+      "majorCode": "071001",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 14,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-009a03e09feb4124",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "生物技术",
+      "majorCode": "071002",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-4061657962d57d19",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "生态学",
+      "majorCode": "071004",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-4bee7d1f27b5b073",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "应用心理学",
+      "majorCode": "071102",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-90a7bde41db25e1e",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "应用心理学",
+      "majorCode": "071102",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-60002f9b5a80f563",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "统计学",
+      "majorCode": "071201",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-348e86a0c5b0d543",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "智能制造工程（按职教师资培养）",
+      "majorCode": "080213",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-2bd955442a79acfd",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "智能制造工程",
+      "majorCode": "080213",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-650e0a0ea3066baa",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "新能源汽车工程",
+      "majorCode": "080216",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-4e210851b9e50ebf",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "新能源汽车工程（按职教师资培养）",
+      "majorCode": "080216",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-9efaa32ce8757008",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "电子信息工程",
+      "majorCode": "080701",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 3,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-3f962dfa7fe64f94",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "通信工程",
+      "majorCode": "080703",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-97222c8132be01c2",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "人工智能",
+      "majorCode": "080717",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-62e445ea930045d6",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "计算机科学与技术",
+      "majorCode": "080901",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-fdf33c2e33b620f3",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "信息安全",
+      "majorCode": "080904",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-cdd0d25940889939",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "数据科学与大数据技术",
+      "majorCode": "080910",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-8c027a303708114f",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "制药工程",
+      "majorCode": "081302",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-7547e04df5c71f99",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "环境科学与工程",
+      "majorCode": "082501",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-d331540a639a925a",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "工商管理",
+      "majorCode": "120201",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-1d3c7df768ae2f46",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "工商管理",
+      "majorCode": "120201",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-71841c4876686433",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "会计学",
+      "majorCode": "120203",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-48efd632c3747f02",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "会计学",
+      "majorCode": "120203",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-ba697b4a4bd17425",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "文化产业管理",
+      "majorCode": "120210",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-f59a9f482447772b",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "文化产业管理",
+      "majorCode": "120210",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-1b13f36cb0aaf312",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "行政管理",
+      "majorCode": "120402",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-a921c5bc6d9366ed",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "行政管理",
+      "majorCode": "120402",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-c50e73318f2e8a11",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "劳动与社会保障",
+      "majorCode": "120403",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-e359ba96aa95a778",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "劳动与社会保障",
+      "majorCode": "120403",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-b9ba03a18dd0b45c",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "电子商务（按职教师资培养）",
+      "majorCode": "120801",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 3,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-01fb24874babd547",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "电子商务（按职教师资培养）",
+      "majorCode": "120801",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类；师范类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-169f88b1591b1df9",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "电子商务",
+      "majorCode": "120801",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-b0168752b16e8288",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "物理",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "旅游管理",
+      "majorCode": "120901",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-0e54bc028be3a026",
+      "year": 2026,
+      "schoolCode": "10602",
+      "school": "广西师范大学",
+      "track": "历史",
+      "batch": "预科直升批",
+      "group": null,
+      "major": "旅游管理",
+      "majorCode": "120901",
+      "requiredSubjects": [],
+      "subjectRule": "unknown",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "非定向；普通类",
+      "sourceId": "plan26-gxnu_plan",
+      "category": "普通类",
+      "requirementText": null
+    },
+    "reason": "预科直升批面向已完成预科的学生，不是当年高考可填报计划。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-gxnu_plan_recheck",
+        "locator": "招生计划表：批次=预科直升批；按专业代码、科类、计划数定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-49ab3712bd30d18e",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "美术学",
+      "majorCode": "130401",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 90,
+      "tuition": null,
+      "duration": null,
+      "note": "师范类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-450d63c0058a8f59",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "美术学",
+      "majorCode": "130401",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 18,
+      "tuition": null,
+      "duration": null,
+      "note": "师范类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-79f5badba1a47a79",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "视觉传达设计",
+      "majorCode": "130502",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 50,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-c9a791f7cbedfba2",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "视觉传达设计",
+      "majorCode": "130502",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 11,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-609bbbfed46c0d53",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "环境设计",
+      "majorCode": "130503",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 68,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-5d8b631959a3901a",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "环境设计",
+      "majorCode": "130503",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 10,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-849f7ffd2af90f3f",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "服装与服饰设计",
+      "majorCode": "130505",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 55,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-78e951341f9f41d9",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "服装与服饰设计",
+      "majorCode": "130505",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 9,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-55f12fec90b8bf23",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "工艺美术",
+      "majorCode": "130507",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 35,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-c3ddb0c22a01e529",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "工艺美术",
+      "majorCode": "130507",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 8,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-746ef9e79f788623",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "音乐学",
+      "majorCode": "130202",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 131,
+      "tuition": null,
+      "duration": null,
+      "note": "师范类",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-df534234a6d49eca",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "音乐学",
+      "majorCode": "130202",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 20,
+      "tuition": null,
+      "duration": null,
+      "note": "师范类",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-86887d0f32a3cda7",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "舞蹈学",
+      "majorCode": "130205",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 130,
+      "tuition": null,
+      "duration": null,
+      "note": "师范类",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-cc9d457dc2f4c3f7",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "舞蹈学",
+      "majorCode": "130205",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 16,
+      "tuition": null,
+      "duration": null,
+      "note": "师范类",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-929a6887a0cc0063",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "体育教育",
+      "majorCode": "040201",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 55,
+      "tuition": null,
+      "duration": null,
+      "note": "师范类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-c819841b71c4f10e",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "体育教育",
+      "majorCode": "040201",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 164,
+      "tuition": null,
+      "duration": null,
+      "note": "师范类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-e08a820d84fa71fc",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "社会体育指导与管理",
+      "majorCode": "040203",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 25,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-215535eeb82c6199",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "社会体育指导与管理",
+      "majorCode": "040203",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 70,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-b5a93bf757743ed5",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "运动康复",
+      "majorCode": "040206",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 25,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  },
+  {
+    "plan": {
+      "id": "plan26-a999ff4eb871d4e4",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科普通批",
+      "group": null,
+      "major": "运动康复",
+      "majorCode": "040206",
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 75,
+      "tuition": null,
+      "duration": null,
+      "note": "普通类；不招色弱色盲",
+      "sourceId": "plan26-ylu_plan",
+      "category": "普通类",
+      "requirementText": "不提科目要求"
+    },
+    "reason": "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。",
+    "evidence": [
+      {
+        "sourceId": "audit-plan26-ylu_plan_recheck",
+        "locator": "广西分专业计划表：该专业与历史/物理计划列"
+      },
+      {
+        "sourceId": "audit-plan26-ylu_cutoff_recheck",
+        "locator": "第1—5表：艺术、体育类别录取表；按专业名称定位"
+      }
+    ]
+  }
+]

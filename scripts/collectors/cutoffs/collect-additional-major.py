@@ -133,7 +133,7 @@ def main():
         cqie_plan_records.append({"id": f"plan-2026-cqie-r{row_number}", "year": 2026, "schoolCode": "12608",
                                   "school": "重庆工程学院", "track": r[7], "batch": "本科普通批", "group": r[4],
                                   "major": r[2], "majorCode": r[5], "requiredSubjects": [] if r[8] == "不限" else ["化学"],
-                                  "subjectRule": "any" if r[8] == "不限" else "all", "plannedCount": int(r[6]),
+                                  "subjectRule": "none" if r[8] == "不限" else "all", "plannedCount": int(r[6]),
                                   "tuition": int(r[9]) if r[9].isdigit() else None, "duration": None,
                                   "note": ("大类包含：" + r[3] + "。" if r[3] else "") + ("学费原文待定。" if not r[9].isdigit() else "") + "招生代码和最终招生计划以广西考试院公布为准。",
                                   "sourceId": "cqie-plan-2026-78111", "category": "普通类", "requirementText": r[8],

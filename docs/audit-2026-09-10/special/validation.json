@@ -1,0 +1,67 @@
+{
+  "status": "passed",
+  "checkCount": 15,
+  "checks": [
+    {
+      "name": "43项含39强基及4独立项目",
+      "passed": true
+    },
+    {
+      "name": "项目来源分数ID全部唯一",
+      "passed": true
+    },
+    {
+      "name": "省份范围21确认14待核4排除",
+      "passed": true
+    },
+    {
+      "name": "全部项目和分数属于2026",
+      "passed": true
+    },
+    {
+      "name": "34条均广西分数",
+      "passed": true
+    },
+    {
+      "name": "排除院校无广西成绩或人数",
+      "passed": true
+    },
+    {
+      "name": "未知人数保持空值且逐项注明具体原因",
+      "passed": true
+    },
+    {
+      "name": "所有嵌套来源引用均可解析",
+      "passed": true
+    },
+    {
+      "name": "全部成绩有公式和分数口径",
+      "passed": true
+    },
+    {
+      "name": "所有录取综合成绩已注明满分",
+      "passed": true
+    },
+    {
+      "name": "六处原缺失公式均已修复",
+      "passed": true
+    },
+    {
+      "name": "华科3条排序码从分数中剥离",
+      "passed": true
+    },
+    {
+      "name": "原24数值不变",
+      "passed": true
+    },
+    {
+      "name": "22原分数重读通过2重庆保留缺口",
+      "passed": true
+    },
+    {
+      "name": "所有来源包含标题URL访问日与官方身份",
+      "passed": true
+    }
+  ],
+  "factualLimit": "结构检查不替代事实核验；14校广西投放、全部广西名额及2条重庆原表仍有明确缺口。"
+}

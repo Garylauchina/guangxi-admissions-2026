@@ -1,0 +1,23 @@
+{
+  "result": "PASS",
+  "records": 720,
+  "schools": 13,
+  "newRecords": 467,
+  "sourceCount": 44,
+  "filingOnlyRecords": 81,
+  "planSupplementRecords": 20,
+  "planSupplementSeats": 104,
+  "negativeSchoolChecks": 13,
+  "scoreNonComparable": 2,
+  "numericRankRecords": 214,
+  "checks": [
+    "完整字段、唯一ID、2026与科类数值边界",
+    "全部来源/辅助来源/父来源引用及本地原文件SHA256",
+    "所有普通类记录note无无关资格词",
+    "专业投档与专业录取文件分离",
+    "2条分数冲突屏蔽与玉林专业分保留",
+    "明确计划列20条104人且版本标注",
+    "13校限定范围负面检索结构完整",
+    "医大22条其他三类、玉林32条其他一类、百色16条源批次保留，无泛化提前批"
+  ]
+}

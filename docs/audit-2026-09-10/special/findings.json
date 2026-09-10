@@ -1,0 +1,1298 @@
+{
+  "auditDate": "2026-09-10",
+  "scope": "2026特殊通道，39强基高校及4独立通道",
+  "recordCount": 43,
+  "strongSchoolCount": 39,
+  "beforeProvinceCounts": {
+    "unknown": 19,
+    "confirmed": 16,
+    "excluded": 4
+  },
+  "afterProvinceCounts": {
+    "unknown": 14,
+    "confirmed": 21,
+    "excluded": 4
+  },
+  "originalScoreCount": 24,
+  "originalNumericChanges": 0,
+  "originalScoresReverified": 22,
+  "originalScoresCurrentSourceUnreadable": 2,
+  "formulaRepairs": 6,
+  "addedScoreCount": 10,
+  "totalScoreCount": 34,
+  "unknownStrongSchools": [
+    "北京大学",
+    "中国人民大学",
+    "北京航空航天大学",
+    "南开大学",
+    "大连理工大学",
+    "东北大学",
+    "吉林大学",
+    "上海交通大学",
+    "华东师范大学",
+    "南京大学",
+    "浙江大学",
+    "武汉大学",
+    "四川大学",
+    "西安交通大学"
+  ],
+  "planCountsAdded": 0,
+  "sourceCount": 79,
+  "findings": [
+    {
+      "id": "special-audit-001",
+      "kind": "formula-repaired",
+      "school": "中国科学技术大学",
+      "summary": "补齐3条综合成绩公式及100分制，原数值不变。",
+      "sourceIds": [
+        "special-source-2026-ustc",
+        "audit-special-source-2026-ustc-formula"
+      ],
+      "affectedScoreIds": [
+        "strong-2026-ustc-ustc-admit-0",
+        "strong-2026-ustc-ustc-admit-1",
+        "strong-2026-ustc-ustc-admit-2"
+      ]
+    },
+    {
+      "id": "special-audit-002",
+      "kind": "formula-repaired",
+      "school": "厦门大学",
+      "summary": "补齐1条综合成绩公式及1000分制，原数值不变。",
+      "sourceIds": [
+        "special-source-2026-xmu"
+      ],
+      "affectedScoreIds": [
+        "strong-2026-xmu-xmu-admit-0"
+      ]
+    },
+    {
+      "id": "special-audit-003",
+      "kind": "formula-repaired",
+      "school": "中南大学",
+      "summary": "补齐2条综合成绩公式及100分制，原数值不变。",
+      "sourceIds": [
+        "audit-special-source-2026-csu-brochure"
+      ],
+      "affectedScoreIds": [
+        "strong-2026-csu-csu-admit-0",
+        "strong-2026-csu-csu-admit-1"
+      ]
+    },
+    {
+      "id": "special-audit-004",
+      "kind": "province-confirmed",
+      "school": "清华大学",
+      "summary": "2026年7月16日录取通知书寄送公告的强基计划栏目明确列广西，确认当年广西实际录取；公告未给出人数和分数。",
+      "sourceIds": [
+        "audit-special-source-2026-thu-scope"
+      ],
+      "oldStatus": "unknown",
+      "newStatus": "confirmed"
+    },
+    {
+      "id": "special-audit-005",
+      "kind": "province-confirmed",
+      "school": "复旦大学",
+      "summary": "2026年A类考生初试生源表明确广西对应南宁考点，确认广西考生申请/校考范围；不据此推定具体专业、计划人数或实际录取数。",
+      "sourceIds": [
+        "audit-special-source-2026-fudan-scope"
+      ],
+      "oldStatus": "unknown",
+      "newStatus": "confirmed"
+    },
+    {
+      "id": "special-audit-006",
+      "kind": "province-confirmed",
+      "school": "天津大学",
+      "summary": "2026录取标准原图明确广西能源与动力工程83.88（综合成绩）。",
+      "sourceIds": [
+        "audit-special-source-2026-tju-scope"
+      ],
+      "oldStatus": "unknown",
+      "newStatus": "confirmed"
+    },
+    {
+      "id": "special-audit-007",
+      "kind": "province-confirmed",
+      "school": "湖南大学",
+      "summary": "2026录取标准表明确广西化学82.05（综合成绩）。",
+      "sourceIds": [
+        "audit-special-source-2026-hnu-scope"
+      ],
+      "oldStatus": "unknown",
+      "newStatus": "confirmed"
+    },
+    {
+      "id": "special-audit-008",
+      "kind": "province-confirmed",
+      "school": "华中科技大学",
+      "summary": "2026录取标准原图明确广西化学、生物科学、物理学（依托物理学院培养）的综合成绩线。",
+      "sourceIds": [
+        "audit-special-source-2026-hust-scope"
+      ],
+      "oldStatus": "unknown",
+      "newStatus": "confirmed"
+    },
+    {
+      "id": "special-audit-009",
+      "kind": "score-added",
+      "school": "天津大学",
+      "summary": "能源与动力工程：83.88，录取综合成绩线。",
+      "sourceIds": [
+        "audit-special-source-2026-tju-scope",
+        "audit-special-source-2026-tju-brochure"
+      ],
+      "scoreId": "strong-2026-tju-audit-0"
+    },
+    {
+      "id": "special-audit-010",
+      "kind": "score-added",
+      "school": "湖南大学",
+      "summary": "化学：82.05，录取综合成绩线。",
+      "sourceIds": [
+        "audit-special-source-2026-hnu-scope",
+        "audit-special-source-2026-hnu-brochure"
+      ],
+      "scoreId": "strong-2026-hnu-audit-0"
+    },
+    {
+      "id": "special-audit-011",
+      "kind": "score-added",
+      "school": "华中科技大学",
+      "summary": "化学：82.1933，录取综合成绩线。",
+      "sourceIds": [
+        "audit-special-source-2026-hust-scope",
+        "audit-special-source-2026-hust-brochure"
+      ],
+      "scoreId": "strong-2026-hust-audit-0"
+    },
+    {
+      "id": "special-audit-012",
+      "kind": "score-added",
+      "school": "华中科技大学",
+      "summary": "生物科学：85.44，录取综合成绩线。",
+      "sourceIds": [
+        "audit-special-source-2026-hust-scope",
+        "audit-special-source-2026-hust-brochure"
+      ],
+      "scoreId": "strong-2026-hust-audit-1"
+    },
+    {
+      "id": "special-audit-013",
+      "kind": "score-added",
+      "school": "华中科技大学",
+      "summary": "物理学（依托物理学院培养）：85.1733，录取综合成绩线。",
+      "sourceIds": [
+        "audit-special-source-2026-hust-scope",
+        "audit-special-source-2026-hust-brochure"
+      ],
+      "scoreId": "strong-2026-hust-audit-2"
+    },
+    {
+      "id": "special-audit-014",
+      "kind": "score-added",
+      "school": "华中科技大学",
+      "summary": "化学：519，高考原始分入围线。",
+      "sourceIds": [
+        "audit-special-source-2026-hust-entry",
+        "audit-special-source-2026-hust-brochure"
+      ],
+      "scoreId": "strong-2026-hust-audit-3"
+    },
+    {
+      "id": "special-audit-015",
+      "kind": "score-added",
+      "school": "华中科技大学",
+      "summary": "生物科学：613，高考原始分入围线。",
+      "sourceIds": [
+        "audit-special-source-2026-hust-entry",
+        "audit-special-source-2026-hust-brochure"
+      ],
+      "scoreId": "strong-2026-hust-audit-4"
+    },
+    {
+      "id": "special-audit-016",
+      "kind": "score-added",
+      "school": "华中科技大学",
+      "summary": "物理学（依托物理学院培养）：611，高考原始分入围线。",
+      "sourceIds": [
+        "audit-special-source-2026-hust-entry",
+        "audit-special-source-2026-hust-brochure"
+      ],
+      "scoreId": "strong-2026-hust-audit-5"
+    },
+    {
+      "id": "special-audit-017",
+      "kind": "score-added",
+      "school": "中南大学",
+      "summary": "应用物理学：601，高考原始分入围线。",
+      "sourceIds": [
+        "audit-special-source-2026-csu-entry",
+        "audit-special-source-2026-csu-brochure"
+      ],
+      "scoreId": "strong-2026-csu-audit-2"
+    },
+    {
+      "id": "special-audit-018",
+      "kind": "score-added",
+      "school": "中南大学",
+      "summary": "材料科学与工程：616，高考原始分入围线。",
+      "sourceIds": [
+        "audit-special-source-2026-csu-entry",
+        "audit-special-source-2026-csu-brochure"
+      ],
+      "scoreId": "strong-2026-csu-audit-3"
+    },
+    {
+      "id": "special-audit-019",
+      "kind": "exclusion-reverified",
+      "school": "中央民族大学",
+      "summary": "2026完整省份名单不含广西，维持excluded。",
+      "sourceIds": [
+        "special-source-2026-muc"
+      ]
+    },
+    {
+      "id": "special-audit-020",
+      "kind": "exclusion-reverified",
+      "school": "东南大学",
+      "summary": "2026完整省份名单不含广西，维持excluded。",
+      "sourceIds": [
+        "special-source-2026-seu"
+      ]
+    },
+    {
+      "id": "special-audit-021",
+      "kind": "exclusion-reverified",
+      "school": "电子科技大学",
+      "summary": "2026完整省份名单不含广西，维持excluded。",
+      "sourceIds": [
+        "audit-special-source-2026-uestc-brochure"
+      ]
+    },
+    {
+      "id": "special-audit-022",
+      "kind": "exclusion-reverified",
+      "school": "国防科技大学",
+      "summary": "2026完整省份名单不含广西，维持excluded。",
+      "sourceIds": [
+        "audit-special-source-2026-nudt-brochure"
+      ]
+    },
+    {
+      "id": "special-audit-023",
+      "kind": "evidence-description-corrected",
+      "school": "北京航空航天大学",
+      "summary": "原“招生省份表为图片”不准确：该表为专业选科表；改为报名系统投放待核。",
+      "sourceIds": [
+        "audit-special-source-2026-buaa-brochure"
+      ]
+    }
+  ],
+  "originalScoreAudit": [
+    {
+      "id": "strong-2026-cau-cau-entry-0",
+      "school": "中国农业大学",
+      "oldScore": 610,
+      "newScore": 610,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-cau-entry"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-cau-cau-admit-1",
+      "school": "中国农业大学",
+      "oldScore": 620.19,
+      "newScore": 620.19,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-cau-admit",
+        "special-source-2026-cau"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-cau-cau-admit-2",
+      "school": "中国农业大学",
+      "oldScore": 632.61,
+      "newScore": 632.61,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-cau-admit",
+        "special-source-2026-cau"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-hit-hit-entry-0",
+      "school": "哈尔滨工业大学",
+      "oldScore": 696.8,
+      "newScore": 696.8,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-hit-entry"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-hit-hit-entry-1",
+      "school": "哈尔滨工业大学",
+      "oldScore": 693.2,
+      "newScore": 693.2,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-hit-entry"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-hit-hit-entry-2",
+      "school": "哈尔滨工业大学",
+      "oldScore": 673.8,
+      "newScore": 673.8,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-hit-entry"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-hit-hit-entry-3",
+      "school": "哈尔滨工业大学",
+      "oldScore": 698.8,
+      "newScore": 698.8,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-hit-entry"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-hit-hit-entry-4",
+      "school": "哈尔滨工业大学",
+      "oldScore": 683.2,
+      "newScore": 683.2,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-hit-entry"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-hit-hit-admit-5",
+      "school": "哈尔滨工业大学",
+      "oldScore": 87.94,
+      "newScore": 87.94,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-hit-admit"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-hit-hit-admit-6",
+      "school": "哈尔滨工业大学",
+      "oldScore": 88.5,
+      "newScore": 88.5,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-hit-admit"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-hit-hit-admit-7",
+      "school": "哈尔滨工业大学",
+      "oldScore": 84.7,
+      "newScore": 84.7,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-hit-admit"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-hit-hit-admit-8",
+      "school": "哈尔滨工业大学",
+      "oldScore": 88.83,
+      "newScore": 88.83,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-hit-admit"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-hit-hit-admit-9",
+      "school": "哈尔滨工业大学",
+      "oldScore": 88.32,
+      "newScore": 88.32,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-hit-admit"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-ustc-ustc-admit-0",
+      "school": "中国科学技术大学",
+      "oldScore": 82.564,
+      "newScore": 82.564,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-ustc-admit",
+        "special-source-2026-ustc",
+        "audit-special-source-2026-ustc-formula"
+      ],
+      "formulaRepaired": true
+    },
+    {
+      "id": "strong-2026-ustc-ustc-admit-1",
+      "school": "中国科学技术大学",
+      "oldScore": 83.878,
+      "newScore": 83.878,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-ustc-admit",
+        "special-source-2026-ustc",
+        "audit-special-source-2026-ustc-formula"
+      ],
+      "formulaRepaired": true
+    },
+    {
+      "id": "strong-2026-ustc-ustc-admit-2",
+      "school": "中国科学技术大学",
+      "oldScore": 83.467,
+      "newScore": 83.467,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-ustc-admit",
+        "special-source-2026-ustc",
+        "audit-special-source-2026-ustc-formula"
+      ],
+      "formulaRepaired": true
+    },
+    {
+      "id": "strong-2026-xmu-xmu-admit-0",
+      "school": "厦门大学",
+      "oldScore": 805.2,
+      "newScore": 805.2,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-xmu-admit",
+        "special-source-2026-xmu"
+      ],
+      "formulaRepaired": true
+    },
+    {
+      "id": "strong-2026-csu-csu-admit-0",
+      "school": "中南大学",
+      "oldScore": 81.62,
+      "newScore": 81.62,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-csu-admit",
+        "audit-special-source-2026-csu-brochure"
+      ],
+      "formulaRepaired": true
+    },
+    {
+      "id": "strong-2026-csu-csu-admit-1",
+      "school": "中南大学",
+      "oldScore": 82.38,
+      "newScore": 82.38,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-csu-admit",
+        "audit-special-source-2026-csu-brochure"
+      ],
+      "formulaRepaired": true
+    },
+    {
+      "id": "strong-2026-cqu-cqu-entry-0",
+      "school": "重庆大学",
+      "oldScore": 611,
+      "newScore": 611,
+      "unchanged": true,
+      "status": "prior-value-current-source-unreadable",
+      "sourceIds": [
+        "special-score-source-2026-cqu-entry",
+        "audit-special-source-2026-cqu-brochure"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-cqu-cqu-entry-1",
+      "school": "重庆大学",
+      "oldScore": 630,
+      "newScore": 630,
+      "unchanged": true,
+      "status": "prior-value-current-source-unreadable",
+      "sourceIds": [
+        "special-score-source-2026-cqu-entry",
+        "audit-special-source-2026-cqu-brochure"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-lzu-lzu-entry-0",
+      "school": "兰州大学",
+      "oldScore": 584,
+      "newScore": 584,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-lzu-entry"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-lzu-lzu-entry-1",
+      "school": "兰州大学",
+      "oldScore": 589.8,
+      "newScore": 589.8,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-lzu-entry"
+      ],
+      "formulaRepaired": false
+    },
+    {
+      "id": "strong-2026-lzu-lzu-entry-2",
+      "school": "兰州大学",
+      "oldScore": 644.3,
+      "newScore": 644.3,
+      "unchanged": true,
+      "status": "reverified",
+      "sourceIds": [
+        "special-score-source-2026-lzu-entry"
+      ],
+      "formulaRepaired": false
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "strong-2026-pku",
+      "school": "北京大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": {
+        "status": "individual-login",
+        "note": "2026入围通知明确用身份证号和报名号登录个人平台，7月4日录取通知也只提供个人查询入口；本轮未取得广西统一分数/专业计划表。",
+        "sourceIds": [
+          "audit-special-source-2026-pku-result-index"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+        "分省证据缺口：2026入围通知明确用身份证号和报名号登录个人平台，7月4日录取通知也只提供个人查询入口；本轮未取得广西统一分数/专业计划表。"
+      ]
+    },
+    {
+      "id": "strong-2026-thu",
+      "school": "清华大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": {
+        "status": "individual-platform",
+        "note": "7月4日公告要求登录报名平台查询个人录取结果；寄送公告可确认广西但不含分数或人数。",
+        "sourceIds": [
+          "audit-special-source-2026-thu-result",
+          "audit-special-source-2026-thu-scope"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+        "分省证据缺口：7月4日公告要求登录报名平台查询个人录取结果；寄送公告可确认广西但不含分数或人数。"
+      ]
+    },
+    {
+      "id": "strong-2026-ruc",
+      "school": "中国人民大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "primary-table-not-obtained",
+        "note": "检索到第三方转载2026分省录取表的线索，但未取得可读高校原页，未采用第三方广西分数，也未据其改变范围。",
+        "sourceIds": [
+          "special-source-2026-ruc"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "分省证据缺口：检索到第三方转载2026分省录取表的线索，但未取得可读高校原页，未采用第三方广西分数，也未据其改变范围。"
+      ]
+    },
+    {
+      "id": "strong-2026-buaa",
+      "school": "北京航空航天大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。另实际访问该校报名平台公共入口，仅见报名界面框架，未显示省份计划数据；不能据此断言原报名期也不可查。",
+      "scoreGap": {
+        "status": "captcha-protected-attachment",
+        "note": "7月2日预录取标准PDF下载入口本轮显示“请输入验证码下载附件”，尚未读到广西行；没有绕过验证码。",
+        "sourceIds": [
+          "audit-special-source-2026-buaa-result"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。另实际访问该校报名平台公共入口，仅见报名界面框架，未显示省份计划数据；不能据此断言原报名期也不可查。",
+        "分省证据缺口：7月2日预录取标准PDF下载入口本轮显示“请输入验证码下载附件”，尚未读到广西行；没有绕过验证码。"
+      ]
+    },
+    {
+      "id": "strong-2026-bit",
+      "school": "北京理工大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-score-table-not-obtained",
+        "note": "已检查所列2026官方简章/广西范围证据，本轮未取得广西入围或录取原始数值表；不以其他省份或其他年份代替。",
+        "sourceIds": [
+          "special-source-2026-bit"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "广西入围或录取数值原表尚未取得"
+      ]
+    },
+    {
+      "id": "strong-2026-cau",
+      "school": "中国农业大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。"
+      ]
+    },
+    {
+      "id": "strong-2026-bnu",
+      "school": "北京师范大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": {
+        "status": "province-score-table-not-obtained",
+        "note": "已检查所列2026官方简章/广西范围证据，本轮未取得广西入围或录取原始数值表；不以其他省份或其他年份代替。",
+        "sourceIds": [
+          "special-source-2026-bnu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+        "广西入围或录取数值原表尚未取得"
+      ]
+    },
+    {
+      "id": "strong-2026-muc",
+      "school": "中央民族大学",
+      "guangxiStatus": "excluded",
+      "planStatus": "not-applicable-province",
+      "planGapReason": "2026官方完整招生范围不含广西；这里空值表示本省不适用，不是等待补录计划人数。",
+      "scoreGap": null,
+      "evidenceGaps": []
+    },
+    {
+      "id": "strong-2026-nankai",
+      "school": "南开大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "official-image-unretrieved",
+        "note": "已定位6月27日官方入围公告；直连HTTP403，检索可见图片入口但未取得可读原图，广西范围和分数不作推定。",
+        "sourceIds": [
+          "audit-special-source-2026-nankai-entry"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "分省证据缺口：已定位6月27日官方入围公告；直连HTTP403，检索可见图片入口但未取得可读原图，广西范围和分数不作推定。"
+      ]
+    },
+    {
+      "id": "strong-2026-tju",
+      "school": "天津大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。"
+      ]
+    },
+    {
+      "id": "strong-2026-dlut",
+      "school": "大连理工大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "dynamic-page-unretrieved",
+        "note": "已检索2026官方强基栏目，官网首页此轮只返回动态页面标题；未取得2026广西原始分省表。",
+        "sourceIds": [
+          "special-source-2026-dlut"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "分省证据缺口：已检索2026官方强基栏目，官网首页此轮只返回动态页面标题；未取得2026广西原始分省表。"
+      ]
+    },
+    {
+      "id": "strong-2026-neu",
+      "school": "东北大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": {
+        "status": "province-plan-in-system",
+        "note": "2026简章的招生范围以安排计划省份为前提，分省计划见报名系统；公开专业表只有自动化及选科，不能当完整省份排除表。",
+        "sourceIds": [
+          "special-source-2026-neu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+        "分省证据缺口：2026简章的招生范围以安排计划省份为前提，分省计划见报名系统；公开专业表只有自动化及选科，不能当完整省份排除表。"
+      ]
+    },
+    {
+      "id": "strong-2026-jlu",
+      "school": "吉林大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-image-unverified",
+        "note": "2026简章的分省范围尚未取得可读完整原表；本轮原转载直连受限，官方搜索出现的2025材料未用于2026排除判断。",
+        "sourceIds": [
+          "special-source-2026-jlu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "分省证据缺口：2026简章的分省范围尚未取得可读完整原表；本轮原转载直连受限，官方搜索出现的2025材料未用于2026排除判断。"
+      ]
+    },
+    {
+      "id": "strong-2026-hit",
+      "school": "哈尔滨工业大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。"
+      ]
+    },
+    {
+      "id": "strong-2026-fudan",
+      "school": "复旦大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": {
+        "status": "province-score-table-not-obtained",
+        "note": "已检查所列2026官方简章/广西范围证据，本轮未取得广西入围或录取原始数值表；不以其他省份或其他年份代替。",
+        "sourceIds": [
+          "special-source-2026-fudan",
+          "audit-special-source-2026-fudan-scope"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+        "广西入围或录取数值原表尚未取得"
+      ]
+    },
+    {
+      "id": "strong-2026-tongji",
+      "school": "同济大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": {
+        "status": "province-score-table-not-obtained",
+        "note": "已检查所列2026官方简章/广西范围证据，本轮未取得广西入围或录取原始数值表；不以其他省份或其他年份代替。",
+        "sourceIds": [
+          "special-source-2026-tongji"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+        "广西入围或录取数值原表尚未取得"
+      ]
+    },
+    {
+      "id": "strong-2026-sjtu",
+      "school": "上海交通大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "dynamic-page-unretrieved",
+        "note": "官方栏目存在6月29日录取结果公告；本轮该正文响应仅页面框架，未读到广西表。",
+        "sourceIds": [
+          "audit-special-source-2026-sjtu-result-index"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "分省证据缺口：官方栏目存在6月29日录取结果公告；本轮该正文响应仅页面框架，未读到广西表。"
+      ]
+    },
+    {
+      "id": "strong-2026-ecnu",
+      "school": "华东师范大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": {
+        "status": "province-plan-in-system",
+        "note": "2026简章的专业组表未列完整省份；分省分专业计划在报名系统。未取得广西原表，不采第三方“不招广西”推断。",
+        "sourceIds": [
+          "special-source-2026-ecnu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+        "分省证据缺口：2026简章的专业组表未列完整省份；分省分专业计划在报名系统。未取得广西原表，不采第三方“不招广西”推断。"
+      ]
+    },
+    {
+      "id": "strong-2026-nju",
+      "school": "南京大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-plan-not-obtained",
+        "note": "已核对2026简章入口并检索官方录取信息，未取得可读广西分省原表；全国专业目录不能当作广西目录。",
+        "sourceIds": [
+          "special-source-2026-nju"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "分省证据缺口：已核对2026简章入口并检索官方录取信息，未取得可读广西分省原表；全国专业目录不能当作广西目录。"
+      ]
+    },
+    {
+      "id": "strong-2026-seu",
+      "school": "东南大学",
+      "guangxiStatus": "excluded",
+      "planStatus": "not-applicable-province",
+      "planGapReason": "2026官方完整招生范围不含广西；这里空值表示本省不适用，不是等待补录计划人数。",
+      "scoreGap": null,
+      "evidenceGaps": []
+    },
+    {
+      "id": "strong-2026-zju",
+      "school": "浙江大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": {
+        "status": "province-plan-in-system",
+        "note": "已重读2026全国专业分组及选科表；分省专业和计划以报名系统为准，未取得广西分组投放表。",
+        "sourceIds": [
+          "special-source-2026-zju"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+        "分省证据缺口：已重读2026全国专业分组及选科表；分省专业和计划以报名系统为准，未取得广西分组投放表。"
+      ]
+    },
+    {
+      "id": "strong-2026-ustc",
+      "school": "中国科学技术大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。另实际访问该校报名平台公共入口，仅见报名界面框架，未显示省份计划数据；不能据此断言原报名期也不可查。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。另实际访问该校报名平台公共入口，仅见报名界面框架，未显示省份计划数据；不能据此断言原报名期也不可查。"
+      ]
+    },
+    {
+      "id": "strong-2026-xmu",
+      "school": "厦门大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。"
+      ]
+    },
+    {
+      "id": "strong-2026-sdu",
+      "school": "山东大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-score-table-not-obtained",
+        "note": "已检查所列2026官方简章/广西范围证据，本轮未取得广西入围或录取原始数值表；不以其他省份或其他年份代替。",
+        "sourceIds": [
+          "special-source-2026-sdu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "广西入围或录取数值原表尚未取得"
+      ]
+    },
+    {
+      "id": "strong-2026-ouc",
+      "school": "中国海洋大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-score-table-not-obtained",
+        "note": "已检查所列2026官方简章/广西范围证据，本轮未取得广西入围或录取原始数值表；不以其他省份或其他年份代替。",
+        "sourceIds": [
+          "special-source-2026-ouc"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "广西入围或录取数值原表尚未取得"
+      ]
+    },
+    {
+      "id": "strong-2026-whu",
+      "school": "武汉大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-plan-not-obtained",
+        "note": "2026简章说明面向全国；本轮未取得广西分省投放表或广西成绩公告，保留具体投放unknown。",
+        "sourceIds": [
+          "special-source-2026-whu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "分省证据缺口：2026简章说明面向全国；本轮未取得广西分省投放表或广西成绩公告，保留具体投放unknown。"
+      ]
+    },
+    {
+      "id": "strong-2026-hust",
+      "school": "华中科技大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。"
+      ]
+    },
+    {
+      "id": "strong-2026-hnu",
+      "school": "湖南大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。"
+      ]
+    },
+    {
+      "id": "strong-2026-csu",
+      "school": "中南大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。"
+      ]
+    },
+    {
+      "id": "strong-2026-sysu",
+      "school": "中山大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-score-table-not-obtained",
+        "note": "已检查所列2026官方简章/广西范围证据，本轮未取得广西入围或录取原始数值表；不以其他省份或其他年份代替。",
+        "sourceIds": [
+          "special-source-2026-sysu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "部分专业或选科要求待补核",
+        "报名截止时间待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "广西入围或录取数值原表尚未取得"
+      ]
+    },
+    {
+      "id": "strong-2026-scut",
+      "school": "华南理工大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-score-table-not-obtained",
+        "note": "已检查所列2026官方简章/广西范围证据，本轮未取得广西入围或录取原始数值表；不以其他省份或其他年份代替。",
+        "sourceIds": [
+          "special-source-2026-scut"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "广西入围或录取数值原表尚未取得"
+      ]
+    },
+    {
+      "id": "strong-2026-scu",
+      "school": "四川大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-plan-not-obtained",
+        "note": "2026简章说明面向全国；本轮未取得广西分省投放表或广西成绩公告，保留具体投放unknown。",
+        "sourceIds": [
+          "special-source-2026-scu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "分省证据缺口：2026简章说明面向全国；本轮未取得广西分省投放表或广西成绩公告，保留具体投放unknown。"
+      ]
+    },
+    {
+      "id": "strong-2026-cqu",
+      "school": "重庆大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "registration-system-no-public-count",
+      "planGapReason": "2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数缺口：2026简章明确将分省专业或计划人数放在报名系统；本轮公开简章未提供广西数字表，未进入考生账户。",
+        "本轮重庆大学入围原数值链接返回空正文，611/630两值沿用前次核验，尚未完成本轮重读"
+      ]
+    },
+    {
+      "id": "strong-2026-uestc",
+      "school": "电子科技大学",
+      "guangxiStatus": "excluded",
+      "planStatus": "not-applicable-province",
+      "planGapReason": "2026官方完整招生范围不含广西；这里空值表示本省不适用，不是等待补录计划人数。",
+      "scoreGap": null,
+      "evidenceGaps": []
+    },
+    {
+      "id": "strong-2026-xjtu",
+      "school": "西安交通大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "platform-publication",
+        "note": "2026简章规定录取标准在本校强基报名系统发布；本轮未取得广西公开分省表，不能由全国报名资格推定具体投放。",
+        "sourceIds": [
+          "special-source-2026-xjtu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西投放范围待核验",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "分省证据缺口：2026简章规定录取标准在本校强基报名系统发布；本轮未取得广西公开分省表，不能由全国报名资格推定具体投放。"
+      ]
+    },
+    {
+      "id": "strong-2026-nwpu",
+      "school": "西北工业大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-score-table-not-obtained",
+        "note": "已检查所列2026官方简章/广西范围证据，本轮未取得广西入围或录取原始数值表；不以其他省份或其他年份代替。",
+        "sourceIds": [
+          "special-source-2026-nwpu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "部分专业或选科要求待补核",
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "广西入围或录取数值原表尚未取得"
+      ]
+    },
+    {
+      "id": "strong-2026-nwafu",
+      "school": "西北农林科技大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "primary-page-access-limited",
+      "planGapReason": "本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+      "scoreGap": {
+        "status": "province-score-table-not-obtained",
+        "note": "已检查所列2026官方简章/广西范围证据，本轮未取得广西入围或录取原始数值表；不以其他省份或其他年份代替。",
+        "sourceIds": [
+          "special-source-2026-nwafu"
+        ],
+        "checkedAt": "2026-09-10"
+      },
+      "evidenceGaps": [
+        "广西计划人数缺口：本轮访问原简章转载链接返回HTTP412；已保留原核验记录并搜索官方入口，仍未取得可读广西人数表，不将访问失败解释为未招生或未公布。",
+        "广西入围或录取数值原表尚未取得"
+      ]
+    },
+    {
+      "id": "strong-2026-lzu",
+      "school": "兰州大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "province-count-table-not-obtained",
+      "planGapReason": "本轮已检查2026简章及所列招生范围/成绩公告；取得的材料未给出可读广西人数表，无法确认完整专业名额。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数缺口：本轮已检查2026简章及所列招生范围/成绩公告；取得的材料未给出可读广西人数表，无法确认完整专业名额。"
+      ]
+    },
+    {
+      "id": "strong-2026-nudt",
+      "school": "国防科技大学",
+      "guangxiStatus": "excluded",
+      "planStatus": "not-applicable-province",
+      "planGapReason": "2026官方完整招生范围不含广西；这里空值表示本省不适用，不是等待补录计划人数。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "部分专业或选科要求待补核"
+      ]
+    },
+    {
+      "id": "special-2026-pku-math",
+      "school": "北京大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "special-national-route-no-province-count",
+      "planGapReason": "此项为独立少年/英才通道，保留原2026简章资格核验；本轮未新增广西分省名额证据，不能把全国项目规模填成广西计划。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数未取得"
+      ]
+    },
+    {
+      "id": "special-2026-pku-physics",
+      "school": "北京大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "special-national-route-no-province-count",
+      "planGapReason": "此项为独立少年/英才通道，保留原2026简章资格核验；本轮未新增广西分省名额证据，不能把全国项目规模填成广西计划。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数未取得"
+      ]
+    },
+    {
+      "id": "special-2026-thu-math-leader",
+      "school": "清华大学",
+      "guangxiStatus": "confirmed",
+      "planStatus": "special-national-route-no-province-count",
+      "planGapReason": "此项为独立少年/英才通道，保留原2026简章资格核验；本轮未新增广西分省名额证据，不能把全国项目规模填成广西计划。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数未取得"
+      ]
+    },
+    {
+      "id": "special-2026-ustc-youth",
+      "school": "中国科学技术大学",
+      "guangxiStatus": "unknown",
+      "planStatus": "special-national-route-no-province-count",
+      "planGapReason": "此项为独立少年/英才通道，保留原2026简章资格核验；本轮未新增广西分省名额证据，不能把全国项目规模填成广西计划。",
+      "scoreGap": null,
+      "evidenceGaps": [
+        "广西计划人数未取得"
+      ]
+    }
+  ],
+  "publicationNote": "只发布结构化事实、来源链接、研究说明和核验脚本；evidence原网页文本/图片只作本地审计资料，不上传。"
+}

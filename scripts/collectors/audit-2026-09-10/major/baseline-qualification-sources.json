@@ -1,0 +1,44 @@
+[
+  {
+    "id": "gxeea-2026-33106",
+    "title": "2026年本科普通批院校专业组投档最低分数线（首选历史科目组）",
+    "url": "https://www.gxeea.cn/view/content_624_33106.htm",
+    "publisher": "广西招生考试院",
+    "publishedAt": "2026-07-18T19:34:00+08:00",
+    "accessedAt": "2026-09-10T04:44:03.528362+00:00",
+    "sha256": "41328e51288ba14955f435ecfa92a1cb9c68feddbb49d95e05fa014ac37042bf",
+    "recordCount": 1829,
+    "method": "Official GBK HTML table; standard-library HTMLParser; independently cross-checked against regex extraction of every source cell; no OCR or third-party table used.",
+    "rawPath": "raw/content_624_33106.html",
+    "track": "历史",
+    "batch": "本科普通批",
+    "round": "首轮",
+    "notes": [
+      "说明： 1.国家专项计划专业，只投档符合国家专项计划资格的考生；地方专项计划考生，只投档符合地方专项计划资格的考生；高校专项计划专业，只投档符合高校专项计划资格的考生；精准专项计划专业，只投档符合精准专项计划资格的考生。 2.表中空白处表示无出档考生。"
+    ],
+    "scoreSemantics": "院校专业组投档最低分；空白表示无出档考生，保存为 null。不是具体专业录取最低分。",
+    "rankSemantics": "原表未公布投档位次，rank 均为 null；不能把一分一档的分数名次直接宣称为精确投档位次。",
+    "auditAction": "作为既有资格标签佐证引用，本子任务不重复核验16张组线表。"
+  },
+  {
+    "id": "gxeea-2026-33107",
+    "title": "2026年本科普通批院校专业组投档最低分数线（首选物理科目组）",
+    "url": "https://www.gxeea.cn/view/content_624_33107.htm",
+    "publisher": "广西招生考试院",
+    "publishedAt": "2026-07-18T19:35:00+08:00",
+    "accessedAt": "2026-09-10T04:44:03.558372+00:00",
+    "sha256": "b7b7f3534ffd33458f46f42c4639d4b9b588d7799741326f113f9566d5560820",
+    "recordCount": 4222,
+    "method": "Official GBK HTML table; standard-library HTMLParser; independently cross-checked against regex extraction of every source cell; no OCR or third-party table used.",
+    "rawPath": "raw/content_624_33107.html",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "首轮",
+    "notes": [
+      "说明： 1.国家专项计划专业，只投档符合国家专项计划资格的考生；地方专项计划考生，只投档符合地方专项计划资格的考生；高校专项计划专业，只投档符合高校专项计划资格的考生；精准专项计划专业，只投档符合精准专项计划资格的考生。 2.表中空白处表示无出档考生。"
+    ],
+    "scoreSemantics": "院校专业组投档最低分；空白表示无出档考生，保存为 null。不是具体专业录取最低分。",
+    "rankSemantics": "原表未公布投档位次，rank 均为 null；不能把一分一档的分数名次直接宣称为精确投档位次。",
+    "auditAction": "作为既有资格标签佐证引用，本子任务不重复核验16张组线表。"
+  }
+]

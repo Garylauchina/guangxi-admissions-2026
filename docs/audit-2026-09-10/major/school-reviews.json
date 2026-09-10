@@ -1,0 +1,536 @@
+[
+  {
+    "school": "北京体育大学",
+    "schoolCode": "10043",
+    "checkedAt": "2026-09-10T06:17:55.822220+00:00",
+    "sourceIds": [
+      "bsu-lines-cooperation",
+      "bsu-lines-normal"
+    ],
+    "checkedUrls": [
+      "https://bm.bsu.edu.cn/lscj/index.aspx?pprov=45&type=3&year=2026",
+      "https://bm.bsu.edu.cn/lscj/index.aspx?type=1&year=2026&pprov=45"
+    ],
+    "result": "已核对并收入11条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 11,
+    "scoreComparableCount": 11,
+    "byCategory": {
+      "普通类": 9,
+      "中外合作办学": 2
+    },
+    "byRound": {
+      "录取汇总（轮次未分）": 11
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "华北水利水电大学",
+    "schoolCode": "10078",
+    "checkedAt": "2026-09-10T06:17:05.816228+00:00",
+    "sourceIds": [
+      "ncwu-lines"
+    ],
+    "checkedUrls": [
+      "https://www2.ncwu.edu.cn/zhaoshengwang/lntj/gx.htm"
+    ],
+    "result": "已核对并收入16条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 16,
+    "scoreComparableCount": 16,
+    "byCategory": {
+      "普通类": 11,
+      "中外合作办学": 5
+    },
+    "byRound": {
+      "录取汇总（轮次未分）": 16
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "东北石油大学",
+    "schoolCode": "10220",
+    "checkedAt": "2026-09-10T06:15:13.270585+00:00",
+    "sourceIds": [
+      "nepu-2026-10476"
+    ],
+    "checkedUrls": [
+      "https://zsxxw.nepu.edu.cn/info/1164/10476.htm"
+    ],
+    "result": "已核对并收入56条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 56,
+    "scoreComparableCount": 56,
+    "byCategory": {
+      "普通类": 56
+    },
+    "byRound": {
+      "录取汇总（轮次未分）": 56
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "齐齐哈尔大学",
+    "schoolCode": "10232",
+    "checkedAt": "2026-09-10T06:15:13.270707+00:00",
+    "sourceIds": [
+      "qqhru-2026-4903"
+    ],
+    "checkedUrls": [
+      "https://zs.qqhru.edu.cn/info/1140/4903.htm"
+    ],
+    "result": "已核对并收入29条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 29,
+    "scoreComparableCount": 29,
+    "byCategory": {
+      "普通类": 29
+    },
+    "byRound": {
+      "录取汇总（含征集）": 29
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "桂林理工大学",
+    "schoolCode": "10596",
+    "checkedAt": "2026-09-10T06:19:26.506404+00:00",
+    "sourceIds": [
+      "glut-lines-2026"
+    ],
+    "checkedUrls": [
+      "https://zscx.glut.edu.cn/f/listScore"
+    ],
+    "result": "已核对并收入158条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 158,
+    "scoreComparableCount": 158,
+    "byCategory": {
+      "中外合作办学": 4,
+      "普通类": 67,
+      "民族班": 27,
+      "国家专项": 25,
+      "地方专项": 35
+    },
+    "byRound": {
+      "录取汇总（轮次未分）": 158
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "广西医科大学",
+    "schoolCode": "10598",
+    "checkedAt": "2026-09-10T06:34:07.917709+00:00",
+    "sourceIds": [
+      "gxmu-lines-2026-valid"
+    ],
+    "checkedUrls": [
+      "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relHistoryData/dataSearch?key=482520a4aec68801752d74b7"
+    ],
+    "result": "已核对并收入76条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 76,
+    "scoreComparableCount": 76,
+    "byCategory": {
+      "普通类": 51,
+      "定向医学生": 22,
+      "中澳联合培养项目": 1,
+      "中外合作办学": 2
+    },
+    "byRound": {
+      "录取汇总（轮次未分）": 76
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "玉林师范学院",
+    "schoolCode": "10606",
+    "checkedAt": "2026-09-10T06:15:13.270189+00:00",
+    "sourceIds": [
+      "ylu-2026-7162"
+    ],
+    "checkedUrls": [
+      "https://zjw.ylu.edu.cn/info/1013/7162.htm"
+    ],
+    "result": "已核对并收入129条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 129,
+    "scoreComparableCount": 129,
+    "byCategory": {
+      "公费师范生": 32,
+      "普通类": 67,
+      "民族班": 10,
+      "精准专项": 20
+    },
+    "byRound": {
+      "首轮": 118,
+      "征集（次数未公布）": 11
+    },
+    "conflictRecordIds": [
+      "major-2026-ylu-t6-r8",
+      "major-2026-ylu-t6-r9",
+      "major-2026-ylu-t7-r5",
+      "major-2026-ylu-t7-r9",
+      "major-2026-ylu-t8-r23",
+      "major-2026-ylu-t8-r30",
+      "major-2026-ylu-t8-r31"
+    ],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "百色学院",
+    "schoolCode": "10609",
+    "checkedAt": "2026-09-10T06:31:24.712990+00:00",
+    "sourceIds": [
+      "bsuc-lines-normal-img-3",
+      "bsuc-lines-normal-img-4",
+      "bsuc-lines-special-img-1",
+      "bsuc-lines-special-img-2"
+    ],
+    "checkedUrls": [
+      "https://zs.bsuc.edu.cn/__local/D/AD/AF/C982FF14CC364C11E1B3863AA7A_154B8E06_23A79.png",
+      "https://zs.bsuc.edu.cn/__local/E/19/60/F8BE3D58B1A665436C3D653E540_BA3B998C_3DD82.png",
+      "https://zs.bsuc.edu.cn/__local/0/23/D2/87A3DCC8BCB66CEAB9F9DD16BCB_6FD7D8DB_290DF.png",
+      "https://zs.bsuc.edu.cn/__local/9/8B/94/4F3A3A4F69781E165959EA2401B_11887E0C_14D1D.png"
+    ],
+    "result": "已核对并收入122条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 122,
+    "scoreComparableCount": 122,
+    "byCategory": {
+      "普通类": 55,
+      "精准专项": 35,
+      "民族班": 16,
+      "公费师范": 16
+    },
+    "byRound": {
+      "录取汇总（轮次未分）": 122
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "山东交通学院",
+    "schoolCode": "11510",
+    "checkedAt": "2026-09-10T06:15:13.513038+00:00",
+    "sourceIds": [
+      "sdjtu-2026-7012"
+    ],
+    "checkedUrls": [
+      "https://zsw.sdjtu.edu.cn/info/1012/7012.htm"
+    ],
+    "result": "已核对并收入24条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 24,
+    "scoreComparableCount": 24,
+    "byCategory": {
+      "普通类": 21,
+      "中外合作办学": 3
+    },
+    "byRound": {
+      "录取汇总（轮次未分）": 24
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "桂林航天工业学院",
+    "schoolCode": "11825",
+    "checkedAt": "2026-09-10T06:18:11.696839+00:00",
+    "sourceIds": [
+      "guat-lines"
+    ],
+    "checkedUrls": [
+      "https://zsw.guat.edu.cn/info/1022/2027.htm"
+    ],
+    "result": "已核对并收入58条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 58,
+    "scoreComparableCount": 58,
+    "byCategory": {
+      "普通类": 43,
+      "民族班": 4,
+      "精准专项": 10,
+      "中外合作办学": 1
+    },
+    "byRound": {
+      "首轮": 58
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "重庆工程学院",
+    "schoolCode": "12608",
+    "checkedAt": "2026-09-10T06:15:13.270928+00:00",
+    "sourceIds": [
+      "cqie-2026-78849"
+    ],
+    "checkedUrls": [
+      "https://zs.cqie.edu.cn/html/7/content/26/07/78849.shtml"
+    ],
+    "result": "已核对并收入15条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 15,
+    "scoreComparableCount": 15,
+    "byCategory": {
+      "普通类": 15
+    },
+    "byRound": {
+      "录取汇总（轮次未分）": 15
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "辽宁轨道交通职业学院",
+    "schoolCode": "12896",
+    "checkedAt": "2026-09-10T06:17:05.817241+00:00",
+    "sourceIds": [
+      "lngpi-lines"
+    ],
+    "checkedUrls": [
+      "https://www.lngpi.edu.cn/zs/info/1410/3891.htm"
+    ],
+    "result": "已核对并收入4条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 4,
+    "scoreComparableCount": 4,
+    "byCategory": {
+      "普通类": 4
+    },
+    "byRound": {
+      "录取汇总（轮次未分）": 4
+    },
+    "conflictRecordIds": [],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "重庆三峡医药高等专科学校",
+    "schoolCode": "14008",
+    "checkedAt": "2026-09-10T06:17:05.816662+00:00",
+    "sourceIds": [
+      "sxyyc-lines"
+    ],
+    "checkedUrls": [
+      "https://www.sxyyc.net/zsb/info/1015/2257.htm"
+    ],
+    "result": "已核对并收入22条2026广西具体专业录取最低分；限列明专业与来源。",
+    "recordCount": 22,
+    "scoreComparableCount": 20,
+    "byCategory": {
+      "普通类": 22
+    },
+    "byRound": {
+      "录取汇总（轮次未分）": 22
+    },
+    "conflictRecordIds": [
+      "audit-major26-sxyyc-lines-10-物理",
+      "audit-major26-sxyyc-lines-15-物理"
+    ],
+    "accessLimitType": "none-for-listed-sources",
+    "scope": "已取得源表内全部适用专业行；非对全校所有渠道的穷尽证明"
+  },
+  {
+    "school": "广西师范大学",
+    "schoolCode": "10602",
+    "checkedAt": "2026-09-10T06:15:51.268572+00:00",
+    "checkedUrls": [
+      "https://bkzs.gxnu.edu.cn/lnfs_12177/list.htm",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/selectYear",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/GetScoreData"
+    ],
+    "sourceIds": [
+      "gxnu-index",
+      "gxnu-years",
+      "gxnu-lines-all"
+    ],
+    "result": "本轮官方专业分数列表及公开查询年份配置最高为2025；查询2026返回空。本轮未取得2026专业录取最低分，不能推断所有发布渠道均无数据。",
+    "accessLimitType": "year-unavailable",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "桂林电子科技大学",
+    "schoolCode": "10595",
+    "checkedAt": "2026-09-10T06:15:51.268035+00:00",
+    "checkedUrls": [
+      "https://www.guet.edu.cn/zs/6004/list.htm",
+      "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/60.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mongo=true"
+    ],
+    "sourceIds": [
+      "guet-index",
+      "guet-query"
+    ],
+    "result": "本轮官方分数查询表单年份选项为2020至2025，没有2026选项；尚无本轮可核验2026专业最低线。",
+    "accessLimitType": "year-unavailable",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "广西大学",
+    "schoolCode": "10593",
+    "checkedAt": "2026-09-10T06:17:05.817449+00:00",
+    "checkedUrls": [
+      "https://zs.gxu.edu.cn/child/xinxichaxun.jsp?urltype=tree.TreeTempUrl&wbtreeid=1232"
+    ],
+    "sourceIds": [
+      "gxu-lines-entry"
+    ],
+    "result": "已检查的官方历年分数列表最新专业录取结果为2025年，2026年发布项仍指2025预科；未取得2026实际专业录取线。",
+    "accessLimitType": "not-found-in-checked-index",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "广西民族大学",
+    "schoolCode": "10608",
+    "checkedAt": "2026-09-10T06:15:51.627211+00:00",
+    "checkedUrls": [
+      "https://zs.gxmzu.edu.cn/"
+    ],
+    "sourceIds": [
+      "gxmzu-index"
+    ],
+    "result": "本轮招生首页可见分数结果为2025年；未取得2026实际专业录取线。仅为所查官方首页结果。",
+    "accessLimitType": "not-found-in-checked-index",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "广西民族师范学院",
+    "schoolCode": "10604",
+    "checkedAt": "2026-09-10T06:25:20.823651+00:00",
+    "checkedUrls": [
+      "https://zsw.gxnun.edu.cn/zsfs.htm"
+    ],
+    "sourceIds": [
+      "gxnun-lines-index"
+    ],
+    "result": "已查官方分数栏目最新相关标题为2026招生计划及2025专业录取分数，并非2026实际专业分数。",
+    "accessLimitType": "not-found-in-checked-index",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "南宁师范大学",
+    "schoolCode": "10603",
+    "checkedAt": "2026-09-10T06:15:13.931704+00:00",
+    "checkedUrls": [
+      "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+      "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList"
+    ],
+    "sourceIds": [
+      "nnnu-lines-物理类",
+      "nnnu-lines-历史类"
+    ],
+    "result": "2026、广西、普通类、历史类/物理类、空校区的公开lnfs接口返回success=true及空列表；这是限定参数检索结果，不能据此声称全校2026未发布。",
+    "accessLimitType": "empty-for-checked-query",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "西安电子科技大学",
+    "schoolCode": "10701",
+    "checkedAt": "2026-09-10T06:15:13.991582+00:00",
+    "checkedUrls": [
+      "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList"
+    ],
+    "sourceIds": [
+      "xidian-lines-物理类"
+    ],
+    "result": "公开lnfs接口按2026、广西、普通类、物理类及长安校区返回成功空列表；限该参数组合，未核实全校所有批次。",
+    "accessLimitType": "empty-for-checked-query",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "天津大学",
+    "schoolCode": "10056",
+    "checkedAt": "2026-09-10T06:15:14.036967+00:00",
+    "checkedUrls": [
+      "https://zsdata.tju.edu.cn/lqxx/s/api/front/lqxx/getList"
+    ],
+    "sourceIds": [
+      "tju-lines-物理类"
+    ],
+    "result": "公开lnfs接口按2026、广西、普通类、物理类及北洋园校区返回成功空列表；限该参数组合。",
+    "accessLimitType": "empty-for-checked-query",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "电子科技大学",
+    "schoolCode": "10614",
+    "checkedAt": "2026-09-10T06:15:14.085915+00:00",
+    "checkedUrls": [
+      "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getList"
+    ],
+    "sourceIds": [
+      "uestc-lines-物理类"
+    ],
+    "result": "公开lnfs接口按2026、广西、普通类、物理类及电子科技大学校区返回成功空列表；限该参数组合。",
+    "accessLimitType": "empty-for-checked-query",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "广西财经学院",
+    "schoolCode": "11548",
+    "checkedAt": "2026-09-10T06:23:50.058448+00:00",
+    "checkedUrls": [
+      "https://www.gxufe.edu.cn/www/subWebSites/zsxx/index.html"
+    ],
+    "sourceIds": [
+      "gxufe-home"
+    ],
+    "result": "已访问学校自建招生主页，内容由动态列表加载；本轮尚未完成其2026专业录取结果查询，不作未发布判断。",
+    "accessLimitType": "dynamic-query-not-completed",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "北部湾大学",
+    "schoolCode": "11607",
+    "checkedAt": "2026-09-10T06:23:50.058983+00:00",
+    "checkedUrls": [
+      "https://zsw.bbgu.edu.cn/"
+    ],
+    "sourceIds": [
+      "bbgu-home"
+    ],
+    "result": "已访问招生根入口，原页为图片导航并指向sy.htm；本轮未完成下级历年分数栏目复查，不作未发布判断。",
+    "accessLimitType": "landing-page-only",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "广西中医药大学",
+    "schoolCode": "10600",
+    "checkedAt": "2026-09-10T06:25:20.823965+00:00",
+    "checkedUrls": [
+      "https://www.gxtcmu.edu.cn/zs",
+      "https://www.gxtcmu.edu.cn/zs/zsjz/content_88515",
+      "https://www.gxtcmu.edu.cn/zs/zsjz/content_89174"
+    ],
+    "sourceIds": [
+      "gxtcm-home",
+      "gxtcm-advance",
+      "gxtcm-vocational"
+    ],
+    "result": "已找到2026提前批和高职高专录取进程公告及图片；本轮未完成所有图片中专业与组线口径的逐行转录核对，未纳入实际专业分。应显示已找到证据待解析，不能标成未发布。",
+    "accessLimitType": "image-transcription-pending",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  },
+  {
+    "school": "广西工程职业学院",
+    "schoolCode": "14127",
+    "checkedAt": "2026-09-10T06:26:48.557571+00:00",
+    "checkedUrls": [
+      "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-07/9123.html",
+      "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-07/9122.html"
+    ],
+    "sourceIds": [
+      "gxgc-lines-physics",
+      "gxgc-lines-history"
+    ],
+    "result": "已核实81条2026逐专业投档最低分并另存major-filing-cutoffs.json；官方表未据此确认最终实际专业录取最低分，不计实际录取覆盖。",
+    "accessLimitType": "filing-only",
+    "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+  }
+]

@@ -1,0 +1,210 @@
+{
+  "year": 2026,
+  "scope": "基础14校全量计划深审及玉林补充29条教师计划；另2校只做结构核验",
+  "baselineRows": 1584,
+  "correctedRows": 1497,
+  "excludedRows": 87,
+  "fieldCorrections": 1079,
+  "changedPlanRows": 301,
+  "beforeGroups": 293,
+  "afterGroups": 429,
+  "baselineToFinalFieldDifferences": {
+    "category": 7,
+    "duration": 98,
+    "tuition": 145,
+    "subjectRule": 57,
+    "group": 136,
+    "laterPublishedPlanCount": 3,
+    "note": 134,
+    "requirementStatus": 2,
+    "requirementText": 49,
+    "major": 2,
+    "batch": 119,
+    "durationStatus": 4,
+    "sourceDuration": 4,
+    "plannedCountScope": 40,
+    "admissionRequirements": 42,
+    "currentGaokaoSeatsKnown": 40,
+    "undergraduateDuration": 2
+  },
+  "baselineRowsChanged": 274,
+  "exclusionReasons": {
+    "预科直升批面向已完成预科的学生，不是当年高考可填报计划。": 67,
+    "原始总计划表的师范类/普通类不是高考科类；官方录取表明确属艺术或体育，退出普通文化分计划筛选。": 20
+  },
+  "fieldsChanged": {
+    "category": 34,
+    "duration": 98,
+    "tuition": 145,
+    "subjectRule": 84,
+    "requirementStatus": 2,
+    "note": 205,
+    "batch": 119,
+    "sourceDuration": 4,
+    "durationStatus": 4,
+    "group": 136,
+    "laterPublishedPlanCount": 3,
+    "major": 2,
+    "requirementText": 76,
+    "admissionRequirements": 42,
+    "plannedCountScope": 40,
+    "currentGaokaoSeatsKnown": 40,
+    "undergraduateDuration": 2,
+    "requiredSubjects": 14,
+    "planBasis": 27,
+    "plannedCount": 2
+  },
+  "schoolStats": [
+    {
+      "school": "北部湾大学",
+      "rows": 34,
+      "groupKnown": 0,
+      "subjectUnknown": 34,
+      "tuitionUnknown": 0,
+      "durationUnknown": 34,
+      "batchUnknown": 34
+    },
+    {
+      "school": "南宁师范大学",
+      "rows": 166,
+      "groupKnown": 0,
+      "subjectUnknown": 0,
+      "tuitionUnknown": 0,
+      "durationUnknown": 0,
+      "batchUnknown": 0
+    },
+    {
+      "school": "广西中医药大学",
+      "rows": 49,
+      "groupKnown": 47,
+      "subjectUnknown": 0,
+      "tuitionUnknown": 2,
+      "durationUnknown": 0,
+      "batchUnknown": 6
+    },
+    {
+      "school": "广西医科大学",
+      "rows": 76,
+      "groupKnown": 0,
+      "subjectUnknown": 76,
+      "tuitionUnknown": 0,
+      "durationUnknown": 0,
+      "batchUnknown": 1
+    },
+    {
+      "school": "广西大学",
+      "rows": 130,
+      "groupKnown": 0,
+      "subjectUnknown": 0,
+      "tuitionUnknown": 0,
+      "durationUnknown": 0,
+      "batchUnknown": 0
+    },
+    {
+      "school": "广西工程职业学院",
+      "rows": 88,
+      "groupKnown": 0,
+      "subjectUnknown": 88,
+      "tuitionUnknown": 0,
+      "durationUnknown": 0,
+      "batchUnknown": 0
+    },
+    {
+      "school": "广西师范大学",
+      "rows": 154,
+      "groupKnown": 0,
+      "subjectUnknown": 154,
+      "tuitionUnknown": 149,
+      "durationUnknown": 149,
+      "batchUnknown": 0
+    },
+    {
+      "school": "广西民族大学",
+      "rows": 156,
+      "groupKnown": 0,
+      "subjectUnknown": 0,
+      "tuitionUnknown": 0,
+      "durationUnknown": 0,
+      "batchUnknown": 0
+    },
+    {
+      "school": "广西民族师范学院",
+      "rows": 93,
+      "groupKnown": 0,
+      "subjectUnknown": 93,
+      "tuitionUnknown": 0,
+      "durationUnknown": 0,
+      "batchUnknown": 93
+    },
+    {
+      "school": "广西财经学院",
+      "rows": 121,
+      "groupKnown": 0,
+      "subjectUnknown": 4,
+      "tuitionUnknown": 2,
+      "durationUnknown": 4,
+      "batchUnknown": 0
+    },
+    {
+      "school": "桂林理工大学",
+      "rows": 158,
+      "groupKnown": 158,
+      "subjectUnknown": 158,
+      "tuitionUnknown": 158,
+      "durationUnknown": 158,
+      "batchUnknown": 0
+    },
+    {
+      "school": "桂林电子科技大学",
+      "rows": 135,
+      "groupKnown": 135,
+      "subjectUnknown": 0,
+      "tuitionUnknown": 131,
+      "durationUnknown": 135,
+      "batchUnknown": 0
+    },
+    {
+      "school": "玉林师范学院",
+      "rows": 89,
+      "groupKnown": 89,
+      "subjectUnknown": 2,
+      "tuitionUnknown": 0,
+      "durationUnknown": 0,
+      "batchUnknown": 0
+    },
+    {
+      "school": "百色学院",
+      "rows": 48,
+      "groupKnown": 0,
+      "subjectUnknown": 48,
+      "tuitionUnknown": 0,
+      "durationUnknown": 48,
+      "batchUnknown": 48
+    }
+  ],
+  "unresolvedGroupMappings": [],
+  "sourceConflicts": [
+    {
+      "school": "玉林师范学院",
+      "major": "人工智能",
+      "rows": 2,
+      "conflict": "科目名单为物理、化学两门，括注却写三门；subjectRule保留unknown"
+    }
+  ],
+  "teacherPatch": {
+    "inputRows": 29,
+    "outputRows": 27,
+    "removedDuplicateRows": 2,
+    "originalPlanCount": 85
+  },
+  "checks": {
+    "baselinePreserved": true,
+    "allYear2026": true,
+    "uniqueIds": true,
+    "allEvidenceSourcesResolved": true,
+    "newSourceHashesMatch": true,
+    "noInferredGroupCodes": true,
+    "noScoresUsedForGroupMapping": true,
+    "originalPublishedCountsRetained": true
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-09-10",
+  "automatedTests": 12,
+  "isolatedSpecialRebuild": {
+    "records": 43,
+    "checks": 15,
+    "matchesPublishedFacts": true
+  },
+  "independentMedicalReview": {
+    "allRowsCompared": 76,
+    "manualSamples": 9
+  },
+  "independentBaiseReview": {
+    "rowsAgainstTranscription": 122,
+    "manualSamples": 11,
+    "imagesCategoryChecked": 8
+  },
+  "fixesAfterIndependentReview": [
+    "广西医大22条专业结果及62人汇总计划恢复精确提前批",
+    "百色16条公费师范保留原文提前批类别"
+  ],
+  "publicOriginalPagesAndImagesIncluded": false,
+  "browserVisualTestingPerformed": false,
+  "deployment": "See the GitHub Actions run for the release commit; verification is recorded after deployment."
+}

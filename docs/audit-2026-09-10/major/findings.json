@@ -1,0 +1,1104 @@
+{
+  "checkedAt": "2026-09-10T06:43:55.482211+00:00",
+  "findings": [
+    {
+      "type": "existing-source-conflict",
+      "school": "玉林师范学院",
+      "schoolCode": "10606",
+      "recordIds": [
+        "major-2026-ylu-t6-r8"
+      ],
+      "sourceIds": [
+        "ylu-2026-7162"
+      ],
+      "detail": "计划数和录取数分别来自原表，不跨首轮与征集相加；原页发布日期为最初发布日期，后续录取更新日期未单列。公费师范生定向培养，具体服务地区见专业名；须满足广西户籍、体检及相应报考条件，英语须口语测试合格。【原文分列待核实】同组同名有多条原始记录，不同子计划区别未注明，须向学校核实。",
+      "action": "保留专业分数和源行，显式标注；不静默更正原文。"
+    },
+    {
+      "type": "existing-source-conflict",
+      "school": "玉林师范学院",
+      "schoolCode": "10606",
+      "recordIds": [
+        "major-2026-ylu-t6-r9"
+      ],
+      "sourceIds": [
+        "ylu-2026-7162"
+      ],
+      "detail": "计划数和录取数分别来自原表，不跨首轮与征集相加；原页发布日期为最初发布日期，后续录取更新日期未单列。公费师范生定向培养，具体服务地区见专业名；须满足广西户籍、体检及相应报考条件，英语须口语测试合格。【原文分列待核实】同组同名有多条原始记录，不同子计划区别未注明，须向学校核实。",
+      "action": "保留专业分数和源行，显式标注；不静默更正原文。"
+    },
+    {
+      "type": "existing-source-conflict",
+      "school": "玉林师范学院",
+      "schoolCode": "10606",
+      "recordIds": [
+        "major-2026-ylu-t7-r5"
+      ],
+      "sourceIds": [
+        "ylu-2026-7162"
+      ],
+      "detail": "计划数和录取数分别来自原表，不跨首轮与征集相加；原页发布日期为最初发布日期，后续录取更新日期未单列。公费师范生定向培养，具体服务地区见专业名；须满足广西户籍、体检及相应报考条件，英语须口语测试合格。原文要求不招色盲、色弱考生。【原文分列待核实】同组同名有多条原始记录，不同子计划区别未注明，须向学校核实。",
+      "action": "保留专业分数和源行，显式标注；不静默更正原文。"
+    },
+    {
+      "type": "existing-source-conflict",
+      "school": "玉林师范学院",
+      "schoolCode": "10606",
+      "recordIds": [
+        "major-2026-ylu-t7-r9"
+      ],
+      "sourceIds": [
+        "ylu-2026-7162"
+      ],
+      "detail": "计划数和录取数分别来自原表，不跨首轮与征集相加；原页发布日期为最初发布日期，后续录取更新日期未单列。公费师范生定向培养，具体服务地区见专业名；须满足广西户籍、体检及相应报考条件，英语须口语测试合格。原文要求不招色盲、色弱考生。【原文分列待核实】同组同名有多条原始记录，不同子计划区别未注明，须向学校核实。",
+      "action": "保留专业分数和源行，显式标注；不静默更正原文。"
+    },
+    {
+      "type": "existing-source-conflict",
+      "school": "玉林师范学院",
+      "schoolCode": "10606",
+      "recordIds": [
+        "major-2026-ylu-t8-r23"
+      ],
+      "sourceIds": [
+        "ylu-2026-7162"
+      ],
+      "detail": "计划数和录取数分别来自原表，不跨首轮与征集相加；原页发布日期为最初发布日期，后续录取更新日期未单列。【原文出档分冲突】高校公告出档分 492 与考试院同组首轮线 461 不一致；本条 score 保留高校公告的专业最低分 461。",
+      "action": "保留专业分数和源行，显式标注；不静默更正原文。"
+    },
+    {
+      "type": "existing-source-conflict",
+      "school": "玉林师范学院",
+      "schoolCode": "10606",
+      "recordIds": [
+        "major-2026-ylu-t8-r30"
+      ],
+      "sourceIds": [
+        "ylu-2026-7162"
+      ],
+      "detail": "计划数和录取数分别来自原表，不跨首轮与征集相加；原页发布日期为最初发布日期，后续录取更新日期未单列。专业组类别据广西招生考试院同年同校同科类同组原表：精准专项。【原文出档分冲突】高校公告出档分 464 与考试院同组首轮线 457 不一致；本条 score 保留高校公告的专业最低分 457。",
+      "action": "保留专业分数和源行，显式标注；不静默更正原文。"
+    },
+    {
+      "type": "existing-source-conflict",
+      "school": "玉林师范学院",
+      "schoolCode": "10606",
+      "recordIds": [
+        "major-2026-ylu-t8-r31"
+      ],
+      "sourceIds": [
+        "ylu-2026-7162"
+      ],
+      "detail": "计划数和录取数分别来自原表，不跨首轮与征集相加；原页发布日期为最初发布日期，后续录取更新日期未单列。专业组类别据广西招生考试院同年同校同科类同组原表：精准专项。【原文出档分冲突】高校公告出档分 464 与考试院同组首轮线 457 不一致；本条 score 保留高校公告的专业最低分 465。",
+      "action": "保留专业分数和源行，显式标注；不静默更正原文。"
+    },
+    {
+      "type": "source-internal-conflict",
+      "school": "重庆三峡医药高等专科学校",
+      "schoolCode": "14008",
+      "recordIds": [
+        "audit-major26-sxyyc-lines-10-物理"
+      ],
+      "sourceIds": [
+        "sxyyc-lines"
+      ],
+      "detail": "原表录取数为1，但最低分与最高分不相同；不能同时视为已解决。",
+      "action": "保留官方原值并警示，不用该行人数反推计划或概率。"
+    },
+    {
+      "type": "source-internal-conflict",
+      "school": "重庆三峡医药高等专科学校",
+      "schoolCode": "14008",
+      "recordIds": [
+        "audit-major26-sxyyc-lines-15-物理"
+      ],
+      "sourceIds": [
+        "sxyyc-lines"
+      ],
+      "detail": "原表录取数为1，但最低分与最高分不相同；不能同时视为已解决。",
+      "action": "保留官方原值并警示，不用该行人数反推计划或概率。"
+    }
+  ],
+  "negativeSearches": [
+    {
+      "school": "广西师范大学",
+      "schoolCode": "10602",
+      "checkedAt": "2026-09-10T06:15:51.268572+00:00",
+      "checkedUrls": [
+        "https://bkzs.gxnu.edu.cn/lnfs_12177/list.htm",
+        "https://ibkzs.gxnu.edu.cn/RobotSys/selectYear",
+        "https://ibkzs.gxnu.edu.cn/RobotSys/GetScoreData"
+      ],
+      "sourceIds": [
+        "gxnu-index",
+        "gxnu-years",
+        "gxnu-lines-all"
+      ],
+      "result": "本轮官方专业分数列表及公开查询年份配置最高为2025；查询2026返回空。本轮未取得2026专业录取最低分，不能推断所有发布渠道均无数据。",
+      "accessLimitType": "year-unavailable",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "桂林电子科技大学",
+      "schoolCode": "10595",
+      "checkedAt": "2026-09-10T06:15:51.268035+00:00",
+      "checkedUrls": [
+        "https://www.guet.edu.cn/zs/6004/list.htm",
+        "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/60.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mongo=true"
+      ],
+      "sourceIds": [
+        "guet-index",
+        "guet-query"
+      ],
+      "result": "本轮官方分数查询表单年份选项为2020至2025，没有2026选项；尚无本轮可核验2026专业最低线。",
+      "accessLimitType": "year-unavailable",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "广西大学",
+      "schoolCode": "10593",
+      "checkedAt": "2026-09-10T06:17:05.817449+00:00",
+      "checkedUrls": [
+        "https://zs.gxu.edu.cn/child/xinxichaxun.jsp?urltype=tree.TreeTempUrl&wbtreeid=1232"
+      ],
+      "sourceIds": [
+        "gxu-lines-entry"
+      ],
+      "result": "已检查的官方历年分数列表最新专业录取结果为2025年，2026年发布项仍指2025预科；未取得2026实际专业录取线。",
+      "accessLimitType": "not-found-in-checked-index",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "广西民族大学",
+      "schoolCode": "10608",
+      "checkedAt": "2026-09-10T06:15:51.627211+00:00",
+      "checkedUrls": [
+        "https://zs.gxmzu.edu.cn/"
+      ],
+      "sourceIds": [
+        "gxmzu-index"
+      ],
+      "result": "本轮招生首页可见分数结果为2025年；未取得2026实际专业录取线。仅为所查官方首页结果。",
+      "accessLimitType": "not-found-in-checked-index",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "广西民族师范学院",
+      "schoolCode": "10604",
+      "checkedAt": "2026-09-10T06:25:20.823651+00:00",
+      "checkedUrls": [
+        "https://zsw.gxnun.edu.cn/zsfs.htm"
+      ],
+      "sourceIds": [
+        "gxnun-lines-index"
+      ],
+      "result": "已查官方分数栏目最新相关标题为2026招生计划及2025专业录取分数，并非2026实际专业分数。",
+      "accessLimitType": "not-found-in-checked-index",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "南宁师范大学",
+      "schoolCode": "10603",
+      "checkedAt": "2026-09-10T06:15:13.931704+00:00",
+      "checkedUrls": [
+        "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+        "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList"
+      ],
+      "sourceIds": [
+        "nnnu-lines-物理类",
+        "nnnu-lines-历史类"
+      ],
+      "result": "2026、广西、普通类、历史类/物理类、空校区的公开lnfs接口返回success=true及空列表；这是限定参数检索结果，不能据此声称全校2026未发布。",
+      "accessLimitType": "empty-for-checked-query",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "西安电子科技大学",
+      "schoolCode": "10701",
+      "checkedAt": "2026-09-10T06:15:13.991582+00:00",
+      "checkedUrls": [
+        "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList"
+      ],
+      "sourceIds": [
+        "xidian-lines-物理类"
+      ],
+      "result": "公开lnfs接口按2026、广西、普通类、物理类及长安校区返回成功空列表；限该参数组合，未核实全校所有批次。",
+      "accessLimitType": "empty-for-checked-query",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "天津大学",
+      "schoolCode": "10056",
+      "checkedAt": "2026-09-10T06:15:14.036967+00:00",
+      "checkedUrls": [
+        "https://zsdata.tju.edu.cn/lqxx/s/api/front/lqxx/getList"
+      ],
+      "sourceIds": [
+        "tju-lines-物理类"
+      ],
+      "result": "公开lnfs接口按2026、广西、普通类、物理类及北洋园校区返回成功空列表；限该参数组合。",
+      "accessLimitType": "empty-for-checked-query",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "电子科技大学",
+      "schoolCode": "10614",
+      "checkedAt": "2026-09-10T06:15:14.085915+00:00",
+      "checkedUrls": [
+        "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getList"
+      ],
+      "sourceIds": [
+        "uestc-lines-物理类"
+      ],
+      "result": "公开lnfs接口按2026、广西、普通类、物理类及电子科技大学校区返回成功空列表；限该参数组合。",
+      "accessLimitType": "empty-for-checked-query",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "广西财经学院",
+      "schoolCode": "11548",
+      "checkedAt": "2026-09-10T06:23:50.058448+00:00",
+      "checkedUrls": [
+        "https://www.gxufe.edu.cn/www/subWebSites/zsxx/index.html"
+      ],
+      "sourceIds": [
+        "gxufe-home"
+      ],
+      "result": "已访问学校自建招生主页，内容由动态列表加载；本轮尚未完成其2026专业录取结果查询，不作未发布判断。",
+      "accessLimitType": "dynamic-query-not-completed",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "北部湾大学",
+      "schoolCode": "11607",
+      "checkedAt": "2026-09-10T06:23:50.058983+00:00",
+      "checkedUrls": [
+        "https://zsw.bbgu.edu.cn/"
+      ],
+      "sourceIds": [
+        "bbgu-home"
+      ],
+      "result": "已访问招生根入口，原页为图片导航并指向sy.htm；本轮未完成下级历年分数栏目复查，不作未发布判断。",
+      "accessLimitType": "landing-page-only",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "广西中医药大学",
+      "schoolCode": "10600",
+      "checkedAt": "2026-09-10T06:25:20.823965+00:00",
+      "checkedUrls": [
+        "https://www.gxtcmu.edu.cn/zs",
+        "https://www.gxtcmu.edu.cn/zs/zsjz/content_88515",
+        "https://www.gxtcmu.edu.cn/zs/zsjz/content_89174"
+      ],
+      "sourceIds": [
+        "gxtcm-home",
+        "gxtcm-advance",
+        "gxtcm-vocational"
+      ],
+      "result": "已找到2026提前批和高职高专录取进程公告及图片；本轮未完成所有图片中专业与组线口径的逐行转录核对，未纳入实际专业分。应显示已找到证据待解析，不能标成未发布。",
+      "accessLimitType": "image-transcription-pending",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    },
+    {
+      "school": "广西工程职业学院",
+      "schoolCode": "14127",
+      "checkedAt": "2026-09-10T06:26:48.557571+00:00",
+      "checkedUrls": [
+        "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-07/9123.html",
+        "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-07/9122.html"
+      ],
+      "sourceIds": [
+        "gxgc-lines-physics",
+        "gxgc-lines-history"
+      ],
+      "result": "已核实81条2026逐专业投档最低分并另存major-filing-cutoffs.json；官方表未据此确认最终实际专业录取最低分，不计实际录取覆盖。",
+      "accessLimitType": "filing-only",
+      "scope": "本轮已列明页面或参数；非全校全站穷尽检索"
+    }
+  ],
+  "excludedRows": [
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 10,
+      "sourceCells": [
+        "历史类",
+        "最低分",
+        "451.00",
+        "位次",
+        "29587"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 13,
+      "sourceCells": [
+        "历史类",
+        "最低分",
+        "459.00",
+        "位次",
+        "26915"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 17,
+      "sourceCells": [
+        "历史类",
+        "最低分",
+        "444.00",
+        "位次",
+        "31903"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 18,
+      "sourceCells": [
+        "历史类",
+        "免费少数民族预科班",
+        "434.00",
+        "441.00",
+        "450.00"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 19,
+      "sourceCells": [
+        "历史类",
+        "最低分",
+        "434.00",
+        "位次",
+        "35412"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 20,
+      "sourceCells": [
+        "历史类",
+        "少数民族预科班",
+        "439.00",
+        "442.97",
+        "459.00"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 21,
+      "sourceCells": [
+        "历史类",
+        "最低分",
+        "439.00",
+        "位次",
+        "33671"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 26,
+      "sourceCells": [
+        "物理+不限科目",
+        "最低分",
+        "459.00",
+        "位次",
+        "99694"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 29,
+      "sourceCells": [
+        "物理+不限科目",
+        "最低分",
+        "452.00",
+        "位次",
+        "105483"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 48,
+      "sourceCells": [
+        "物理+化学",
+        "最低分",
+        "490.00",
+        "位次",
+        "75307"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 53,
+      "sourceCells": [
+        "物理+化学",
+        "最低分",
+        "493.00",
+        "位次",
+        "73004"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 56,
+      "sourceCells": [
+        "物理+化学",
+        "最低分",
+        "475.00",
+        "位次",
+        "86834"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 59,
+      "sourceCells": [
+        "物理+化学",
+        "最低分",
+        "507.00",
+        "位次",
+        "62837"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 65,
+      "sourceCells": [
+        "物理+化学",
+        "最低分",
+        "482.00",
+        "位次",
+        "81449"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 67,
+      "sourceCells": [
+        "物理+化学",
+        "最低分",
+        "420.00",
+        "位次",
+        "133052"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 75,
+      "sourceCells": [
+        "物理类",
+        "最低分",
+        "452.00",
+        "位次",
+        "105483"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 76,
+      "sourceCells": [
+        "物理+不限科目",
+        "免费少数民族预科班",
+        "427.00",
+        "440.86",
+        "467.00"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 77,
+      "sourceCells": [
+        "物理+不限科目",
+        "最低分",
+        "427.00",
+        "位次",
+        "126903"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 78,
+      "sourceCells": [
+        "物理+化学",
+        "少数民族预科班",
+        "444.00",
+        "452.76",
+        "484.00"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 79,
+      "sourceCells": [
+        "物理+化学",
+        "最低分",
+        "444.00",
+        "位次",
+        "112098"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 80,
+      "sourceCells": [
+        "物理+不限科目",
+        "少数民族预科班",
+        "443.00",
+        "450.21",
+        "472.00"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "guat-lines",
+      "sourceRow": 81,
+      "sourceCells": [
+        "物理+不限科目",
+        "最低分",
+        "443.00",
+        "位次",
+        "112955"
+      ],
+      "reason": "分组汇总/预科不是具体本科专业线；其位次不能复制给组内专业。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 2,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "物理类",
+        "免费少数民族预科班",
+        "预科计划",
+        "预科A",
+        "493",
+        "397",
+        "428",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 3,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "历史类",
+        "免费少数民族预科班",
+        "预科计划",
+        "预科A",
+        "449",
+        "398",
+        "424",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 5,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "历史类",
+        "少数民族预科班",
+        "预科计划",
+        "预科B",
+        "487",
+        "458",
+        "464",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 9,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "物理类",
+        "少数民族预科班",
+        "预科计划",
+        "预科B",
+        "528",
+        "481",
+        "495",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 164,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(历史类)",
+        "产品设计",
+        "艺术批",
+        "艺术类",
+        "506",
+        "489",
+        "491.77",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 165,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(物理类)",
+        "环境设计",
+        "艺术批",
+        "艺术类",
+        "477",
+        "467",
+        "470.64",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 166,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(历史类)",
+        "珠宝首饰设计与工艺",
+        "艺术批",
+        "艺术类",
+        "510",
+        "486",
+        "490.3",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 167,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(历史类)",
+        "数字媒体艺术",
+        "艺术批",
+        "艺术类",
+        "524",
+        "492",
+        "496.56",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 168,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(历史类)",
+        "服装与服饰设计",
+        "艺术批",
+        "艺术类",
+        "491",
+        "486",
+        "487.44",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 169,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(物理类)",
+        "产品设计",
+        "艺术批",
+        "艺术类",
+        "500",
+        "471",
+        "478.08",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 170,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(物理类)",
+        "服装与服饰设计",
+        "艺术批",
+        "艺术类",
+        "478",
+        "467",
+        "469.67",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 171,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(历史类)",
+        "环境设计",
+        "艺术批",
+        "艺术类",
+        "512",
+        "486",
+        "488.52",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 172,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(物理类)",
+        "珠宝首饰设计与工艺",
+        "艺术批",
+        "艺术类",
+        "498",
+        "470",
+        "474.64",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 173,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(物理类)",
+        "数字媒体艺术",
+        "艺术批",
+        "艺术类",
+        "506",
+        "486",
+        "493.47",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 174,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(历史类)",
+        "动画",
+        "艺术批",
+        "艺术类",
+        "510",
+        "490",
+        "492.77",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "glut-lines-2026",
+      "sourceRow": 175,
+      "sourceCells": [
+        "2026",
+        "广西",
+        "艺术(物理类)",
+        "动画",
+        "艺术批",
+        "艺术类",
+        "497",
+        "476",
+        "483.43",
+        ""
+      ],
+      "reason": "艺术或预科不混入普通本科专业录取线。"
+    },
+    {
+      "sourceId": "gxmu-lines-2026-valid",
+      "reason": "学校汇总dataSource，含代表性专业名仍不是专业行，整批排除。",
+      "sourceCells": {
+        "id": "",
+        "year": "2026",
+        "province": "45",
+        "province_name": "广西",
+        "level": "高职(专科)",
+        "enroll_type": "普通类",
+        "subjects": "物理类",
+        "batch": "专科批",
+        "major": "康复治疗技术(玉林校区)",
+        "min_score": "366",
+        "lowest_position": "181240",
+        "max_score": "540",
+        "highest_position": "40173",
+        "average": "394.35",
+        "province_line": "180",
+        "num": "1100",
+        "min_score_t": "",
+        "lowest_position_t": "",
+        "max_score_t": "",
+        "highest_position_t": "",
+        "average_t": "",
+        "province_line_t": "",
+        "num_t": "",
+        "major_group": "",
+        "xkyq": "",
+        "remark": "",
+        "status": "",
+        "data_type": "",
+        "release_status": ""
+      }
+    },
+    {
+      "sourceId": "gxmu-lines-2026-valid",
+      "reason": "学校汇总dataSource，含代表性专业名仍不是专业行，整批排除。",
+      "sourceCells": {
+        "id": "",
+        "year": "2026",
+        "province": "45",
+        "province_name": "广西",
+        "level": "高职(专科)",
+        "enroll_type": "普通类",
+        "subjects": "历史类",
+        "batch": "专科批",
+        "major": "医学美容技术(玉林校区)",
+        "min_score": "403",
+        "lowest_position": "47334",
+        "max_score": "479",
+        "highest_position": "20977",
+        "average": "422.25",
+        "province_line": "180",
+        "num": "400",
+        "min_score_t": "",
+        "lowest_position_t": "",
+        "max_score_t": "",
+        "highest_position_t": "",
+        "average_t": "",
+        "province_line_t": "",
+        "num_t": "",
+        "major_group": "",
+        "xkyq": "",
+        "remark": "",
+        "status": "",
+        "data_type": "",
+        "release_status": ""
+      }
+    },
+    {
+      "sourceId": "gxmu-lines-2026-valid",
+      "reason": "学校汇总dataSource，含代表性专业名仍不是专业行，整批排除。",
+      "sourceCells": {
+        "id": "",
+        "year": "2026",
+        "province": "45",
+        "province_name": "广西",
+        "level": "预科",
+        "enroll_type": "预科生",
+        "subjects": "物理类",
+        "batch": "本科批",
+        "major": "少数民族预科班",
+        "min_score": "486",
+        "lowest_position": "-",
+        "max_score": "547",
+        "highest_position": "-",
+        "average": "504.22",
+        "province_line": "368",
+        "num": "107",
+        "min_score_t": "",
+        "lowest_position_t": "",
+        "max_score_t": "",
+        "highest_position_t": "",
+        "average_t": "",
+        "province_line_t": "",
+        "num_t": "",
+        "major_group": "",
+        "xkyq": "",
+        "remark": "",
+        "status": "",
+        "data_type": "",
+        "release_status": ""
+      }
+    },
+    {
+      "sourceId": "gxmu-lines-2026-valid",
+      "reason": "学校汇总dataSource，含代表性专业名仍不是专业行，整批排除。",
+      "sourceCells": {
+        "id": "",
+        "year": "2026",
+        "province": "45",
+        "province_name": "广西",
+        "level": "本科",
+        "enroll_type": "普通类",
+        "subjects": "物理类",
+        "batch": "本科提前批其他三类",
+        "major": "临床医学(定向医学生,崇左市龙州县)",
+        "min_score": "529",
+        "lowest_position": "47454",
+        "max_score": "617",
+        "highest_position": "5938",
+        "average": "558.5",
+        "province_line": "-",
+        "num": "62",
+        "min_score_t": "",
+        "lowest_position_t": "",
+        "max_score_t": "",
+        "highest_position_t": "",
+        "average_t": "",
+        "province_line_t": "",
+        "num_t": "",
+        "major_group": "",
+        "xkyq": "",
+        "remark": "",
+        "status": "",
+        "data_type": "",
+        "release_status": ""
+      }
+    },
+    {
+      "sourceId": "gxmu-lines-2026-valid",
+      "reason": "学校汇总dataSource，含代表性专业名仍不是专业行，整批排除。",
+      "sourceCells": {
+        "id": "",
+        "year": "2026",
+        "province": "45",
+        "province_name": "广西",
+        "level": "本科",
+        "enroll_type": "普通类",
+        "subjects": "物理类",
+        "batch": "本科批",
+        "major": "公共事业管理(中外合作办学)",
+        "min_score": "369",
+        "lowest_position": "178685",
+        "max_score": "651",
+        "highest_position": "1090",
+        "average": "526.08",
+        "province_line": "368",
+        "num": "3477",
+        "min_score_t": "",
+        "lowest_position_t": "",
+        "max_score_t": "",
+        "highest_position_t": "",
+        "average_t": "",
+        "province_line_t": "",
+        "num_t": "",
+        "major_group": "",
+        "xkyq": "",
+        "remark": "",
+        "status": "",
+        "data_type": "",
+        "release_status": ""
+      }
+    },
+    {
+      "sourceId": "gxmu-lines-2026-valid",
+      "reason": "学校汇总dataSource，含代表性专业名仍不是专业行，整批排除。",
+      "sourceCells": {
+        "id": "",
+        "year": "2026",
+        "province": "45",
+        "province_name": "广西",
+        "level": "本科",
+        "enroll_type": "普通类",
+        "subjects": "历史类",
+        "batch": "本科批",
+        "major": "公共事业管理(中外合作办学)",
+        "min_score": "424",
+        "lowest_position": "39104",
+        "max_score": "583",
+        "highest_position": "2632",
+        "average": "483.11",
+        "province_line": "398",
+        "num": "646",
+        "min_score_t": "",
+        "lowest_position_t": "",
+        "max_score_t": "",
+        "highest_position_t": "",
+        "average_t": "",
+        "province_line_t": "",
+        "num_t": "",
+        "major_group": "",
+        "xkyq": "",
+        "remark": "",
+        "status": "",
+        "data_type": "",
+        "release_status": ""
+      }
+    },
+    {
+      "sourceId": "gxmu-lines-2026-valid",
+      "sourceRow": 12,
+      "reason": "预科不当具体本科专业",
+      "sourceCells": {
+        "id": "",
+        "year": "2026",
+        "province": "45",
+        "province_name": "广西",
+        "level": "预科",
+        "enroll_type": "预科生",
+        "subjects": "物理类",
+        "batch": "本科批",
+        "major": "少数民族预科班",
+        "min_score": "486",
+        "lowest_position": "-",
+        "max_score": "547",
+        "highest_position": "-",
+        "average": "504.22",
+        "province_line": "368",
+        "num": "107",
+        "min_score_t": "",
+        "lowest_position_t": "",
+        "max_score_t": "",
+        "highest_position_t": "",
+        "average_t": "",
+        "province_line_t": "",
+        "num_t": "",
+        "major_group": "",
+        "xkyq": "-",
+        "remark": "",
+        "status": "",
+        "data_type": "",
+        "release_status": ""
+      }
+    }
+  ]
+}

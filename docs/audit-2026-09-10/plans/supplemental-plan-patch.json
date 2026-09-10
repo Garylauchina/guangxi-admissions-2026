@@ -1,0 +1,1345 @@
+{
+  "format": "id-keyed-delete-and-upsert",
+  "baseline": "baseline/site-plans.json",
+  "deleteIds": [
+    "plan-major-2026-ylu-t6-r9",
+    "plan-major-2026-ylu-t7-r9"
+  ],
+  "upsert": [
+    {
+      "id": "plan-major-2026-ylu-t6-r3",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "450",
+      "major": "生物科学(初中,梧州市蒙山县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学",
+        "生物"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 1,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学+生物",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r4",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "450",
+      "major": "生物科学(初中,梧州市藤县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学",
+        "生物"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 1,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学+生物",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r5",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "451",
+      "major": "数学与应用数学(义教,钦州市灵山县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 5,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r6",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "452",
+      "major": "物理学(初中,玉林市博白县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 10,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r7",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "452",
+      "major": "物理学(初中,玉林市福绵区)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 3,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r8",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "452",
+      "major": "物理学(初中,玉林市陆川县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 5,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。原录取公告分列，已按原计划合并；征集不另计计划。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "plannedCount": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r10",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "453",
+      "major": "英语(义教,玉林市博白县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 5,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。英语须口语测试合格。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r11",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "454",
+      "major": "数学与应用数学(义教,桂林市恭城瑶族自治县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 10,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r12",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "455",
+      "major": "生物科学(初中,南宁市上林县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学",
+        "生物"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 1,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "优师计划",
+      "requirementText": "物理+化学+生物",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r13",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "456",
+      "major": "应用心理学(高中,玉林市博白县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r14",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "456",
+      "major": "应用心理学(高中,玉林市陆川县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r15",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "456",
+      "major": "应用心理学(义教,玉林市博白县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 6,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r17",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "459",
+      "major": "生物科学(初中,桂林市龙胜各族自治县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学",
+        "生物"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 1,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "优师计划",
+      "requirementText": "物理+化学+生物",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r18",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "461",
+      "major": "生物科学(初中,钦州市灵山县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学",
+        "生物"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 3,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学+生物",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r19",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "462",
+      "major": "生物科学(初中,玉林市福绵区)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学",
+        "生物"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学+生物",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r20",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "462",
+      "major": "生物科学(初中,玉林市陆川县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学",
+        "生物"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学+生物",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r22",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "463",
+      "major": "生物科学(初中,贺州市平桂区)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学",
+        "生物"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 3,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "物理+化学+生物",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t6-r23",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "物理",
+      "batch": "本科提前批其他一类",
+      "group": "464",
+      "major": "生物科学(初中,河池市凤山县)",
+      "majorCode": null,
+      "requiredSubjects": [
+        "化学",
+        "生物"
+      ],
+      "subjectRule": "all",
+      "plannedCount": 1,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "优师计划",
+      "requirementText": "物理+化学+生物",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "requiredSubjects": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t7-r3",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科提前批其他一类",
+      "group": "412",
+      "major": "英语(义教,钦州市钦南区)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。英语须口语测试合格。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "历史+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t7-r4",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科提前批其他一类",
+      "group": "413",
+      "major": "英语(义教,玉林市博白县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 3,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。英语须口语测试合格。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "历史+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t7-r5",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科提前批其他一类",
+      "group": "430",
+      "major": "应用心理学(义教,玉林市博白县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 4,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。原录取公告分列，已按原计划合并；征集不另计计划。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "历史+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "plannedCount": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t7-r6",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科提前批其他一类",
+      "group": "430",
+      "major": "应用心理学(高中,玉林市博白县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 3,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "历史+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t7-r7",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科提前批其他一类",
+      "group": "430",
+      "major": "应用心理学(义教,玉林市福绵区)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 1,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "历史+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t7-r8",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科提前批其他一类",
+      "group": "430",
+      "major": "应用心理学(高中,玉林市陆川县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "历史+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t7-r11",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科提前批其他一类",
+      "group": "431",
+      "major": "应用心理学(义教,百色市那坡县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "优师计划",
+      "requirementText": "历史+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t7-r12",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科提前批其他一类",
+      "group": "431",
+      "major": "应用心理学(义教,百色市田东县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 2,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "优师计划",
+      "requirementText": "历史+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    },
+    {
+      "id": "plan-major-2026-ylu-t7-r13",
+      "year": 2026,
+      "schoolCode": "10606",
+      "school": "玉林师范学院",
+      "track": "历史",
+      "batch": "本科提前批其他一类",
+      "group": "432",
+      "major": "应用心理学(高中,河池市南丹县)",
+      "majorCode": null,
+      "requiredSubjects": [],
+      "subjectRule": "none",
+      "plannedCount": 1,
+      "tuition": null,
+      "duration": null,
+      "note": "定向培养，服务地区见专业名；原招生计划已核实。不招色盲、色弱考生。",
+      "sourceId": "ylu-2026-7162",
+      "category": "地方公费师范生",
+      "requirementText": "历史+不限",
+      "round": "首轮",
+      "planBasis": "2026年6月23日原招生计划（县×专业×科类），已与正投表对应",
+      "fieldSourceIds": {
+        "subjectRule": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "requirementText": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "category": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "planBasis": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ],
+        "note": [
+          "audit-plan26-ylu_plan_recheck",
+          "audit-plan26-ylu_cutoff_recheck"
+        ]
+      }
+    }
+  ],
+  "mergeEvidence": [
+    {
+      "retainedId": "plan-major-2026-ylu-t6-r8",
+      "removedIds": [
+        "plan-major-2026-ylu-t6-r9"
+      ],
+      "oldCounts": [
+        4,
+        1
+      ],
+      "newCount": 5,
+      "evidence": [
+        {
+          "sourceId": "audit-plan26-ylu_plan_recheck",
+          "locator": "第3表：玉林市陆川县×物理学 （初中）×物理，计划5"
+        },
+        {
+          "sourceId": "audit-plan26-ylu_cutoff_recheck",
+          "locator": "本科提前批其他一类，专业组452：物理学(初中,玉林市陆川县)"
+        }
+      ],
+      "reason": "原计划同一县专业科类只有一格；录取公告分列，未提供不同专业代码。征集是剩余计划，不与原计划相加。"
+    },
+    {
+      "retainedId": "plan-major-2026-ylu-t7-r5",
+      "removedIds": [
+        "plan-major-2026-ylu-t7-r9"
+      ],
+      "oldCounts": [
+        1,
+        3
+      ],
+      "newCount": 4,
+      "evidence": [
+        {
+          "sourceId": "audit-plan26-ylu_plan_recheck",
+          "locator": "第3表：玉林市博白县×应用心理学 （义教）×历史，计划4"
+        },
+        {
+          "sourceId": "audit-plan26-ylu_cutoff_recheck",
+          "locator": "本科提前批其他一类，专业组430：应用心理学(义教,玉林市博白县)"
+        }
+      ],
+      "reason": "原计划同一县专业科类只有一格；录取公告分列，未提供不同专业代码。征集是剩余计划，不与原计划相加。"
+    }
+  ]
+}

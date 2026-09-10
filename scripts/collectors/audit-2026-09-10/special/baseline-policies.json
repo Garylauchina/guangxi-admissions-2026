@@ -1,0 +1,79 @@
+[
+  {
+    "id": "special-policy-2026-strong-scope",
+    "year": 2026,
+    "title": "2026年强基计划：39所试点学校，广西范围逐校核实",
+    "summary": "教育部2026专题列出39所强基试点高校。全国试点名录不表示每校每专业均在广西投放计划；分省计划、选科、报名确认及校考须按当年简章和报名系统核实。",
+    "sourceIds": [
+      "special-source-policy-strong-39"
+    ]
+  },
+  {
+    "id": "special-policy-2026-olympiad-recommend",
+    "year": 2026,
+    "title": "竞赛保送资格：国家集训队成员",
+    "summary": "五大学科奥林匹克竞赛国家集训队成员具有高校保送资格，仍需资格审核、公示和高校考核。全国决赛二等奖或省级奖项不能直接当作保送资格。2026年进一步明确，奥赛保送生原则上录取至与获奖竞赛学科相对应的基础学科专业。",
+    "sourceIds": [
+      "special-source-policy-recommend",
+      "special-source-policy-recommend-rules"
+    ]
+  },
+  {
+    "id": "special-policy-2026-competition-strong",
+    "year": 2026,
+    "title": "强基破格与竞赛保送是不同通道",
+    "summary": "2026学校差别明显：清华等保留五科决赛二等奖及以上应届生申请破格；同济、西安交大要求全国决赛一等奖；人大限数物信、西工大限数物化。北师大、兰大设高考单科破格。所有条件均须逐校核验，破格入围仍不等于免高考或录取。",
+    "sourceIds": [
+      "special-source-2026-thu",
+      "special-source-2026-tongji",
+      "special-source-2026-xjtu",
+      "special-source-2026-ruc",
+      "special-source-2026-nwpu",
+      "special-source-2026-bnu",
+      "special-source-2026-lzu"
+    ]
+  },
+  {
+    "id": "special-policy-2026-whitelist",
+    "year": 2026,
+    "title": "竞赛官方名单：2025—2028学年47项",
+    "summary": "教育部2025—2028学年名单共有47项竞赛，原则上在2025年10月至2028年8月举办。列入名单表示赛事管理范围；不意味着参加或获奖即可获得高校录取资格。竞赛结果不得作为高考加分项目，不得在高校招生中违规使用。完整赛事名单和报名、成绩公示入口请查看教育部通知及官方监管平台。",
+    "sourceIds": [
+      "special-source-policy-contests"
+    ]
+  },
+  {
+    "id": "special-policy-2026-five-subjects",
+    "year": 2026,
+    "title": "五大学科竞赛对应的升学路线",
+    "summary": "数学、物理、化学、生物学、信息学竞赛须区分省赛、全国决赛奖项和国家集训队三个层级。先核对当年高校简章认可的学科、奖级、应届/年龄条件，再判断保送、强基破格或少年英才选拔。其他科技、机器人、写作赛事不能自动套用奥赛资格。",
+    "sourceIds": [
+      "special-source-2026-whu",
+      "special-source-policy-recommend",
+      "special-source-policy-contests"
+    ]
+  },
+  {
+    "id": "special-policy-2026-score",
+    "year": 2026,
+    "title": "三种分数不能混用",
+    "summary": "强基数据分为高考原始分入围线、校方加权成绩入围线、含校考的录取综合线。例如广西中农入围610是原始分；哈工大数学类入围673.8为加权分，录取84.7为综合分。网站普通分数筛选不应将这三类视为同一分制。",
+    "sourceIds": [
+      "special-score-source-2026-cau-entry",
+      "special-score-source-2026-hit-entry",
+      "special-score-source-2026-hit-admit"
+    ]
+  },
+  {
+    "id": "special-policy-2026-timing",
+    "year": 2026,
+    "title": "报名年份与招生年份不同，2026通道均已结束",
+    "summary": "本库为2026招生历史资料。部分少年英才项目从2025年秋冬报名，强基通常2026年4月报名；2026年9月查询时，不能把已结束通道当作仍可报名，也不能自动迁移到2027。",
+    "sourceIds": [
+      "special-source-2026-thu",
+      "special-source-youth-pku-math",
+      "special-source-youth-thu-math",
+      "special-source-youth-ustc"
+    ]
+  }
+]
