@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-09-10T05:05:23.103092+00:00",
+  "year": 2026,
+  "rowCount": 1584,
+  "sourceCount": 30,
+  "schoolCount": 14,
+  "structuralChecksPassed": true,
+  "rawHashesVerified": 30,
+  "rawHashesNotChecked": [],
+  "financePreciseSpecialRowsVerified": 19,
+  "explicitJointProgramRowsVerified": 21,
+  "imageReview": "北部湾PDF两页、广西中医药图片和百色图片已直接查看。中医药本科2470、预科132、高职400人核对；百色只转录单一科类。",
+  "completeProvinceCoverage": false,
+  "limits": [
+    "计划合计包含专项、预科等不同类别，不等于普通统考可填余额。",
+    "广西中医药本科表明确含预科直升，但未单列直升人数。",
+    "招生计划未全区覆盖；部分公开来源缺批次/组码/选科要求，保留待核。",
+    "source publishedAt为页面发布日期；未知日期为null，未用访问日冒充发布日期。",
+    "本报告不验证预测录取概率，不将组投档线当作专业实际录取线。"
+  ]
+}

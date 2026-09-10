@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "checkedAt": "2026-09-10T04:57:29.657816+00:00",
+  "fullProvincePlansObtained": false,
+  "authenticatedSystem": {
+    "url": "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx",
+    "finalUrl": "https://zyfz.gxeea.cn/Login.aspx?BackupUrl=WLvnikMHvuasElbE%2fcZSQQdWJFWSxx3xMSULoT1Oze8%3d",
+    "httpStatus": 200,
+    "accessedAt": "2026-09-10T04:55:38.722534+00:00",
+    "sha256": "16e57a26d56f35f2bc33fc60897782b31b8332697a42e9e0f2ee5c1c3119ad1c",
+    "rawFile": "raw/province_zyfz_plan_entry.html",
+    "result": "未登录访问招生计划入口，被重定向至Login.aspx；页面显示手机号登录名、密码、图形验证码、短信验证码。未进行注册、登录、验证码提交或受限接口请求。",
+    "navigationEvidence": "raw/province_zyfz_rank_nav.html"
+  },
+  "officialProvinceBookPdf": {
+    "result": "本次公开检索未找到可免费下载的2026全区招生计划篇完整官方PDF；不能据此断言不存在。官网/教育部转载的政策与计划调整公告可公开查看，但不是完整计划册。",
+    "publicNotice": {
+      "url": "https://www.eol.cn/kaoshi/gaokao/zytb/202606/t20260617_2746025.shtml",
+      "title": "《2026年高考指南》和《2026年高考指南招生计划篇》正式发行时间确定",
+      "publishedAt": "2026-06-17",
+      "sourceAttribution": "教育在线转载，页面署名广西招生考试院，原文落款2026-06-16",
+      "rawFile": "raw/province_2026_book_notice.html",
+      "finding": "公告说明纸质官方参考用书发行时间、购买地址和咨询电话，未提供完整PDF下载链接。"
+    },
+    "checkedQueries": [
+      "site.gxeea.cn 2026 招生计划 篇 pdf 普通高校",
+      "site.gxeea.cn \"2026\" \"招生计划篇\"",
+      "site.gxeea.cn \"2026\" \"招生计划\" \"电子\"",
+      "\"2026年高考指南\" \"招生计划篇\" 广西 官网"
+    ],
+    "publicPartialPlanEvidence": [
+      "https://gaokao.chsi.com.cn/gkxx/zc/ss/202606/20260625/2293847764.html"
+    ],
+    "officialPolicyEvidence": [
+      "https://www.gxeea.cn/view/content_619_32717.htm",
+      "https://gaokao.chsi.com.cn/gkxx/zc/ss/202606/20260626/2293847304.html"
+    ]
+  },
+  "siteDisclosure": "专业招生计划只覆盖已取得官方公开来源的院校，尚未取得全区完整计划库。广西阳光志愿的计划入口当前要求登录；本次未找到可公开下载的2026完整官方计划册PDF。未收录不表示该校或专业不在广西招生，请以官方系统和《2026年高考指南·招生计划篇》核验。",
+  "unknownFieldsDisclosure": "部分院校公开分省表未列批次、专业组或再选要求，数据保留待核，不能自动关联组线。"
+}

@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "checkedAt": "2026-09-10T05:08:28.606Z",
+  "status": "passed",
+  "cutoffs": 11448,
+  "firstRound": 8155,
+  "firstRoundSchools": 1961,
+  "plans": 1684,
+  "planSchools": 16,
+  "plansMatchedToFirstRoundGroup": 306,
+  "majorCutoffs": 253,
+  "majorCutoffSchools": 5,
+  "specialPrograms": 43,
+  "specialGuangxiStatus": {
+    "confirmed": 18,
+    "unknown": 21,
+    "excluded": 4
+  },
+  "sources": 111,
+  "ranks": 1010,
+  "limits": [
+    "专业计划与实际专业录取线为部分覆盖",
+    "首轮及征集分轮记录",
+    "无官方专业组码的计划不匹配分数",
+    "特殊通道不参与普通分数比较"
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "recordCount": 253,
+  "planRecordCount": 189,
+  "sources": [
+    {
+      "sourceId": "ylu-2026-7162",
+      "recordCount": 129,
+      "year": 2026,
+      "byBatchTrackRound": {
+        "本科提前批其他一类|物理|首轮": 19,
+        "本科提前批其他一类|物理|征集（次数未公布）": 2,
+        "本科提前批其他一类|历史|首轮": 10,
+        "本科提前批其他一类|历史|征集（次数未公布）": 1,
+        "本科普通批|历史|首轮": 32,
+        "本科普通批|历史|征集（次数未公布）": 3,
+        "本科普通批|物理|首轮": 57,
+        "本科普通批|物理|征集（次数未公布）": 5
+      },
+      "warnings": [
+        {
+          "table": 8,
+          "row": 23,
+          "warning": "高校公告出档分 492 与考试院同组首轮线 461 不一致；本条 score 保留高校公告的专业最低分 461。",
+          "groupSourceId": "gxeea-2026-33106"
+        },
+        {
+          "table": 8,
+          "row": 30,
+          "warning": "高校公告出档分 464 与考试院同组首轮线 457 不一致；本条 score 保留高校公告的专业最低分 457。",
+          "groupSourceId": "gxeea-2026-33106"
+        },
+        {
+          "table": 8,
+          "row": 31,
+          "warning": "高校公告出档分 464 与考试院同组首轮线 457 不一致；本条 score 保留高校公告的专业最低分 465。",
+          "groupSourceId": "gxeea-2026-33106"
+        },
+        {
+          "key": [
+            "物理",
+            "本科提前批其他一类",
+            "452",
+            "物理学(初中,玉林市陆川县)",
+            "首轮"
+          ],
+          "ids": [
+            "major-2026-ylu-t6-r8",
+            "major-2026-ylu-t6-r9"
+          ],
+          "warning": "原公告同组同名分列多条，不同子计划区别未注明；保留每行，不自动合并。"
+        },
+        {
+          "key": [
+            "历史",
+            "本科提前批其他一类",
+            "430",
+            "应用心理学(义教,玉林市博白县)",
+            "首轮"
+          ],
+          "ids": [
+            "major-2026-ylu-t7-r5",
+            "major-2026-ylu-t7-r9"
+          ],
+          "warning": "原公告同组同名分列多条，不同子计划区别未注明；保留每行，不自动合并。"
+        }
+      ],
+      "excludedRows": [
+        {
+          "table": 8,
+          "row": 28,
+          "cells": [
+            "719",
+            "少数民族预科班",
+            "398",
+            "历史类",
+            "452",
+            "59",
+            "59",
+            "452"
+          ],
+          "reason": "预科项目不是本科专业；已有独立专业组投档数据，未混入专业录取线。"
+        },
+        {
+          "table": 9,
+          "row": 53,
+          "cells": [
+            "759",
+            "少数民族预科班",
+            "368",
+            "物理类",
+            "429",
+            "100",
+            "100",
+            "429"
+          ],
+          "reason": "预科项目不是本科专业；已有独立专业组投档数据，未混入专业录取线。"
+        }
+      ],
+      "samples": [
+        {
+          "id": "major-2026-ylu-t6-r3",
+          "year": 2026,
+          "school": "玉林师范学院",
+          "schoolCode": "10606",
+          "track": "物理",
+          "batch": "本科提前批其他一类",
+          "group": "450",
+          "major": "生物科学(初中,梧州市蒙山县)",
+          "score": 556,
+          "scoreType": "专业录取最低分",
+          "plannedCount": 1,
+          "admittedCount": 1,
+          "sourceId": "ylu-2026-7162",
+          "note": "计划数和录取数分别来自原表，不跨首轮与征集相加；原页发布日期为最初发布日期，后续录取更新日期未单列。公费师范生定向培养，具体服务地区见专业名；须满足广西户籍、体检及相应报考条件，英语须口语测试合格。原文要求不招色盲、色弱考生。",
+          "round": "首轮",
+          "admissionType": "公费师范生",
+          "filingScoreInSource": 556,
+          "sourceTable": 6,
+          "sourceRow": 3
+        },
+        {
+          "id": "major-2026-ylu-t8-r35",
+          "year": 2026,
+          "school": "玉林师范学院",
+          "schoolCode": "10606",
+          "track": "历史",
+          "batch": "本科普通批",
+          "group": "914",
+          "major": "汉语国际教育(精准专项)",
+          "score": 496,
+          "scoreType": "专业录取最低分",
+          "plannedCount": 5,
+          "admittedCount": 5,
+          "sourceId": "ylu-2026-7162",
+          "note": "计划数和录取数分别来自原表，不跨首轮与征集相加；原页发布日期为最初发布日期，后续录取更新日期未单列。专业组类别据广西招生考试院同年同校同科类同组原表：精准专项。",
+          "round": "首轮",
+          "admissionType": "精准专项",
+          "filingScoreInSource": 496,
+          "sourceTable": 8,
+          "sourceRow": 35,
+          "qualificationSourceId": "gxeea-2026-33106"
+        },
+        {
+          "id": "major-2026-ylu-t9-r64",
+          "year": 2026,
+          "school": "玉林师范学院",
+          "schoolCode": "10606",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": "956",
+          "major": "生物科学(精准专项)",
+          "score": 466,
+          "scoreType": "专业录取最低分",
+          "plannedCount": 5,
+          "admittedCount": 5,
+          "sourceId": "ylu-2026-7162",
+          "note": "计划数和录取数分别来自原表，不跨首轮与征集相加；原页发布日期为最初发布日期，后续录取更新日期未单列。专业组类别据广西招生考试院同年同校同科类同组原表：精准专项。",
+          "round": "首轮",
+          "admissionType": "精准专项",
+          "filingScoreInSource": 466,
+          "sourceTable": 9,
+          "sourceRow": 64,
+          "qualificationSourceId": "gxeea-2026-33107"
+        }
+      ],
+      "checks": {
+        "mergedCellsNoOverlap": "PASS",
+        "numericFieldsSeparate": "PASS",
+        "ordinaryFirstRoundMajorMinimumAboveOfficialGroupCutoff": "PASS",
+        "uniqueRecordIds": "PASS"
+      }
+    },
+    {
+      "sourceId": "nepu-2026-10476",
+      "recordCount": 56,
+      "totalsMatchSource": "PASS",
+      "numericColumns": "PASS",
+      "samples": [
+        {
+          "id": "major-2026-nepu-r4",
+          "year": 2026,
+          "school": "东北石油大学",
+          "schoolCode": "10220",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": null,
+          "major": "石油工程",
+          "score": 525,
+          "scoreType": "专业录取最低分",
+          "plannedCount": 9,
+          "admittedCount": 9,
+          "sourceId": "nepu-2026-10476",
+          "round": "录取汇总（轮次未分）",
+          "admissionType": "普通类",
+          "note": "普通类本科批录取公示；原表列计划数与录取数，已分别保存。专业组及选科要求未公布，未据分数推定；原文未逐行拆分录取轮次。",
+          "sourceRow": 4
+        },
+        {
+          "id": "major-2026-nepu-r32",
+          "year": 2026,
+          "school": "东北石油大学",
+          "schoolCode": "10220",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": null,
+          "major": "电子信息工程",
+          "score": 520,
+          "scoreType": "专业录取最低分",
+          "plannedCount": 3,
+          "admittedCount": 3,
+          "sourceId": "nepu-2026-10476",
+          "round": "录取汇总（轮次未分）",
+          "admissionType": "普通类",
+          "note": "普通类本科批录取公示；原表列计划数与录取数，已分别保存。专业组及选科要求未公布，未据分数推定；原文未逐行拆分录取轮次。",
+          "sourceRow": 32
+        },
+        {
+          "id": "major-2026-nepu-r59",
+          "year": 2026,
+          "school": "东北石油大学",
+          "schoolCode": "10220",
+          "track": "历史",
+          "batch": "本科普通批",
+          "group": null,
+          "major": "社会工作",
+          "score": 475,
+          "scoreType": "专业录取最低分",
+          "plannedCount": 2,
+          "admittedCount": 2,
+          "sourceId": "nepu-2026-10476",
+          "round": "录取汇总（轮次未分）",
+          "admissionType": "普通类",
+          "note": "普通类本科批录取公示；原表列计划数与录取数，已分别保存。专业组及选科要求未公布，未据分数推定；原文未逐行拆分录取轮次。",
+          "sourceRow": 59
+        }
+      ]
+    },
+    {
+      "sourceId": "qqhru-2026-4903",
+      "recordCount": 29,
+      "numericColumns": "PASS",
+      "nullCountsPreserved": "PASS",
+      "samples": [
+        {
+          "id": "major-2026-qqhru-r3",
+          "year": 2026,
+          "school": "齐齐哈尔大学",
+          "schoolCode": "10232",
+          "track": "历史",
+          "batch": "本科普通批",
+          "group": null,
+          "major": "工商管理",
+          "score": 443,
+          "scoreType": "专业录取最低分",
+          "plannedCount": null,
+          "admittedCount": null,
+          "sourceId": "qqhru-2026-4903",
+          "round": "录取汇总（含征集）",
+          "admissionType": "普通类",
+          "note": "原表为分专业录取分数线，数值列称投档成绩；未公布计划数、录取人数、专业组。原文附注征集志愿投档成绩：市场营销455、林学453；不能把整张表声称为首轮。",
+          "sourceRow": 3
+        },
+        {
+          "id": "major-2026-qqhru-r17",
+          "year": 2026,
+          "school": "齐齐哈尔大学",
+          "schoolCode": "10232",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": null,
+          "major": "能源化学工程",
+          "score": 429,
+          "scoreType": "专业录取最低分",
+          "plannedCount": null,
+          "admittedCount": null,
+          "sourceId": "qqhru-2026-4903",
+          "round": "录取汇总（含征集）",
+          "admissionType": "普通类",
+          "note": "原表为分专业录取分数线，数值列称投档成绩；未公布计划数、录取人数、专业组。原文附注征集志愿投档成绩：市场营销455、林学453；不能把整张表声称为首轮。",
+          "sourceRow": 17
+        },
+        {
+          "id": "major-2026-qqhru-r31",
+          "year": 2026,
+          "school": "齐齐哈尔大学",
+          "schoolCode": "10232",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": null,
+          "major": "自动化",
+          "score": 470,
+          "scoreType": "专业录取最低分",
+          "plannedCount": null,
+          "admittedCount": null,
+          "sourceId": "qqhru-2026-4903",
+          "round": "录取汇总（含征集）",
+          "admissionType": "普通类",
+          "note": "原表为分专业录取分数线，数值列称投档成绩；未公布计划数、录取人数、专业组。原文附注征集志愿投档成绩：市场营销455、林学453；不能把整张表声称为首轮。",
+          "sourceRow": 31
+        }
+      ]
+    },
+    {
+      "sourceId": "cqie-2026-78849",
+      "recordCount": 15,
+      "strictOfficialPlanJoin": "PASS: all 15",
+      "planTotal": 118,
+      "numericColumns": "PASS",
+      "samples": [
+        {
+          "id": "major-2026-cqie-r4",
+          "year": 2026,
+          "school": "重庆工程学院",
+          "schoolCode": "12608",
+          "track": "历史",
+          "batch": "本科普通批",
+          "group": "107",
+          "major": "网络与新媒体",
+          "score": 424,
+          "scoreType": "专业录取最低分",
+          "plannedCount": 3,
+          "admittedCount": null,
+          "sourceId": "cqie-2026-78849",
+          "planSourceId": "cqie-plan-2026-78111",
+          "round": "录取汇总（轮次未分）",
+          "admissionType": "普通类",
+          "note": "原录取公示按考生总成绩从高分到低分进行专业录取，未拆分轮次；原公告无录取人数列。专业组及计划数取同年6月17日广西计划，按同科类同专业名关联，仅归一化括号与空白。",
+          "sourceRow": 4
+        },
+        {
+          "id": "major-2026-cqie-r11",
+          "year": 2026,
+          "school": "重庆工程学院",
+          "schoolCode": "12608",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": "102",
+          "major": "大数据管理与应用",
+          "score": 406,
+          "scoreType": "专业录取最低分",
+          "plannedCount": 6,
+          "admittedCount": null,
+          "sourceId": "cqie-2026-78849",
+          "planSourceId": "cqie-plan-2026-78111",
+          "round": "录取汇总（轮次未分）",
+          "admissionType": "普通类",
+          "note": "原录取公示按考生总成绩从高分到低分进行专业录取，未拆分轮次；原公告无录取人数列。专业组及计划数取同年6月17日广西计划，按同科类同专业名关联，仅归一化括号与空白。",
+          "sourceRow": 11
+        },
+        {
+          "id": "major-2026-cqie-r18",
+          "year": 2026,
+          "school": "重庆工程学院",
+          "schoolCode": "12608",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": "106",
+          "major": "智能建造",
+          "score": 389,
+          "scoreType": "专业录取最低分",
+          "plannedCount": 8,
+          "admittedCount": null,
+          "sourceId": "cqie-2026-78849",
+          "planSourceId": "cqie-plan-2026-78111",
+          "round": "录取汇总（轮次未分）",
+          "admissionType": "普通类",
+          "note": "原录取公示按考生总成绩从高分到低分进行专业录取，未拆分轮次；原公告无录取人数列。专业组及计划数取同年6月17日广西计划，按同科类同专业名关联，仅归一化括号与空白。",
+          "sourceRow": 18
+        }
+      ]
+    },
+    {
+      "sourceId": "sdjtu-2026-7012",
+      "recordCount": 24,
+      "numericColumns": "PASS",
+      "admittedTotal": 60,
+      "plansNotInSource": "PASS: all null",
+      "samples": [
+        {
+          "id": "major-2026-sdjtu-r2",
+          "year": 2026,
+          "school": "山东交通学院",
+          "schoolCode": "11510",
+          "track": "历史",
+          "batch": "本科普通批",
+          "group": null,
+          "major": "金融学",
+          "score": 476,
+          "scoreType": "专业录取最低分",
+          "plannedCount": null,
+          "admittedCount": 2,
+          "sourceId": "sdjtu-2026-7012",
+          "round": "录取汇总（轮次未分）",
+          "admissionType": "普通类",
+          "note": "原表的录取数已保存为admittedCount，未当作计划数；原表分数线列是本科控制线，score来自专业录取最低分列。未公布专业组，也未区分首轮与征集。学制四年，非定向。",
+          "sourceRow": 2
+        },
+        {
+          "id": "major-2026-sdjtu-r14",
+          "year": 2026,
+          "school": "山东交通学院",
+          "schoolCode": "11510",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": null,
+          "major": "材料科学与工程",
+          "score": 476,
+          "scoreType": "专业录取最低分",
+          "plannedCount": null,
+          "admittedCount": 4,
+          "sourceId": "sdjtu-2026-7012",
+          "round": "录取汇总（轮次未分）",
+          "admissionType": "普通类",
+          "note": "原表的录取数已保存为admittedCount，未当作计划数；原表分数线列是本科控制线，score来自专业录取最低分列。未公布专业组，也未区分首轮与征集。学制四年，非定向。",
+          "sourceRow": 14
+        },
+        {
+          "id": "major-2026-sdjtu-r25",
+          "year": 2026,
+          "school": "山东交通学院",
+          "schoolCode": "11510",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": null,
+          "major": "交通运输(中外合作办学）（双证）",
+          "score": 404,
+          "scoreType": "专业录取最低分",
+          "plannedCount": null,
+          "admittedCount": 2,
+          "sourceId": "sdjtu-2026-7012",
+          "round": "录取汇总（轮次未分）",
+          "admissionType": "中外合作办学",
+          "note": "原表的录取数已保存为admittedCount，未当作计划数；原表分数线列是本科控制线，score来自专业录取最低分列。未公布专业组，也未区分首轮与征集。学制四年，非定向。",
+          "sourceRow": 25
+        }
+      ]
+    }
+  ],
+  "bySchool": {
+    "玉林师范学院": 129,
+    "东北石油大学": 56,
+    "齐齐哈尔大学": 29,
+    "重庆工程学院": 15,
+    "山东交通学院": 24
+  },
+  "planCountsBySchool": {
+    "玉林师范学院": 118,
+    "东北石油大学": 56,
+    "重庆工程学院": 15
+  },
+  "crossDatasetChecks": {
+    "uniqueIds": "PASS",
+    "all2026": "PASS",
+    "sourceReferences": "PASS",
+    "schemaAndNumericBounds": "PASS",
+    "admittedCountsNotConvertedToPlans": "PASS"
+  }
+}

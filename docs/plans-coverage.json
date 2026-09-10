@@ -1,0 +1,170 @@
+[
+  {
+    "schoolCode": "10593",
+    "school": "广西大学",
+    "planRows": 130,
+    "plannedCount": 3589,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "10595",
+    "school": "桂林电子科技大学",
+    "planRows": 135,
+    "plannedCount": 3813,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 135,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "10596",
+    "school": "桂林理工大学",
+    "planRows": 158,
+    "plannedCount": 4317,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 158,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "10598",
+    "school": "广西医科大学",
+    "planRows": 76,
+    "plannedCount": 5831,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "10600",
+    "school": "广西中医药大学",
+    "planRows": 49,
+    "plannedCount": 3002,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "10602",
+    "school": "广西师范大学",
+    "planRows": 221,
+    "plannedCount": 4306,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "planRows": 166,
+    "plannedCount": 4812,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "10604",
+    "school": "广西民族师范学院",
+    "planRows": 93,
+    "plannedCount": 2521,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "10606",
+    "school": "玉林师范学院",
+    "planRows": 109,
+    "plannedCount": 5731,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "planRows": 156,
+    "plannedCount": 6987,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "10609",
+    "school": "百色学院",
+    "planRows": 48,
+    "plannedCount": 1557,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "planRows": 121,
+    "plannedCount": 4534,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "11607",
+    "school": "北部湾大学",
+    "planRows": 34,
+    "plannedCount": 1516,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  },
+  {
+    "schoolCode": "14127",
+    "school": "广西工程职业学院",
+    "planRows": 88,
+    "plannedCount": 4476,
+    "tracks": [
+      "历史",
+      "物理"
+    ],
+    "withGroupCode": 0,
+    "completeProvinceCoverage": false
+  }
+]

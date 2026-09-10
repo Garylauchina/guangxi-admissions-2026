@@ -1,0 +1,41 @@
+{
+  "verifiedAt": "2026-09-10",
+  "passed": true,
+  "programCount": 43,
+  "strongFoundationSchoolCount": 39,
+  "otherProgramCount": 4,
+  "strongFoundationGuangxiStatus": {
+    "unknown": 19,
+    "confirmed": 16,
+    "excluded": 4
+  },
+  "scoreRecordCount": 24,
+  "schoolsWithScores": [
+    "中国农业大学",
+    "哈尔滨工业大学",
+    "中国科学技术大学",
+    "厦门大学",
+    "中南大学",
+    "重庆大学",
+    "兰州大学"
+  ],
+  "sourceCount": 57,
+  "policyCount": 7,
+  "checks": [
+    "JSON parses",
+    "unique identifiers",
+    "39-school official directory",
+    "2026 admission scope",
+    "explicit Guangxi status",
+    "official source hosts",
+    "complete source references",
+    "typed and sourced per-major scores",
+    "no inferred Guangxi numeric plans"
+  ],
+  "limitations": [
+    "Structural validation does not independently re-read source pages.",
+    "Source facts were researched manually; unresolved province plans, majors and cutoffs remain visibly marked.",
+    "Live URL availability is not part of this validation."
+  ],
+  "errors": []
+}

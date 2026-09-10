@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "freshDirectory": true,
+  "networkRequests": 37,
+  "allRequestsSucceeded": true,
+  "rebuiltPlanRows": 1584,
+  "plansExactlyMatchDelivery": true,
+  "privateFilesRequired": false,
+  "old2025CollectorsRequired": false,
+  "pythonVersion": "3.12.14"
+}

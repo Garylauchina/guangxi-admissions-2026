@@ -1,0 +1,2593 @@
+{
+  "generatedAt": "2026-09-10T04:44:37.551989+00:00",
+  "sourceCount": 16,
+  "recordCount": 11448,
+  "firstRoundCount": 8155,
+  "supplementaryCount": 3293,
+  "firstRoundSchoolCount": 1961,
+  "nullScoreCount": 1286,
+  "firstRoundNullScoreCount": 327,
+  "nullRankCount": 11448,
+  "rounds": {
+    "本科普通批|历史|首轮": 1829,
+    "本科普通批|物理|首轮": 4222,
+    "本科普通批|历史|第一次征集": 346,
+    "本科普通批|物理|第一次征集": 896,
+    "本科普通批|历史|第二次征集": 92,
+    "本科普通批|物理|第二次征集": 189,
+    "本科普通批|历史|第三次征集": 46,
+    "本科普通批|物理|第三次征集": 87,
+    "本科普通批|历史|第四次征集": 25,
+    "本科普通批|物理|第四次征集": 48,
+    "高职高专普通批|历史|首轮": 983,
+    "高职高专普通批|物理|首轮": 1121,
+    "高职高专普通批|历史|第一次征集": 453,
+    "高职高专普通批|物理|第一次征集": 558,
+    "高职高专普通批|历史|第二次征集": 245,
+    "高职高专普通批|物理|第二次征集": 308
+  },
+  "checks": [
+    {
+      "sourceId": "gxeea-2026-33106",
+      "title": "2026年本科普通批院校专业组投档最低分数线（首选历史科目组）",
+      "recordCount": 1829,
+      "schoolCount": 903,
+      "nullScores": 84,
+      "notedRows": 250,
+      "minScore": 398,
+      "maxScore": 675,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10001",
+            "北京大学",
+            "101",
+            "666",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33106-10001-101",
+            "year": 2026,
+            "schoolCode": "10001",
+            "school": "北京大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "101",
+            "score": 666,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33106",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 2,
+          "sourceCells": [
+            "10001",
+            "北京大学",
+            "501",
+            "646",
+            "高校专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33106-10001-501",
+            "year": 2026,
+            "schoolCode": "10001",
+            "school": "北京大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "501",
+            "score": 646,
+            "rank": null,
+            "note": "高校专项计划",
+            "sourceId": "gxeea-2026-33106",
+            "sourceRow": 2
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 3,
+          "sourceCells": [
+            "10001",
+            "北京大学",
+            "503",
+            "636",
+            "国家专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33106-10001-503",
+            "year": 2026,
+            "schoolCode": "10001",
+            "school": "北京大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "503",
+            "score": 636,
+            "rank": null,
+            "note": "国家专项计划",
+            "sourceId": "gxeea-2026-33106",
+            "sourceRow": 3
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 46,
+          "sourceCells": [
+            "10032",
+            "北京语言大学",
+            "715",
+            "586",
+            "民族班"
+          ],
+          "parsed": {
+            "id": "gx-2026-33106-10032-715",
+            "year": 2026,
+            "schoolCode": "10032",
+            "school": "北京语言大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "715",
+            "score": 586,
+            "rank": null,
+            "note": "民族班",
+            "sourceId": "gxeea-2026-33106",
+            "sourceRow": 46
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 68,
+          "sourceCells": [
+            "10043",
+            "北京体育大学",
+            "502",
+            "",
+            "国家专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33106-10043-502",
+            "year": 2026,
+            "schoolCode": "10043",
+            "school": "北京体育大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "502",
+            "score": null,
+            "rank": null,
+            "note": "国家专项计划",
+            "sourceId": "gxeea-2026-33106",
+            "sourceRow": 68
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 720,
+          "sourceCells": [
+            "10593",
+            "广西大学",
+            "511",
+            "576",
+            "地方专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33106-10593-511",
+            "year": 2026,
+            "schoolCode": "10593",
+            "school": "广西大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "511",
+            "score": 576,
+            "rank": null,
+            "note": "地方专项计划",
+            "sourceId": "gxeea-2026-33106",
+            "sourceRow": 720
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 727,
+          "sourceCells": [
+            "10594",
+            "广西科技大学",
+            "911",
+            "481",
+            "精准专项"
+          ],
+          "parsed": {
+            "id": "gx-2026-33106-10594-911",
+            "year": 2026,
+            "schoolCode": "10594",
+            "school": "广西科技大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "911",
+            "score": 481,
+            "rank": null,
+            "note": "精准专项",
+            "sourceId": "gxeea-2026-33106",
+            "sourceRow": 727
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 915,
+          "sourceCells": [
+            "10646",
+            "阿坝师范学院",
+            "102",
+            "489",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33106-10646-102",
+            "year": 2026,
+            "schoolCode": "10646",
+            "school": "阿坝师范学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "102",
+            "score": 489,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33106",
+            "sourceRow": 915
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 1829,
+          "sourceCells": [
+            "20384",
+            "厦门大学（马来西亚分校）",
+            "991",
+            "582",
+            "厦门大学马来西亚分校"
+          ],
+          "parsed": {
+            "id": "gx-2026-33106-20384-991",
+            "year": 2026,
+            "schoolCode": "20384",
+            "school": "厦门大学（马来西亚分校）",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "991",
+            "score": 582,
+            "rank": null,
+            "note": "厦门大学马来西亚分校",
+            "sourceId": "gxeea-2026-33106",
+            "sourceRow": 1829
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33107",
+      "title": "2026年本科普通批院校专业组投档最低分数线（首选物理科目组）",
+      "recordCount": 4222,
+      "schoolCount": 1107,
+      "nullScores": 109,
+      "notedRows": 575,
+      "minScore": 368,
+      "maxScore": 685,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10001",
+            "北京大学",
+            "102",
+            "685",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33107-10001-102",
+            "year": 2026,
+            "schoolCode": "10001",
+            "school": "北京大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "102",
+            "score": 685,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33107",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 2,
+          "sourceCells": [
+            "10001",
+            "北京大学",
+            "502",
+            "661",
+            "高校专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33107-10001-502",
+            "year": 2026,
+            "schoolCode": "10001",
+            "school": "北京大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "502",
+            "score": 661,
+            "rank": null,
+            "note": "高校专项计划",
+            "sourceId": "gxeea-2026-33107",
+            "sourceRow": 2
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 3,
+          "sourceCells": [
+            "10001",
+            "北京大学",
+            "504",
+            "662",
+            "国家专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33107-10001-504",
+            "year": 2026,
+            "schoolCode": "10001",
+            "school": "北京大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "504",
+            "score": 662,
+            "rank": null,
+            "note": "国家专项计划",
+            "sourceId": "gxeea-2026-33107",
+            "sourceRow": 3
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 19,
+          "sourceCells": [
+            "10004",
+            "北京交通大学",
+            "727",
+            "607",
+            "民族班"
+          ],
+          "parsed": {
+            "id": "gx-2026-33107-10004-727",
+            "year": 2026,
+            "schoolCode": "10004",
+            "school": "北京交通大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "727",
+            "score": 607,
+            "rank": null,
+            "note": "民族班",
+            "sourceId": "gxeea-2026-33107",
+            "sourceRow": 19
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 670,
+          "sourceCells": [
+            "10200",
+            "东北师范大学",
+            "510",
+            "",
+            "高校专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33107-10200-510",
+            "year": 2026,
+            "schoolCode": "10200",
+            "school": "东北师范大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "510",
+            "score": null,
+            "rank": null,
+            "note": "高校专项计划",
+            "sourceId": "gxeea-2026-33107",
+            "sourceRow": 670
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 1817,
+          "sourceCells": [
+            "10593",
+            "广西大学",
+            "551",
+            "598",
+            "地方专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33107-10593-551",
+            "year": 2026,
+            "schoolCode": "10593",
+            "school": "广西大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "551",
+            "score": 598,
+            "rank": null,
+            "note": "地方专项计划",
+            "sourceId": "gxeea-2026-33107",
+            "sourceRow": 1817
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 1840,
+          "sourceCells": [
+            "10594",
+            "广西科技大学",
+            "951",
+            "469",
+            "精准专项"
+          ],
+          "parsed": {
+            "id": "gx-2026-33107-10594-951",
+            "year": 2026,
+            "schoolCode": "10594",
+            "school": "广西科技大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "951",
+            "score": 469,
+            "rank": null,
+            "note": "精准专项",
+            "sourceId": "gxeea-2026-33107",
+            "sourceRow": 1840
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 2112,
+          "sourceCells": [
+            "10613",
+            "西南交通大学",
+            "109",
+            "589",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33107-10613-109",
+            "year": 2026,
+            "schoolCode": "10613",
+            "school": "西南交通大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "109",
+            "score": 589,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33107",
+            "sourceRow": 2112
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 4222,
+          "sourceCells": [
+            "20384",
+            "厦门大学（马来西亚分校）",
+            "993",
+            "578",
+            "厦门大学马来西亚分校"
+          ],
+          "parsed": {
+            "id": "gx-2026-33107-20384-993",
+            "year": 2026,
+            "schoolCode": "20384",
+            "school": "厦门大学（马来西亚分校）",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "首轮",
+            "group": "993",
+            "score": 578,
+            "rank": null,
+            "note": "厦门大学马来西亚分校",
+            "sourceId": "gxeea-2026-33107",
+            "sourceRow": 4222
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33145",
+      "title": "2026年本科普通批院校专业组第一次征集投档最低分数线（首选历史科目组）",
+      "recordCount": 346,
+      "schoolCount": 285,
+      "nullScores": 62,
+      "notedRows": 82,
+      "minScore": 359,
+      "maxScore": 581,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10015",
+            "北京印刷学院",
+            "101",
+            "515",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33145-10015-101",
+            "year": 2026,
+            "schoolCode": "10015",
+            "school": "北京印刷学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "101",
+            "score": 515,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33145",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 2,
+          "sourceCells": [
+            "10043",
+            "北京体育大学",
+            "502",
+            "539",
+            "国家专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33145-10043-502",
+            "year": 2026,
+            "schoolCode": "10043",
+            "school": "北京体育大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "502",
+            "score": 539,
+            "rank": null,
+            "note": "国家专项计划",
+            "sourceId": "gxeea-2026-33145",
+            "sourceRow": 2
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 8,
+          "sourceCells": [
+            "10169",
+            "鞍山师范学院",
+            "102",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33145-10169-102",
+            "year": 2026,
+            "schoolCode": "10169",
+            "school": "鞍山师范学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "102",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33145",
+            "sourceRow": 8
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 44,
+          "sourceCells": [
+            "10596",
+            "桂林理工大学",
+            "522",
+            "491",
+            "地方专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33145-10596-522",
+            "year": 2026,
+            "schoolCode": "10596",
+            "school": "桂林理工大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "522",
+            "score": 491,
+            "rank": null,
+            "note": "地方专项计划",
+            "sourceId": "gxeea-2026-33145",
+            "sourceRow": 44
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 52,
+          "sourceCells": [
+            "10604",
+            "广西民族师范学院",
+            "710",
+            "504",
+            "民族班"
+          ],
+          "parsed": {
+            "id": "gx-2026-33145-10604-710",
+            "year": 2026,
+            "schoolCode": "10604",
+            "school": "广西民族师范学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "710",
+            "score": 504,
+            "rank": null,
+            "note": "民族班",
+            "sourceId": "gxeea-2026-33145",
+            "sourceRow": 52
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 53,
+          "sourceCells": [
+            "10604",
+            "广西民族师范学院",
+            "910",
+            "460",
+            "精准专项"
+          ],
+          "parsed": {
+            "id": "gx-2026-33145-10604-910",
+            "year": 2026,
+            "schoolCode": "10604",
+            "school": "广西民族师范学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "910",
+            "score": 460,
+            "rank": null,
+            "note": "精准专项",
+            "sourceId": "gxeea-2026-33145",
+            "sourceRow": 53
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 80,
+          "sourceCells": [
+            "10841",
+            "辽宁对外经贸学院",
+            "101",
+            "362",
+            "降36分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33145-10841-101",
+            "year": 2026,
+            "schoolCode": "10841",
+            "school": "辽宁对外经贸学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "101",
+            "score": 362,
+            "rank": null,
+            "note": "降36分",
+            "sourceId": "gxeea-2026-33145",
+            "sourceRow": 80
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 174,
+          "sourceCells": [
+            "13006",
+            "山东英才学院",
+            "101",
+            "424",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33145-13006-101",
+            "year": 2026,
+            "schoolCode": "13006",
+            "school": "山东英才学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "101",
+            "score": 424,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33145",
+            "sourceRow": 174
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 346,
+          "sourceCells": [
+            "16405",
+            "温州肯恩大学",
+            "301",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33145-16405-301",
+            "year": 2026,
+            "schoolCode": "16405",
+            "school": "温州肯恩大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "301",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33145",
+            "sourceRow": 346
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33146",
+      "title": "2026年本科普通批院校专业组第一次征集投档最低分数线（首选物理科目组）",
+      "recordCount": 896,
+      "schoolCount": 509,
+      "nullScores": 112,
+      "notedRows": 151,
+      "minScore": 329,
+      "maxScore": 643,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10005",
+            "北京工业大学",
+            "101",
+            "617",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33146-10005-101",
+            "year": 2026,
+            "schoolCode": "10005",
+            "school": "北京工业大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "101",
+            "score": 617,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33146",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 2,
+          "sourceCells": [
+            "10009",
+            "北方工业大学",
+            "507",
+            "471",
+            "国家专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33146-10009-507",
+            "year": 2026,
+            "schoolCode": "10009",
+            "school": "北方工业大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "507",
+            "score": 471,
+            "rank": null,
+            "note": "国家专项计划",
+            "sourceId": "gxeea-2026-33146",
+            "sourceRow": 2
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 3,
+          "sourceCells": [
+            "10032",
+            "北京语言大学",
+            "618",
+            "",
+            "高校专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33146-10032-618",
+            "year": 2026,
+            "schoolCode": "10032",
+            "school": "北京语言大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "618",
+            "score": null,
+            "rank": null,
+            "note": "高校专项计划",
+            "sourceId": "gxeea-2026-33146",
+            "sourceRow": 3
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 180,
+          "sourceCells": [
+            "10593",
+            "广西大学",
+            "552",
+            "560",
+            "地方专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33146-10593-552",
+            "year": 2026,
+            "schoolCode": "10593",
+            "school": "广西大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "552",
+            "score": 560,
+            "rank": null,
+            "note": "地方专项计划",
+            "sourceId": "gxeea-2026-33146",
+            "sourceRow": 180
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 188,
+          "sourceCells": [
+            "10594",
+            "广西科技大学",
+            "751",
+            "486",
+            "民族班"
+          ],
+          "parsed": {
+            "id": "gx-2026-33146-10594-751",
+            "year": 2026,
+            "schoolCode": "10594",
+            "school": "广西科技大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "751",
+            "score": 486,
+            "rank": null,
+            "note": "民族班",
+            "sourceId": "gxeea-2026-33146",
+            "sourceRow": 188
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 261,
+          "sourceCells": [
+            "10609",
+            "百色学院",
+            "957",
+            "470",
+            "精准专项"
+          ],
+          "parsed": {
+            "id": "gx-2026-33146-10609-957",
+            "year": 2026,
+            "schoolCode": "10609",
+            "school": "百色学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "957",
+            "score": 470,
+            "rank": null,
+            "note": "精准专项",
+            "sourceId": "gxeea-2026-33146",
+            "sourceRow": 261
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 322,
+          "sourceCells": [
+            "10841",
+            "辽宁对外经贸学院",
+            "102",
+            "329",
+            "降39分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33146-10841-102",
+            "year": 2026,
+            "schoolCode": "10841",
+            "school": "辽宁对外经贸学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "102",
+            "score": 329,
+            "rank": null,
+            "note": "降39分",
+            "sourceId": "gxeea-2026-33146",
+            "sourceRow": 322
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 449,
+          "sourceCells": [
+            "11837",
+            "桂林旅游学院",
+            "311",
+            "400",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33146-11837-311",
+            "year": 2026,
+            "schoolCode": "11837",
+            "school": "桂林旅游学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "311",
+            "score": 400,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33146",
+            "sourceRow": 449
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 896,
+          "sourceCells": [
+            "92004",
+            "陆军工程大学",
+            "152",
+            "509",
+            "人防定向"
+          ],
+          "parsed": {
+            "id": "gx-2026-33146-92004-152",
+            "year": 2026,
+            "schoolCode": "92004",
+            "school": "陆军工程大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第一次征集",
+            "group": "152",
+            "score": 509,
+            "rank": null,
+            "note": "人防定向",
+            "sourceId": "gxeea-2026-33146",
+            "sourceRow": 896
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33167",
+      "title": "2026年本科普通批院校专业组第二次征集投档最低分数线（首选历史科目组）",
+      "recordCount": 92,
+      "schoolCount": 84,
+      "nullScores": 21,
+      "notedRows": 29,
+      "minScore": 359,
+      "maxScore": 494,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10384",
+            "厦门大学",
+            "151",
+            "",
+            "非西藏生定藏就业"
+          ],
+          "parsed": {
+            "id": "gx-2026-33167-10384-151",
+            "year": 2026,
+            "schoolCode": "10384",
+            "school": "厦门大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第二次征集",
+            "group": "151",
+            "score": null,
+            "rank": null,
+            "note": "非西藏生定藏就业",
+            "sourceId": "gxeea-2026-33167",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 2,
+          "sourceCells": [
+            "10841",
+            "辽宁对外经贸学院",
+            "101",
+            "367",
+            "降31分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33167-10841-101",
+            "year": 2026,
+            "schoolCode": "10841",
+            "school": "辽宁对外经贸学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第二次征集",
+            "group": "101",
+            "score": 367,
+            "rank": null,
+            "note": "降31分",
+            "sourceId": "gxeea-2026-33167",
+            "sourceRow": 2
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 47,
+          "sourceCells": [
+            "13468",
+            "阳光学院",
+            "101",
+            "382",
+            "降16分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33167-13468-101",
+            "year": 2026,
+            "schoolCode": "13468",
+            "school": "阳光学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第二次征集",
+            "group": "101",
+            "score": 382,
+            "rank": null,
+            "note": "降16分",
+            "sourceId": "gxeea-2026-33167",
+            "sourceRow": 47
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 92,
+          "sourceCells": [
+            "16405",
+            "温州肯恩大学",
+            "301",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33167-16405-301",
+            "year": 2026,
+            "schoolCode": "16405",
+            "school": "温州肯恩大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第二次征集",
+            "group": "301",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33167",
+            "sourceRow": 92
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33168",
+      "title": "2026年本科普通批院校专业组第二次征集投档最低分数线（首选物理科目组）",
+      "recordCount": 189,
+      "schoolCount": 118,
+      "nullScores": 30,
+      "notedRows": 52,
+      "minScore": 329,
+      "maxScore": 512,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10066",
+            "天津职业技术师范大学",
+            "106",
+            "421",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33168-10066-106",
+            "year": 2026,
+            "schoolCode": "10066",
+            "school": "天津职业技术师范大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第二次征集",
+            "group": "106",
+            "score": 421,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33168",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 4,
+          "sourceCells": [
+            "10200",
+            "东北师范大学",
+            "510",
+            "",
+            "高校专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33168-10200-510",
+            "year": 2026,
+            "schoolCode": "10200",
+            "school": "东北师范大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第二次征集",
+            "group": "510",
+            "score": null,
+            "rank": null,
+            "note": "高校专项计划",
+            "sourceId": "gxeea-2026-33168",
+            "sourceRow": 4
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 16,
+          "sourceCells": [
+            "10841",
+            "辽宁对外经贸学院",
+            "102",
+            "341",
+            "降27分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33168-10841-102",
+            "year": 2026,
+            "schoolCode": "10841",
+            "school": "辽宁对外经贸学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第二次征集",
+            "group": "102",
+            "score": 341,
+            "rank": null,
+            "note": "降27分",
+            "sourceId": "gxeea-2026-33168",
+            "sourceRow": 16
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 95,
+          "sourceCells": [
+            "13303",
+            "哈尔滨剑桥学院",
+            "152",
+            "347",
+            "降21分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33168-13303-152",
+            "year": 2026,
+            "schoolCode": "13303",
+            "school": "哈尔滨剑桥学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第二次征集",
+            "group": "152",
+            "score": 347,
+            "rank": null,
+            "note": "降21分",
+            "sourceId": "gxeea-2026-33168",
+            "sourceRow": 95
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 189,
+          "sourceCells": [
+            "14205",
+            "内蒙古鸿德文理学院",
+            "103",
+            "395",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33168-14205-103",
+            "year": 2026,
+            "schoolCode": "14205",
+            "school": "内蒙古鸿德文理学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第二次征集",
+            "group": "103",
+            "score": 395,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33168",
+            "sourceRow": 189
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33187",
+      "title": "2026年本科普通批院校专业组第三次征集投档最低分数线（首选历史科目组）",
+      "recordCount": 46,
+      "schoolCount": 41,
+      "nullScores": 14,
+      "notedRows": 18,
+      "minScore": 359,
+      "maxScore": 452,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10384",
+            "厦门大学",
+            "151",
+            "",
+            "非西藏生定藏就业"
+          ],
+          "parsed": {
+            "id": "gx-2026-33187-10384-151",
+            "year": 2026,
+            "schoolCode": "10384",
+            "school": "厦门大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第三次征集",
+            "group": "151",
+            "score": null,
+            "rank": null,
+            "note": "非西藏生定藏就业",
+            "sourceId": "gxeea-2026-33187",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 4,
+          "sourceCells": [
+            "11635",
+            "哈尔滨信息工程学院",
+            "103",
+            "376",
+            "降22分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33187-11635-103",
+            "year": 2026,
+            "schoolCode": "11635",
+            "school": "哈尔滨信息工程学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第三次征集",
+            "group": "103",
+            "score": 376,
+            "rank": null,
+            "note": "降22分",
+            "sourceId": "gxeea-2026-33187",
+            "sourceRow": 4
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 24,
+          "sourceCells": [
+            "13283",
+            "浙江农林大学暨阳学院",
+            "114",
+            "389",
+            "降9分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33187-13283-114",
+            "year": 2026,
+            "schoolCode": "13283",
+            "school": "浙江农林大学暨阳学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第三次征集",
+            "group": "114",
+            "score": 389,
+            "rank": null,
+            "note": "降9分",
+            "sourceId": "gxeea-2026-33187",
+            "sourceRow": 24
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 46,
+          "sourceCells": [
+            "14205",
+            "内蒙古鸿德文理学院",
+            "101",
+            "428",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33187-14205-101",
+            "year": 2026,
+            "schoolCode": "14205",
+            "school": "内蒙古鸿德文理学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第三次征集",
+            "group": "101",
+            "score": 428,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33187",
+            "sourceRow": 46
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33188",
+      "title": "2026年本科普通批院校专业组第三次征集投档最低分数线（首选物理科目组）",
+      "recordCount": 87,
+      "schoolCount": 57,
+      "nullScores": 22,
+      "notedRows": 27,
+      "minScore": 329,
+      "maxScore": 533,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10200",
+            "东北师范大学",
+            "510",
+            "",
+            "高校专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33188-10200-510",
+            "year": 2026,
+            "schoolCode": "10200",
+            "school": "东北师范大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第三次征集",
+            "group": "510",
+            "score": null,
+            "rank": null,
+            "note": "高校专项计划",
+            "sourceId": "gxeea-2026-33188",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 7,
+          "sourceCells": [
+            "11635",
+            "哈尔滨信息工程学院",
+            "101",
+            "330",
+            "降38分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33188-11635-101",
+            "year": 2026,
+            "schoolCode": "11635",
+            "school": "哈尔滨信息工程学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第三次征集",
+            "group": "101",
+            "score": 330,
+            "rank": null,
+            "note": "降38分",
+            "sourceId": "gxeea-2026-33188",
+            "sourceRow": 7
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 44,
+          "sourceCells": [
+            "13283",
+            "浙江农林大学暨阳学院",
+            "106",
+            "381",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33188-13283-106",
+            "year": 2026,
+            "schoolCode": "13283",
+            "school": "浙江农林大学暨阳学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第三次征集",
+            "group": "106",
+            "score": 381,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33188",
+            "sourceRow": 44
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 87,
+          "sourceCells": [
+            "14205",
+            "内蒙古鸿德文理学院",
+            "103",
+            "413",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33188-14205-103",
+            "year": 2026,
+            "schoolCode": "14205",
+            "school": "内蒙古鸿德文理学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第三次征集",
+            "group": "103",
+            "score": 413,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33188",
+            "sourceRow": 87
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33225",
+      "title": "2026年本科普通批院校专业组第四次征集投档最低分数线（首选历史科目组）",
+      "recordCount": 25,
+      "schoolCount": 24,
+      "nullScores": 10,
+      "notedRows": 9,
+      "minScore": 359,
+      "maxScore": 430,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "11446",
+            "黑龙江东方学院",
+            "102",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33225-11446-102",
+            "year": 2026,
+            "schoolCode": "11446",
+            "school": "黑龙江东方学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第四次征集",
+            "group": "102",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33225",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 2,
+          "sourceCells": [
+            "11635",
+            "哈尔滨信息工程学院",
+            "103",
+            "391",
+            "降7分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33225-11635-103",
+            "year": 2026,
+            "schoolCode": "11635",
+            "school": "哈尔滨信息工程学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第四次征集",
+            "group": "103",
+            "score": 391,
+            "rank": null,
+            "note": "降7分",
+            "sourceId": "gxeea-2026-33225",
+            "sourceRow": 2
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 13,
+          "sourceCells": [
+            "13283",
+            "浙江农林大学暨阳学院",
+            "114",
+            "430",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33225-13283-114",
+            "year": 2026,
+            "schoolCode": "13283",
+            "school": "浙江农林大学暨阳学院",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第四次征集",
+            "group": "114",
+            "score": 430,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33225",
+            "sourceRow": 13
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 25,
+          "sourceCells": [
+            "14172",
+            "海南科技职业大学",
+            "111",
+            "418",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33225-14172-111",
+            "year": 2026,
+            "schoolCode": "14172",
+            "school": "海南科技职业大学",
+            "track": "历史",
+            "batch": "本科普通批",
+            "round": "第四次征集",
+            "group": "111",
+            "score": 418,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33225",
+            "sourceRow": 25
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33226",
+      "title": "2026年本科普通批院校专业组第四次征集投档最低分数线（首选物理科目组）",
+      "recordCount": 48,
+      "schoolCount": 31,
+      "nullScores": 14,
+      "notedRows": 18,
+      "minScore": 329,
+      "maxScore": 572,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10200",
+            "东北师范大学",
+            "510",
+            "572",
+            "高校专项计划"
+          ],
+          "parsed": {
+            "id": "gx-2026-33226-10200-510",
+            "year": 2026,
+            "schoolCode": "10200",
+            "school": "东北师范大学",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第四次征集",
+            "group": "510",
+            "score": 572,
+            "rank": null,
+            "note": "高校专项计划",
+            "sourceId": "gxeea-2026-33226",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 4,
+          "sourceCells": [
+            "11635",
+            "哈尔滨信息工程学院",
+            "101",
+            "330",
+            "降38分"
+          ],
+          "parsed": {
+            "id": "gx-2026-33226-11635-101",
+            "year": 2026,
+            "schoolCode": "11635",
+            "school": "哈尔滨信息工程学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第四次征集",
+            "group": "101",
+            "score": 330,
+            "rank": null,
+            "note": "降38分",
+            "sourceId": "gxeea-2026-33226",
+            "sourceRow": 4
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 5,
+          "sourceCells": [
+            "11635",
+            "哈尔滨信息工程学院",
+            "102",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33226-11635-102",
+            "year": 2026,
+            "schoolCode": "11635",
+            "school": "哈尔滨信息工程学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第四次征集",
+            "group": "102",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33226",
+            "sourceRow": 5
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 25,
+          "sourceCells": [
+            "13296",
+            "黑龙江外国语学院",
+            "102",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33226-13296-102",
+            "year": 2026,
+            "schoolCode": "13296",
+            "school": "黑龙江外国语学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第四次征集",
+            "group": "102",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33226",
+            "sourceRow": 25
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 48,
+          "sourceCells": [
+            "14203",
+            "皖江工学院",
+            "101",
+            "399",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33226-14203-101",
+            "year": 2026,
+            "schoolCode": "14203",
+            "school": "皖江工学院",
+            "track": "物理",
+            "batch": "本科普通批",
+            "round": "第四次征集",
+            "group": "101",
+            "score": 399,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33226",
+            "sourceRow": 48
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33315",
+      "title": "2026年高职高专普通批院校专业组投档最低分数线（首选历史科目组）",
+      "recordCount": 983,
+      "schoolCount": 833,
+      "nullScores": 70,
+      "notedRows": 20,
+      "minScore": 180,
+      "maxScore": 527,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10171",
+            "朝阳师范学院",
+            "123",
+            "358",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33315-10171-123",
+            "year": 2026,
+            "schoolCode": "10171",
+            "school": "朝阳师范学院",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "首轮",
+            "group": "123",
+            "score": 358,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33315",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 29,
+          "sourceCells": [
+            "10845",
+            "大连职业技术学院",
+            "311",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33315-10845-311",
+            "year": 2026,
+            "schoolCode": "10845",
+            "school": "大连职业技术学院",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "首轮",
+            "group": "311",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33315",
+            "sourceRow": 29
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 37,
+          "sourceCells": [
+            "10867",
+            "广西机电职业技术学院",
+            "911",
+            "368",
+            "精准专项"
+          ],
+          "parsed": {
+            "id": "gx-2026-33315-10867-911",
+            "year": 2026,
+            "schoolCode": "10867",
+            "school": "广西机电职业技术学院",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "首轮",
+            "group": "911",
+            "score": 368,
+            "rank": null,
+            "note": "精准专项",
+            "sourceId": "gxeea-2026-33315",
+            "sourceRow": 37
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 492,
+          "sourceCells": [
+            "13817",
+            "黔西南民族职业技术学院",
+            "101",
+            "251",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33315-13817-101",
+            "year": 2026,
+            "schoolCode": "13817",
+            "school": "黔西南民族职业技术学院",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "首轮",
+            "group": "101",
+            "score": 251,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33315",
+            "sourceRow": 492
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 983,
+          "sourceCells": [
+            "51675",
+            "崇左幼儿师范高等专科学校",
+            "114",
+            "270",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33315-51675-114",
+            "year": 2026,
+            "schoolCode": "51675",
+            "school": "崇左幼儿师范高等专科学校",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "首轮",
+            "group": "114",
+            "score": 270,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33315",
+            "sourceRow": 983
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33316",
+      "title": "2026年高职高专普通批院校专业组投档最低分数线（首选物理科目组）",
+      "recordCount": 1121,
+      "schoolCount": 892,
+      "nullScores": 64,
+      "notedRows": 21,
+      "minScore": 180,
+      "maxScore": 472,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10171",
+            "朝阳师范学院",
+            "124",
+            "281",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33316-10171-124",
+            "year": 2026,
+            "schoolCode": "10171",
+            "school": "朝阳师范学院",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "首轮",
+            "group": "124",
+            "score": 281,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33316",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 31,
+          "sourceCells": [
+            "10826",
+            "明达职业技术学院",
+            "102",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33316-10826-102",
+            "year": 2026,
+            "schoolCode": "10826",
+            "school": "明达职业技术学院",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "首轮",
+            "group": "102",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33316",
+            "sourceRow": 31
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 55,
+          "sourceCells": [
+            "10867",
+            "广西机电职业技术学院",
+            "951",
+            "359",
+            "精准专项"
+          ],
+          "parsed": {
+            "id": "gx-2026-33316-10867-951",
+            "year": 2026,
+            "schoolCode": "10867",
+            "school": "广西机电职业技术学院",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "首轮",
+            "group": "951",
+            "score": 359,
+            "rank": null,
+            "note": "精准专项",
+            "sourceId": "gxeea-2026-33316",
+            "sourceRow": 55
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 561,
+          "sourceCells": [
+            "13768",
+            "厦门华天涉外职业技术学院",
+            "102",
+            "277",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33316-13768-102",
+            "year": 2026,
+            "schoolCode": "13768",
+            "school": "厦门华天涉外职业技术学院",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "首轮",
+            "group": "102",
+            "score": 277,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33316",
+            "sourceRow": 561
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 1121,
+          "sourceCells": [
+            "51675",
+            "崇左幼儿师范高等专科学校",
+            "154",
+            "187",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33316-51675-154",
+            "year": 2026,
+            "schoolCode": "51675",
+            "school": "崇左幼儿师范高等专科学校",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "首轮",
+            "group": "154",
+            "score": 187,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33316",
+            "sourceRow": 1121
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33332",
+      "title": "2026年高职高专普通批院校专业组第一次征集投档最低分数线（首选历史科目组）",
+      "recordCount": 453,
+      "schoolCount": 406,
+      "nullScores": 165,
+      "notedRows": 7,
+      "minScore": 180,
+      "maxScore": 456,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10171",
+            "朝阳师范学院",
+            "123",
+            "406",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33332-10171-123",
+            "year": 2026,
+            "schoolCode": "10171",
+            "school": "朝阳师范学院",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "第一次征集",
+            "group": "123",
+            "score": 406,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33332",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 34,
+          "sourceCells": [
+            "11841",
+            "民办四川天一学院",
+            "103",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33332-11841-103",
+            "year": 2026,
+            "schoolCode": "11841",
+            "school": "民办四川天一学院",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "第一次征集",
+            "group": "103",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33332",
+            "sourceRow": 34
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 51,
+          "sourceCells": [
+            "12344",
+            "广西生态工程职业技术学院",
+            "911",
+            "370",
+            "精准专项"
+          ],
+          "parsed": {
+            "id": "gx-2026-33332-12344-911",
+            "year": 2026,
+            "schoolCode": "12344",
+            "school": "广西生态工程职业技术学院",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "第一次征集",
+            "group": "911",
+            "score": 370,
+            "rank": null,
+            "note": "精准专项",
+            "sourceId": "gxeea-2026-33332",
+            "sourceRow": 51
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 227,
+          "sourceCells": [
+            "14061",
+            "三峡电力职业学院",
+            "101",
+            "374",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33332-14061-101",
+            "year": 2026,
+            "schoolCode": "14061",
+            "school": "三峡电力职业学院",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "第一次征集",
+            "group": "101",
+            "score": 374,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33332",
+            "sourceRow": 227
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 453,
+          "sourceCells": [
+            "51675",
+            "崇左幼儿师范高等专科学校",
+            "112",
+            "300",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33332-51675-112",
+            "year": 2026,
+            "schoolCode": "51675",
+            "school": "崇左幼儿师范高等专科学校",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "第一次征集",
+            "group": "112",
+            "score": 300,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33332",
+            "sourceRow": 453
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33333",
+      "title": "2026年高职高专普通批院校专业组第一次征集投档最低分数线（首选物理科目组）",
+      "recordCount": 558,
+      "schoolCount": 484,
+      "nullScores": 188,
+      "notedRows": 17,
+      "minScore": 180,
+      "maxScore": 471,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10171",
+            "朝阳师范学院",
+            "124",
+            "416",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33333-10171-124",
+            "year": 2026,
+            "schoolCode": "10171",
+            "school": "朝阳师范学院",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "第一次征集",
+            "group": "124",
+            "score": 416,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33333",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 23,
+          "sourceCells": [
+            "10867",
+            "广西机电职业技术学院",
+            "951",
+            "405",
+            "精准专项"
+          ],
+          "parsed": {
+            "id": "gx-2026-33333-10867-951",
+            "year": 2026,
+            "schoolCode": "10867",
+            "school": "广西机电职业技术学院",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "第一次征集",
+            "group": "951",
+            "score": 405,
+            "rank": null,
+            "note": "精准专项",
+            "sourceId": "gxeea-2026-33333",
+            "sourceRow": 23
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 47,
+          "sourceCells": [
+            "11440",
+            "长春金融高等专科学校",
+            "102",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33333-11440-102",
+            "year": 2026,
+            "schoolCode": "11440",
+            "school": "长春金融高等专科学校",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "第一次征集",
+            "group": "102",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33333",
+            "sourceRow": 47
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 280,
+          "sourceCells": [
+            "13961",
+            "大连枫叶职业技术学院",
+            "102",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33333-13961-102",
+            "year": 2026,
+            "schoolCode": "13961",
+            "school": "大连枫叶职业技术学院",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "第一次征集",
+            "group": "102",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33333",
+            "sourceRow": 280
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 558,
+          "sourceCells": [
+            "51675",
+            "崇左幼儿师范高等专科学校",
+            "152",
+            "296",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33333-51675-152",
+            "year": 2026,
+            "schoolCode": "51675",
+            "school": "崇左幼儿师范高等专科学校",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "第一次征集",
+            "group": "152",
+            "score": 296,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33333",
+            "sourceRow": 558
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33354",
+      "title": "2026年高职高专普通批院校专业组第二次征集投档最低分数线（首选历史科目组）",
+      "recordCount": 245,
+      "schoolCount": 233,
+      "nullScores": 154,
+      "notedRows": 0,
+      "minScore": 181,
+      "maxScore": 454,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10826",
+            "明达职业技术学院",
+            "101",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33354-10826-101",
+            "year": 2026,
+            "schoolCode": "10826",
+            "school": "明达职业技术学院",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "第二次征集",
+            "group": "101",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33354",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 123,
+          "sourceCells": [
+            "14212",
+            "昆明科技职业大学",
+            "104",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33354-14212-104",
+            "year": 2026,
+            "schoolCode": "14212",
+            "school": "昆明科技职业大学",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "第二次征集",
+            "group": "104",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33354",
+            "sourceRow": 123
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 245,
+          "sourceCells": [
+            "15035",
+            "桂林生命与健康职业技术学院",
+            "103",
+            "304",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33354-15035-103",
+            "year": 2026,
+            "schoolCode": "15035",
+            "school": "桂林生命与健康职业技术学院",
+            "track": "历史",
+            "batch": "高职高专普通批",
+            "round": "第二次征集",
+            "group": "103",
+            "score": 304,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33354",
+            "sourceRow": 245
+          },
+          "result": "PASS"
+        }
+      ]
+    },
+    {
+      "sourceId": "gxeea-2026-33355",
+      "title": "2026年高职高专普通批院校专业组第二次征集投档最低分数线（首选物理科目组）",
+      "recordCount": 308,
+      "schoolCount": 283,
+      "nullScores": 167,
+      "notedRows": 0,
+      "minScore": 184,
+      "maxScore": 436,
+      "independentCellComparison": "PASS",
+      "uniqueKeys": "PASS",
+      "schemaAndBounds": "PASS",
+      "samples": [
+        {
+          "sourceRow": 1,
+          "sourceCells": [
+            "10765",
+            "新疆和田学院",
+            "156",
+            "265",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33355-10765-156",
+            "year": 2026,
+            "schoolCode": "10765",
+            "school": "新疆和田学院",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "第二次征集",
+            "group": "156",
+            "score": 265,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33355",
+            "sourceRow": 1
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 16,
+          "sourceCells": [
+            "12054",
+            "九州职业技术学院",
+            "102",
+            "",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33355-12054-102",
+            "year": 2026,
+            "schoolCode": "12054",
+            "school": "九州职业技术学院",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "第二次征集",
+            "group": "102",
+            "score": null,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33355",
+            "sourceRow": 16
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 155,
+          "sourceCells": [
+            "14170",
+            "广西理工职业技术学院",
+            "150",
+            "200",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33355-14170-150",
+            "year": 2026,
+            "schoolCode": "14170",
+            "school": "广西理工职业技术学院",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "第二次征集",
+            "group": "150",
+            "score": 200,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33355",
+            "sourceRow": 155
+          },
+          "result": "PASS"
+        },
+        {
+          "sourceRow": 308,
+          "sourceCells": [
+            "15519",
+            "抚州幼儿师范高等专科学校",
+            "101",
+            "247",
+            ""
+          ],
+          "parsed": {
+            "id": "gx-2026-33355-15519-101",
+            "year": 2026,
+            "schoolCode": "15519",
+            "school": "抚州幼儿师范高等专科学校",
+            "track": "物理",
+            "batch": "高职高专普通批",
+            "round": "第二次征集",
+            "group": "101",
+            "score": 247,
+            "rank": null,
+            "note": "",
+            "sourceId": "gxeea-2026-33355",
+            "sourceRow": 308
+          },
+          "result": "PASS"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Complete relative to the 16 listed official ordinary-batch tables; does not cover every admissions route or prove complete national school/program coverage.",
+    "These are group filing cutoffs, not final admission cutoffs or major-specific cutoffs; group composition requires separately sourced 2026 plans.",
+    "Score is null when the original source cell is blank; this means no filed candidates and does not mean zero points.",
+    "All exact filing ranks are unavailable in these sources; rank remains null.",
+    "National/targeted/minority and other eligibility restrictions remain in original notes and must be shown to users.",
+    "Historical 2026 results are not a forecast or admission guarantee for another year."
+  ]
+}
