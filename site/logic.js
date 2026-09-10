@@ -1,6 +1,7 @@
 export const SPECIAL = /专项|预科|民族班|定向|免费|公费|精准|地方优师|边防|乡村|基层|只投|资格名单|仅招|只招|限招|须为|政治面貌/;
 export const restrictionText = row => `${row.note || ''} ${row.batch || ''} ${row.category || ''} ${row.admissionType || ''} ${row.major || ''}`.replaceAll('非定向','').replaceAll('不含预科直升','');
 export function specialLabel(row) {
+  if (row.category === '未注明招生类别') return '招生类别待核';
   const text = restrictionText(row);
   const labels = ['国家专项', '地方专项', '高校专项', '预科', '民族班', '公费', '免费', '定向'];
   return labels.filter(x => text.includes(x)).join(' · ') || (SPECIAL.test(text) ? '有资格或地域限制' : '一般计划');

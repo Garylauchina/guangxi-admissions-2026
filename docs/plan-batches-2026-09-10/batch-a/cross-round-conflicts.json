@@ -1,0 +1,36 @@
+[
+  {
+    "type": "cross-round-group-disagreement",
+    "planId": "plan26-5c1242de79eaeb6b",
+    "schoolCode": "10596",
+    "school": "桂林理工大学",
+    "major": "材料化冶金应用技术",
+    "track": "物理",
+    "initial": {
+      "group": "181",
+      "plannedCount": 150,
+      "sourceId": "batch-a-glut_plan",
+      "sourceCells": [
+        "2026",
+        "广西",
+        "南宁分校",
+        "材料化冶金应用技术",
+        "物理类",
+        "南宁空港校区",
+        "本科综合",
+        "普通类",
+        "150",
+        "专业组：181"
+      ]
+    },
+    "supplementary": {
+      "group": "182",
+      "remainingCount": 7,
+      "majorCode": "131",
+      "evidenceRound": "第一次征集",
+      "sourceId": "batch-a-gxeea-first-physics",
+      "sourceRow": 221
+    },
+    "resolution": "不覆盖初始组码，不匹配首轮；两份官方源发生阶段/内容差异，原因尚未确认。该专业不是仅凭同名可安全跨轮次关联的证明。"
+  }
+]

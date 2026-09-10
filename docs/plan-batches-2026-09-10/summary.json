@@ -1,0 +1,172 @@
+{
+  "checkedAt": "2026-09-10T07:24:25.455Z",
+  "baseline": {
+    "commit": "a265d5794562196b3ba3c36ba7bb60c6045bf7c4",
+    "plans": 1615,
+    "planSchools": 18,
+    "plansWithGroup": 471,
+    "matchedPlans": 438,
+    "matchedGroups": 104,
+    "sources": 179
+  },
+  "after": {
+    "plans": 1849,
+    "planSchools": 25,
+    "matchedPlans": 552,
+    "matchedGroups": 130,
+    "sourceCatalogSchools": 31,
+    "supplementaryPlans": 84
+  },
+  "newPlans": 234,
+  "bySchool": [
+    {
+      "school": "桂林航天工业学院",
+      "schoolCode": "11825",
+      "records": 58,
+      "plannedSeats": 4075,
+      "matchedToFirstRound": 58
+    },
+    {
+      "school": "右江民族医学院",
+      "schoolCode": "10599",
+      "records": 31,
+      "plannedSeats": 2818,
+      "matchedToFirstRound": 0
+    },
+    {
+      "school": "桂林医科大学",
+      "schoolCode": "10601",
+      "records": 40,
+      "plannedSeats": 3950,
+      "matchedToFirstRound": 0
+    },
+    {
+      "school": "暨南大学",
+      "schoolCode": "10559",
+      "records": 39,
+      "plannedSeats": 109,
+      "matchedToFirstRound": 39
+    },
+    {
+      "school": "江西职业技术大学",
+      "schoolCode": "11785",
+      "records": 17,
+      "plannedSeats": 75,
+      "matchedToFirstRound": 17
+    },
+    {
+      "school": "中南大学",
+      "schoolCode": "10533",
+      "records": 26,
+      "plannedSeats": 321,
+      "matchedToFirstRound": 0
+    },
+    {
+      "school": "华南理工大学",
+      "schoolCode": "10561",
+      "records": 23,
+      "plannedSeats": 210,
+      "matchedToFirstRound": 0
+    }
+  ],
+  "batches": [
+    {
+      "batch": "batch-a",
+      "added": 0,
+      "updated": 11
+    },
+    {
+      "batch": "batch-b",
+      "added": 129,
+      "updated": 0
+    },
+    {
+      "batch": "batch-c",
+      "added": 56,
+      "updated": 0
+    },
+    {
+      "batch": "batch-d",
+      "added": 49,
+      "updated": 0
+    }
+  ],
+  "checks": {
+    "oldPlansRetained": true,
+    "oldPlanCountsUnchanged": true,
+    "oldInitialGroupsUnchanged": true,
+    "unchangedDatasets": [
+      "cutoffs",
+      "major-cutoffs",
+      "major-filing-cutoffs",
+      "ranks",
+      "special-programs",
+      "policies"
+    ],
+    "searchOnlyHuzhouExcluded": true
+  },
+  "remainingSources": [
+    {
+      "school": "广西科技大学",
+      "status": "source-found",
+      "note": "已取得本年分省专业人数与专业组设置，但人数未拆历史/物理及资格类别，不能硬拼到普通组；公开2026广西查询返回空。",
+      "sourceIds": [
+        "batch-b-gxust_plan",
+        "batch-b-gxust_groups",
+        "batch-b-gxust_plan_pdf",
+        "batch-b-gxust_groups_pdf",
+        "batch-b-gxust_query_data"
+      ]
+    },
+    {
+      "school": "广西职业师范学院",
+      "status": "source-found",
+      "note": "本年官方章程明确学校标识码4145014684；末五位14684与本项目已核验考试院学校表一致。已取得全国总表及六省160人外省表，未取得直接广西逐专业逐科类表。本批不采纳总表减外省的推导人数。",
+      "sourceIds": [
+        "batch-b-gxvnu-plan",
+        "batch-b-gxvnu-plan-outside",
+        "batch-b-gxvnu-charter"
+      ]
+    },
+    {
+      "school": "湖州师范大学",
+      "status": "source-found",
+      "note": "官方单条搜索结果返回连续完整广西段16条70人及101/102/103组；原站本轮TLS直连失败，web open也失败，仅保留候选，不导入计划。除临床医学原备注明确5年外，其他专业学制未在该计划段列出，保持null。",
+      "sourceIds": [
+        "batch-c-2026-hznu",
+        "batch-c-2026-hznu-identity"
+      ]
+    },
+    {
+      "school": "湖南大学",
+      "status": "source-found",
+      "note": "已取得2026广西初始计划，含普通/专项等，2025列为历史录取线；学校PDF用专业组1至5，未取得广西101等正式代码对应原文，不能自行加100。本批暂不导入。",
+      "sourceIds": [
+        "batch-c-2026-hnu-entry",
+        "batch-c-2026-hnu-pdf"
+      ]
+    },
+    {
+      "school": "浙江大学",
+      "status": "entry-only",
+      "note": "入口可访问，不能等同已获取本年专业计划。当前未读到带广西正式组码与人数的原始完整表，本批未导入。",
+      "sourceIds": [
+        "batch-c-2026-zju-entry"
+      ]
+    },
+    {
+      "school": "中国药科大学",
+      "status": "source-found",
+      "note": "当年计划官方原图可读，普通批90人；仅列校编专业组1至5，不猜测广西专业组代码。",
+      "sourceIds": [
+        "batch-c-2026-cpu-entry"
+      ]
+    }
+  ],
+  "limits": [
+    "新增计划不代表相应专业组资料全部完整。",
+    "未知组码、批次、再选要求或资格类别继续标缺，不用于强行匹配首轮分数。",
+    "征集剩余计划单独保存，只与同轮次投档组关联。",
+    "本次没有采集全省全部院校专业计划。"
+  ]
+}

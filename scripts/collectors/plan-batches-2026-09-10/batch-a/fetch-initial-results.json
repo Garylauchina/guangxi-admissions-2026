@@ -1,0 +1,622 @@
+[
+  {
+    "id": "glut_plan",
+    "url": "https://zscx.glut.edu.cn/f/listPlan",
+    "finalUrl": "https://zscx.glut.edu.cn/f/listPlan",
+    "request": {
+      "year": "2026",
+      "area": "广西",
+      "pageNo": 1,
+      "pageSize": 1000
+    },
+    "accessedAt": "2026-09-10T07:09:07.382072+00:00",
+    "sha256": "efb72f04a216049418e4c275b50de0cf8d25ce94223c5f98816d5b0c3b144d08",
+    "rawFile": "raw/glut_plan.html",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "form"
+  },
+  {
+    "id": "guet_ethnic",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E6%B0%91%E6%97%8F%E7%8F%AD",
+    "finalUrl": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E6%B0%91%E6%97%8F%E7%8F%AD",
+    "request": {},
+    "accessedAt": "2026-09-10T07:09:07.580067+00:00",
+    "sha256": "11452e05a13329b75039a70298679749fcbfe011de493be6d861beb2d0db9a42",
+    "rawFile": "raw/guet_ethnic.html",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "form"
+  },
+  {
+    "id": "guet_joint",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E4%B8%AD%E5%A4%96%E5%90%88%E4%BD%9C%E5%8A%9E%E5%AD%A6",
+    "finalUrl": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E4%B8%AD%E5%A4%96%E5%90%88%E4%BD%9C%E5%8A%9E%E5%AD%A6",
+    "request": {},
+    "accessedAt": "2026-09-10T07:09:07.466326+00:00",
+    "sha256": "6ce93784910d608f9b9bf7ece0f5f7f2bba90af956195e900eb6bbaa7d405020",
+    "rawFile": "raw/guet_joint.html",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "form"
+  },
+  {
+    "id": "guet_local",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E5%9C%B0%E6%96%B9%E4%B8%93%E9%A1%B9",
+    "finalUrl": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E5%9C%B0%E6%96%B9%E4%B8%93%E9%A1%B9",
+    "request": {},
+    "accessedAt": "2026-09-10T07:09:07.518169+00:00",
+    "sha256": "721bd2db3bd4bac2e5541048c5c43e1b7d57a69b9dd627d4c23244dd94fee6ee",
+    "rawFile": "raw/guet_local.html",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "form"
+  },
+  {
+    "id": "guet_national",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E5%9B%BD%E5%AE%B6%E4%B8%93%E9%A1%B9",
+    "finalUrl": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E5%9B%BD%E5%AE%B6%E4%B8%93%E9%A1%B9",
+    "request": {},
+    "accessedAt": "2026-09-10T07:09:07.423944+00:00",
+    "sha256": "3b2a600fbdbb2c31fdc334a57a72d7978ca14b19ae8f2a24a87cbadac780c89e",
+    "rawFile": "raw/guet_national.html",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "form"
+  },
+  {
+    "id": "guet_plan",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E6%99%AE%E9%80%9A%E7%B1%BB",
+    "finalUrl": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E6%99%AE%E9%80%9A%E7%B1%BB",
+    "request": {},
+    "accessedAt": "2026-09-10T07:09:07.382676+00:00",
+    "sha256": "10f0049e55362f75ad38becef1213fdd6af43e33beaa8a13fc6743940a4240e5",
+    "rawFile": "raw/guet_plan.html",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "form"
+  },
+  {
+    "id": "guet_preparatory",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E9%A2%84%E7%A7%91%E7%8F%AD",
+    "finalUrl": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E9%A2%84%E7%A7%91%E7%8F%AD",
+    "request": {},
+    "accessedAt": "2026-09-10T07:09:07.680351+00:00",
+    "sha256": "e0c183a5c21e7ef863c1bc3ee1d1207babc70f3193d7bcca6278f560c82d0b06",
+    "rawFile": "raw/guet_preparatory.html",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "form"
+  },
+  {
+    "id": "gxmu_plan_0",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=338bb03bdb48ee76c2fc176b",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=338bb03bdb48ee76c2fc176b",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        ""
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "level",
+        "major",
+        "subjects",
+        "educational_code",
+        "fee_standard",
+        "plan_type",
+        "jhsgf"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:07.713917+00:00",
+    "sha256": "b85af73999ed2791d8d615b0837179fe4c7ee715c2f6526b79392271e3c3b52b",
+    "rawFile": "raw/gxmu_plan_0.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxmu_plan_1",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=338bb03bdb48ee76c2fc176b",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=338bb03bdb48ee76c2fc176b",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        ""
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "level",
+        "major",
+        "subjects",
+        "educational_code",
+        "fee_standard",
+        "plan_type",
+        "jhsgf"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:07.811123+00:00",
+    "sha256": "16c0dd8a0446555f30fa8eef332a3035646062113500044e4914a29cfda540dd",
+    "rawFile": "raw/gxmu_plan_1.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxmzu_plan_0",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        "本科提前批其他一类"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "educational_code",
+        "fee_standard",
+        "sfksgf",
+        "wyyzgf",
+        "major_remark",
+        "subjects",
+        "plan_type",
+        "exam_type_name",
+        "kskmyqzwgf",
+        "plan_nature"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:08.018924+00:00",
+    "sha256": "2ac28aba50c3f8569b2f8c7ca308c19e8fd31273be55dda7c611967b30cdf1f4",
+    "rawFile": "raw/gxmzu_plan_0.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxmzu_plan_1",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "educational_code",
+        "fee_standard",
+        "sfksgf",
+        "wyyzgf",
+        "major_remark",
+        "subjects",
+        "plan_type",
+        "exam_type_name",
+        "kskmyqzwgf",
+        "plan_nature"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:08.188393+00:00",
+    "sha256": "64d5a0daeae32cd5d49f13b290858879fbad70bec5c16daee96f91dd7f34b7dd",
+    "rawFile": "raw/gxmzu_plan_1.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxmzu_plan_2",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        "本科提前批其他一类"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "educational_code",
+        "fee_standard",
+        "sfksgf",
+        "wyyzgf",
+        "major_remark",
+        "subjects",
+        "plan_type",
+        "exam_type_name",
+        "kskmyqzwgf",
+        "plan_nature"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:08.025797+00:00",
+    "sha256": "fe2617789f13882709313eb2c9645181215818b01fd1510d9e5697a3d853cccc",
+    "rawFile": "raw/gxmzu_plan_2.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxmzu_plan_3",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "educational_code",
+        "fee_standard",
+        "sfksgf",
+        "wyyzgf",
+        "major_remark",
+        "subjects",
+        "plan_type",
+        "exam_type_name",
+        "kskmyqzwgf",
+        "plan_nature"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:08.293520+00:00",
+    "sha256": "0671d74b1be52d742016a335cb3d94195027d9e5087a9b3e27f22ef1aee06b3d",
+    "rawFile": "raw/gxmzu_plan_3.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxnu_plan",
+    "url": "https://bkzs.gxnu.edu.cn/pg/jh/index.php?SSDM=45&NF=2026",
+    "finalUrl": "https://bkzs.gxnu.edu.cn/pg/jh/index.php?SSDM=45&NF=2026",
+    "request": null,
+    "accessedAt": "2026-09-10T07:09:07.905594+00:00",
+    "sha256": "0bffc0428a865d28e7362774a76d354af667a30073d658b0e9d621c88e267144",
+    "rawFile": "raw/gxnu_plan.html",
+    "status": 200,
+    "method": "GET",
+    "requestEncoding": null
+  },
+  {
+    "id": "gxu_plan_0",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=502eaa9010f49a5b1ca78afc",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=502eaa9010f49a5b1ca78afc",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "province_name",
+        "plan_type",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "fee_standard",
+        "major_remark",
+        "subjects",
+        "plan_nature",
+        "batch",
+        "exam_type_name",
+        "kskmyqzwgf"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:08.412266+00:00",
+    "sha256": "81e582b383bede04dd9219722c0bb51888aba3d23fb499618f1eac1c36fbab74",
+    "rawFile": "raw/gxu_plan_0.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxu_plan_1",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=502eaa9010f49a5b1ca78afc",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=502eaa9010f49a5b1ca78afc",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "province_name",
+        "plan_type",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "fee_standard",
+        "major_remark",
+        "subjects",
+        "plan_nature",
+        "batch",
+        "exam_type_name",
+        "kskmyqzwgf"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:08.587035+00:00",
+    "sha256": "4f7d8b40b2375167418733288413368f75b895fc9ad32326d2913e8fb7236849",
+    "rawFile": "raw/gxu_plan_1.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxufe_plan_0",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        "其他预科批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "kskmyqzwgf",
+        "wyyzgf",
+        "fee_standard",
+        "school_location",
+        "educational_code"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:08.607417+00:00",
+    "sha256": "3081b782427fd09e07bd6b706728936334a115da4b21582390e457d60b1e9163",
+    "rawFile": "raw/gxufe_plan_0.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxufe_plan_1",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "kskmyqzwgf",
+        "wyyzgf",
+        "fee_standard",
+        "school_location",
+        "educational_code"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:08.608077+00:00",
+    "sha256": "bd61eea0c7e854f533d6b94a3b0ab0c70e0e6788f680435483d3e444c70ae641",
+    "rawFile": "raw/gxufe_plan_1.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxufe_plan_2",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        "其他预科批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "kskmyqzwgf",
+        "wyyzgf",
+        "fee_standard",
+        "school_location",
+        "educational_code"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:08.674036+00:00",
+    "sha256": "79367e0e98698caeed231dd4efd36c0ff0c437270ed19449ec0ee187c2937bc2",
+    "rawFile": "raw/gxufe_plan_2.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "gxufe_plan_3",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "finalUrl": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "kskmyqzwgf",
+        "wyyzgf",
+        "fee_standard",
+        "school_location",
+        "educational_code"
+      ]
+    },
+    "accessedAt": "2026-09-10T07:09:08.843833+00:00",
+    "sha256": "6a13d9cb246052a44a38349419ec78a23050fa8f0a56a999d993c39b0793c77b",
+    "rawFile": "raw/gxufe_plan_3.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  },
+  {
+    "id": "nnnu_plan_all",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "finalUrl": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "request": {
+      "nf": "2026",
+      "sf": "广西",
+      "type": "zsjh",
+      "klmc": "全部",
+      "zslb": "全部",
+      "xqmc": ""
+    },
+    "accessedAt": "2026-09-10T07:09:08.689095+00:00",
+    "sha256": "aed4bc743efab3825cd2548010aec8e4bfd3af3309131ca18f6c1cc621661595",
+    "rawFile": "raw/nnnu_plan_all.json",
+    "status": 200,
+    "method": "POST",
+    "requestEncoding": "json"
+  }
+]

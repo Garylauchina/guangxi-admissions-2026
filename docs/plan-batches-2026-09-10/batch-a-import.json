@@ -1,0 +1,153 @@
+{
+  "batch": "batch-a",
+  "before": 1615,
+  "after": 1615,
+  "added": 0,
+  "updated": 11,
+  "catalogSchools": 18,
+  "changes": [
+    {
+      "id": "plan26-19cd266d2bb3c5ea",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    },
+    {
+      "id": "plan26-70066ae090e6944b",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    },
+    {
+      "id": "plan26-914b21876b4bb662",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    },
+    {
+      "id": "plan26-c1f42bf15199010e",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    },
+    {
+      "id": "plan26-49f9064f62fc1e4f",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    },
+    {
+      "id": "plan26-cdab4b016a57a35c",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    },
+    {
+      "id": "plan26-715e794eddee40e9",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    },
+    {
+      "id": "plan26-4fba860a00604532",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    },
+    {
+      "id": "plan26-bf3f1e1a972c5cee",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    },
+    {
+      "id": "plan26-fadfadf7a9dec164",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    },
+    {
+      "id": "plan26-b9e22d457f38517c",
+      "school": "广西民族大学",
+      "action": "update",
+      "fields": [
+        "category",
+        "fieldSourceIds",
+        "province",
+        "planStage",
+        "evidenceRound",
+        "initialPlanGroupVerified"
+      ]
+    }
+  ]
+}

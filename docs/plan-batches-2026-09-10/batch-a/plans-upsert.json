@@ -1,0 +1,327 @@
+[
+  {
+    "id": "plan26-19cd266d2bb3c5ea",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "金融学（中澳2+2学分互认联合培养项目）",
+    "majorCode": "24",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "plannedCount": 3,
+    "tuition": "5520",
+    "duration": "4",
+    "note": "只录取填报有专业志愿的考生，与澳大利亚麦考瑞大学2+2学分互认联合培养，第三、第四学年须出国学习，国外学费约40800-46900澳元/学年，报考前须查阅学校招生章程和项目招生简章；思源湖校区",
+    "sourceId": "plan26-gxmzu_plan_1",
+    "category": "学分互认联合培养项目",
+    "requirementText": "不提科目要求",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_1"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-70066ae090e6944b",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "金融学（中澳3+2学分互认联合培养项目）",
+    "majorCode": "25",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "plannedCount": 6,
+    "tuition": "5520",
+    "duration": "4",
+    "note": "只录取填报有专业志愿的考生，与澳大利亚麦考瑞大学3+2学分互认联合培养，第四、第五学年须出国学习，国外学费约40800-46900澳元/学年，报考前须查阅学校招生章程和项目招生简章；思源湖校区",
+    "sourceId": "plan26-gxmzu_plan_1",
+    "category": "学分互认联合培养项目",
+    "requirementText": "不提科目要求",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_1"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-914b21876b4bb662",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "国际经济与贸易（中澳3+2学分互认联合培养项目）",
+    "majorCode": "26",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "plannedCount": 3,
+    "tuition": "5520",
+    "duration": "4",
+    "note": "只录取填报有专业志愿的考生，与澳大利亚麦考瑞大学3+2学分互认联合培养，第四、第五学年须出国学习，国外学费约40800-46900澳元/学年，报考前须查阅学校招生章程和项目招生简章；思源湖校区",
+    "sourceId": "plan26-gxmzu_plan_1",
+    "category": "学分互认联合培养项目",
+    "requirementText": "不提科目要求",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_1"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-c1f42bf15199010e",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "翻译（中澳3+2学分互认联合培养项目）",
+    "majorCode": "86",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "plannedCount": 9,
+    "tuition": "5040",
+    "duration": "4",
+    "note": "要求英语口语测试成绩合格。大一新生安排在武鸣校区，大二搬回相思湖校区。只录取填报有专业志愿的考生，与澳大利亚麦考瑞大学3+2学分互认联合培养，第四、第五学年须出国学习，国外学费约40800-46900澳元/学年，报考前须查阅学校招生章程和项目招生简章；武鸣校区；英语",
+    "sourceId": "plan26-gxmzu_plan_1",
+    "category": "学分互认联合培养项目",
+    "requirementText": "不提科目要求",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_1"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-49f9064f62fc1e4f",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "金融学（中澳2+2学分互认联合培养项目）",
+    "majorCode": "24",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "plannedCount": 9,
+    "tuition": "5520",
+    "duration": "4",
+    "note": "只录取填报有专业志愿的考生，与澳大利亚麦考瑞大学2+2学分互认联合培养，第三、第四学年须出国学习，国外学费约40800-46900澳元/学年，报考前须查阅学校招生章程和项目招生简章；思源湖校区",
+    "sourceId": "plan26-gxmzu_plan_3",
+    "category": "学分互认联合培养项目",
+    "requirementText": "不提科目要求",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_3"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-cdab4b016a57a35c",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "金融学（中澳3+2学分互认联合培养项目）",
+    "majorCode": "25",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "plannedCount": 6,
+    "tuition": "5520",
+    "duration": "4",
+    "note": "只录取填报有专业志愿的考生，与澳大利亚麦考瑞大学3+2学分互认联合培养，第四、第五学年须出国学习，国外学费约40800-46900澳元/学年，报考前须查阅学校招生章程和项目招生简章；思源湖校区",
+    "sourceId": "plan26-gxmzu_plan_3",
+    "category": "学分互认联合培养项目",
+    "requirementText": "不提科目要求",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_3"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-715e794eddee40e9",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "国际经济与贸易（中澳3+2学分互认联合培养项目）",
+    "majorCode": "26",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "plannedCount": 6,
+    "tuition": "5520",
+    "duration": "4",
+    "note": "只录取填报有专业志愿的考生，与澳大利亚麦考瑞大学3+2学分互认联合培养，第四、第五学年须出国学习，国外学费约40800-46900澳元/学年，报考前须查阅学校招生章程和项目招生简章；思源湖校区",
+    "sourceId": "plan26-gxmzu_plan_3",
+    "category": "学分互认联合培养项目",
+    "requirementText": "不提科目要求",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_3"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-4fba860a00604532",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "翻译（中澳3+2学分互认联合培养项目）",
+    "majorCode": "86",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "plannedCount": 3,
+    "tuition": "5040",
+    "duration": "4",
+    "note": "要求英语口语测试成绩合格。大一新生安排在武鸣校区，大二搬回相思湖校区。只录取填报有专业志愿的考生，与澳大利亚麦考瑞大学3+2学分互认联合培养，第四、第五学年须出国学习，国外学费约40800-46900澳元/学年，报考前须查阅学校招生章程和项目招生简章；武鸣校区；英语",
+    "sourceId": "plan26-gxmzu_plan_3",
+    "category": "学分互认联合培养项目",
+    "requirementText": "不提科目要求",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_3"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-bf3f1e1a972c5cee",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "化学工程与工艺（中澳2+2学分互认联合培养项目）",
+    "majorCode": "B9",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "plannedCount": 12,
+    "tuition": "5520",
+    "duration": "4",
+    "note": "不招色盲、色弱考生；只录取填报有专业志愿的考生,与澳大利亚昆士兰大学2+2学分互认联合培养，第三、第四学年须出国学习，国外学费约58056澳元/学年，报考前须查阅学校招生章程和项目招生简章；思源湖校区",
+    "sourceId": "plan26-gxmzu_plan_3",
+    "category": "学分互认联合培养项目",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_3"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-fadfadf7a9dec164",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "人工智能（中澳2+2学分互认联合培养项目）",
+    "majorCode": "D6",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "plannedCount": 12,
+    "tuition": "5520",
+    "duration": "4",
+    "note": "大一新生安排在武鸣校区，大二搬回相思湖校区。只录取填报有专业志愿的考生，与澳大利亚昆士兰大学2+2学分互认联合培养，第三、第四学年须出国学习，国外学费约58056澳元/学年，报考前须查阅学校招生章程和项目招生简章；武鸣校区",
+    "sourceId": "plan26-gxmzu_plan_3",
+    "category": "学分互认联合培养项目",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_3"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-b9e22d457f38517c",
+    "year": 2026,
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "电子信息工程（中澳3+2学分互认联合培养项目）",
+    "majorCode": "E6",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "plannedCount": 12,
+    "tuition": "5520",
+    "duration": "4",
+    "note": "大一新生安排在武鸣校区，大二搬回相思湖校区。只录取填报有专业志愿的考生，与澳大利亚麦考瑞大学3+2学分互认联合培养，第四、第五学年须出国学习，国外学费约40800-46900澳元/学年，报考前须查阅学校招生章程和项目招生简章；武鸣校区",
+    "sourceId": "plan26-gxmzu_plan_3",
+    "category": "学分互认联合培养项目",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "fieldSourceIds": {
+      "category": [
+        "batch-a-gxmzu_plan_3"
+      ]
+    },
+    "province": "广西",
+    "planStage": "initial",
+    "evidenceRound": "初始招生计划",
+    "initialPlanGroupVerified": false
+  }
+]

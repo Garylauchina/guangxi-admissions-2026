@@ -1,0 +1,178 @@
+[
+  {
+    "planId": "plan26-19cd266d2bb3c5ea",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_1",
+    "sourceRowId": "48562",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "金融学",
+      "exam_direction": "中澳2+2学分互认联合培养项目",
+      "subjects": "历史类",
+      "jhsgf": "3"
+    }
+  },
+  {
+    "planId": "plan26-70066ae090e6944b",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_1",
+    "sourceRowId": "48564",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "金融学",
+      "exam_direction": "中澳3+2学分互认联合培养项目",
+      "subjects": "历史类",
+      "jhsgf": "6"
+    }
+  },
+  {
+    "planId": "plan26-914b21876b4bb662",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_1",
+    "sourceRowId": "48566",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "国际经济与贸易",
+      "exam_direction": "中澳3+2学分互认联合培养项目",
+      "subjects": "历史类",
+      "jhsgf": "3"
+    }
+  },
+  {
+    "planId": "plan26-c1f42bf15199010e",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_1",
+    "sourceRowId": "48595",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "翻译",
+      "exam_direction": "中澳3+2学分互认联合培养项目",
+      "subjects": "历史类",
+      "jhsgf": "9"
+    }
+  },
+  {
+    "planId": "plan26-49f9064f62fc1e4f",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_3",
+    "sourceRowId": "48563",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "金融学",
+      "exam_direction": "中澳2+2学分互认联合培养项目",
+      "subjects": "物理类",
+      "jhsgf": "9"
+    }
+  },
+  {
+    "planId": "plan26-cdab4b016a57a35c",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_3",
+    "sourceRowId": "48565",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "金融学",
+      "exam_direction": "中澳3+2学分互认联合培养项目",
+      "subjects": "物理类",
+      "jhsgf": "6"
+    }
+  },
+  {
+    "planId": "plan26-715e794eddee40e9",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_3",
+    "sourceRowId": "48567",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "国际经济与贸易",
+      "exam_direction": "中澳3+2学分互认联合培养项目",
+      "subjects": "物理类",
+      "jhsgf": "6"
+    }
+  },
+  {
+    "planId": "plan26-4fba860a00604532",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_3",
+    "sourceRowId": "48596",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "翻译",
+      "exam_direction": "中澳3+2学分互认联合培养项目",
+      "subjects": "物理类",
+      "jhsgf": "3"
+    }
+  },
+  {
+    "planId": "plan26-bf3f1e1a972c5cee",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_3",
+    "sourceRowId": "48620",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "化学工程与工艺",
+      "exam_direction": "中澳2+2学分互认联合培养项目",
+      "subjects": "物理类",
+      "jhsgf": "12"
+    }
+  },
+  {
+    "planId": "plan26-fadfadf7a9dec164",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_3",
+    "sourceRowId": "48627",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "人工智能",
+      "exam_direction": "中澳2+2学分互认联合培养项目",
+      "subjects": "物理类",
+      "jhsgf": "12"
+    }
+  },
+  {
+    "planId": "plan26-b9e22d457f38517c",
+    "field": "category",
+    "old": "普通类",
+    "new": "学分互认联合培养项目",
+    "sourceId": "batch-a-gxmzu_plan_3",
+    "sourceRowId": "48633",
+    "sourceCells": {
+      "year": "2026",
+      "province_name": "广西",
+      "major": "电子信息工程",
+      "exam_direction": "中澳3+2学分互认联合培养项目",
+      "subjects": "物理类",
+      "jhsgf": "12"
+    }
+  }
+]

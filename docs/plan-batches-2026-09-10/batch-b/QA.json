@@ -1,0 +1,538 @@
+{
+  "checkedAt": "2026-09-10T07:16:55.491878+00:00",
+  "result": "PASS",
+  "records": 129,
+  "plannedCount": 10843,
+  "bySchool": {
+    "桂林航天工业学院": 58,
+    "右江民族医学院": 31,
+    "桂林医科大学": 40
+  },
+  "withExplicitGroup": 58,
+  "checks": [
+    {
+      "school": "桂林航天工业学院",
+      "records": 58,
+      "plannedCount": 4075,
+      "allGroups": {
+        "101组（501人）": 501,
+        "701组（20人）": 20,
+        "901组（30人）": 30,
+        "155组（238人）": 238,
+        "153组（342人）": 342,
+        "951组（20人）": 20,
+        "150组（2151人）": 2151,
+        "151组（274人）": 274,
+        "152组（363人）": 363,
+        "350组": 66,
+        "750组（20人）": 20,
+        "950组（50人）": 50,
+        "201组（123人）": 123,
+        "202组": 33,
+        "203组": 32,
+        "250组（124人）": 124,
+        "251组": 33,
+        "252组": 34,
+        "718组": 3,
+        "719组": 30,
+        "757组": 75,
+        "758组": 7,
+        "759组": 38
+      },
+      "publishedGroupTotalChecks": "PASS",
+      "selectedGroups": 12,
+      "samples": [
+        {
+          "id": "plan26-b-guat-plan-2-历史",
+          "year": 2026,
+          "province": "广西",
+          "planStage": "initial",
+          "school": "桂林航天工业学院",
+          "schoolCode": "11825",
+          "track": "历史",
+          "batch": "本科普通批",
+          "group": "101",
+          "major": "汉语国际教育",
+          "majorCode": null,
+          "plannedCount": 63,
+          "duration": null,
+          "tuition": null,
+          "requiredSubjects": [],
+          "subjectRule": "unknown",
+          "requirementText": "历史类",
+          "category": "普通类",
+          "sourceId": "batch-b-guat-plan",
+          "sourceRow": 2,
+          "note": "2026年广西招生计划表直接列明专业、专业组及计划数；学制和学费未列。",
+          "reviewedAt": "2026-09-10T07:16:55.491878+00:00"
+        },
+        {
+          "id": "plan26-b-guat-plan-31-物理",
+          "year": 2026,
+          "province": "广西",
+          "planStage": "initial",
+          "school": "桂林航天工业学院",
+          "schoolCode": "11825",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": "150",
+          "major": "车辆工程",
+          "majorCode": null,
+          "plannedCount": 130,
+          "duration": null,
+          "tuition": null,
+          "requiredSubjects": [
+            "化学"
+          ],
+          "subjectRule": "all",
+          "requirementText": "物理+化学",
+          "category": "普通类",
+          "sourceId": "batch-b-guat-plan",
+          "sourceRow": 31,
+          "note": "2026年广西招生计划表直接列明专业、专业组及计划数；学制和学费未列。",
+          "reviewedAt": "2026-09-10T07:16:55.491878+00:00"
+        },
+        {
+          "id": "plan26-b-guat-plan-59-物理",
+          "year": 2026,
+          "province": "广西",
+          "planStage": "initial",
+          "school": "桂林航天工业学院",
+          "schoolCode": "11825",
+          "track": "物理",
+          "batch": "本科普通批",
+          "group": "950",
+          "major": "物联网工程（精准专项）",
+          "majorCode": null,
+          "plannedCount": 10,
+          "duration": null,
+          "tuition": null,
+          "requiredSubjects": [
+            "化学"
+          ],
+          "subjectRule": "all",
+          "requirementText": "物理+化学",
+          "category": "精准专项",
+          "sourceId": "batch-b-guat-plan",
+          "sourceRow": 59,
+          "note": "2026年广西招生计划表直接列明专业、专业组及计划数；学制和学费未列。",
+          "reviewedAt": "2026-09-10T07:16:55.491878+00:00"
+        }
+      ]
+    },
+    {
+      "school": "右江民族医学院",
+      "records": 31,
+      "plannedCount": 2818,
+      "sourceGuangxiTotal": 2891,
+      "excludedMinoritySeats": 30,
+      "excludedDirectedSeats": 43,
+      "totalReconciliation": "PASS",
+      "samples": [
+        {
+          "id": "plan26-b-ymun-plan-3-物理",
+          "year": 2026,
+          "province": "广西",
+          "planStage": "initial",
+          "school": "右江民族医学院",
+          "schoolCode": "10599",
+          "track": "物理",
+          "batch": "本科（批次待核）",
+          "group": null,
+          "major": "临床医学",
+          "majorCode": null,
+          "plannedCount": 530,
+          "duration": "5",
+          "tuition": "5400",
+          "requiredSubjects": [],
+          "subjectRule": "unknown",
+          "requirementText": null,
+          "category": "未注明招生类别",
+          "sourceId": "batch-b-ymun-plan",
+          "sourceRow": 3,
+          "note": "直接采用2026分省表广西物理类人数；专业组和再选科目未列，批次与资格范围尚待核实。",
+          "reviewedAt": "2026-09-10T07:16:55.491878+00:00"
+        },
+        {
+          "id": "plan26-b-ymun-plan-17-物理",
+          "year": 2026,
+          "province": "广西",
+          "planStage": "initial",
+          "school": "右江民族医学院",
+          "schoolCode": "10599",
+          "track": "物理",
+          "batch": "本科（批次待核）",
+          "group": null,
+          "major": "中药学",
+          "majorCode": null,
+          "plannedCount": 111,
+          "duration": "4",
+          "tuition": "5400",
+          "requiredSubjects": [],
+          "subjectRule": "unknown",
+          "requirementText": null,
+          "category": "未注明招生类别",
+          "sourceId": "batch-b-ymun-plan",
+          "sourceRow": 17,
+          "note": "直接采用2026分省表广西物理类人数；专业组和再选科目未列，批次与资格范围尚待核实。",
+          "reviewedAt": "2026-09-10T07:16:55.491878+00:00"
+        },
+        {
+          "id": "plan26-b-ymun-plan-26-物理",
+          "year": 2026,
+          "province": "广西",
+          "planStage": "initial",
+          "school": "右江民族医学院",
+          "schoolCode": "10599",
+          "track": "物理",
+          "batch": "本科（批次待核）",
+          "group": null,
+          "major": "生物医药数据科学",
+          "majorCode": null,
+          "plannedCount": 57,
+          "duration": "4",
+          "tuition": null,
+          "requiredSubjects": [],
+          "subjectRule": "unknown",
+          "requirementText": null,
+          "category": "未注明招生类别",
+          "sourceId": "batch-b-ymun-plan",
+          "sourceRow": 26,
+          "note": "直接采用2026分省表广西物理类人数；专业组和再选科目未列，批次与资格范围尚待核实。源表学费列列5400元，但注释称正在申报、以最终批复为准，因此学费保留未确认。",
+          "reviewedAt": "2026-09-10T07:16:55.491878+00:00",
+          "sourceTuition": "5400"
+        }
+      ]
+    },
+    {
+      "school": "桂林医科大学",
+      "records": 40,
+      "plannedCount": 3950,
+      "sourceGuangxiTotal": 4008,
+      "excludedDirectedSeats": 58,
+      "preparatorySeparatelyExcluded": 202,
+      "totalReconciliation": "PASS",
+      "fullSourceVisualReview": "PASS",
+      "samples": [
+        {
+          "id": "plan26-b-glmu-plan-pdf-6-物理",
+          "year": 2026,
+          "province": "广西",
+          "planStage": "initial",
+          "school": "桂林医科大学",
+          "schoolCode": "10601",
+          "track": "物理",
+          "batch": "本科（批次待核）",
+          "group": null,
+          "major": "临床医学",
+          "majorCode": "100201",
+          "plannedCount": 914,
+          "duration": "5",
+          "tuition": "7500",
+          "requiredSubjects": [
+            "化学"
+          ],
+          "subjectRule": "all",
+          "requirementText": "物理+化学",
+          "category": "未注明招生类别",
+          "sourceId": "batch-b-glmu-plan-pdf",
+          "sourceRow": 6,
+          "note": "直接采用2026官方计划PDF广西列；原表未列专业组及录取批次，资格范围尚待核实。",
+          "reviewedAt": "2026-09-10T07:14:54.285439+00:00",
+          "sourcePage": 1
+        },
+        {
+          "id": "plan26-b-glmu-plan-pdf-26-历史",
+          "year": 2026,
+          "province": "广西",
+          "planStage": "initial",
+          "school": "桂林医科大学",
+          "schoolCode": "10601",
+          "track": "历史",
+          "batch": "本科（批次待核）",
+          "group": null,
+          "major": "社会工作（医学方向）",
+          "majorCode": "030302",
+          "plannedCount": 78,
+          "duration": "4",
+          "tuition": "5040",
+          "requiredSubjects": [],
+          "subjectRule": "none",
+          "requirementText": "历史",
+          "category": "未注明招生类别",
+          "sourceId": "batch-b-glmu-plan-pdf",
+          "sourceRow": 26,
+          "note": "直接采用2026官方计划PDF广西列；原表未列专业组及录取批次，资格范围尚待核实。",
+          "reviewedAt": "2026-09-10T07:14:54.285439+00:00",
+          "sourcePage": 1
+        },
+        {
+          "id": "plan26-b-glmu-plan-pdf-46-物理",
+          "year": 2026,
+          "province": "广西",
+          "planStage": "initial",
+          "school": "桂林医科大学",
+          "schoolCode": "10601",
+          "track": "物理",
+          "batch": "高职（批次待核）",
+          "group": null,
+          "major": "护理",
+          "majorCode": "520201",
+          "plannedCount": 160,
+          "duration": "3",
+          "tuition": "7500",
+          "requiredSubjects": [
+            "生物"
+          ],
+          "subjectRule": "all",
+          "requirementText": "物理+生物",
+          "category": "未注明招生类别",
+          "sourceId": "batch-b-glmu-plan-pdf",
+          "sourceRow": 46,
+          "note": "直接采用2026官方计划PDF广西列；原表未列专业组及录取批次，资格范围尚待核实。",
+          "reviewedAt": "2026-09-10T07:14:54.285439+00:00",
+          "sourcePage": 1
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 60,
+      "sourceCells": [
+        "201组（123人）",
+        "艺术(历史类)",
+        "视觉传达设计",
+        "41"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 61,
+      "sourceCells": [
+        "201组（123人）",
+        "艺术(历史类)",
+        "产品设计",
+        "41"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 62,
+      "sourceCells": [
+        "201组（123人）",
+        "艺术(历史类)",
+        "数字媒体艺术",
+        "41"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 63,
+      "sourceCells": [
+        "202组",
+        "艺术(历史类)",
+        "播音与主持艺术",
+        "33"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 64,
+      "sourceCells": [
+        "203组",
+        "艺术(历史类)",
+        "航空服务艺术与管理",
+        "32"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 65,
+      "sourceCells": [
+        "250组（124人）",
+        "艺术(物理类)",
+        "视觉传达设计",
+        "41"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 66,
+      "sourceCells": [
+        "250组（124人）",
+        "艺术(物理类)",
+        "产品设计",
+        "41"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 67,
+      "sourceCells": [
+        "250组（124人）",
+        "艺术(物理类)",
+        "数字媒体艺术",
+        "42"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 68,
+      "sourceCells": [
+        "251组",
+        "艺术(物理类)",
+        "播音与主持艺术",
+        "33"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 69,
+      "sourceCells": [
+        "252组",
+        "艺术(物理类)",
+        "航空服务艺术与管理",
+        "34"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 70,
+      "sourceCells": [
+        "718组",
+        "历史类",
+        "免费少数民族预科班",
+        "3"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 71,
+      "sourceCells": [
+        "719组",
+        "历史类",
+        "少数民族预科班",
+        "30"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 72,
+      "sourceCells": [
+        "757组",
+        "物理+化学",
+        "少数民族预科班",
+        "75"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 73,
+      "sourceCells": [
+        "758组",
+        "物理+不限",
+        "免费少数民族预科班",
+        "7"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-guat-plan",
+      "sourceRow": 74,
+      "sourceCells": [
+        "759组",
+        "物理+不限",
+        "少数民族预科班",
+        "38"
+      ],
+      "reason": "艺术或预科不纳入普通类本科计划"
+    },
+    {
+      "sourceId": "batch-b-ymun-plan",
+      "sourceRow": 4,
+      "sourceCells": [
+        "2",
+        "临床医学（免费医学定向生）",
+        "本科",
+        "5",
+        "医学",
+        "免费",
+        "43",
+        "43",
+        "43",
+        "",
+        "",
+        ""
+      ],
+      "reason": "免费医学定向43人，子计划地区/组码/批次未核对，另留缺口"
+    },
+    {
+      "sourceId": "batch-b-ymun-plan",
+      "sourceRow": 5,
+      "major": "康复治疗学",
+      "plannedCount": 6,
+      "reason": "民族班单列人数未拆物理/历史，不按学科常识推定科类"
+    },
+    {
+      "sourceId": "batch-b-ymun-plan",
+      "sourceRow": 9,
+      "major": "医学影像技术",
+      "plannedCount": 6,
+      "reason": "民族班单列人数未拆物理/历史，不按学科常识推定科类"
+    },
+    {
+      "sourceId": "batch-b-ymun-plan",
+      "sourceRow": 10,
+      "major": "医学检验技术",
+      "plannedCount": 6,
+      "reason": "民族班单列人数未拆物理/历史，不按学科常识推定科类"
+    },
+    {
+      "sourceId": "batch-b-ymun-plan",
+      "sourceRow": 14,
+      "major": "护理学",
+      "plannedCount": 6,
+      "reason": "民族班单列人数未拆物理/历史，不按学科常识推定科类"
+    },
+    {
+      "sourceId": "batch-b-ymun-plan",
+      "sourceRow": 18,
+      "major": "预防医学",
+      "plannedCount": 6,
+      "reason": "民族班单列人数未拆物理/历史，不按学科常识推定科类"
+    },
+    {
+      "sourceId": "batch-b-glmu-plan-pdf",
+      "sourcePage": 1,
+      "sourceRow": 5,
+      "major": "临床医学（农村订单定向免费医学生）",
+      "plannedCount": 58,
+      "reason": "定向58人需进一步地区/组码/批次证据，本批不入"
+    },
+    {
+      "sourceId": "batch-b-glmu-plan-pdf",
+      "sourcePage": 2,
+      "plannedCount": 202,
+      "reason": "第二页全部预科，本批排除"
+    }
+  ],
+  "limitations": [
+    "只入直接广西列且明确初始计划；无征集混入。",
+    "未公布组码不推断；未拆科类人数不按学科常识分配。"
+  ]
+}

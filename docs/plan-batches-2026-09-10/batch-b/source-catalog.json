@@ -1,0 +1,79 @@
+[
+  {
+    "schoolCode": "11825",
+    "school": "桂林航天工业学院",
+    "year": 2026,
+    "status": "collected",
+    "sourceIds": [
+      "batch-b-guat-plan"
+    ],
+    "checkedAt": "2026-09-10T07:16:55.491878+00:00",
+    "note": "已采集原表全部58条普通类本科计划，含按原名标识的民族班、精准专项、合作；全部12个组码直接取原表。",
+    "entryUrl": "https://zsw.guat.edu.cn/info/1020/1990.htm",
+    "coverage": "complete-for-source-ordinary-plans",
+    "recordCount": 58
+  },
+  {
+    "schoolCode": "10599",
+    "school": "右江民族医学院",
+    "year": 2026,
+    "status": "collected",
+    "sourceIds": [
+      "batch-b-ymun-plan"
+    ],
+    "checkedAt": "2026-09-10T07:16:55.491878+00:00",
+    "note": "采集直接广西物理/历史31条2818人；组码未列，批次和资格范围待核，未标为普通批普通类。原广西2891人中的民族班30人科类未拆、定向43人地区子计划未核，本批排除。",
+    "entryUrl": "https://yyzs.ymun.edu.cn/info/1046/1537.htm",
+    "coverage": "partial",
+    "recordCount": 31
+  },
+  {
+    "schoolCode": "10594",
+    "school": "广西科技大学",
+    "year": 2026,
+    "status": "source-found",
+    "sourceIds": [
+      "batch-b-gxust_plan",
+      "batch-b-gxust_groups",
+      "batch-b-gxust_plan_pdf",
+      "batch-b-gxust_groups_pdf",
+      "batch-b-gxust_query_data"
+    ],
+    "checkedAt": "2026-09-10T07:16:55.491878+00:00",
+    "note": "已取得本年分省专业人数与专业组设置，但人数未拆历史/物理及资格类别，不能硬拼到普通组；公开2026广西查询返回空。",
+    "entryUrl": "https://www.gxust.edu.cn/zsw/info/1018/2194.htm",
+    "coverage": "partial",
+    "recordCount": 0
+  },
+  {
+    "schoolCode": "14684",
+    "school": "广西职业师范学院",
+    "year": 2026,
+    "status": "source-found",
+    "sourceIds": [
+      "batch-b-gxvnu-plan",
+      "batch-b-gxvnu-plan-outside",
+      "batch-b-gxvnu-charter"
+    ],
+    "checkedAt": "2026-09-10T07:16:55.491878+00:00",
+    "note": "本年官方章程明确学校标识码4145014684；末五位14684与本项目已核验考试院学校表一致。已取得全国总表及六省160人外省表，未取得直接广西逐专业逐科类表。本批不采纳总表减外省的推导人数。",
+    "entryUrl": "https://zsb.gxvnu.edu.cn/info/1093/2331.htm",
+    "coverage": "partial",
+    "recordCount": 0
+  },
+  {
+    "schoolCode": "10601",
+    "school": "桂林医科大学",
+    "year": 2026,
+    "status": "collected",
+    "sourceIds": [
+      "batch-b-glmu-plan",
+      "batch-b-glmu-plan-pdf"
+    ],
+    "checkedAt": "2026-09-10T07:14:54.285674+00:00",
+    "recordCount": 40,
+    "coverage": "partial",
+    "entryUrl": "https://jyw.glmu.edu.cn/zhaosheng/school!articleDetail.htm?recruitArticle.searchArticleId=148",
+    "note": "直接广西列40条3950人；本专科4008人中另排定向58人，第二页预科202另排。全部组码/具体批次未列，未注明资格类别行保持待核；明确民族班和中澳项目单列。"
+  }
+]

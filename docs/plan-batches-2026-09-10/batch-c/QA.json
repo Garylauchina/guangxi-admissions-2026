@@ -1,0 +1,156 @@
+{
+  "checkedAt": "2026-09-10",
+  "status": "PASS",
+  "rows": 56,
+  "seats": 184,
+  "groups": {
+    "2026|10559|暨南大学|历史|本科普通批|101": {
+      "rows": 4,
+      "seats": 8
+    },
+    "2026|10559|暨南大学|历史|本科普通批|102": {
+      "rows": 5,
+      "seats": 13
+    },
+    "2026|10559|暨南大学|物理|本科普通批|103": {
+      "rows": 3,
+      "seats": 7
+    },
+    "2026|10559|暨南大学|物理|本科普通批|104": {
+      "rows": 4,
+      "seats": 9
+    },
+    "2026|10559|暨南大学|物理|本科普通批|105": {
+      "rows": 3,
+      "seats": 9
+    },
+    "2026|10559|暨南大学|物理|本科普通批|106": {
+      "rows": 4,
+      "seats": 12
+    },
+    "2026|10559|暨南大学|物理|本科普通批|107": {
+      "rows": 6,
+      "seats": 25
+    },
+    "2026|10559|暨南大学|物理|本科普通批|108": {
+      "rows": 3,
+      "seats": 9
+    },
+    "2026|10559|暨南大学|物理|本科普通批|109": {
+      "rows": 2,
+      "seats": 5
+    },
+    "2026|10559|暨南大学|历史|本科普通批|501": {
+      "rows": 3,
+      "seats": 6
+    },
+    "2026|10559|暨南大学|历史|本科普通批|502": {
+      "rows": 1,
+      "seats": 2
+    },
+    "2026|10559|暨南大学|物理|本科普通批|503": {
+      "rows": 1,
+      "seats": 4
+    },
+    "2026|11785|江西职业技术大学|历史|本科普通批|101": {
+      "rows": 2,
+      "seats": 10
+    },
+    "2026|11785|江西职业技术大学|物理|本科普通批|151": {
+      "rows": 15,
+      "seats": 65
+    }
+  },
+  "checks": [
+    {
+      "name": "56 rows, 184 seats, 2 schools",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "Unique row IDs",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "No collisions with other source collections",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "Year province and initial stage explicit",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "Only valid initial undergraduate tracks and positive counts",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "All 56 rows map to exact existing first-round identity",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "14 exact official Guangxi groups",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "Sources resolve",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "JNU ordinary 97 and national 12",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "JNU art rows excluded exactly 4 seats",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "JNU national nursing restriction retained",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "JXPU 17 rows 75 seats and unlisted electives unknown",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "All public plan tuition and durations preserved",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "Search-only Huzhou not imported",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "Catalog status vocabulary",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "jnu downloaded evidence SHA256",
+      "pass_": true,
+      "detail": null
+    },
+    {
+      "name": "jxpu downloaded evidence SHA256",
+      "pass_": true,
+      "detail": null
+    }
+  ],
+  "limitations": [
+    "江西职业技术大学原计划没有再选科目要求，17条保持unknown。",
+    "湖州16条仅官方搜索返回完整段，原页直读失败，移出正式新增计划。",
+    "高校公布的初始计划仍以广西招生部门最终公布及调整为准。"
+  ]
+}

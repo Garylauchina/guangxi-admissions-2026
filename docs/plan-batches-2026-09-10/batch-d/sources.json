@@ -1,0 +1,50 @@
+[
+  {
+    "id": "batch-d-2026-csu",
+    "title": "中南大学2026年广西普通类物理科初始招生计划（官方公开查询）",
+    "url": "https://zhaosheng.csu.edu.cn/a26jhyl/jh_bk.htm",
+    "apiUrl": "https://job-web-api.jobpi.cn/enroll/3605?sch_school_id=21393&page=1&page_size=9999&filter_column=%7B%22A%22%3A+2026%2C+%22B%22%3A+%22%E5%B9%BF%E8%A5%BF%22%2C+%22C%22%3A+%22%E7%89%A9%E7%90%86%E7%B1%BB%22%7D",
+    "publisher": "中南大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-10",
+    "sha256": "77daccf8a577b35cd49e207907a140bbb64996f59e6e7f1d251400e2388d11da",
+    "recordCount": 26,
+    "method": "官网当前脚本声明job-web-api.jobpi.cn、sch_school_id=21393、App.init(3605)；按公开查询筛选2026/广西/物理类，26条列表与6组汇总321人闭合。",
+    "notes": [
+      "本批仅采物理类；未宣称覆盖历史类或学校全部招生类型。",
+      "只有校内组名称，group保持null，不自动匹配首轮投档线。"
+    ]
+  },
+  {
+    "id": "batch-d-2026-scut",
+    "title": "华南理工大学2026年广西普通类物理科初始招生计划（官方公开查询）",
+    "url": "https://admission.scut.edu.cn/30820/list.htm",
+    "apiUrl": "https://admission.scut.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/24.rst?_p=YXM9MzQ4JnQ9MzM1MSZwPTEmbT1OJg__&mobileTemplate=false&cq24s220=%25E5%25B9%25BF%25E8%25A5%25BF&cq24s221=2026&cq24s222=%25E7%2590%2586%25E5%25B7%25A5%252F%25E7%2589%25A9%25E7%2590%2586%25E7%25B1%25BB&cq24s223=%25E6%2599%25AE%25E9%2580%259A%25E7%25B1%25BB",
+    "publisher": "华南理工大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-10",
+    "sha256": "8a70e1e5036e2fac0a79f1596ce50a1bb52b401b8e09d844b462fa85ac5d8694",
+    "recordCount": 23,
+    "method": "使用官网公开查询空体POST；查询条件固定2026/广西/理工物理类/普通类，当前返回HTML表23条。",
+    "notes": [
+      "本批仅采物理类；未宣称覆盖历史类或学校全部招生类型。",
+      "只有校内组名称，group保持null，不自动匹配首轮投档线。"
+    ]
+  },
+  {
+    "id": "batch-d-2026-gx-identity",
+    "title": "广西2026本科普通批首轮物理类院校身份及批次核对",
+    "url": "https://www.gxeea.cn/view/content_624_33107.htm",
+    "publisher": "广西招生考试院",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": "2026-07-18",
+    "accessedAt": "2026-09-10",
+    "recordCount": 0,
+    "method": "只核对10533中南大学、10561华南理工大学及本科普通批身份，不以投档人数产生初始计划，不据此映射组码。"
+  }
+]

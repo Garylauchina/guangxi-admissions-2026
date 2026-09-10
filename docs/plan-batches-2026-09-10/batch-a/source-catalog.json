@@ -1,0 +1,136 @@
+[
+  {
+    "schoolCode": "10593",
+    "school": "广西大学",
+    "year": 2026,
+    "status": "collected",
+    "sourceKind": "本年初始招生计划",
+    "sourceIds": [
+      "batch-a-gxu_plan_0",
+      "batch-a-gxu_plan_1"
+    ],
+    "checkedAt": "2026-09-10T07:13:34.919029+00:00",
+    "planRowsInCurrentSite": 130,
+    "initialGroupsKnown": 0,
+    "note": "2026年广西公开初始计划已采集并重新读取，共130条已采集记录。已采集计划来源没有可用的广西三位专业组字段；初始组码仍缺直接证据。",
+    "entryUrl": "https://zhaolu.zjzw.cn/release-page/plan?key=502eaa9010f49a5b1ca78afc"
+  },
+  {
+    "schoolCode": "10602",
+    "school": "广西师范大学",
+    "year": 2026,
+    "status": "collected",
+    "sourceKind": "本年初始招生计划",
+    "sourceIds": [
+      "batch-a-gxnu_plan"
+    ],
+    "checkedAt": "2026-09-10T07:13:34.919029+00:00",
+    "planRowsInCurrentSite": 154,
+    "initialGroupsKnown": 0,
+    "note": "2026年广西公开初始计划已采集并重新读取，共154条已采集记录。已采集计划来源没有可用的广西三位专业组字段；初始组码仍缺直接证据。",
+    "entryUrl": "https://bkzs.gxnu.edu.cn/pg/jh/index.php?SSDM=45&NF=2026"
+  },
+  {
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "year": 2026,
+    "status": "collected",
+    "sourceKind": "本年初始招生计划",
+    "sourceIds": [
+      "batch-a-nnnu_plan_all"
+    ],
+    "checkedAt": "2026-09-10T07:13:34.919029+00:00",
+    "planRowsInCurrentSite": 166,
+    "initialGroupsKnown": 0,
+    "note": "2026年广西公开初始计划已采集并重新读取，共166条已采集记录。已采集计划来源没有可用的广西三位专业组字段；初始组码仍缺直接证据。",
+    "entryUrl": "https://zsw.nnnu.edu.cn/zsdata/lqxx/#/"
+  },
+  {
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "year": 2026,
+    "status": "collected",
+    "sourceKind": "本年初始招生计划",
+    "sourceIds": [
+      "batch-a-gxmzu_plan_0",
+      "batch-a-gxmzu_plan_1",
+      "batch-a-gxmzu_plan_2",
+      "batch-a-gxmzu_plan_3",
+      "batch-a-gxmzu-bkguide",
+      "batch-a-gxmzu-zsguide"
+    ],
+    "checkedAt": "2026-09-10T07:13:34.919029+00:00",
+    "planRowsInCurrentSite": 156,
+    "initialGroupsKnown": 0,
+    "note": "2026年广西公开初始计划已采集并重新读取，共156条已采集记录。已采集计划来源没有可用的广西三位专业组字段；初始组码仍缺直接证据。官网另链接2026报考指南和招生指南；报考指南计划总表含预科直升口径，未用于补组。11条中澳学分互认项目由初始API修类别。",
+    "entryUrl": "https://zhaolu.zjzw.cn/release-page/Plan?key=15f4609edee13b448a3a3224"
+  },
+  {
+    "schoolCode": "10598",
+    "school": "广西医科大学",
+    "year": 2026,
+    "status": "collected",
+    "sourceKind": "本年初始招生计划",
+    "sourceIds": [
+      "batch-a-gxmu_plan_0",
+      "batch-a-gxmu_plan_1"
+    ],
+    "checkedAt": "2026-09-10T07:13:34.919029+00:00",
+    "planRowsInCurrentSite": 76,
+    "initialGroupsKnown": 0,
+    "note": "2026年广西公开初始计划已采集并重新读取，共76条已采集记录。已采集计划来源没有可用的广西三位专业组字段；初始组码仍缺直接证据。",
+    "entryUrl": "https://zhaolu.zjzw.cn/release-page/plan?key=338bb03bdb48ee76c2fc176b"
+  },
+  {
+    "schoolCode": "10595",
+    "school": "桂林电子科技大学",
+    "year": 2026,
+    "status": "collected",
+    "sourceKind": "本年初始招生计划",
+    "sourceIds": [
+      "batch-a-guet_ethnic",
+      "batch-a-guet_joint",
+      "batch-a-guet_local",
+      "batch-a-guet_national",
+      "batch-a-guet_plan",
+      "batch-a-guet_preparatory"
+    ],
+    "checkedAt": "2026-09-10T07:13:34.919029+00:00",
+    "planRowsInCurrentSite": 135,
+    "initialGroupsKnown": 135,
+    "note": "2026年广西公开初始计划已采集并重新读取，共135条已采集记录。学校原公开计划已列专业组；初始组码与后续征集独立保存。"
+  },
+  {
+    "schoolCode": "10596",
+    "school": "桂林理工大学",
+    "year": 2026,
+    "status": "collected",
+    "sourceKind": "本年初始招生计划",
+    "sourceIds": [
+      "batch-a-glut_plan"
+    ],
+    "checkedAt": "2026-09-10T07:13:34.919029+00:00",
+    "planRowsInCurrentSite": 158,
+    "initialGroupsKnown": 158,
+    "note": "2026年广西公开初始计划已采集并重新读取，共158条已采集记录。学校原公开计划已列专业组；初始组码与后续征集独立保存。材料化冶金应用技术初始181与第一次征集182存在差异，禁止自动跨轮次匹配。",
+    "entryUrl": "https://zscx.glut.edu.cn/f/listPlan"
+  },
+  {
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "year": 2026,
+    "status": "collected",
+    "sourceKind": "本年初始招生计划",
+    "sourceIds": [
+      "batch-a-gxufe_plan_0",
+      "batch-a-gxufe_plan_1",
+      "batch-a-gxufe_plan_2",
+      "batch-a-gxufe_plan_3"
+    ],
+    "checkedAt": "2026-09-10T07:13:34.919029+00:00",
+    "planRowsInCurrentSite": 121,
+    "initialGroupsKnown": 0,
+    "note": "2026年广西公开初始计划已采集并重新读取，共121条已采集记录。已采集计划来源没有可用的广西三位专业组字段；初始组码仍缺直接证据。",
+    "entryUrl": "https://www.gxufe.edu.cn/www/subWebSites/zsxx/index.html"
+  }
+]

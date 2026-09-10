@@ -1,0 +1,74 @@
+{
+  "status": "PASS",
+  "checkedAt": "2026-09-10",
+  "rows": 49,
+  "seats": 531,
+  "checks": [
+    {
+      "name": "49 initial 2026 Guangxi physics rows / 531 seats",
+      "passed": true
+    },
+    {
+      "name": "All missing Guangxi group codes remain null",
+      "passed": true
+    },
+    {
+      "name": "Unique records; no collision with prior batch C",
+      "passed": true
+    },
+    {
+      "name": "No arts sports supplementary preparatory rows",
+      "passed": true
+    },
+    {
+      "name": "CSU rows and aggregate source counts agree",
+      "passed": true
+    },
+    {
+      "name": "SCUT source has 23 rows / 210 seats",
+      "passed": true
+    },
+    {
+      "name": "CSU cooperation explicitly marked 3 rows 3 seats",
+      "passed": true
+    },
+    {
+      "name": "Source links resolve including identity fields",
+      "passed": true
+    },
+    {
+      "name": "Missing tuition never guessed",
+      "passed": true
+    },
+    {
+      "name": "CSU clinical biology requirements retained",
+      "passed": true
+    },
+    {
+      "name": "SCUT explicit no-elective group retained",
+      "passed": true
+    },
+    {
+      "name": "CSU every original remark and direction retained",
+      "passed": true
+    },
+    {
+      "name": "csu evidence hash matches",
+      "passed": true
+    },
+    {
+      "name": "scut evidence hash matches",
+      "passed": true
+    },
+    {
+      "name": "CSU current official page publicly configures API",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "49条group=null，不能据校内组名称匹配广西首轮分数。",
+    "仅物理类普通招生查询；不等于两校全部广西计划。",
+    "学费未列，全部null；中南中外合作3条显式标记。",
+    "未将大类分流专业拆成独立招生名额。"
+  ]
+}

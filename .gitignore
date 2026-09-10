@@ -19,3 +19,13 @@ scripts/collectors/**/coverage.json
 scripts/collectors/**/validation.json
 scripts/collectors/**/QA.json
 scripts/collectors/**/supplement-*.json
+
+scripts/collectors/plan-batches-2026-09-10/**/raw/
+scripts/collectors/plan-batches-2026-09-10/**/evidence/
+scripts/collectors/plan-batches-2026-09-10/**/plans-upsert.json
+scripts/collectors/plan-batches-2026-09-10/**/source-catalog.json
+scripts/collectors/plan-batches-2026-09-10/**/excluded-rows.json
+scripts/collectors/plan-batches-2026-09-10/**/pending-*.json
+scripts/collectors/plan-batches-2026-09-10/**/supplementary-plans.json
+scripts/collectors/plan-batches-2026-09-10/**/cross-round-conflicts.json
+scripts/collectors/plan-batches-2026-09-10/**/field-changes.json

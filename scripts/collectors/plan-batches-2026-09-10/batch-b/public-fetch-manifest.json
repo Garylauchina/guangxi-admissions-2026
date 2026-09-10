@@ -1,0 +1,101 @@
+[
+  {
+    "id": "guat-plan",
+    "url": "https://zsw.guat.edu.cn/info/1020/1990.htm",
+    "expectedSha256": "3a184402513d059b928bf26cfe9ebf5518fb3b6a13068f77bec17a82b4ab22c3"
+  },
+  {
+    "id": "ymun-plan",
+    "url": "https://yyzs.ymun.edu.cn/info/1046/1537.htm",
+    "expectedSha256": "b4de1eac44153e37f4e019f0a498896c5a382bcf8ca7e8a5d9217f3ca6a53d7e"
+  },
+  {
+    "id": "gxust_plan",
+    "url": "https://www.gxust.edu.cn/zsw/info/1018/2194.htm",
+    "request": null,
+    "requestEncoding": null,
+    "expectedSha256": "cf1b78eb7d3cde09fd47e363b0170ef688dbd9714216c40f8805cdb5fd00d9e1"
+  },
+  {
+    "id": "gxust_groups",
+    "url": "https://www.gxust.edu.cn/zsw/info/1015/2190.htm",
+    "request": null,
+    "requestEncoding": null,
+    "expectedSha256": "898c369c37b09ec9bf56bc97cf1b089ba9b6b0aea0026e4d026a610c1063c9b0"
+  },
+  {
+    "id": "gxust_plan_pdf",
+    "url": "https://www.gxust.edu.cn/__local/5/97/82/997B9E1EA9E6445FC596205466C_D956A348_159B9.pdf",
+    "request": null,
+    "requestEncoding": null,
+    "ext": "pdf",
+    "expectedSha256": "c7f27ebcfd7b4533837b3af33656298d14533110fa8c0b4d1acc1284479c189b"
+  },
+  {
+    "id": "gxust_groups_pdf",
+    "url": "https://www.gxust.edu.cn/__local/5/7C/7E/D7AB95153FF157DC8EC38E4E8AA_111A29F0_15203.pdf",
+    "request": null,
+    "requestEncoding": null,
+    "ext": "pdf",
+    "expectedSha256": "13b36ea19bb3e74e9b6950aa666a27708076caaa260822379b75a9cd9828cc87"
+  },
+  {
+    "id": "gxust_query_data",
+    "url": "https://www.gxust.edu.cn/system/resource/zsw/zsjh.jsp",
+    "request": {
+      "owner": 1517425587,
+      "tempid": 3,
+      "province": "5bm/6KW/",
+      "year": "2026"
+    },
+    "requestEncoding": "form",
+    "ext": "json",
+    "expectedSha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "id": "gxvnu-plan",
+    "url": "https://zsb.gxvnu.edu.cn/info/1093/2331.htm",
+    "expectedSha256": "f0218ce076ae15844bb8f9e767c5a947a3be6c9d63442aaa4de0c7571a5dfd25"
+  },
+  {
+    "id": "gxvnu-plan-outside",
+    "url": "https://zsb.gxvnu.edu.cn/info/1093/2332.htm",
+    "expectedSha256": "d962a48736cd5be4cfd9f2cff22d3b1a9a1f3f9321e0d7b140729dd4ac3d655c"
+  },
+  {
+    "id": "gxvnu-charter",
+    "url": "https://zsb.gxvnu.edu.cn/info/1093/2310.htm",
+    "expectedSha256": "54c2708f348aee7853dc444b771d02a9d380139a78cf9bc64d02cb0eb573791a"
+  },
+  {
+    "id": "glmu-zs-home",
+    "url": "https://jyw.glmu.edu.cn/zhaosheng/school!homeIndex.htm",
+    "expectedSha256": "99025d9f826a26f2ad0e5b6e89259031f0a75e1d339fd4872e0240c9e9577f98"
+  },
+  {
+    "id": "glmu-plan-index",
+    "url": "https://jyw.glmu.edu.cn/zhaosheng/school!articleList.htm?recruitArticle.searchArticleType=1",
+    "expectedSha256": "c3b15e8c05e2ea0f71c36997eaceeb1353373e684ca08804e419c21e7580e664"
+  },
+  {
+    "id": "glmu-plan-list",
+    "url": "https://jyw.glmu.edu.cn/zhaosheng/school!articleList.htm",
+    "request": {
+      "flag": "win",
+      "recruitArticle.searchArticleType": "1"
+    },
+    "requestEncoding": "form",
+    "expectedSha256": "2682d23f81806f3070ee6f804031fa4cd2de71f29e9eb93346f9acac52eda4af"
+  },
+  {
+    "id": "glmu-plan",
+    "url": "https://jyw.glmu.edu.cn/zhaosheng/school!articleDetail.htm?recruitArticle.searchArticleId=148",
+    "expectedSha256": "26dbdfa4bc6de5fb936a0cd17cd8de872fdf0c7b6ed99da820b11453e41456c1"
+  },
+  {
+    "id": "glmu-plan-pdf",
+    "url": "https://jyw.glmu.edu.cn/articlefiles/20260613/2026061317445196.pdf",
+    "ext": "pdf",
+    "expectedSha256": "f705a34f49a8465b47cd3c279be2d0cdf342125070a2cf3d6b6f49417f06eb69"
+  }
+]

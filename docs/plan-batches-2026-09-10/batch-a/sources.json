@@ -1,0 +1,768 @@
+[
+  {
+    "id": "batch-a-glut_plan",
+    "year": 2026,
+    "title": "桂林理工大学2026年广西招生计划",
+    "url": "https://zscx.glut.edu.cn/f/listPlan",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:07.382072+00:00",
+    "sha256": "efb72f04a216049418e4c275b50de0cf8d25ce94223c5f98816d5b0c3b144d08",
+    "recordCount": 158,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/glut_plan.html",
+    "request": {
+      "year": "2026",
+      "area": "广西",
+      "pageNo": 1,
+      "pageSize": 1000
+    },
+    "requestEncoding": "form"
+  },
+  {
+    "id": "batch-a-guet_ethnic",
+    "year": 2026,
+    "title": "桂林电子科技大学2026年广西招生计划",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E6%B0%91%E6%97%8F%E7%8F%AD",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:07.580067+00:00",
+    "sha256": "11452e05a13329b75039a70298679749fcbfe011de493be6d861beb2d0db9a42",
+    "recordCount": 22,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/guet_ethnic.html",
+    "request": {},
+    "requestEncoding": "form"
+  },
+  {
+    "id": "batch-a-guet_joint",
+    "year": 2026,
+    "title": "桂林电子科技大学2026年广西招生计划",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E4%B8%AD%E5%A4%96%E5%90%88%E4%BD%9C%E5%8A%9E%E5%AD%A6",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:07.466326+00:00",
+    "sha256": "6ce93784910d608f9b9bf7ece0f5f7f2bba90af956195e900eb6bbaa7d405020",
+    "recordCount": 4,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/guet_joint.html",
+    "request": {},
+    "requestEncoding": "form"
+  },
+  {
+    "id": "batch-a-guet_local",
+    "year": 2026,
+    "title": "桂林电子科技大学2026年广西招生计划",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E5%9C%B0%E6%96%B9%E4%B8%93%E9%A1%B9",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:07.518169+00:00",
+    "sha256": "721bd2db3bd4bac2e5541048c5c43e1b7d57a69b9dd627d4c23244dd94fee6ee",
+    "recordCount": 22,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/guet_local.html",
+    "request": {},
+    "requestEncoding": "form"
+  },
+  {
+    "id": "batch-a-guet_national",
+    "year": 2026,
+    "title": "桂林电子科技大学2026年广西招生计划",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E5%9B%BD%E5%AE%B6%E4%B8%93%E9%A1%B9",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:07.423944+00:00",
+    "sha256": "3b2a600fbdbb2c31fdc334a57a72d7978ca14b19ae8f2a24a87cbadac780c89e",
+    "recordCount": 22,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/guet_national.html",
+    "request": {},
+    "requestEncoding": "form"
+  },
+  {
+    "id": "batch-a-guet_plan",
+    "year": 2026,
+    "title": "桂林电子科技大学2026年广西招生计划",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E6%99%AE%E9%80%9A%E7%B1%BB",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:07.382676+00:00",
+    "sha256": "10f0049e55362f75ad38becef1213fdd6af43e33beaa8a13fc6743940a4240e5",
+    "recordCount": 61,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/guet_plan.html",
+    "request": {},
+    "requestEncoding": "form"
+  },
+  {
+    "id": "batch-a-guet_preparatory",
+    "year": 2026,
+    "title": "桂林电子科技大学2026年广西招生计划",
+    "url": "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/mongoQueryResult/55.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mobileTemplate=false&cq55s595=%E5%B9%BF%E8%A5%BF&cq55s596=2026&cq55s597=&cq55s598=%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E9%A2%84%E7%A7%91%E7%8F%AD",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:07.680351+00:00",
+    "sha256": "e0c183a5c21e7ef863c1bc3ee1d1207babc70f3193d7bcca6278f560c82d0b06",
+    "recordCount": 4,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/guet_preparatory.html",
+    "request": {},
+    "requestEncoding": "form"
+  },
+  {
+    "id": "batch-a-gxmu_plan_0",
+    "year": 2026,
+    "title": "广西医科大学2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=338bb03bdb48ee76c2fc176b",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:07.713917+00:00",
+    "sha256": "b85af73999ed2791d8d615b0837179fe4c7ee715c2f6526b79392271e3c3b52b",
+    "recordCount": 14,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxmu_plan_0.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        ""
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "level",
+        "major",
+        "subjects",
+        "educational_code",
+        "fee_standard",
+        "plan_type",
+        "jhsgf"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxmu_plan_1",
+    "year": 2026,
+    "title": "广西医科大学2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=338bb03bdb48ee76c2fc176b",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:07.811123+00:00",
+    "sha256": "16c0dd8a0446555f30fa8eef332a3035646062113500044e4914a29cfda540dd",
+    "recordCount": 62,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxmu_plan_1.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        ""
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "level",
+        "major",
+        "subjects",
+        "educational_code",
+        "fee_standard",
+        "plan_type",
+        "jhsgf"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxmzu_plan_0",
+    "year": 2026,
+    "title": "广西民族大学2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.018924+00:00",
+    "sha256": "2ac28aba50c3f8569b2f8c7ca308c19e8fd31273be55dda7c611967b30cdf1f4",
+    "recordCount": 1,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxmzu_plan_0.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        "本科提前批其他一类"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "educational_code",
+        "fee_standard",
+        "sfksgf",
+        "wyyzgf",
+        "major_remark",
+        "subjects",
+        "plan_type",
+        "exam_type_name",
+        "kskmyqzwgf",
+        "plan_nature"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxmzu_plan_1",
+    "year": 2026,
+    "title": "广西民族大学2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.188393+00:00",
+    "sha256": "64d5a0daeae32cd5d49f13b290858879fbad70bec5c16daee96f91dd7f34b7dd",
+    "recordCount": 61,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxmzu_plan_1.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "educational_code",
+        "fee_standard",
+        "sfksgf",
+        "wyyzgf",
+        "major_remark",
+        "subjects",
+        "plan_type",
+        "exam_type_name",
+        "kskmyqzwgf",
+        "plan_nature"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxmzu_plan_2",
+    "year": 2026,
+    "title": "广西民族大学2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.025797+00:00",
+    "sha256": "fe2617789f13882709313eb2c9645181215818b01fd1510d9e5697a3d853cccc",
+    "recordCount": 4,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxmzu_plan_2.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        "本科提前批其他一类"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "educational_code",
+        "fee_standard",
+        "sfksgf",
+        "wyyzgf",
+        "major_remark",
+        "subjects",
+        "plan_type",
+        "exam_type_name",
+        "kskmyqzwgf",
+        "plan_nature"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxmzu_plan_3",
+    "year": 2026,
+    "title": "广西民族大学2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=15f4609edee13b448a3a3224",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.293520+00:00",
+    "sha256": "0671d74b1be52d742016a335cb3d94195027d9e5087a9b3e27f22ef1aee06b3d",
+    "recordCount": 90,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxmzu_plan_3.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "year",
+        "province_name",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "educational_code",
+        "fee_standard",
+        "sfksgf",
+        "wyyzgf",
+        "major_remark",
+        "subjects",
+        "plan_type",
+        "exam_type_name",
+        "kskmyqzwgf",
+        "plan_nature"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxnu_plan",
+    "year": 2026,
+    "title": "广西师范大学2026年广西招生计划",
+    "url": "https://bkzs.gxnu.edu.cn/pg/jh/index.php?SSDM=45&NF=2026",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:07.905594+00:00",
+    "sha256": "0bffc0428a865d28e7362774a76d354af667a30073d658b0e9d621c88e267144",
+    "recordCount": 154,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxnu_plan.html",
+    "request": null,
+    "requestEncoding": null
+  },
+  {
+    "id": "batch-a-gxu_plan_0",
+    "year": 2026,
+    "title": "广西大学2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=502eaa9010f49a5b1ca78afc",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.412266+00:00",
+    "sha256": "81e582b383bede04dd9219722c0bb51888aba3d23fb499618f1eac1c36fbab74",
+    "recordCount": 18,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxu_plan_0.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "province_name",
+        "plan_type",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "fee_standard",
+        "major_remark",
+        "subjects",
+        "plan_nature",
+        "batch",
+        "exam_type_name",
+        "kskmyqzwgf"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxu_plan_1",
+    "year": 2026,
+    "title": "广西大学2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=502eaa9010f49a5b1ca78afc",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.587035+00:00",
+    "sha256": "4f7d8b40b2375167418733288413368f75b895fc9ad32326d2913e8fb7236849",
+    "recordCount": 112,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxu_plan_1.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "province_name",
+        "plan_type",
+        "department_name",
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "fee_standard",
+        "major_remark",
+        "subjects",
+        "plan_nature",
+        "batch",
+        "exam_type_name",
+        "kskmyqzwgf"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxufe_plan_0",
+    "year": 2026,
+    "title": "广西财经学院2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.607417+00:00",
+    "sha256": "3081b782427fd09e07bd6b706728936334a115da4b21582390e457d60b1e9163",
+    "recordCount": 1,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxufe_plan_0.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        "其他预科批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "kskmyqzwgf",
+        "wyyzgf",
+        "fee_standard",
+        "school_location",
+        "educational_code"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxufe_plan_1",
+    "year": 2026,
+    "title": "广西财经学院2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.608077+00:00",
+    "sha256": "bd61eea0c7e854f533d6b94a3b0ab0c70e0e6788f680435483d3e444c70ae641",
+    "recordCount": 47,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxufe_plan_1.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "kskmyqzwgf",
+        "wyyzgf",
+        "fee_standard",
+        "school_location",
+        "educational_code"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxufe_plan_2",
+    "year": 2026,
+    "title": "广西财经学院2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.674036+00:00",
+    "sha256": "79367e0e98698caeed231dd4efd36c0ff0c437270ed19449ec0ee187c2937bc2",
+    "recordCount": 1,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxufe_plan_2.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        "其他预科批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "kskmyqzwgf",
+        "wyyzgf",
+        "fee_standard",
+        "school_location",
+        "educational_code"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxufe_plan_3",
+    "year": 2026,
+    "title": "广西财经学院2026年广西招生计划",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relEnrollPlan/dataSearch?key=c462a399d4a999629c7cef3e",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.843833+00:00",
+    "sha256": "6a13d9cb246052a44a38349419ec78a23050fa8f0a56a999d993c39b0793c77b",
+    "recordCount": 72,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/gxufe_plan_3.json",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "batch": [
+        "本科普通批"
+      ],
+      "page_size": 1000,
+      "pageSize": 1000,
+      "limit": 1000,
+      "show_fields": [
+        "major",
+        "exam_direction",
+        "jhsgf",
+        "kskmyqzwgf",
+        "wyyzgf",
+        "fee_standard",
+        "school_location",
+        "educational_code"
+      ]
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-nnnu_plan_all",
+    "year": 2026,
+    "title": "南宁师范大学2026年广西招生计划",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:09:08.689095+00:00",
+    "sha256": "aed4bc743efab3825cd2548010aec8e4bfd3af3309131ca18f6c1cc621661595",
+    "recordCount": 166,
+    "method": "本批重新请求已有2026初始计划公开源；不将major_num猜作省编代码，不由其他轮次推初始组码。",
+    "rawFile": "raw/nnnu_plan_all.json",
+    "request": {
+      "nf": "2026",
+      "sf": "广西",
+      "type": "zsjh",
+      "klmc": "全部",
+      "zslb": "全部",
+      "xqmc": ""
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "batch-a-gxeea-first-history",
+    "year": 2026,
+    "title": "2026年普通高校招生本科普通批第一次征集计划信息表（首选历史科目组）",
+    "url": "https://www.gxeea.cn/view/content_619_33121.htm",
+    "publishedAt": "2026-07-22",
+    "accessedAt": "2026-09-10T07:04:34.860589+00:00",
+    "sha256": "82f13f005e8ed1a39ad4304d4300e9d64c6993db195988f8f0061b22da0ca47c",
+    "recordCount": 20,
+    "method": "GB18030官方HTML计划表，展开合并单元格；仅该轮剩余计划，不进入初始计划或首轮匹配。",
+    "rawFile": "raw/gxeea-first-history.html",
+    "request": null,
+    "requestEncoding": null,
+    "publisher": "广西招生考试院",
+    "round": "第一次征集",
+    "track": "历史",
+    "batch": "本科普通批"
+  },
+  {
+    "id": "batch-a-gxeea-first-physics",
+    "year": 2026,
+    "title": "2026年普通高校招生本科普通批第一次征集计划信息表（首选物理科目组）",
+    "url": "https://www.gxeea.cn/view/content_619_33123.htm",
+    "publishedAt": "2026-07-22",
+    "accessedAt": "2026-09-10T07:04:34.980396+00:00",
+    "sha256": "78ae50412f33ce6c5ef304c056fcd6ad8278963d31c7a05866be0f7c5ca81d0e",
+    "recordCount": 61,
+    "method": "GB18030官方HTML计划表，展开合并单元格；仅该轮剩余计划，不进入初始计划或首轮匹配。",
+    "rawFile": "raw/gxeea-first-physics.html",
+    "request": null,
+    "requestEncoding": null,
+    "publisher": "广西招生考试院",
+    "round": "第一次征集",
+    "track": "物理",
+    "batch": "本科普通批"
+  },
+  {
+    "id": "batch-a-gxeea-second-history",
+    "year": 2026,
+    "title": "2026年普通高校招生本科普通批第二次征集计划信息表（首选历史科目组）",
+    "url": "https://www.gxeea.cn/view/content_619_33155.htm",
+    "publishedAt": "2026-07-26",
+    "accessedAt": "2026-09-10T07:04:34.832168+00:00",
+    "sha256": "77ccac7d77ce8d4c3f71c1184ae6fa684340f4290dfb16a2feaf480b6a1509d3",
+    "recordCount": 1,
+    "method": "GB18030官方HTML计划表，展开合并单元格；仅该轮剩余计划，不进入初始计划或首轮匹配。",
+    "rawFile": "raw/gxeea-second-history.html",
+    "request": null,
+    "requestEncoding": null,
+    "publisher": "广西招生考试院",
+    "round": "第二次征集",
+    "track": "历史",
+    "batch": "本科普通批"
+  },
+  {
+    "id": "batch-a-gxeea-second-physics",
+    "year": 2026,
+    "title": "2026年普通高校招生本科普通批第二次征集计划信息表（首选物理科目组）",
+    "url": "https://www.gxeea.cn/view/content_619_33157.htm",
+    "publishedAt": "2026-07-26",
+    "accessedAt": "2026-09-10T07:04:34.866519+00:00",
+    "sha256": "074a3a98654eba60d497c03b753ea600249bc9ee0b708ab2742c3fbd69efe999",
+    "recordCount": 2,
+    "method": "GB18030官方HTML计划表，展开合并单元格；仅该轮剩余计划，不进入初始计划或首轮匹配。",
+    "rawFile": "raw/gxeea-second-physics.html",
+    "request": null,
+    "requestEncoding": null,
+    "publisher": "广西招生考试院",
+    "round": "第二次征集",
+    "track": "物理",
+    "batch": "本科普通批"
+  },
+  {
+    "id": "batch-a-gxmzu-bkguide",
+    "year": 2026,
+    "title": "广西民族大学2026年报考指南",
+    "url": "https://book.zjzw.cn/books/sqje/mobile/index.html",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:03:29.522925+00:00",
+    "sha256": "266b793366e8ac905c739d6cebfac44aefd0633306ec6543c8adebc58b92f493",
+    "recordCount": 0,
+    "method": "官网首页直接链接；2026标题可核。报考指南经公开浏览器查看为6页，未采作初始组码证据。",
+    "rawFile": "raw/gxmzu-bkguide.html",
+    "request": null,
+    "requestEncoding": null,
+    "publisher": "广西民族大学（官网链接的电子指南）",
+    "sourceKind": "本年官方电子指南入口"
+  },
+  {
+    "id": "batch-a-gxmzu-zsguide",
+    "year": 2026,
+    "title": "广西民族大学2026年招生指南",
+    "url": "https://book.zjzw.cn/books/wtiv/mobile/index.html?qq_aio_chat_type=2",
+    "publishedAt": null,
+    "accessedAt": "2026-09-10T07:03:29.511936+00:00",
+    "sha256": "d2270f0afe71c3bd9aa4ce23a1095ed035c0bf1ad9ab29bb204d4f03ef2b42ef",
+    "recordCount": 0,
+    "method": "官网首页直接链接；2026标题可核。报考指南经公开浏览器查看为6页，未采作初始组码证据。",
+    "rawFile": "raw/gxmzu-zsguide.html",
+    "request": null,
+    "requestEncoding": null,
+    "publisher": "广西民族大学（官网链接的电子指南）",
+    "sourceKind": "本年官方电子指南入口"
+  }
+]

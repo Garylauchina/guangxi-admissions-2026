@@ -1,0 +1,30 @@
+[
+  {
+    "schoolCode": "10533",
+    "school": "中南大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "collected",
+    "sourceIds": [
+      "batch-d-2026-csu",
+      "batch-d-2026-gx-identity"
+    ],
+    "checkedAt": "2026-09-10",
+    "entryUrl": "https://zhaosheng.csu.edu.cn/a26jhyl/jh_bk.htm",
+    "note": "本批仅采2026广西普通类物理计划26条321人；广西正式组码未核实，group=null，保留校内组名称。未覆盖历史类及其他招生类型，原查询未列学费。"
+  },
+  {
+    "schoolCode": "10561",
+    "school": "华南理工大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "collected",
+    "sourceIds": [
+      "batch-d-2026-scut",
+      "batch-d-2026-gx-identity"
+    ],
+    "checkedAt": "2026-09-10",
+    "entryUrl": "https://admission.scut.edu.cn/30820/list.htm",
+    "note": "本批仅采2026广西普通类物理计划23条210人；广西正式组码未核实，group=null，保留校内组名称。未覆盖历史类及其他招生类型，原查询未列学费。"
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "year": 2026,
+  "initialPlanUpserts": 11,
+  "initialGroupAdditions": 0,
+  "supplementaryRows": 84,
+  "supplementaryCountsBySchool": {
+    "广西大学": 9,
+    "桂林理工大学": 6,
+    "广西师范大学": 13,
+    "南宁师范大学": 16,
+    "广西民族大学": 15,
+    "广西财经学院": 13,
+    "桂林电子科技大学": 4,
+    "广西医科大学": 8
+  },
+  "initialApiChecks": [
+    {
+      "sourceId": "batch-a-gxmu_plan_0",
+      "rows": 14,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 14
+      }
+    },
+    {
+      "sourceId": "batch-a-gxmu_plan_1",
+      "rows": 62,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 62
+      }
+    },
+    {
+      "sourceId": "batch-a-gxmzu_plan_0",
+      "rows": 1,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 1
+      }
+    },
+    {
+      "sourceId": "batch-a-gxmzu_plan_1",
+      "rows": 61,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 61
+      }
+    },
+    {
+      "sourceId": "batch-a-gxmzu_plan_2",
+      "rows": 4,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 4
+      }
+    },
+    {
+      "sourceId": "batch-a-gxmzu_plan_3",
+      "rows": 90,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 90
+      }
+    },
+    {
+      "sourceId": "batch-a-gxu_plan_0",
+      "rows": 18,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 18
+      }
+    },
+    {
+      "sourceId": "batch-a-gxu_plan_1",
+      "rows": 112,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 112
+      }
+    },
+    {
+      "sourceId": "batch-a-gxufe_plan_0",
+      "rows": 1,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 1
+      }
+    },
+    {
+      "sourceId": "batch-a-gxufe_plan_1",
+      "rows": 47,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 47
+      }
+    },
+    {
+      "sourceId": "batch-a-gxufe_plan_2",
+      "rows": 1,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 1
+      }
+    },
+    {
+      "sourceId": "batch-a-gxufe_plan_3",
+      "rows": 72,
+      "allYear2026Guangxi": true,
+      "overviewCountMatches": true,
+      "rawGroupValues": {
+        "-": 72
+      }
+    },
+    {
+      "sourceId": "batch-a-nnnu_plan_all",
+      "rows": 196,
+      "allYear2026Guangxi": true,
+      "rawGroupValues": {
+        "": 196
+      }
+    }
+  ],
+  "noInitialPlanCountsChanged": true,
+  "noInitialGroupsOverwritten": true,
+  "supplementaryNeverFirstRoundMatched": true,
+  "crossRoundConflictRegressionPassed": true,
+  "allSourceHashesPassed": true
+}

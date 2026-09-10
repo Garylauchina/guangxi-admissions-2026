@@ -1,0 +1,108 @@
+[
+  {
+    "schoolCode": "10559",
+    "school": "暨南大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "collected",
+    "sourceIds": [
+      "batch-c-2026-jnu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "已采集普通类97人及国家专项12人，共109人；剔除艺术3条共4人。专业组代码、选科、学费、学制、校区、原备注均直接来自当年计划表。",
+    "entryUrl": "https://zsb.jnu.edu.cn/2026/0622/c4288a857512/page.htm"
+  },
+  {
+    "schoolCode": "11785",
+    "school": "江西职业技术大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "collected",
+    "sourceIds": [
+      "batch-c-2026-jxpu"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "已采集广西本科17条75人。原文标题明确广西且列院校代码11785，历史101组、物理151组；未列再选科目，保持unknown。",
+    "entryUrl": "https://zsw.jxpu.edu.cn/info/1187/17992.htm"
+  },
+  {
+    "schoolCode": "10347",
+    "school": "湖州师范大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "source-found",
+    "sourceIds": [
+      "batch-c-2026-hznu",
+      "batch-c-2026-hznu-identity"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "官方单条搜索结果返回连续完整广西段16条70人及101/102/103组；原站本轮TLS直连失败，web open也失败，仅保留候选，不导入计划。除临床医学原备注明确5年外，其他专业学制未在该计划段列出，保持null。",
+    "entryUrl": "https://zsw.zjhu.edu.cn/2026/0618/c3208a252607/page.htm"
+  },
+  {
+    "schoolCode": "10532",
+    "school": "湖南大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "source-found",
+    "sourceIds": [
+      "batch-c-2026-hnu-entry",
+      "batch-c-2026-hnu-pdf"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "已取得2026广西初始计划，含普通/专项等，2025列为历史录取线；学校PDF用专业组1至5，未取得广西101等正式代码对应原文，不能自行加100。本批暂不导入。",
+    "entryUrl": "https://admi.hnu.edu.cn/info/1315/7353.htm"
+  },
+  {
+    "schoolCode": "10561",
+    "school": "华南理工大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "source-found",
+    "sourceIds": [
+      "batch-c-2026-scut-entry"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "已定位2026广西计划查询，原公开查询表为校内组1至4；本轮官方空体POST查询成功，仍未获三位广西组码映射，不将组序号转填为正式组码。",
+    "entryUrl": "https://admission.scut.edu.cn/30820/list.htm"
+  },
+  {
+    "schoolCode": "10533",
+    "school": "中南大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "source-found",
+    "sourceIds": [
+      "batch-c-2026-csu-entry"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "本轮公开查询接口返回2026广西物理类计划，名称为物化1组/物化生1组等；非广西103等正式代码，未取得对应关系原文，不推组码。本批暂不导入。",
+    "entryUrl": "https://zhaosheng.csu.edu.cn/a26jhyl/jh_bk.htm"
+  },
+  {
+    "schoolCode": "10335",
+    "school": "浙江大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "entry-only",
+    "sourceIds": [
+      "batch-c-2026-zju-entry"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "入口可访问，不能等同已获取本年专业计划。当前未读到带广西正式组码与人数的原始完整表，本批未导入。",
+    "entryUrl": "https://bgptzdzsc.zju.edu.cn/zjuzsxj/xjjh-detail/2026?id=450000"
+  },
+  {
+    "schoolCode": "10316",
+    "school": "中国药科大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "source-found",
+    "sourceIds": [
+      "batch-c-2026-cpu-entry"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "当年计划官方原图可读，普通批90人；仅列校编专业组1至5，不猜测广西专业组代码。",
+    "entryUrl": "https://zb.cpu.edu.cn/2d/1d/c12765a208157/pagem.htm"
+  }
+]
