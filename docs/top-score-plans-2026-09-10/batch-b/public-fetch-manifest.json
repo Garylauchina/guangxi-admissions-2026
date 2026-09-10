@@ -1,0 +1,166 @@
+[
+  {
+    "id": "nju-common-js",
+    "url": "https://bkzs.nju.edu.cn/static/front/nju/basic/js/common.js",
+    "ext": "js",
+    "expectedSha256": "4ffe92fb405b7b03823fcbeeed50f91538957e5b4ccd5d5dc9ba36f3447cce54"
+  },
+  {
+    "id": "nju-init-js",
+    "url": "https://bkzs.nju.edu.cn/static/front/nju/basic/js/init.js",
+    "ext": "js",
+    "expectedSha256": "ba69e227de75fd3900a5136cfe1261a51dabc6216ba822221b543ff8249078af"
+  },
+  {
+    "id": "zju-zsc-home",
+    "url": "https://zdzsc.zju.edu.cn/",
+    "expectedSha256": "f44646b7328abdb0e36646583038a5fa35270af454443c73cc20f9f1474048cc"
+  },
+  {
+    "id": "sjtu-med-plan-home",
+    "url": "https://www.shsmu.edu.cn/ygzs/zsjh.htm"
+  },
+  {
+    "id": "sjtu-plan-news-list",
+    "url": "https://admissions.sjtu.edu.cn/rnapi/newsList",
+    "request": {
+      "subjectsID": 3810061,
+      "pageNum": 1,
+      "pageSize": 100
+    },
+    "ext": "json",
+    "expectedSha256": "e0ba080ea50b48325ce780f3dfafb6540d2fed8615fcf5ff18f201de06a627d1"
+  },
+  {
+    "id": "gxeea-2026-physics-filing",
+    "url": "https://www.gxeea.cn/view/content_624_33107.htm",
+    "expectedSha256": "b7b7f3534ffd33458f46f42c4639d4b9b588d7799741326f113f9566d5560820"
+  },
+  {
+    "id": "sjtu-pujiang-overview",
+    "url": "https://gc.sjtu.edu.cn/cn/admission/undergraduate-admission/overview/",
+    "expectedSha256": "8a4604e258699fac9e2cce00b07e40c4b87094011ab2b1a7d5ba549e2326d558"
+  },
+  {
+    "id": "nju-plan-page",
+    "url": "https://bkzs.nju.edu.cn/static/front/nju/basic/html_web/zsjh.html",
+    "expectedSha256": "41eceef4d3ab692fbd39ca39fb0877910f3abe8e3981019445b09e5e844bcd6a"
+  },
+  {
+    "id": "sjtu-med-home",
+    "url": "https://www.shsmu.edu.cn/ygzs/",
+    "expectedSha256": "c4f4896eca1aa3ca539e2acb6041f929e128325b9d7a595ba9aa06dbaf5a0ea5"
+  },
+  {
+    "id": "fudan-2026-charter",
+    "url": "https://www.fudan.edu.cn/2026/0528/c24a149374/page.htm",
+    "expectedSha256": "1f68f71f12ce3d9f5c65d843316651f846662d921a0061d76f62de794c5ef6ac"
+  },
+  {
+    "id": "zju-undergraduate-info",
+    "url": "https://www.zju.edu.cn/xxgk/1685/list.htm",
+    "expectedSha256": "65cf0897552a670ffbaa2643969d1b41e6e6d3a3a34b4860f8b36d96d8dd5c9b"
+  },
+  {
+    "id": "nju-plan-params",
+    "url": "https://bkzs.nju.edu.cn/f/ajax_zsjh_param",
+    "request": {},
+    "requestEncoding": "form",
+    "ext": "json"
+  },
+  {
+    "id": "nju-plan-gx-physics",
+    "url": "https://bkzs.nju.edu.cn/f/ajax_zsjh",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通批次"
+    },
+    "requestEncoding": "form",
+    "ext": "json"
+  },
+  {
+    "id": "sjtu-med-plan-list",
+    "url": "https://www.shsmu.edu.cn/ygzs/zsxx/zsjh.htm",
+    "expectedSha256": "c3c303ae2d621d20b77d0d4bc0f39a0e03eb6cfa10c461d710c09cec5ae2eb32"
+  },
+  {
+    "id": "zju-information-list",
+    "url": "https://zdzsc.zju.edu.cn/87245/list.htm",
+    "expectedSha256": "ec6224f10e947a3b08ff585f00cfa1328e762bd66f7752249b5f291033f46781"
+  },
+  {
+    "id": "zju-news-list",
+    "url": "https://zdzsc.zju.edu.cn/zxgg/list.htm",
+    "expectedSha256": "2e17df97e354a42611d1167345656e25870d603ad4333d9ff368e7901c40d289"
+  },
+  {
+    "id": "sjtu-2026-plan-api",
+    "url": "https://admissions.sjtu.edu.cn/rnapi/getNewsDetail",
+    "request": {
+      "contentsID": 3810000004311
+    },
+    "ext": "json",
+    "expectedSha256": "aac51d7c32ce7f6d16acff9766f2adcc5b69f41346b7ae11884afa653cf82450"
+  },
+  {
+    "id": "sjtu-2026-plan-page",
+    "url": "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004311",
+    "expectedSha256": "aae7a1cbd8302ab72f3f4caf5206a1d6820476b86f320214e719466f7240e23a"
+  },
+  {
+    "id": "sjtu-2026-plan-image",
+    "url": "https://admissions.sjtu.edu.cn/uploadFile/17842586227624172/%E5%AF%BC%E5%87%BA%E9%A1%B5%E9%9D%A2%E8%87%AA%20%E4%BA%A4%E9%80%9A%E6%8B%9B%E7%94%9F.png",
+    "ext": "png",
+    "expectedSha256": "ed2c847e7524c5c0afb57aff227bff8ec28d762a34e97a668831735e1159caca"
+  },
+  {
+    "id": "fudan-plan-list",
+    "url": "https://ao.fudan.edu.cn/36332/list.htm",
+    "expectedSha256": "b422b1527c331ec794706c42b33af0a3a2db01b98090814875249fbdad71dcb9"
+  },
+  {
+    "id": "fudan-home",
+    "url": "https://ao.fudan.edu.cn/_web/main.psp",
+    "expectedSha256": "a8a2b68e9c0f6d9c90c8013dcc41c1b1ce2852bc842ab7de40a4704a54fb555d"
+  },
+  {
+    "id": "nju-home",
+    "url": "https://bkzs.nju.edu.cn/",
+    "expectedSha256": "e0fe5d066955d5491f4d7bcc5f70fd9160fb48d844bcffe1be022b7df0e2146b"
+  },
+  {
+    "id": "nju-plan-api",
+    "url": "https://bkzs.nju.edu.cn/f/ajax_zsjh",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026"
+    },
+    "requestEncoding": "form",
+    "ext": "json"
+  },
+  {
+    "id": "zju-entry",
+    "url": "https://bgptzdzsc.zju.edu.cn/zjuzsxj/xjjh-detail/2026?id=450000",
+    "expectedSha256": "0242348bd690aa1a2217f64e58aa7412664235462b1b209c57900991af1c7a21"
+  },
+  {
+    "id": "zju-detail-js",
+    "url": "https://bgptzdzsc.zju.edu.cn/zjuzsxj/assets/detail.4e223f2e.js",
+    "ext": "js",
+    "expectedSha256": "ea76b8ceb735427704f6ae1667874e86795b2ce9885e000262ec4c11e15f6cee"
+  },
+  {
+    "id": "zju-config",
+    "url": "https://bgptzdzsc.zju.edu.cn/zjuzsxj/_app.config.js",
+    "ext": "js",
+    "expectedSha256": "9c964f502dc8e4f1fd375f78258ad70a41105d2969926534110fe44d9af0394f"
+  },
+  {
+    "id": "nju-tplt-js",
+    "url": "https://bkzs.nju.edu.cn/static/front/nju/basic/js/tplt.js",
+    "ext": "js",
+    "expectedSha256": "a2eae168e09dc96153737116b915e75d9bd91171d15c4595d7e71e34a28dd832"
+  }
+]

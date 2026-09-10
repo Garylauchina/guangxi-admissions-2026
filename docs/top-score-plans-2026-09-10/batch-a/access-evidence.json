@@ -1,0 +1,296 @@
+[
+  {
+    "id": "thu-contact-2026",
+    "url": "https://join-tsinghua.edu.cn/info/1033/2197.htm",
+    "checkedAt": "2026-09-10T07:42:03.683326+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "c39c63fd8c569a43f8e73e0248757421d7729b9178c23c5417488cb38a18db4a",
+    "bytes": 53595
+  },
+  {
+    "id": "thu-contact-gx-image",
+    "url": "https://join-tsinghua.edu.cn/__local/7/69/22/895C97D886FAE6E5201A7476F6E_DF3EB1FA_163BF.jpg",
+    "checkedAt": "2026-09-10T07:42:21.773578+00:00",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "sha256": "2df98fc72bfe10472786086e2e12db7a2828e1b60eb679e3f109a82f19e83bdc",
+    "bytes": 91071
+  },
+  {
+    "id": "med-plans",
+    "url": "https://bkzs.bjmu.edu.cn/zsxx/zsjh/index.htm",
+    "checkedAt": "2026-09-10T07:35:23.339310+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "e28e2037ffb4e5471f3923c8c3f1d415b30091fdc5fd1dfadbd2e622b591aabf",
+    "bytes": 23888
+  },
+  {
+    "id": "med-charter",
+    "url": "https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--infoId-7666846197,method-view,schId-6405527.dhtml",
+    "checkedAt": "2026-09-10T07:35:23.339678+00:00",
+    "error": "HTTP Error 412: Precondition Failed"
+  },
+  {
+    "id": "pku-http",
+    "url": "http://www.gotopku.cn/",
+    "checkedAt": "2026-09-10T07:35:23.339810+00:00",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>"
+  },
+  {
+    "id": "pku-plain",
+    "url": "https://gotopku.cn/",
+    "checkedAt": "2026-09-10T07:35:23.339938+00:00",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>"
+  },
+  {
+    "id": "thu-general",
+    "url": "https://www.join-tsinghua.edu.cn/gnxs/gktz.htm",
+    "checkedAt": "2026-09-10T07:35:23.340046+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "cb47b94e547c0e32ffb195c6c1accddb81ad571397ebefcb4e60bd37246a4260",
+    "bytes": 23482
+  },
+  {
+    "id": "thu-self",
+    "url": "https://www.join-tsinghua.edu.cn/gnxs/zqjh.htm",
+    "checkedAt": "2026-09-10T07:35:23.340174+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "a3ca98b0c6febbee7ce7e3c3e083d7af501211ea31c6e7ee32f464b8ea8d0330",
+    "bytes": 20028
+  },
+  {
+    "id": "med-plan-2025-index",
+    "url": "https://bkzs.bjmu.edu.cn/zsxx/zsjh/2022/index.htm",
+    "checkedAt": "2026-09-10T07:36:01.907906+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "b876e481b8b79292fd9c035f3afaa0a27d53deaac95fbb42fdcd6146c57ba20e",
+    "bytes": 27285
+  },
+  {
+    "id": "med-plan-gx-linked",
+    "url": "https://bkzs.bjmu.edu.cn/zsxx/zsjh/2024/gx13/index.htm",
+    "checkedAt": "2026-09-10T07:36:01.908319+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "a2e2fd4dd41c1b460ddcd512e1769019c16ce6008dabc20220f1358bf7333e9d",
+    "bytes": 32974
+  },
+  {
+    "id": "med-notices",
+    "url": "https://bkzs.bjmu.edu.cn/zsxx/tzgs/index.htm",
+    "checkedAt": "2026-09-10T07:36:01.908451+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "0b1d3d47e1af54301c6421384cf36a5d5095a33f9f07991feadfd9cb21bc401d",
+    "bytes": 22426
+  },
+  {
+    "id": "thu-consult",
+    "url": "https://www.join-tsinghua.edu.cn/xxgk/zxdh_ssqd.htm",
+    "checkedAt": "2026-09-10T07:36:01.908587+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "0cbb5953e0ad5808ebd16319c1f90b37b7ba43a96bf820ce3730f6b1bc002a6b",
+    "bytes": 15417
+  },
+  {
+    "id": "thu-major",
+    "url": "https://www.join-tsinghua.edu.cn/gnxs/zszyl.htm",
+    "checkedAt": "2026-09-10T07:36:01.908689+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "d74806a576c3f35bcab19c494281c13f562e0992ad34cd91c041d9e40cf3c899",
+    "bytes": 39624
+  },
+  {
+    "id": "pku-mirror-main",
+    "url": "https://bkzs.pku.edu.cn/",
+    "checkedAt": "2026-09-10T07:36:42.188935+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "969ff598999ad48ce24bc6b0b9e3d9805743c70ded5b8cc348f3db7f91b16845",
+    "bytes": 44147
+  },
+  {
+    "id": "med-gx-2025",
+    "url": "https://bkzs.bjmu.edu.cn/zsxx/zsjh/2022/4722f60edd5f4a399aa959d4456167b2/index.htm",
+    "checkedAt": "2026-09-10T07:36:42.189473+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "4219be0e35a3d4d5a1abc000fd697f4242910a4e53fb6dcda32607a405b0408a",
+    "bytes": 34663
+  },
+  {
+    "id": "thu-consult-detail",
+    "url": "https://www.join-tsinghua.edu.cn/info/1169/1377.htm",
+    "checkedAt": "2026-09-10T07:36:42.189610+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "2f62df1b9e75d1161d3ae29ad3978bc18a515049978065caae75f392bac5d068",
+    "bytes": 17803
+  },
+  {
+    "id": "med-consult-wechat",
+    "url": "https://mp.weixin.qq.com/s/JHu6z_gcWxCnthAxQrRbaw",
+    "checkedAt": "2026-09-10T07:36:42.189737+00:00",
+    "status": 200,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "aa09e0d6f4953e41f256cb2db3cdab5fcdf94a23e99982706742161bd52c8f90",
+    "bytes": 18164,
+    "redirectedToLogin": false,
+    "contentResult": "环境异常，要求完成验证；没有获取正文，未绕过。"
+  },
+  {
+    "id": "pku-ordinary-alias",
+    "url": "https://bkzs.pku.edu.cn/zslb/ptgk/index.htm",
+    "checkedAt": "2026-09-10T07:37:01.742671+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "18ad31808ea0c2d981f8ed0680520523b21c99baa98600aec32c41e363a7ae57",
+    "bytes": 30234
+  },
+  {
+    "id": "pku-brochures-alias",
+    "url": "https://bkzs.pku.edu.cn/xxgk/zsjz/index.htm",
+    "checkedAt": "2026-09-10T07:37:01.743117+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "92aafa124559996add64180f2b671840b5947ac828db1edb4f5c968747a44ffa",
+    "bytes": 25929
+  },
+  {
+    "id": "pku-contact",
+    "url": "https://bkzs.pku.edu.cn/tzgg/d8b0aca855ea4a359d5a223e13e90466.htm",
+    "checkedAt": "2026-09-10T07:37:01.743254+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "07c18e2653c98527770288bb0ef3139f5a0d889144663664342ba0a1aacfb815",
+    "bytes": 156013
+  },
+  {
+    "id": "pku-sitemap",
+    "url": "https://bkzs.pku.edu.cn/wzdt/index.htm",
+    "checkedAt": "2026-09-10T07:37:01.743381+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "70e7d7bcbdc61af08866582ec165ea66b6253e3bdab690ce712b7e2298fa3f03",
+    "bytes": 20894
+  },
+  {
+    "id": "pku-brochure-2026",
+    "url": "https://bkzs.pku.edu.cn/docs/2026-06/ea87b5bdc4c2436787106a463d1d6bb0.pdf",
+    "checkedAt": "2026-09-10T07:37:25.131314+00:00",
+    "status": 200,
+    "contentType": "application/pdf",
+    "sha256": "1d7fb781a2603c5fa06b3b3741a0d07c4a161cc9c750692ce524569137614cc8",
+    "bytes": 24071861
+  },
+  {
+    "id": "gx-plan-login",
+    "url": "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx",
+    "checkedAt": "2026-09-10T07:37:25.131759+00:00",
+    "status": 200,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "3dd32a48f45ba557ee43fafcd822a241ce11c44ee00d9a91c75896f4d044229c",
+    "bytes": 11402,
+    "redirectedToLogin": true
+  },
+  {
+    "id": "thu-plan-legacy",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "checkedAt": "2026-09-10T07:39:01.924345+00:00",
+    "status": 200,
+    "contentType": "text/html; charset=GBK",
+    "sha256": "826322c9e720dc9cda5e262e4858d6d7e69abb55bec27ef0d051b7e28ec8e790",
+    "bytes": 13766
+  },
+  {
+    "id": "thu-info-disclosure",
+    "url": "https://www.tsinghua.edu.cn/zjqh/xxgk1/gksxx/zskss.htm",
+    "checkedAt": "2026-09-10T07:39:01.924842+00:00",
+    "status": 200,
+    "contentType": "text/html",
+    "sha256": "244b6c0d854e68bf87460a765db5d3048cba0a9cbf203d839cadd8f2b3a79998",
+    "bytes": 43719
+  },
+  {
+    "id": "thu-query-2026-physics-general",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "query": {
+      "year": 2026,
+      "province": "广西",
+      "track": "理工类",
+      "category": "统招"
+    },
+    "checkedAt": "2026-09-10T07:39:51.482394+00:00",
+    "status": 200,
+    "contentType": "application/JSON",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "bytes": 2,
+    "contentResult": "[]；仅说明该旧接口未返回所查2026数据。"
+  },
+  {
+    "id": "thu-query-2026-physics-special",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "query": {
+      "year": 2026,
+      "province": "广西",
+      "track": "理工类",
+      "category": "专项计划"
+    },
+    "checkedAt": "2026-09-10T07:39:51.482752+00:00",
+    "status": 200,
+    "contentType": "application/JSON",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "bytes": 2,
+    "contentResult": "[]；仅说明该旧接口未返回所查2026数据。"
+  },
+  {
+    "id": "thu-query-2026-history-general",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "query": {
+      "year": 2026,
+      "province": "广西",
+      "track": "文史类",
+      "category": "统招"
+    },
+    "checkedAt": "2026-09-10T07:39:51.482880+00:00",
+    "status": 200,
+    "contentType": "application/JSON",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "bytes": 2,
+    "contentResult": "[]；仅说明该旧接口未返回所查2026数据。"
+  },
+  {
+    "id": "thu-query-2026-history-special",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "query": {
+      "year": 2026,
+      "province": "广西",
+      "track": "文史类",
+      "category": "专项计划"
+    },
+    "checkedAt": "2026-09-10T07:39:51.482992+00:00",
+    "status": 200,
+    "contentType": "application/JSON",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "bytes": 2,
+    "contentResult": "[]；仅说明该旧接口未返回所查2026数据。"
+  },
+  {
+    "id": "thu-query-control-2014-gx",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "purpose": "阳性对照，确认公开前端参数编码有效；旧年不导入2026计划",
+    "checkedAt": "2026-09-10T07:40:40.364194+00:00",
+    "status": 200,
+    "contentType": "application/JSON",
+    "sha256": "e78080b15b50c9911cfba534ed0ca2141b5b169917180ba1a3cf763af60eae55",
+    "bytes": 14176,
+    "contentResult": "21条2014广西记录；阳性对照，不导入。"
+  }
+]

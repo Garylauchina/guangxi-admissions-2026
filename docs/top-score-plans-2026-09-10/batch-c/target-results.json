@@ -1,0 +1,128 @@
+[
+  {
+    "cutoffId": "gx-2026-33107-10007-101",
+    "schoolCode": "10007",
+    "school": "北京理工大学",
+    "track": "物理",
+    "group": "101",
+    "status": "partial",
+    "note": "已采2026年广西普通物理计划4条、7人；公开查询未给出广西正式101组对应证据。专业组内全部专业范围仍未核定，所有新行group=null，不能认定目标组已补齐。",
+    "sourceIds": [
+      "top20-c-2026-bit"
+    ],
+    "checkedAt": "2026-09-10",
+    "matchedPlanRows": 0,
+    "schoolPlanRows": 4,
+    "schoolPlannedCount": 7,
+    "groupCoverage": "unverified",
+    "checkedUrls": [
+      "https://admission.bit.edu.cn/static/front/bit/basic/html_web/zsjh.html",
+      "https://admission.bit.edu.cn/",
+      "https://www.bit.edu.cn/wx/index2.htm",
+      "https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--infoId-7657206740,method-view,schId-7.dhtml",
+      "https://mp.weixin.qq.com/s/cNDch543wiY6MVzU0lDqBA"
+    ],
+    "attemptNotes": [
+      "官网招生计划成功。官网导航链接的2026章程阳光高考页面HTTP412；校方微信文章无法读取完整正文，章程限制缺口保留。"
+    ]
+  },
+  {
+    "cutoffId": "gx-2026-33107-10006-101",
+    "schoolCode": "10006",
+    "school": "北京航空航天大学",
+    "track": "物理",
+    "group": "101",
+    "status": "partial",
+    "note": "已采2026年广西普通物理计划10条、23人；公开查询未给出广西正式101组对应证据。专业组内全部专业范围仍未核定，所有新行group=null，不能认定目标组已补齐。",
+    "sourceIds": [
+      "top20-c-2026-buaa",
+      "top20-c-2026-buaa-charter"
+    ],
+    "checkedAt": "2026-09-10",
+    "matchedPlanRows": 0,
+    "schoolPlanRows": 10,
+    "schoolPlannedCount": 23,
+    "groupCoverage": "unverified",
+    "checkedUrls": [
+      "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/zsjh.html",
+      "https://zs.buaa.edu.cn/info/1003/3583.htm",
+      "https://zs.buaa.edu.cn/",
+      "https://drafoon.epub360.com.cn/v2/manage/book/ub4sza/?from=singlemessage",
+      "https://js.epub360.com/ub4sza/776/index.js"
+    ],
+    "attemptNotes": [
+      "2026官方电子报考指南入口及公开图册数据已读，未完成70页逐图核验，未据图册推定101组；实际计划API成功、组码空。"
+    ]
+  },
+  {
+    "cutoffId": "gx-2026-33107-10213-101",
+    "schoolCode": "10213",
+    "school": "哈尔滨工业大学",
+    "track": "物理",
+    "group": "101",
+    "status": "partial",
+    "note": "已采2026年广西普通物理计划7条、12人；公开查询未给出广西正式101组对应证据。专业组内全部专业范围仍未核定，所有新行group=null，不能认定目标组已补齐。",
+    "sourceIds": [
+      "top20-c-2026-hit",
+      "top20-c-2026-hit-charter",
+      "top20-c-2026-hit-major-directory"
+    ],
+    "checkedAt": "2026-09-10",
+    "matchedPlanRows": 0,
+    "schoolPlanRows": 7,
+    "schoolPlannedCount": 12,
+    "groupCoverage": "unverified",
+    "checkedUrls": [
+      "https://zsb.hit.edu.cn/information/plan?province=%E5%B9%BF%E8%A5%BF&year=2026",
+      "https://zsb.hit.edu.cn/article/read/c6615f467530827fb19246dce601b931",
+      "https://zsb.hit.edu.cn/article/read/35766a7f35b60e5737b4ab426ee28103"
+    ]
+  },
+  {
+    "cutoffId": "gx-2026-33107-10558-103",
+    "schoolCode": "10558",
+    "school": "中山大学",
+    "track": "物理",
+    "group": "103",
+    "status": "partial",
+    "note": "已采2026年广西普通物理计划24条、167人；公开查询未给出广西正式103组对应证据。专业组内全部专业范围仍未核定，所有新行group=null，不能认定目标组已补齐。",
+    "sourceIds": [
+      "top20-c-2026-sysu",
+      "top20-c-2026-sysu-charter"
+    ],
+    "checkedAt": "2026-09-10",
+    "matchedPlanRows": 0,
+    "schoolPlanRows": 24,
+    "schoolPlannedCount": 167,
+    "groupCoverage": "unverified",
+    "checkedUrls": [
+      "https://admission.sysu.edu.cn/zsw/zsjh.html",
+      "https://admission.sysu.edu.cn/f/newsCenter/article/8b565b6ba01a4d568cf370680f8338d4"
+    ],
+    "attemptNotes": [
+      "直接无会话POST返回403；依照官方公开CSRF握手后200。没有登录或私有接口绕过。"
+    ]
+  },
+  {
+    "cutoffId": "gx-2026-33107-10487-102",
+    "schoolCode": "10487",
+    "school": "华中科技大学",
+    "track": "物理",
+    "group": "102",
+    "status": "partial",
+    "note": "已采2026年广西普通物理计划27条、160人；公开查询未给出广西正式102组对应证据。专业组内全部专业范围仍未核定，所有新行group=null，不能认定目标组已补齐。",
+    "sourceIds": [
+      "top20-c-2026-hust",
+      "top20-c-2026-hust-charter"
+    ],
+    "checkedAt": "2026-09-10",
+    "matchedPlanRows": 0,
+    "schoolPlanRows": 27,
+    "schoolPlannedCount": 160,
+    "groupCoverage": "unverified",
+    "checkedUrls": [
+      "https://zsb.hust.edu.cn/bkzn/zsjh.htm",
+      "https://zsb.hust.edu.cn/info/1006/3065.htm"
+    ]
+  }
+]

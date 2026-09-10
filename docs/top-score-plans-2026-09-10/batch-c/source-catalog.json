@@ -1,0 +1,87 @@
+[
+  {
+    "schoolCode": "10007",
+    "school": "北京理工大学",
+    "year": 2026,
+    "status": "collected",
+    "entryUrl": "https://admission.bit.edu.cn/static/front/bit/basic/html_web/zsjh.html",
+    "sourceIds": [
+      "top20-c-2026-bit"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "已采2026年广西普通物理计划4条、7人；公开查询未给出广西正式101组对应证据。专业组内全部专业范围仍未核定，所有新行group=null，不能认定目标组已补齐。",
+    "scope": "广西普通类物理科；同校计划已采，目标省组尚未匹配",
+    "rowCount": 4,
+    "plannedCount": 7,
+    "targetStatus": "partial"
+  },
+  {
+    "schoolCode": "10006",
+    "school": "北京航空航天大学",
+    "year": 2026,
+    "status": "collected",
+    "entryUrl": "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/zsjh.html",
+    "sourceIds": [
+      "top20-c-2026-buaa",
+      "top20-c-2026-buaa-charter"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "已采2026年广西普通物理计划10条、23人；公开查询未给出广西正式101组对应证据。专业组内全部专业范围仍未核定，所有新行group=null，不能认定目标组已补齐。",
+    "scope": "广西普通类物理科；同校计划已采，目标省组尚未匹配",
+    "rowCount": 10,
+    "plannedCount": 23,
+    "targetStatus": "partial"
+  },
+  {
+    "schoolCode": "10213",
+    "school": "哈尔滨工业大学",
+    "year": 2026,
+    "status": "collected",
+    "entryUrl": "https://zsb.hit.edu.cn/information/plan?province=%E5%B9%BF%E8%A5%BF&year=2026",
+    "sourceIds": [
+      "top20-c-2026-hit",
+      "top20-c-2026-hit-charter",
+      "top20-c-2026-hit-major-directory"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "已采2026年广西普通物理计划7条、12人；公开查询未给出广西正式101组对应证据。专业组内全部专业范围仍未核定，所有新行group=null，不能认定目标组已补齐。",
+    "scope": "广西普通类物理科；同校计划已采，目标省组尚未匹配",
+    "rowCount": 7,
+    "plannedCount": 12,
+    "targetStatus": "partial"
+  },
+  {
+    "schoolCode": "10558",
+    "school": "中山大学",
+    "year": 2026,
+    "status": "collected",
+    "entryUrl": "https://admission.sysu.edu.cn/zsw/zsjh.html",
+    "sourceIds": [
+      "top20-c-2026-sysu",
+      "top20-c-2026-sysu-charter"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "已采2026年广西普通物理计划24条、167人；公开查询未给出广西正式103组对应证据。专业组内全部专业范围仍未核定，所有新行group=null，不能认定目标组已补齐。",
+    "scope": "广西普通类物理科；同校计划已采，目标省组尚未匹配",
+    "rowCount": 24,
+    "plannedCount": 167,
+    "targetStatus": "partial"
+  },
+  {
+    "schoolCode": "10487",
+    "school": "华中科技大学",
+    "year": 2026,
+    "status": "collected",
+    "entryUrl": "https://zsb.hust.edu.cn/bkzn/zsjh.htm",
+    "sourceIds": [
+      "top20-c-2026-hust",
+      "top20-c-2026-hust-charter"
+    ],
+    "checkedAt": "2026-09-10",
+    "note": "已采2026年广西普通物理计划27条、160人；公开查询未给出广西正式102组对应证据。专业组内全部专业范围仍未核定，所有新行group=null，不能认定目标组已补齐。",
+    "scope": "广西普通类物理科；同校计划已采，目标省组尚未匹配",
+    "rowCount": 27,
+    "plannedCount": 160,
+    "targetStatus": "partial"
+  }
+]

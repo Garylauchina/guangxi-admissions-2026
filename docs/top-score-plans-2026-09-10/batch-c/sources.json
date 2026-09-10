@@ -1,0 +1,183 @@
+[
+  {
+    "id": "top20-c-2026-bit",
+    "title": "北京理工大学2026年广西普通类物理科初始招生计划（官方公开查询）",
+    "url": "https://admission.bit.edu.cn/static/front/bit/basic/html_web/zsjh.html",
+    "apiUrl": "https://admission.bit.edu.cn/f/ajax_zsjh",
+    "publisher": "北京理工大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-10",
+    "recordCount": 4,
+    "method": "按2026/广西/物理类/普通类别精确筛选学校公开初始计划；未使用录取人数或征集余额。",
+    "notes": [
+      "原始省专业组代码未给出，不能用于目标首轮组完整匹配。"
+    ],
+    "request": {
+      "ssmc": "广西",
+      "nf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通类"
+    },
+    "sha256": "e8a4622a8541784fee70464d156baad742aae63590dc82c04bac2801b5fef54a",
+    "rawResponseSha256": "a8d3a7f7b142c1aa2967f9d29775edff76b5fa2b6a4c91b9ae13d5323ff3eba9"
+  },
+  {
+    "id": "top20-c-2026-buaa",
+    "title": "北京航空航天大学2026年广西普通类物理科初始招生计划（官方公开查询）",
+    "url": "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/zsjh.html",
+    "apiUrl": "https://lqcx.buaa.edu.cn/f/ajax_zsjh",
+    "publisher": "北京航空航天大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-10",
+    "recordCount": 10,
+    "method": "按2026/广西/物理类/普通类别精确筛选学校公开初始计划；未使用录取人数或征集余额。",
+    "notes": [
+      "原始省专业组代码未给出，不能用于目标首轮组完整匹配。"
+    ],
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "统招"
+    },
+    "sha256": "0e56ca909267442acb2d06c689fbff75b74b1e27f08764e29666c02e2ee1a5e0",
+    "rawResponseSha256": "937b2d1d5830f1904090276c179f65dc82daed6e607fd2e4c1cba33500501837"
+  },
+  {
+    "id": "top20-c-2026-hit",
+    "title": "哈尔滨工业大学2026年广西普通类物理科初始招生计划（官方公开查询）",
+    "url": "https://zsb.hit.edu.cn/information/plan?province=%E5%B9%BF%E8%A5%BF&year=2026",
+    "apiUrl": null,
+    "publisher": "哈尔滨工业大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-10",
+    "recordCount": 7,
+    "method": "校方2026广西初始计划HTML表，仅取校本部非中外合作物理+化学7条；合并单元格按原表展开。另从2026本科招生专业目录核对学费、包含专业和培养地点。",
+    "notes": [
+      "原始省专业组代码未给出，不能用于目标首轮组完整匹配。"
+    ],
+    "request": null,
+    "sha256": "1691bd7392da740d6d863cc94a00987c469335625b98423932d828e70fdf84f9",
+    "rawResponseSha256": "1691bd7392da740d6d863cc94a00987c469335625b98423932d828e70fdf84f9"
+  },
+  {
+    "id": "top20-c-2026-sysu",
+    "title": "中山大学2026年广西普通类物理科初始招生计划（官方公开查询）",
+    "url": "https://admission.sysu.edu.cn/zsw/zsjh.html",
+    "apiUrl": "https://admission.sysu.edu.cn/f/ajax_zsjh",
+    "publisher": "中山大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-10",
+    "recordCount": 24,
+    "method": "依照官网公开tplt.js规定的Cookie和CSRF流程，无账号查询；会话和token不归档，响应顶层jessionid已移除。",
+    "notes": [
+      "原始省专业组代码未给出，不能用于目标首轮组完整匹配。"
+    ],
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通录取"
+    },
+    "sha256": "71c713553173043fd781301965f91667b319020c68fa95b7d0905703c5034fb5",
+    "rawResponseSha256": "97d67d788386e9e605dbca941f5c33064f2d1f39038d091be3ad0145f1657d72"
+  },
+  {
+    "id": "top20-c-2026-hust",
+    "title": "华中科技大学2026年广西普通类物理科初始招生计划（官方公开查询）",
+    "url": "https://zsb.hust.edu.cn/bkzn/zsjh.htm",
+    "apiUrl": null,
+    "publisher": "华中科技大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-10",
+    "recordCount": 27,
+    "method": "官网招生计划页面内嵌year_listObject[2026]；逐条校验NF=2026、SYSSMC=广西、KLMC=物理类、JHLBMC=普通类。",
+    "notes": [
+      "原始省专业组代码未给出，不能用于目标首轮组完整匹配。"
+    ],
+    "request": null,
+    "sha256": "b52926142807c560c5e5d19f7c67a1b684bce6985de40a907172ed1c31ead27e",
+    "rawResponseSha256": "b52926142807c560c5e5d19f7c67a1b684bce6985de40a907172ed1c31ead27e"
+  },
+  {
+    "id": "top20-c-2026-buaa-charter",
+    "title": "北京航空航天大学2026年招生章程",
+    "url": "https://zs.buaa.edu.cn/info/1003/3583.htm",
+    "publisher": "北京航空航天大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": "2026-05-31",
+    "accessedAt": "2026-09-10",
+    "sha256": "18010e6b40a0144e61134b55678e30d07d2dc1287687de940adf0e3363c6188f",
+    "method": "逐条读取当年官方全文，用于相关字段和限制；不产生计划人数。"
+  },
+  {
+    "id": "top20-c-2026-hit-charter",
+    "title": "哈尔滨工业大学2026年本科招生章程",
+    "url": "https://zsb.hit.edu.cn/article/read/c6615f467530827fb19246dce601b931",
+    "publisher": "哈尔滨工业大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": "2026-05-28",
+    "accessedAt": "2026-09-10",
+    "sha256": "3c6ddef95415967fc3cd82f08cd4526e48fe9646d9d2e3a573f0df6b350baffd",
+    "method": "逐条读取当年官方全文，用于相关字段和限制；不产生计划人数。"
+  },
+  {
+    "id": "top20-c-2026-hit-major-directory",
+    "title": "哈尔滨工业大学2026年本科招生专业",
+    "url": "https://zsb.hit.edu.cn/article/read/35766a7f35b60e5737b4ab426ee28103",
+    "publisher": "哈尔滨工业大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": "2026-06-02",
+    "accessedAt": "2026-09-10",
+    "sha256": "4027de6ed0d96bdb5715856ee816e7a687570e001d18b638be610af559e2e25d",
+    "method": "逐条读取当年官方全文，用于相关字段和限制；不产生计划人数。"
+  },
+  {
+    "id": "top20-c-2026-sysu-charter",
+    "title": "中山大学2026年本科招生章程",
+    "url": "https://admission.sysu.edu.cn/f/newsCenter/article/8b565b6ba01a4d568cf370680f8338d4",
+    "publisher": "中山大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": "2026-05-29",
+    "accessedAt": "2026-09-10",
+    "sha256": "07fd0f00891a9ba2820fef7cd9878a38d03caab6adc8e3e674b8105bd4280b26",
+    "method": "逐条读取当年官方全文，用于相关字段和限制；不产生计划人数。"
+  },
+  {
+    "id": "top20-c-2026-hust-charter",
+    "title": "华中科技大学2026年本科招生章程",
+    "url": "https://zsb.hust.edu.cn/info/1006/3065.htm",
+    "publisher": "华中科技大学",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": "2026-05-29",
+    "accessedAt": "2026-09-10",
+    "sha256": "b9c292ef50ed774e2111e40886463b567a0cb2c79e6d9e94b5a5cb17445aa776",
+    "method": "逐条读取当年官方全文，用于相关字段和限制；不产生计划人数。"
+  },
+  {
+    "id": "top20-c-2026-gx-identity",
+    "title": "广西2026本科普通批首轮物理类院校身份及批次核对",
+    "url": "https://www.gxeea.cn/view/content_624_33107.htm",
+    "publisher": "广西招生考试院",
+    "sourceType": "official",
+    "year": 2026,
+    "publishedAt": "2026-07-18",
+    "accessedAt": "2026-09-10",
+    "method": "复用现站已核对院校代码及本科普通批身份；不读取投档人数生成初始计划，不据此推定组码。"
+  }
+]

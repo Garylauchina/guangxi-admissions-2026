@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "planRows": 30,
+  "plannedCount": 97,
+  "schoolRows": {
+    "10248": 15,
+    "19248": 3,
+    "10284": 12
+  },
+  "targetCount": 6,
+  "matchedTargets": 0,
+  "targetStatuses": {
+    "source-found": 4,
+    "entry-only": 2
+  },
+  "sourceCount": 29,
+  "errors": [],
+  "limitations": [
+    "通过表示字段、来源引用、原始文件哈希和列小计校验通过，不表示6个专业组补齐。",
+    "图像行来自目视人工核录；离线重建会核验已审核图像哈希，图像变化须重新审阅。",
+    "再选科目、组码、学制学费和广西省内批次均未猜补。"
+  ]
+}

@@ -1,0 +1,887 @@
+[
+  {
+    "id": "plan26-top20-969e10c65c8b150a",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "核工程类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "082203-工程物理;082201-核工程与核技术;070202-应用物理学",
+    "plannedCount": 1,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 1,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：082203-工程物理;082201-核工程与核技术;070202-应用物理学。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-fb52fd59162daa21",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "化学类（智能化学与先进材料）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "070301-化学;080402-材料物理;080403-材料化学;080407-高分子材料与工程",
+    "plannedCount": 1,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 2,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：070301-化学;080402-材料物理;080403-材料化学;080407-高分子材料与工程。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-302a68e3b197da24",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "计算机类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "080901-计算机科学与技术",
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 3,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：080901-计算机科学与技术。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-e5abec4b67028b35",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "理科试验班类（量子未来技术试点班）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "070206-量子信息科学",
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 4,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：070206-量子信息科学。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-a1bdd49f4c1fdcb6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "数学类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "070101-数学与应用数学;070102-信息与计算科学",
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 5,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：070101-数学与应用数学;070102-信息与计算科学。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-d0507e0beda6f1a0",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "理科试验班类（统计大数据与商业AI试验班）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "071201-统计学;020301-金融学;120108-大数据管理与应用;120219-商业人工智能",
+    "plannedCount": 1,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 6,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：071201-统计学;020301-金融学;120108-大数据管理与应用;120219-商业人工智能。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-a2ef8e311677f763",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "物理学类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "070201-物理学;070202-应用物理学;080705-光电信息科学与工程;070401-天文学",
+    "plannedCount": 3,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 7,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：070201-物理学;070202-应用物理学;080705-光电信息科学与工程;070401-天文学。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-ca38c41affceb3a2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（力学及航天、人形机器人、未来能源及安全）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "080101-理论与应用力学;080803-机器人工程;080301-测控技术与仪器;080501-能源与动力工程;082901-安全工程;0801-力学类(钱学森力学科技英才班)",
+    "plannedCount": 4,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 8,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：080101-理论与应用力学;080803-机器人工程;080301-测控技术与仪器;080501-能源与动力工程;082901-安全工程;0801-力学类(钱学森力学科技英才班)。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-cbad5e6b95408014",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（科技英才班）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "0809-计算机类(华夏计算机科技英才班);0807-电子信息类(信息科技英才班);080911-网络空间安全(王小谟网络空间科技英才班);080710-集成电路设计与集成系统(中微集成电路科技英才班);080717-人工智能(科技英才班)",
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 9,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：0809-计算机类(华夏计算机科技英才班);0807-电子信息类(信息科技英才班);080911-网络空间安全(王小谟网络空间科技英才班);080710-集成电路设计与集成系统(中微集成电路科技英才班);080717-人工智能(科技英才班)。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-78e44d644c4ce33b",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "理科试验班类（拔尖计划科技英才班）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "0701-数学类(华罗庚数学科技英才班);0702-物理学类(严济慈物理科技英才班)",
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 10,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：0701-数学类(华罗庚数学科技英才班);0702-物理学类(严济慈物理科技英才班)。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-ab3adca17df1e155",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "理科试验班类（拔尖计划科技英才班）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "0703-化学类(卢嘉锡化学科技英才班);0710-生物科学类(贝时璋生命科技英才班);070802-空间科学与技术(赵九章现代地球和空间科技英才班)",
+    "plannedCount": 3,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 11,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：0703-化学类(卢嘉锡化学科技英才班);0710-生物科学类(贝时璋生命科技英才班);070802-空间科学与技术(赵九章现代地球和空间科技英才班)。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-fdbf98cddd360dff",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "电子信息类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "includedMajors": "080701-电子信息工程;080801-自动化;080717-人工智能;080910-数据科学与大数据技术;080702-电子科学与技术;080710-集成电路设计与集成系统;080911-网络空间安全;080904-信息安全",
+    "plannedCount": 7,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 4800,
+    "duration": null,
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ustc-plans",
+    "sourceRow": 12,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ustc-plans"
+      ],
+      "requiredSubjects": [
+        "top20-ustc-charter"
+      ],
+      "subjectRule": [
+        "top20-ustc-charter"
+      ],
+      "requirementText": [
+        "top20-ustc-charter"
+      ],
+      "tuition": [
+        "top20-ustc-charter"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：080701-电子信息工程;080801-自动化;080717-人工智能;080910-数据科学与大数据技术;080702-电子科学与技术;080710-集成电路设计与集成系统;080911-网络空间安全;080904-信息安全。以广西招办公布的计划及正式调整为准。广西正式组码待核；原计划未注明广西批次及学制。"
+  },
+  {
+    "id": "plan26-top20-f76b972bc7db2a89",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "理科试验班（金融学与数学创新人才班）",
+    "majorCode": null,
+    "sourceMajorCode": "H3",
+    "includedMajors": "金融学",
+    "plannedCount": 1,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 5000,
+    "duration": "四年",
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ruc-plans",
+    "sourceRow": 1,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ruc-plans"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：金融学。以广西招办公布的计划及正式调整为准。广西正式组码待核；高校原文类别：本科一批；原文广西批次：本科普通批。高校专业代号：H3（填报专业代码待核）。"
+  },
+  {
+    "id": "plan26-top20-c996879badee6391",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "理科试验班（金融与大数据技术[金融科技]创新人才班）",
+    "majorCode": null,
+    "sourceMajorCode": "H4",
+    "includedMajors": "金融学",
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 5000,
+    "duration": "四年",
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ruc-plans",
+    "sourceRow": 2,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ruc-plans"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：金融学。以广西招办公布的计划及正式调整为准。广西正式组码待核；高校原文类别：本科一批；原文广西批次：本科普通批。高校专业代号：H4（填报专业代码待核）。"
+  },
+  {
+    "id": "plan26-top20-e61f9bf8831025fa",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "理科试验班（新时代经济学拔尖人才班）",
+    "majorCode": null,
+    "sourceMajorCode": "J4",
+    "includedMajors": "经济学",
+    "plannedCount": 1,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 5000,
+    "duration": "四年",
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ruc-plans",
+    "sourceRow": 3,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ruc-plans"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：经济学。以广西招办公布的计划及正式调整为准。广西正式组码待核；高校原文类别：本科一批；原文广西批次：本科普通批。高校专业代号：J4（填报专业代码待核）。"
+  },
+  {
+    "id": "plan26-top20-f7123d8a9f3acf80",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "理科试验班（大数据分析与商务智能）",
+    "majorCode": null,
+    "sourceMajorCode": "L2",
+    "includedMajors": "工商管理、财务管理、会计学、市场营销、管理科学、贸易经济",
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 5000,
+    "duration": "四年",
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ruc-plans",
+    "sourceRow": 4,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ruc-plans"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：工商管理、财务管理、会计学、市场营销、管理科学、贸易经济。以广西招办公布的计划及正式调整为准。广西正式组码待核；高校原文类别：本科一批；原文广西批次：本科普通批。高校专业代号：L2（填报专业代码待核）。"
+  },
+  {
+    "id": "plan26-top20-7c65db053a5d5639",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "统计学类（数智科学家计划）",
+    "majorCode": null,
+    "sourceMajorCode": "N1",
+    "includedMajors": "统计学、应用统计学、经济统计学、数据科学",
+    "plannedCount": 3,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 5000,
+    "duration": "四年",
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ruc-plans",
+    "sourceRow": 5,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ruc-plans"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：统计学、应用统计学、经济统计学、数据科学。以广西招办公布的计划及正式调整为准。广西正式组码待核；高校原文类别：本科一批；原文广西批次：本科普通批。高校专业代号：N1（填报专业代码待核）。"
+  },
+  {
+    "id": "plan26-top20-c3bd8964fd9011d4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "人工智能",
+    "majorCode": null,
+    "sourceMajorCode": "Q1",
+    "includedMajors": "人工智能",
+    "plannedCount": 3,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 5000,
+    "duration": "四年",
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ruc-plans",
+    "sourceRow": 6,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ruc-plans"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：人工智能。以广西招办公布的计划及正式调整为准。广西正式组码待核；高校原文类别：本科一批；原文广西批次：本科普通批。高校专业代号：Q1（填报专业代码待核）。"
+  },
+  {
+    "id": "plan26-top20-f31f24d7b3382d7f",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "计算机类（AI全栈工程师计划）",
+    "majorCode": null,
+    "sourceMajorCode": "Q2",
+    "includedMajors": "计算机科学与技术、信息管理与信息系统、信息安全、数据科学与大数据技术、软件工程",
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "tuition": 5000,
+    "duration": "四年",
+    "category": "普通类",
+    "planStage": "initial",
+    "planVersion": "2026高校公开普通招生计划（当前查询版；广西组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-10",
+    "sourceId": "top20-ruc-plans",
+    "sourceRow": 7,
+    "fieldSourceIds": {
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "includedMajors": [
+        "top20-ruc-plans"
+      ]
+    },
+    "groupMissingReason": "高校查询未公开广西正式专业组代码，不能直接匹配首轮组线。",
+    "note": "包含专业：计算机科学与技术、信息管理与信息系统、信息安全、数据科学与大数据技术、软件工程。以广西招办公布的计划及正式调整为准。广西正式组码待核；高校原文类别：本科一批；原文广西批次：本科普通批。高校专业代号：Q2（填报专业代码待核）。"
+  }
+]

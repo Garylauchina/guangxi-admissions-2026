@@ -1,0 +1,101 @@
+{
+  "checkedAt": "2026-09-10",
+  "baselineCommit": "b40a89bed09cc8eb12b28746d91d9724f744bb72",
+  "targetGroups": 20,
+  "targetSchools": 15,
+  "matchedTargetGroups": 0,
+  "unmatchedTargetGroups": 20,
+  "before": {
+    "plans": 1849,
+    "planSchools": 25,
+    "matchedPlans": 552,
+    "matchedGroups": 130
+  },
+  "after": {
+    "plans": 1970,
+    "planSchools": 35,
+    "matchedPlans": 552,
+    "matchedGroups": 130,
+    "sourceCatalogSchools": 45
+  },
+  "addedPlans": 121,
+  "addedSeats": 510,
+  "schools": [
+    {
+      "schoolCode": "10007",
+      "school": "北京理工大学",
+      "plans": 4,
+      "seats": 7,
+      "matchedPlans": 0
+    },
+    {
+      "schoolCode": "10006",
+      "school": "北京航空航天大学",
+      "plans": 10,
+      "seats": 23,
+      "matchedPlans": 0
+    },
+    {
+      "schoolCode": "10558",
+      "school": "中山大学",
+      "plans": 24,
+      "seats": 167,
+      "matchedPlans": 0
+    },
+    {
+      "schoolCode": "10213",
+      "school": "哈尔滨工业大学",
+      "plans": 7,
+      "seats": 12,
+      "matchedPlans": 0
+    },
+    {
+      "schoolCode": "10487",
+      "school": "华中科技大学",
+      "plans": 27,
+      "seats": 160,
+      "matchedPlans": 0
+    },
+    {
+      "schoolCode": "10358",
+      "school": "中国科学技术大学",
+      "plans": 12,
+      "seats": 30,
+      "matchedPlans": 0
+    },
+    {
+      "schoolCode": "10002",
+      "school": "中国人民大学",
+      "plans": 7,
+      "seats": 14,
+      "matchedPlans": 0
+    },
+    {
+      "schoolCode": "10248",
+      "school": "上海交通大学",
+      "plans": 15,
+      "seats": 35,
+      "matchedPlans": 0
+    },
+    {
+      "schoolCode": "19248",
+      "school": "上海交通大学医学院",
+      "plans": 3,
+      "seats": 15,
+      "matchedPlans": 0
+    },
+    {
+      "schoolCode": "10284",
+      "school": "南京大学",
+      "plans": 12,
+      "seats": 47,
+      "matchedPlans": 0
+    }
+  ],
+  "limitations": [
+    "20个是按首轮投档分降序锁定的待补专业组，不是20所学校，也不代表20组均已补齐。",
+    "物理与历史分数合并排序只决定采集顺序，不用来比较两科录取难度；高校专项保留资格边界。",
+    "没有广西正式组码的学校计划可查询，但不能按相似专业、唯一组或征集组码关联首轮组线。",
+    "当前官网计划不保证为第一发布版或广西最终调整版；初始计划分类只表示非征集余额。"
+  ]
+}

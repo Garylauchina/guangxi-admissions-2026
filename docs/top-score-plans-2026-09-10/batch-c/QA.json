@@ -1,0 +1,280 @@
+{
+  "checkedAt": "2026-09-10",
+  "passed": true,
+  "checks": [
+    {
+      "check": "bit 当前2026广西物理数据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bit 列表与汇总闭合",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bit 原始省组码未给出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "buaa 当前2026广西物理数据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "buaa 列表与汇总闭合",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "buaa 原始省组码未给出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sysu 当前2026广西物理数据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sysu 列表与汇总闭合",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sysu 原始省组码未给出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 2026广西页面年份",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业目录精确对应 工科试验班（AI院士特色班）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业学费可核 工科试验班（AI院士特色班）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业目录精确对应 具身智能（大湾区班）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业学费可核 具身智能（大湾区班）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业目录精确对应 人工智能（中关村班）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业学费可核 人工智能（中关村班）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业目录精确对应 工科试验班（院士特色班）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业学费可核 工科试验班（院士特色班）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业目录精确对应 工科试验班（未来技术拔尖班）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业学费可核 工科试验班（未来技术拔尖班）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业目录精确对应 工科试验班（自主智能）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业学费可核 工科试验班（自主智能）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业目录精确对应 工科试验班（脑机智能）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "HIT 专业学费可核 工科试验班（脑机智能）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bit 收录范围行数人数",
+      "passed": true,
+      "detail": {
+        "rows": 4,
+        "seats": 7
+      }
+    },
+    {
+      "check": "buaa 收录范围行数人数",
+      "passed": true,
+      "detail": {
+        "rows": 10,
+        "seats": 23
+      }
+    },
+    {
+      "check": "hit 收录范围行数人数",
+      "passed": true,
+      "detail": {
+        "rows": 7,
+        "seats": 12
+      }
+    },
+    {
+      "check": "sysu 收录范围行数人数",
+      "passed": true,
+      "detail": {
+        "rows": 24,
+        "seats": 167
+      }
+    },
+    {
+      "check": "hust 收录范围行数人数",
+      "passed": true,
+      "detail": {
+        "rows": 27,
+        "seats": 160
+      }
+    },
+    {
+      "check": "总计72条369人",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "所有目标严格来自锁定清单",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "所有正式组保持未知",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "华科未知选科不得判为不限",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "所有行广西2026初始计划",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "来源ID完整",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "记录ID唯一",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "中山首年培养地点逐行可见",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "API脱敏归档",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "summary": {
+    "schools": 5,
+    "rows": 72,
+    "seats": 369,
+    "targetMatched": 0,
+    "targetPartial": 5
+  },
+  "verificationChecks": [
+    {
+      "check": "bit 脱敏响应哈希",
+      "passed": true
+    },
+    {
+      "check": "bit 无会话响应字段",
+      "passed": true
+    },
+    {
+      "check": "buaa 脱敏响应哈希",
+      "passed": true
+    },
+    {
+      "check": "buaa 无会话响应字段",
+      "passed": true
+    },
+    {
+      "check": "sysu 脱敏响应哈希",
+      "passed": true
+    },
+    {
+      "check": "sysu 无会话响应字段",
+      "passed": true
+    },
+    {
+      "check": "bit 来源哈希闭合",
+      "passed": true
+    },
+    {
+      "check": "buaa 来源哈希闭合",
+      "passed": true
+    },
+    {
+      "check": "hit 来源哈希闭合",
+      "passed": true
+    },
+    {
+      "check": "sysu 来源哈希闭合",
+      "passed": true
+    },
+    {
+      "check": "hust 来源哈希闭合",
+      "passed": true
+    },
+    {
+      "check": "现站同ID不冲突",
+      "passed": true
+    },
+    {
+      "check": "北航软件分流收费逐项保留",
+      "passed": true
+    },
+    {
+      "check": "华科软件分学年收费",
+      "passed": true
+    },
+    {
+      "check": "哈工大大湾区收费",
+      "passed": true
+    }
+  ]
+}

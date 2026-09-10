@@ -1,0 +1,56 @@
+[
+  {
+    "schoolCode": "10001",
+    "school": "北京大学",
+    "year": 2026,
+    "status": "entry-only",
+    "sourceKind": "仅官方入口或全国资料，未取得2026广西初始计划",
+    "sourceIds": [
+      "top-a-pku-ordinary-alias",
+      "top-a-pku-brochures-alias",
+      "top-a-pku-brochure-2026",
+      "top-a-pku-contact",
+      "top-a-gx-plan-login"
+    ],
+    "checkedAt": "2026-09-10T07:44:34.227632+00:00",
+    "note": "已取得北大2026全国招生指南和官方招生入口，但指南未提供广西分省分专业计划；未取得本组专业、人数及直接省编组码关系，不能用全国专业目录或旧年计划填充。"
+  },
+  {
+    "schoolCode": "19001",
+    "school": "北京大学医学部",
+    "year": 2026,
+    "status": "entry-only",
+    "sourceKind": "仅官方入口或全国资料，未取得2026广西初始计划",
+    "sourceIds": [
+      "top-a-med-plans",
+      "top-a-med-gx-2025",
+      "top-a-med-notices",
+      "top-a-gx-plan-login"
+    ],
+    "checkedAt": "2026-09-10T07:44:34.227632+00:00",
+    "note": "医学部官方计划栏目目前仅列2025、2024、2023；广西可读计划页明确属于2025，已排除。2026咨询微信入口返回环境验证，未绕过。尚未取得2026广西本组计划。医学部19001与北大本部10001分别记录。",
+    "entryUrl": "https://bkzs.bjmu.edu.cn/zsxx/zsjh/index.htm"
+  },
+  {
+    "schoolCode": "10003",
+    "school": "清华大学",
+    "year": 2026,
+    "status": "entry-only",
+    "sourceKind": "仅官方入口或全国资料，未取得2026广西初始计划",
+    "sourceIds": [
+      "top-a-thu-general",
+      "top-a-thu-self",
+      "top-a-thu-plan-legacy",
+      "top-a-thu-info-disclosure",
+      "top-a-thu-contact-2026",
+      "top-a-gx-plan-login",
+      "top-a-thu-query-2026-physics-general",
+      "top-a-thu-query-2026-physics-special",
+      "top-a-thu-query-2026-history-general",
+      "top-a-thu-query-2026-history-special"
+    ],
+    "checkedAt": "2026-09-10T07:44:34.227632+00:00",
+    "note": "清华官方旧计划查询仅列2010–2014；2026广西文理科的统招与专项查询均为空，2014广西同编码阳性对照可返回数据。现有2026专业类介绍和咨询公告不是广西分省计划；尚未取得本组专业、人数及直接组码关系。",
+    "entryUrl": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do"
+  }
+]

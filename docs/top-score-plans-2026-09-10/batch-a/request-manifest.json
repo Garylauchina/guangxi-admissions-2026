@@ -1,0 +1,160 @@
+[
+  {
+    "id": "thu-contact-2026",
+    "url": "https://join-tsinghua.edu.cn/info/1033/2197.htm"
+  },
+  {
+    "id": "thu-contact-gx-image",
+    "url": "https://join-tsinghua.edu.cn/__local/7/69/22/895C97D886FAE6E5201A7476F6E_DF3EB1FA_163BF.jpg",
+    "extension": "jpg"
+  },
+  {
+    "id": "med-plans",
+    "url": "https://bkzs.bjmu.edu.cn/zsxx/zsjh/index.htm"
+  },
+  {
+    "id": "med-charter",
+    "url": "https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--infoId-7666846197,method-view,schId-6405527.dhtml"
+  },
+  {
+    "id": "pku-http",
+    "url": "http://www.gotopku.cn/"
+  },
+  {
+    "id": "pku-plain",
+    "url": "https://gotopku.cn/"
+  },
+  {
+    "id": "thu-general",
+    "url": "https://www.join-tsinghua.edu.cn/gnxs/gktz.htm"
+  },
+  {
+    "id": "thu-self",
+    "url": "https://www.join-tsinghua.edu.cn/gnxs/zqjh.htm"
+  },
+  {
+    "id": "med-plan-2025-index",
+    "url": "https://bkzs.bjmu.edu.cn/zsxx/zsjh/2022/index.htm"
+  },
+  {
+    "id": "med-plan-gx-linked",
+    "url": "https://bkzs.bjmu.edu.cn/zsxx/zsjh/2024/gx13/index.htm"
+  },
+  {
+    "id": "med-notices",
+    "url": "https://bkzs.bjmu.edu.cn/zsxx/tzgs/index.htm"
+  },
+  {
+    "id": "thu-consult",
+    "url": "https://www.join-tsinghua.edu.cn/xxgk/zxdh_ssqd.htm"
+  },
+  {
+    "id": "thu-major",
+    "url": "https://www.join-tsinghua.edu.cn/gnxs/zszyl.htm"
+  },
+  {
+    "id": "pku-mirror-main",
+    "url": "https://bkzs.pku.edu.cn/"
+  },
+  {
+    "id": "med-gx-2025",
+    "url": "https://bkzs.bjmu.edu.cn/zsxx/zsjh/2022/4722f60edd5f4a399aa959d4456167b2/index.htm"
+  },
+  {
+    "id": "thu-consult-detail",
+    "url": "https://www.join-tsinghua.edu.cn/info/1169/1377.htm"
+  },
+  {
+    "id": "med-consult-wechat",
+    "url": "https://mp.weixin.qq.com/s/JHu6z_gcWxCnthAxQrRbaw"
+  },
+  {
+    "id": "pku-ordinary-alias",
+    "url": "https://bkzs.pku.edu.cn/zslb/ptgk/index.htm"
+  },
+  {
+    "id": "pku-brochures-alias",
+    "url": "https://bkzs.pku.edu.cn/xxgk/zsjz/index.htm"
+  },
+  {
+    "id": "pku-contact",
+    "url": "https://bkzs.pku.edu.cn/tzgg/d8b0aca855ea4a359d5a223e13e90466.htm"
+  },
+  {
+    "id": "pku-sitemap",
+    "url": "https://bkzs.pku.edu.cn/wzdt/index.htm"
+  },
+  {
+    "id": "pku-brochure-2026",
+    "url": "https://bkzs.pku.edu.cn/docs/2026-06/ea87b5bdc4c2436787106a463d1d6bb0.pdf",
+    "extension": "pdf"
+  },
+  {
+    "id": "gx-plan-login",
+    "url": "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx",
+    "extension": "html"
+  },
+  {
+    "id": "thu-plan-legacy",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do"
+  },
+  {
+    "id": "thu-info-disclosure",
+    "url": "https://www.tsinghua.edu.cn/zjqh/xxgk1/gksxx/zskss.htm"
+  },
+  {
+    "id": "thu-query-2026-physics-general",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "body": "m=queryByCon&nf=2026&sf=%25E5%25B9%25BF%25E8%25A5%25BF&kl=%25E7%2590%2586%25E5%25B7%25A5%25E7%25B1%25BB&jhlx=%25E7%25BB%259F%25E6%258B%259B",
+    "extension": "json",
+    "query": {
+      "year": 2026,
+      "province": "广西",
+      "track": "理工类",
+      "category": "统招"
+    }
+  },
+  {
+    "id": "thu-query-2026-physics-special",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "body": "m=queryByCon&nf=2026&sf=%25E5%25B9%25BF%25E8%25A5%25BF&kl=%25E7%2590%2586%25E5%25B7%25A5%25E7%25B1%25BB&jhlx=%25E4%25B8%2593%25E9%25A1%25B9%25E8%25AE%25A1%25E5%2588%2592",
+    "extension": "json",
+    "query": {
+      "year": 2026,
+      "province": "广西",
+      "track": "理工类",
+      "category": "专项计划"
+    }
+  },
+  {
+    "id": "thu-query-2026-history-general",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "body": "m=queryByCon&nf=2026&sf=%25E5%25B9%25BF%25E8%25A5%25BF&kl=%25E6%2596%2587%25E5%258F%25B2%25E7%25B1%25BB&jhlx=%25E7%25BB%259F%25E6%258B%259B",
+    "extension": "json",
+    "query": {
+      "year": 2026,
+      "province": "广西",
+      "track": "文史类",
+      "category": "统招"
+    }
+  },
+  {
+    "id": "thu-query-2026-history-special",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "body": "m=queryByCon&nf=2026&sf=%25E5%25B9%25BF%25E8%25A5%25BF&kl=%25E6%2596%2587%25E5%258F%25B2%25E7%25B1%25BB&jhlx=%25E4%25B8%2593%25E9%25A1%25B9%25E8%25AE%25A1%25E5%2588%2592",
+    "extension": "json",
+    "query": {
+      "year": 2026,
+      "province": "广西",
+      "track": "文史类",
+      "category": "专项计划"
+    }
+  },
+  {
+    "id": "thu-query-control-2014-gx",
+    "url": "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+    "body": "m=queryByCon&nf=2014&sf=%25E5%25B9%25BF%25E8%25A5%25BF&kl=%25E7%2590%2586%25E5%25B7%25A5%25E7%25B1%25BB&jhlx=%25E7%25BB%259F%25E6%258B%259B",
+    "extension": "json",
+    "purpose": "阳性对照，确认公开前端参数编码有效；旧年不导入2026计划"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "cutoffId": "gx-2026-33107-10248-109",
+    "priority": 3,
+    "school": "上海交通大学",
+    "schoolCode": "10248",
+    "track": "物理",
+    "group": "109",
+    "score": 685,
+    "status": "source-found",
+    "note": "官网2026初始计划已逐项录入15条普通理工35人（含1条浦江国际学院项目）；广西组码、再选科目和批次未列。109与110组均无法把具体专业严格归组，本次目标未匹配。",
+    "sourceIds": [
+      "top-b-sjtu-2026-plan-page",
+      "top-b-sjtu-2026-plan-api",
+      "top-b-sjtu-2026-plan-image",
+      "top-b-sjtu-plan-news-list",
+      "top-b-sjtu-pujiang-overview",
+      "top-b-gxeea-2026-physics-filing"
+    ],
+    "checkedUrls": [
+      "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004311",
+      "https://admissions.sjtu.edu.cn/rnapi/getNewsDetail",
+      "https://admissions.sjtu.edu.cn/uploadFile/17842586227624172/%E5%AF%BC%E5%87%BA%E9%A1%B5%E9%9D%A2%E8%87%AA%20%E4%BA%A4%E9%80%9A%E6%8B%9B%E7%94%9F.png",
+      "https://admissions.sjtu.edu.cn/rnapi/newsList",
+      "https://gc.sjtu.edu.cn/cn/admission/undergraduate-admission/overview/",
+      "https://www.gxeea.cn/view/content_624_33107.htm"
+    ],
+    "checkedAt": "2026-09-10T07:49:07.358645+00:00",
+    "matchedPlanCount": 0,
+    "unmappedSchoolPlanCount": 15,
+    "accessRestriction": "missing-group-code"
+  },
+  {
+    "cutoffId": "gx-2026-33107-10248-110",
+    "priority": 4,
+    "school": "上海交通大学",
+    "schoolCode": "10248",
+    "track": "物理",
+    "group": "110",
+    "score": 679,
+    "status": "source-found",
+    "note": "官网2026初始计划已逐项录入15条普通理工35人（含1条浦江国际学院项目）；广西组码、再选科目和批次未列。109与110组均无法把具体专业严格归组，本次目标未匹配。",
+    "sourceIds": [
+      "top-b-sjtu-2026-plan-page",
+      "top-b-sjtu-2026-plan-api",
+      "top-b-sjtu-2026-plan-image",
+      "top-b-sjtu-plan-news-list",
+      "top-b-sjtu-pujiang-overview",
+      "top-b-gxeea-2026-physics-filing"
+    ],
+    "checkedUrls": [
+      "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004311",
+      "https://admissions.sjtu.edu.cn/rnapi/getNewsDetail",
+      "https://admissions.sjtu.edu.cn/uploadFile/17842586227624172/%E5%AF%BC%E5%87%BA%E9%A1%B5%E9%9D%A2%E8%87%AA%20%E4%BA%A4%E9%80%9A%E6%8B%9B%E7%94%9F.png",
+      "https://admissions.sjtu.edu.cn/rnapi/newsList",
+      "https://gc.sjtu.edu.cn/cn/admission/undergraduate-admission/overview/",
+      "https://www.gxeea.cn/view/content_624_33107.htm"
+    ],
+    "checkedAt": "2026-09-10T07:49:07.358645+00:00",
+    "matchedPlanCount": 0,
+    "unmappedSchoolPlanCount": 15,
+    "accessRestriction": "missing-group-code"
+  },
+  {
+    "cutoffId": "gx-2026-33107-10335-150",
+    "priority": 5,
+    "school": "浙江大学",
+    "schoolCode": "10335",
+    "track": "物理",
+    "group": "150",
+    "score": 678,
+    "status": "entry-only",
+    "note": "核查招生主页、信息公开与最新公告未取得2026广西分专业人数及150组清单。此前xjjh-detail/2026?id=450000经官网链接、配置和详情脚本确认是本科招生咨询联系方式，并非计划查询，不能据其页面年份认定有广西2026计划。",
+    "sourceIds": [
+      "top-b-zju-zsc-home",
+      "top-b-zju-entry",
+      "top-b-zju-config",
+      "top-b-zju-detail-js",
+      "top-b-zju-undergraduate-info",
+      "top-b-zju-information-list",
+      "top-b-zju-news-list"
+    ],
+    "checkedUrls": [
+      "https://zdzsc.zju.edu.cn/",
+      "https://bgptzdzsc.zju.edu.cn/zjuzsxj/xjjh-detail/2026?id=450000",
+      "https://bgptzdzsc.zju.edu.cn/zjuzsxj/_app.config.js",
+      "https://bgptzdzsc.zju.edu.cn/zjuzsxj/assets/detail.4e223f2e.js",
+      "https://www.zju.edu.cn/xxgk/1685/list.htm",
+      "https://zdzsc.zju.edu.cn/87245/list.htm",
+      "https://zdzsc.zju.edu.cn/zxgg/list.htm"
+    ],
+    "checkedAt": "2026-09-10T07:49:07.358645+00:00",
+    "matchedPlanCount": 0,
+    "unmappedSchoolPlanCount": 0,
+    "accessRestriction": "missing-current-plan"
+  },
+  {
+    "cutoffId": "gx-2026-33107-19248-101",
+    "priority": 8,
+    "school": "上海交通大学医学院",
+    "schoolCode": "19248",
+    "track": "物理",
+    "group": "101",
+    "score": 674,
+    "status": "source-found",
+    "note": "官网2026医学院单独普通计划已录入3条15人，独立校码19248；原图未列广西101/102等组归属，不能认定101组已有计划匹配。医学院计划栏目另查仅见2025及2024，未由旧年补2026字段。",
+    "sourceIds": [
+      "top-b-sjtu-2026-plan-page",
+      "top-b-sjtu-2026-plan-api",
+      "top-b-sjtu-2026-plan-image",
+      "top-b-sjtu-med-home",
+      "top-b-sjtu-med-plan-list",
+      "top-b-sjtu-med-plan-home",
+      "top-b-gxeea-2026-physics-filing"
+    ],
+    "checkedUrls": [
+      "https://admissions.sjtu.edu.cn/newDetails?contentsID=3810000004311",
+      "https://admissions.sjtu.edu.cn/rnapi/getNewsDetail",
+      "https://admissions.sjtu.edu.cn/uploadFile/17842586227624172/%E5%AF%BC%E5%87%BA%E9%A1%B5%E9%9D%A2%E8%87%AA%20%E4%BA%A4%E9%80%9A%E6%8B%9B%E7%94%9F.png",
+      "https://www.shsmu.edu.cn/ygzs/",
+      "https://www.shsmu.edu.cn/ygzs/zsxx/zsjh.htm",
+      "https://www.shsmu.edu.cn/ygzs/zsjh.htm",
+      "https://www.gxeea.cn/view/content_624_33107.htm"
+    ],
+    "checkedAt": "2026-09-10T07:49:07.358645+00:00",
+    "matchedPlanCount": 0,
+    "unmappedSchoolPlanCount": 3,
+    "accessRestriction": "missing-group-code"
+  },
+  {
+    "cutoffId": "gx-2026-33107-10246-102",
+    "priority": 9,
+    "school": "复旦大学",
+    "schoolCode": "10246",
+    "track": "物理",
+    "group": "102",
+    "score": 673,
+    "status": "entry-only",
+    "note": "官方招生计划栏目当前最新可读2024；2026章程只说明分省专业计划以各省级招办公布为准。未取得2026广西102组专业和人数；搜索发现的“2026参考”旧年或预测表未采用。",
+    "sourceIds": [
+      "top-b-fudan-plan-list",
+      "top-b-fudan-home",
+      "top-b-fudan-2026-charter"
+    ],
+    "checkedUrls": [
+      "https://ao.fudan.edu.cn/36332/list.htm",
+      "https://ao.fudan.edu.cn/_web/main.psp",
+      "https://www.fudan.edu.cn/2026/0528/c24a149374/page.htm"
+    ],
+    "checkedAt": "2026-09-10T07:49:07.358645+00:00",
+    "matchedPlanCount": 0,
+    "unmappedSchoolPlanCount": 0,
+    "accessRestriction": "missing-current-plan"
+  },
+  {
+    "cutoffId": "gx-2026-33107-10284-105",
+    "priority": 15,
+    "school": "南京大学",
+    "schoolCode": "10284",
+    "track": "物理",
+    "group": "105",
+    "score": 668,
+    "status": "source-found",
+    "note": "按官网公开正常会话和CSRF流程已成功取得2026广西物理类普通批次12条47人，四年、物理化学均须均有直接依据；具体广西批次、学费、省编专业代号、组码未列，105组仍不能匹配。早期裸请求403为已解决的访问方式问题，不能再表述为当前接口不可读取。",
+    "sourceIds": [
+      "top-b-nju-home",
+      "top-b-nju-init-js",
+      "top-b-nju-plan-page",
+      "top-b-nju-tplt-js",
+      "top-b-nju-params-session",
+      "top-b-nju-gx-2026-normal",
+      "top-b-nju-plan-params",
+      "top-b-nju-plan-api",
+      "top-b-nju-plan-gx-physics",
+      "top-b-gxeea-2026-physics-filing"
+    ],
+    "checkedUrls": [
+      "https://bkzs.nju.edu.cn/",
+      "https://bkzs.nju.edu.cn/static/front/nju/basic/js/init.js",
+      "https://bkzs.nju.edu.cn/static/front/nju/basic/html_web/zsjh.html",
+      "https://bkzs.nju.edu.cn/static/front/nju/basic/js/tplt.js",
+      "https://bkzs.nju.edu.cn/f/ajax_zsjh_param",
+      "https://bkzs.nju.edu.cn/f/ajax_zsjh",
+      "https://bkzs.nju.edu.cn/f/ajax_zsjh_param",
+      "https://bkzs.nju.edu.cn/f/ajax_zsjh",
+      "https://bkzs.nju.edu.cn/f/ajax_zsjh",
+      "https://www.gxeea.cn/view/content_624_33107.htm"
+    ],
+    "checkedAt": "2026-09-10T07:49:07.358645+00:00",
+    "matchedPlanCount": 0,
+    "unmappedSchoolPlanCount": 12,
+    "accessRestriction": "missing-group-code"
+  }
+]

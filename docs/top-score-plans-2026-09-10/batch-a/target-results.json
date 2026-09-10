@@ -1,0 +1,289 @@
+[
+  {
+    "cutoffId": "gx-2026-33107-10001-102",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10001",
+    "school": "北京大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": "102",
+    "score": 685,
+    "status": "entry-only",
+    "note": "已取得北大2026全国招生指南和官方招生入口，但指南未提供广西分省分专业计划；未取得本组专业、人数及直接省编组码关系，不能用全国专业目录或旧年计划填充。",
+    "sourceIds": [
+      "top-a-pku-ordinary-alias",
+      "top-a-pku-brochures-alias",
+      "top-a-pku-brochure-2026",
+      "top-a-pku-contact",
+      "top-a-gx-plan-login"
+    ],
+    "checkedAt": "2026-09-10T07:44:34.227632+00:00",
+    "addedPlanCount": 0,
+    "matchedPlanCount": 0,
+    "missingFields": [
+      "本组专业组成",
+      "初始计划人数",
+      "直接省编组码与专业对应",
+      "再选科目要求",
+      "学费",
+      "学制",
+      "培养与报考限制"
+    ],
+    "checkedUrls": [
+      "https://bkzs.pku.edu.cn/zslb/ptgk/index.htm",
+      "https://bkzs.pku.edu.cn/xxgk/zsjz/index.htm",
+      "https://bkzs.pku.edu.cn/docs/2026-06/ea87b5bdc4c2436787106a463d1d6bb0.pdf",
+      "https://bkzs.pku.edu.cn/tzgg/d8b0aca855ea4a359d5a223e13e90466.htm",
+      "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx"
+    ]
+  },
+  {
+    "cutoffId": "gx-2026-33107-10003-103",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10003",
+    "school": "清华大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": "103",
+    "score": 685,
+    "status": "entry-only",
+    "note": "清华官方旧计划查询仅列2010–2014；2026广西文理科的统招与专项查询均为空，2014广西同编码阳性对照可返回数据。现有2026专业类介绍和咨询公告不是广西分省计划；尚未取得本组专业、人数及直接组码关系。",
+    "sourceIds": [
+      "top-a-thu-general",
+      "top-a-thu-self",
+      "top-a-thu-plan-legacy",
+      "top-a-thu-info-disclosure",
+      "top-a-thu-contact-2026",
+      "top-a-gx-plan-login",
+      "top-a-thu-query-2026-physics-general"
+    ],
+    "checkedAt": "2026-09-10T07:44:34.227632+00:00",
+    "addedPlanCount": 0,
+    "matchedPlanCount": 0,
+    "missingFields": [
+      "本组专业组成",
+      "初始计划人数",
+      "直接省编组码与专业对应",
+      "再选科目要求",
+      "学费",
+      "学制",
+      "培养与报考限制"
+    ],
+    "checkedUrls": [
+      "https://www.join-tsinghua.edu.cn/gnxs/gktz.htm",
+      "https://www.join-tsinghua.edu.cn/gnxs/zqjh.htm",
+      "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+      "https://www.tsinghua.edu.cn/zjqh/xxgk1/gksxx/zskss.htm",
+      "https://join-tsinghua.edu.cn/info/1033/2197.htm",
+      "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx",
+      "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do"
+    ]
+  },
+  {
+    "cutoffId": "gx-2026-33107-19001-101",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "19001",
+    "school": "北京大学医学部",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": "101",
+    "score": 678,
+    "status": "entry-only",
+    "note": "医学部官方计划栏目目前仅列2025、2024、2023；广西可读计划页明确属于2025，已排除。2026咨询微信入口返回环境验证，未绕过。尚未取得2026广西本组计划。医学部19001与北大本部10001分别记录。",
+    "sourceIds": [
+      "top-a-med-plans",
+      "top-a-med-gx-2025",
+      "top-a-med-notices",
+      "top-a-gx-plan-login"
+    ],
+    "checkedAt": "2026-09-10T07:44:34.227632+00:00",
+    "addedPlanCount": 0,
+    "matchedPlanCount": 0,
+    "missingFields": [
+      "本组专业组成",
+      "初始计划人数",
+      "直接省编组码与专业对应",
+      "再选科目要求",
+      "学费",
+      "学制",
+      "培养与报考限制"
+    ],
+    "checkedUrls": [
+      "https://bkzs.bjmu.edu.cn/zsxx/zsjh/index.htm",
+      "https://bkzs.bjmu.edu.cn/zsxx/zsjh/2022/4722f60edd5f4a399aa959d4456167b2/index.htm",
+      "https://bkzs.bjmu.edu.cn/zsxx/tzgs/index.htm",
+      "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx"
+    ]
+  },
+  {
+    "cutoffId": "gx-2026-33106-10003-104",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10003",
+    "school": "清华大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": "104",
+    "score": 675,
+    "status": "entry-only",
+    "note": "清华官方旧计划查询仅列2010–2014；2026广西文理科的统招与专项查询均为空，2014广西同编码阳性对照可返回数据。现有2026专业类介绍和咨询公告不是广西分省计划；尚未取得本组专业、人数及直接组码关系。",
+    "sourceIds": [
+      "top-a-thu-general",
+      "top-a-thu-self",
+      "top-a-thu-plan-legacy",
+      "top-a-thu-info-disclosure",
+      "top-a-thu-contact-2026",
+      "top-a-gx-plan-login",
+      "top-a-thu-query-2026-history-general"
+    ],
+    "checkedAt": "2026-09-10T07:44:34.227632+00:00",
+    "addedPlanCount": 0,
+    "matchedPlanCount": 0,
+    "missingFields": [
+      "本组专业组成",
+      "初始计划人数",
+      "直接省编组码与专业对应",
+      "再选科目要求",
+      "学费",
+      "学制",
+      "培养与报考限制"
+    ],
+    "checkedUrls": [
+      "https://www.join-tsinghua.edu.cn/gnxs/gktz.htm",
+      "https://www.join-tsinghua.edu.cn/gnxs/zqjh.htm",
+      "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+      "https://www.tsinghua.edu.cn/zjqh/xxgk1/gksxx/zskss.htm",
+      "https://join-tsinghua.edu.cn/info/1033/2197.htm",
+      "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx",
+      "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do"
+    ]
+  },
+  {
+    "cutoffId": "gx-2026-33107-10003-602",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10003",
+    "school": "清华大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": "602",
+    "score": 672,
+    "status": "entry-only",
+    "note": "清华官方旧计划查询仅列2010–2014；2026广西文理科的统招与专项查询均为空，2014广西同编码阳性对照可返回数据。现有2026专业类介绍和咨询公告不是广西分省计划；尚未取得本组专业、人数及直接组码关系。",
+    "sourceIds": [
+      "top-a-thu-general",
+      "top-a-thu-self",
+      "top-a-thu-plan-legacy",
+      "top-a-thu-info-disclosure",
+      "top-a-thu-contact-2026",
+      "top-a-gx-plan-login",
+      "top-a-thu-query-2026-physics-special"
+    ],
+    "checkedAt": "2026-09-10T07:44:34.227632+00:00",
+    "addedPlanCount": 0,
+    "matchedPlanCount": 0,
+    "missingFields": [
+      "本组专业组成",
+      "初始计划人数",
+      "直接省编组码与专业对应",
+      "再选科目要求",
+      "学费",
+      "学制",
+      "培养与报考限制"
+    ],
+    "checkedUrls": [
+      "https://www.join-tsinghua.edu.cn/gnxs/gktz.htm",
+      "https://www.join-tsinghua.edu.cn/gnxs/zqjh.htm",
+      "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+      "https://www.tsinghua.edu.cn/zjqh/xxgk1/gksxx/zskss.htm",
+      "https://join-tsinghua.edu.cn/info/1033/2197.htm",
+      "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx",
+      "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do"
+    ]
+  },
+  {
+    "cutoffId": "gx-2026-33106-10001-101",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10001",
+    "school": "北京大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": "101",
+    "score": 666,
+    "status": "entry-only",
+    "note": "已取得北大2026全国招生指南和官方招生入口，但指南未提供广西分省分专业计划；未取得本组专业、人数及直接省编组码关系，不能用全国专业目录或旧年计划填充。",
+    "sourceIds": [
+      "top-a-pku-ordinary-alias",
+      "top-a-pku-brochures-alias",
+      "top-a-pku-brochure-2026",
+      "top-a-pku-contact",
+      "top-a-gx-plan-login"
+    ],
+    "checkedAt": "2026-09-10T07:44:34.227632+00:00",
+    "addedPlanCount": 0,
+    "matchedPlanCount": 0,
+    "missingFields": [
+      "本组专业组成",
+      "初始计划人数",
+      "直接省编组码与专业对应",
+      "再选科目要求",
+      "学费",
+      "学制",
+      "培养与报考限制"
+    ],
+    "checkedUrls": [
+      "https://bkzs.pku.edu.cn/zslb/ptgk/index.htm",
+      "https://bkzs.pku.edu.cn/xxgk/zsjz/index.htm",
+      "https://bkzs.pku.edu.cn/docs/2026-06/ea87b5bdc4c2436787106a463d1d6bb0.pdf",
+      "https://bkzs.pku.edu.cn/tzgg/d8b0aca855ea4a359d5a223e13e90466.htm",
+      "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx"
+    ]
+  },
+  {
+    "cutoffId": "gx-2026-33106-10003-601",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10003",
+    "school": "清华大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": "601",
+    "score": 666,
+    "status": "entry-only",
+    "note": "清华官方旧计划查询仅列2010–2014；2026广西文理科的统招与专项查询均为空，2014广西同编码阳性对照可返回数据。现有2026专业类介绍和咨询公告不是广西分省计划；尚未取得本组专业、人数及直接组码关系。",
+    "sourceIds": [
+      "top-a-thu-general",
+      "top-a-thu-self",
+      "top-a-thu-plan-legacy",
+      "top-a-thu-info-disclosure",
+      "top-a-thu-contact-2026",
+      "top-a-gx-plan-login",
+      "top-a-thu-query-2026-history-special"
+    ],
+    "checkedAt": "2026-09-10T07:44:34.227632+00:00",
+    "addedPlanCount": 0,
+    "matchedPlanCount": 0,
+    "missingFields": [
+      "本组专业组成",
+      "初始计划人数",
+      "直接省编组码与专业对应",
+      "再选科目要求",
+      "学费",
+      "学制",
+      "培养与报考限制"
+    ],
+    "checkedUrls": [
+      "https://www.join-tsinghua.edu.cn/gnxs/gktz.htm",
+      "https://www.join-tsinghua.edu.cn/gnxs/zqjh.htm",
+      "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+      "https://www.tsinghua.edu.cn/zjqh/xxgk1/gksxx/zskss.htm",
+      "https://join-tsinghua.edu.cn/info/1033/2197.htm",
+      "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx",
+      "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do"
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "id": "top20-ustc-charter",
+    "title": "中国科学技术大学2026年本科招生章程",
+    "url": "https://zsb.ustc.edu.cn/2026/0529/c35550a741990/page.htm",
+    "publisher": "中国科学技术大学",
+    "sourceType": "official",
+    "year": 2026,
+    "accessedAt": "2026-09-10",
+    "checkedAt": "2026-09-10T07:44:14.287081+00:00",
+    "sha256": "8cde9a1864a4a01a425251ea09ed198adaba2105c88f809168e4b235b252f881",
+    "method": "第十二条：所有招生专业物理、化学；第二十五条：4800元/学年。未给出分专业学制。",
+    "requestUrl": "https://zsb.ustc.edu.cn/2026/0529/c35550a741990/page.htm",
+    "requestData": null,
+    "recordCount": 0
+  },
+  {
+    "id": "top20-ustc-plans",
+    "title": "中国科学技术大学2026年广西物理类普通招生计划",
+    "url": "https://zsfw.ustc.edu.cn/zsw/zsjh.html",
+    "publisher": "中国科学技术大学",
+    "sourceType": "official",
+    "year": 2026,
+    "accessedAt": "2026-09-10",
+    "checkedAt": "2026-09-10T07:42:26.592154+00:00",
+    "sha256": "860bd5ad879c4225541916a455ac86a537eaa164c8db9a707c3416838ae513e7",
+    "method": "遵循公开页面的会话及CSRF查询流程，选择广西、2026、物理类、普通本科；核对分专业合计与总计。列表未列年的行按同响应汇总及查询条件确认年、科类；分类为非征集普通计划，不保证是第一发布版或省最终版，以省招办公布为准。正式广西组码为空，不能按唯一组或科目推断。",
+    "requestUrl": "https://zsfw.ustc.edu.cn/f/ajax_zsjh",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通本科"
+    },
+    "recordCount": 12,
+    "archiveSha256": "0614733d2369ef1c3c21f543c9f61cf954672c80676857ce4345502f66f7573c",
+    "redactedFields": [
+      "jessionid"
+    ]
+  },
+  {
+    "id": "top20-ustc-params",
+    "title": "中国科学技术大学2026招生计划查询条件",
+    "url": "https://zsfw.ustc.edu.cn/zsw/zsjh.html",
+    "publisher": "中国科学技术大学",
+    "sourceType": "official",
+    "year": 2026,
+    "accessedAt": "2026-09-10",
+    "checkedAt": "2026-09-10T07:41:27.058883+00:00",
+    "sha256": "1a7fd35b3185a760d03bf881f952c9a746e2c3f5969e3c5801ada4d08f52bc03",
+    "method": "公开筛选条件列有广西_2026_物理类及普通本科，withZyz=false；原响应会话字段不公开。",
+    "requestUrl": "https://zsfw.ustc.edu.cn/f/ajax_zsjh_param",
+    "requestData": {},
+    "recordCount": 0,
+    "archiveSha256": "c7f347dfd2e2cfb33b85df48f2d341bedae85c6a22f82e043286cb34dafc9546",
+    "redactedFields": [
+      "jessionid"
+    ]
+  },
+  {
+    "id": "top20-ruc-plans",
+    "title": "中国人民大学2026年广西物理类普通招生计划",
+    "url": "https://rdzs.ruc.edu.cn/zsw/zsjh.html",
+    "publisher": "中国人民大学",
+    "sourceType": "official",
+    "year": 2026,
+    "accessedAt": "2026-09-10",
+    "checkedAt": "2026-09-10T07:42:26.734176+00:00",
+    "sha256": "ced1b382a179f5e1c30b0bab13890e405a2288e8f9d314abca165135d854f9f3",
+    "method": "遵循公开页面的会话及CSRF查询流程，选择广西、2026、物理类、本科一批；核对分专业合计与总计。列表未列年的行按同响应汇总及查询条件确认年、科类；分类为非征集普通计划，不保证是第一发布版或省最终版，以省招办公布为准。正式广西组码为空，不能按唯一组或科目推断。",
+    "requestUrl": "https://rdzs.ruc.edu.cn/f/ajax_zsjh",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "本科一批"
+    },
+    "recordCount": 7,
+    "archiveSha256": "f15571e7ff01148edaf95930843d0f4bea0b8cbbd43ae60d6d86757491a68b55",
+    "redactedFields": [
+      "jessionid"
+    ]
+  },
+  {
+    "id": "top20-ruc-params",
+    "title": "中国人民大学2026招生计划查询条件",
+    "url": "https://rdzs.ruc.edu.cn/zsw/zsjh.html",
+    "publisher": "中国人民大学",
+    "sourceType": "official",
+    "year": 2026,
+    "accessedAt": "2026-09-10",
+    "checkedAt": "2026-09-10T07:41:27.182480+00:00",
+    "sha256": "f7a86100696b62009c3a122706bc58fdf6023896a364d5b202e40adf128539ab",
+    "method": "公开筛选条件列有广西_2026_物理类及本科一批，withZyz=false；原响应会话字段不公开。",
+    "requestUrl": "https://rdzs.ruc.edu.cn/f/ajax_zsjh_param",
+    "requestData": {},
+    "recordCount": 0,
+    "archiveSha256": "e0cd510e7956865ab0b3849c98f5b1332f7a7ef021f61742fca8ce4bdec4f882",
+    "redactedFields": [
+      "jessionid"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "year": 2026,
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "status": "collected",
+    "checkedAt": "2026-09-10",
+    "entryUrl": "https://zsfw.ustc.edu.cn/zsw/zsjh.html",
+    "sourceIds": [
+      "top20-ustc-plans",
+      "top20-ustc-params",
+      "top20-ustc-charter"
+    ],
+    "note": "本轮已收录官网2026年广西普通物理类12条分专业计划、30人。高校未公开广西正式专业组代码，因此目标物理101组仍未补齐组内计划；可先查看该校已收录计划。中科大同名试验班两行包含专业不同，分别保留；广西批次与学制待核。"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "status": "collected",
+    "checkedAt": "2026-09-10",
+    "entryUrl": "https://rdzs.ruc.edu.cn/zsw/zsjh.html",
+    "sourceIds": [
+      "top20-ruc-plans",
+      "top20-ruc-params"
+    ],
+    "note": "本轮已收录官网2026年广西普通物理类7条分专业计划、14人。高校未公开广西正式专业组代码，因此目标物理102组仍未补齐组内计划；可先查看该校已收录计划。招生人数、物理+化学、学费及学制已按原表收录。"
+  }
+]

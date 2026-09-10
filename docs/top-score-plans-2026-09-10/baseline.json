@@ -1,0 +1,8 @@
+{
+  "commit": "b40a89bed09cc8eb12b28746d91d9724f744bb72",
+  "plans": 1849,
+  "matchedPlans": 552,
+  "matchedGroups": 130,
+  "selection": "首轮且分数非空，尚无严格匹配计划；按score降序，schoolCode/track/group稳定打破同分；物理历史均含，专项保留类别，仅为采集优先级。",
+  "targetCount": 20
+}

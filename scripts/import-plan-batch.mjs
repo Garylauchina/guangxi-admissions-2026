@@ -6,7 +6,9 @@ import { recordSourceIds } from '../site/logic.js';
 import { buildCoverage } from '../site/coverage.js';
 
 const statuses = new Set(['collected', 'source-found', 'entry-only', 'unavailable']);
-const identity = r => [r.year, r.schoolCode, r.track, r.batch, r.major, r.category || '', r.majorCode || ''].join('|');
+// A school may publish identically named trial classes with different included majors.
+// Preserve those source rows without inventing different major names.
+const identity = r => [r.year, r.schoolCode, r.track, r.batch, r.major, r.category || '', r.majorCode || '', r.includedMajors || ''].join('|');
 const read = async path => JSON.parse(await readFile(path, 'utf8'));
 const unique = (rows, key, label) => {
   assert.ok(Array.isArray(rows), `${label} must be an array`);
@@ -46,6 +48,7 @@ export function prepareBatch(current, batch) {
     assert.ok(Array.isArray(row.requiredSubjects) && row.requiredSubjects.every(s => ['化学', '生物', '政治', '地理'].includes(s)));
     if (['all', 'any'].includes(row.subjectRule)) assert.ok(row.requiredSubjects.length);
     if (row.group) assert.match(String(row.group), /^\d{3}$/);
+    if (row.includedMajors) assert.ok(row.fieldSourceIds?.includedMajors?.length, `Included-major distinction needs evidence: ${row.id}`);
     assert.ok(!row.groupEvidenceRound || ['首轮', '初始计划'].includes(row.groupEvidenceRound), 'Other-round group evidence cannot establish initial grouping');
     checkRefs(row);
     const old = plans.get(row.id);

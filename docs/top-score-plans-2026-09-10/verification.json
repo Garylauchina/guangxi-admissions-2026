@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-09-10T07:56:30.131382+00:00",
+  "status": "passed",
+  "targetLock": {
+    "count": 20,
+    "scoreFrom": 685,
+    "scoreTo": 665,
+    "schoolCodes": 15,
+    "originalPlansUnchanged": 1849
+  },
+  "newPlans": {
+    "records": 121,
+    "schoolCodes": 10,
+    "seats": 510,
+    "strictTargetMatches": 0
+  },
+  "checks": {
+    "sourceScopeAndRowTotals": "passed with batch QA and independent review",
+    "nodeTests": {
+      "passed": 14,
+      "failed": 0
+    },
+    "dataValidation": "passed",
+    "javascriptSyntax": "passed",
+    "collectorPythonSyntax": "passed",
+    "publicJSONSyntax": "passed",
+    "privatePathAndFixedSessionValueScan": "passed",
+    "gitDiffWhitespace": "passed"
+  },
+  "limitations": [
+    "交互检查使用jsdom，不表示浏览器视觉验收。",
+    "20组均已尝试；正式广西组码仍缺，不能声称已补齐。",
+    "部署后另行核验公开站点返回内容。"
+  ]
+}

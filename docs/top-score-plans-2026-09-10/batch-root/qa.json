@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "records": 19,
+  "seats": 44,
+  "strictTargetMatches": 0,
+  "schoolCounts": [
+    {
+      "school": "中国科学技术大学",
+      "records": 12,
+      "seats": 30
+    },
+    {
+      "school": "中国人民大学",
+      "records": 7,
+      "seats": 14
+    }
+  ]
+}

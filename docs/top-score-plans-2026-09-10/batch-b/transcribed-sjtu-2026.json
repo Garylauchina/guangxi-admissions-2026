@@ -1,0 +1,153 @@
+{
+  "imageSha256": "ed2c847e7524c5c0afb57aff227bff8ec28d762a34e97a668831735e1159caca",
+  "imageWidth": 2244,
+  "imageHeight": 3174,
+  "columnMethod": "逐表独立定位广西列：均位于广东与海南之间；上表理工35，另有文史1，整列36。医学院普通表广西15，和本部不共用列的像素坐标。",
+  "checkedAt": "2026-09-10",
+  "rows": [
+    {
+      "schoolCode": "10248",
+      "major": "人工智能（拔尖英才试点班）",
+      "plannedCount": 2,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 1,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "工科试验班类（信息类）",
+      "plannedCount": 18,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 3,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "电子信息类（IEEE试点班）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 6,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "电子信息类（计算机永强试验班）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 7,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "电子信息类（集成电路英才班）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 8,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "工科试验班类（智能医学工程试点班）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 11,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "工科试验班类（机电类）",
+      "plannedCount": 3,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 13,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "机械类（钱学森工程科学试点班）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 16,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "机器人工程（智能系统拔尖班）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 17,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "材料科学与工程（徐祖耀荣誉班）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 23,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "理科试验班类（数学方向）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 29,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "理科试验班类（物理方向）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 30,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "电子信息类（浦江国际学院，依托张江国际理工学院）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 33,
+      "category": "中外合作办学"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "金融学（金融学－计算机双学位）",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 35,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "10248",
+      "major": "经济管理试验班",
+      "plannedCount": 1,
+      "table": "校本部普通招生计划",
+      "tableDataRow": 37,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "19248",
+      "major": "临床医学（八）",
+      "plannedCount": 2,
+      "table": "医学院普通招生计划",
+      "tableDataRow": null,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "19248",
+      "major": "临床医学（口八）",
+      "plannedCount": 1,
+      "table": "医学院普通招生计划",
+      "tableDataRow": null,
+      "category": "普通类"
+    },
+    {
+      "schoolCode": "19248",
+      "major": "儿科学（5+3）",
+      "plannedCount": 12,
+      "table": "医学院普通招生计划",
+      "tableDataRow": null,
+      "category": "普通类"
+    }
+  ]
+}
