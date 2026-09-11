@@ -1,0 +1,50 @@
+[
+  {
+    "id": "xmu-app",
+    "url": "https://zsdata.xmu.edu.cn/public/zsdata/lqxx/js/app.aa9f5572.js"
+  },
+  {
+    "id": "hnu-js",
+    "url": "https://admi2.hnu.edu.cn/add210531/js/lnlqqk.js"
+  },
+  {
+    "id": "hrbeu-init",
+    "url": "https://zsb.hrbeu.edu.cn/static/front/hrbeu/basic/js/init.js"
+  },
+  {
+    "id": "ecnu-init",
+    "url": "https://zsbcx.ecnu.edu.cn/static/front/ecnu/basic/js/init.js"
+  },
+  {
+    "id": "ecnu-tplt",
+    "url": "https://zsbcx.ecnu.edu.cn/static/front/ecnu/basic/js/tplt.js"
+  },
+  {
+    "id": "bnu-guide",
+    "url": "https://admission.bnu.edu.cn/zsjhlnfs/579650127d9e4120be2044b08d71da55.html"
+  },
+  {
+    "id": "whut-years",
+    "url": "https://zs.whut.edu.cn/enroll-info/recruitByMajor/selYearbyProvince.do",
+    "data": {
+      "province": "广西"
+    }
+  },
+  {
+    "id": "whut-tracks-2026",
+    "url": "https://zs.whut.edu.cn/enroll-info/recruitByMajor/selSubjectTypeByProvinceAndYear.do",
+    "data": {
+      "province": "广西",
+      "year": "2026"
+    }
+  },
+  {
+    "id": "njust-lines",
+    "url": "https://zsb.njust.edu.cn/lqScore/initDateWebCon",
+    "data": {
+      "pageSize": 1000,
+      "rowoffset": 0,
+      "val1": "广西"
+    }
+  }
+]

@@ -1,0 +1,851 @@
+{
+  "status": "PASS",
+  "checkedAt": "2026-09-12T07:27:13.345295+08:00",
+  "summary": {
+    "schoolsChecked": 7,
+    "newMajorRows": 32,
+    "newAdmittedCount": 88,
+    "collectedSchools": 1,
+    "successfulCurrentEmptySchoolQueries": 4,
+    "priorYearOnlySchools": 2,
+    "transportFailedSchools": 0,
+    "sources": 51,
+    "checks": 180,
+    "scoreComparableRows": 32,
+    "tracks": {
+      "物理": 19,
+      "历史": 13
+    },
+    "categories": {
+      "公费师范生": 6,
+      "普通类": 18,
+      "国家专项": 6,
+      "高校专项": 2
+    }
+  },
+  "queryGroups": [
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-1",
+      "category": "普通类(提前批)",
+      "track": "物理类",
+      "subjectText": "化学",
+      "majorRows": 3,
+      "admitted": 6,
+      "groupSummaryExcluded": 1
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+      "category": "普通类(本科批)",
+      "track": "物理类",
+      "subjectText": "化学",
+      "majorRows": 11,
+      "admitted": 40,
+      "groupSummaryExcluded": 1
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-3",
+      "category": "国家专项",
+      "track": "物理类",
+      "subjectText": "化学",
+      "majorRows": 4,
+      "admitted": 13,
+      "groupSummaryExcluded": 1
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-4",
+      "category": "高校专项",
+      "track": "物理类",
+      "subjectText": "化学",
+      "majorRows": 1,
+      "admitted": 1,
+      "groupSummaryExcluded": 1
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-5",
+      "category": "普通类(提前批)",
+      "track": "历史类",
+      "subjectText": "不限",
+      "majorRows": 3,
+      "admitted": 5,
+      "groupSummaryExcluded": 1
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-6",
+      "category": "普通类(本科批)",
+      "track": "历史类",
+      "subjectText": "不限",
+      "majorRows": 7,
+      "admitted": 15,
+      "groupSummaryExcluded": 1
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-7",
+      "category": "国家专项",
+      "track": "历史类",
+      "subjectText": "不限",
+      "majorRows": 2,
+      "admitted": 7,
+      "groupSummaryExcluded": 1
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-8",
+      "category": "高校专项",
+      "track": "历史类",
+      "subjectText": "不限",
+      "majorRows": 1,
+      "admitted": 1,
+      "groupSummaryExcluded": 1
+    }
+  ],
+  "excluded": [
+    {
+      "sourceId": "major-20260912-b-ecnu-params",
+      "reason": "2026广西体育科类配置不在普通高考专业分范围，未采录取分。"
+    },
+    {
+      "sourceIds": [
+        "major-20260912-b-ecnu-gx-2026-1",
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-gx-2026-3",
+        "major-20260912-b-ecnu-gx-2026-4",
+        "major-20260912-b-ecnu-gx-2026-5",
+        "major-20260912-b-ecnu-gx-2026-6",
+        "major-20260912-b-ecnu-gx-2026-7",
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "count": 8,
+      "reason": "data.sszyzgradeList是类别/选科组汇总，含组位次；不并入专业，不给专业补位次。"
+    },
+    {
+      "sourceId": "major-20260912-b-bnu-gx-brochure",
+      "reason": "珠海表头实际分数属于2025。"
+    },
+    {
+      "sourceId": "major-20260912-b-njust-lines",
+      "count": 21,
+      "reason": "2023至2025旧分表。"
+    }
+  ],
+  "checks": [
+    {
+      "check": "archive-hash:bnu-guide",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:bnu-gx-brochure",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:bnu-home",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:bnu-index",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-charter",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-entry",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-gx-2026-1",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-gx-2026-2",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-gx-2026-3",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-gx-2026-4",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-gx-2026-5",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-gx-2026-6",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-gx-2026-7",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-gx-2026-8",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-home",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-init",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-params",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:ecnu-tplt",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hnu-entry",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hnu-gx-2025-control",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hnu-gx-2026",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hnu-home",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hnu-js",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hrbeu-entry",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hrbeu-gx-2025-物理类-普通类",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hrbeu-gx-2026-历史类-普通类",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hrbeu-gx-2026-物理类-国家专项",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hrbeu-gx-2026-物理类-普通类",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hrbeu-home",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hrbeu-init",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hrbeu-params",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:hrbeu-tplt",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:njust-entry",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:njust-lines",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:whut-entry",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:whut-gx-2025-control",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:whut-gx-2026-all",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:whut-query-js",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:whut-tracks-2026",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:whut-years",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:xmu-app",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:xmu-component",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:xmu-entry",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:xmu-guide",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:xmu-gx-2025-全部",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:xmu-gx-2026-全部",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:xmu-gx-2026-历史类",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:xmu-gx-2026-物理类",
+      "pass": true
+    },
+    {
+      "check": "archive-hash:xmu-types",
+      "pass": true
+    },
+    {
+      "check": "two-official-school-code-sources",
+      "pass": true
+    },
+    {
+      "check": "charter-policy-bonus",
+      "pass": true
+    },
+    {
+      "check": "ecnu-query-success:ecnu-gx-2026-1",
+      "pass": true
+    },
+    {
+      "check": "ecnu-group-sum:ecnu-gx-2026-1",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-1:1",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-1:1",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-1:1",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-1:2",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-1:2",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-1:2",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-1:3",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-1:3",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-1:3",
+      "pass": true
+    },
+    {
+      "check": "ecnu-query-success:ecnu-gx-2026-2",
+      "pass": true
+    },
+    {
+      "check": "ecnu-group-sum:ecnu-gx-2026-2",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:1",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:1",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:1",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:2",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:2",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:2",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:3",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:3",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:3",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:4",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:4",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:4",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:5",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:5",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:5",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:6",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:6",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:6",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:7",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:7",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:7",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:8",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:8",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:8",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:9",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:9",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:9",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:10",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:10",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:10",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-2:11",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-2:11",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-2:11",
+      "pass": true
+    },
+    {
+      "check": "ecnu-query-success:ecnu-gx-2026-3",
+      "pass": true
+    },
+    {
+      "check": "ecnu-group-sum:ecnu-gx-2026-3",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-3:1",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-3:1",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-3:1",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-3:2",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-3:2",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-3:2",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-3:3",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-3:3",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-3:3",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-3:4",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-3:4",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-3:4",
+      "pass": true
+    },
+    {
+      "check": "ecnu-query-success:ecnu-gx-2026-4",
+      "pass": true
+    },
+    {
+      "check": "ecnu-group-sum:ecnu-gx-2026-4",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-4:1",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-4:1",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-4:1",
+      "pass": true
+    },
+    {
+      "check": "ecnu-query-success:ecnu-gx-2026-5",
+      "pass": true
+    },
+    {
+      "check": "ecnu-group-sum:ecnu-gx-2026-5",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-5:1",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-5:1",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-5:1",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-5:2",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-5:2",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-5:2",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-5:3",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-5:3",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-5:3",
+      "pass": true
+    },
+    {
+      "check": "ecnu-query-success:ecnu-gx-2026-6",
+      "pass": true
+    },
+    {
+      "check": "ecnu-group-sum:ecnu-gx-2026-6",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-6:1",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-6:1",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-6:1",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-6:2",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-6:2",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-6:2",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-6:3",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-6:3",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-6:3",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-6:4",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-6:4",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-6:4",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-6:5",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-6:5",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-6:5",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-6:6",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-6:6",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-6:6",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-6:7",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-6:7",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-6:7",
+      "pass": true
+    },
+    {
+      "check": "ecnu-query-success:ecnu-gx-2026-7",
+      "pass": true
+    },
+    {
+      "check": "ecnu-group-sum:ecnu-gx-2026-7",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-7:1",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-7:1",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-7:1",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-7:2",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-7:2",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-7:2",
+      "pass": true
+    },
+    {
+      "check": "ecnu-query-success:ecnu-gx-2026-8",
+      "pass": true
+    },
+    {
+      "check": "ecnu-group-sum:ecnu-gx-2026-8",
+      "pass": true
+    },
+    {
+      "check": "year-province-track:ecnu-gx-2026-8:1",
+      "pass": true
+    },
+    {
+      "check": "positive-enrollment:ecnu-gx-2026-8:1",
+      "pass": true
+    },
+    {
+      "check": "score-range:ecnu-gx-2026-8:1",
+      "pass": true
+    },
+    {
+      "check": "all-eight-configured-non-art-tracks-categories",
+      "pass": true
+    },
+    {
+      "check": "32-unique-rows-88-admitted",
+      "pass": true
+    },
+    {
+      "check": "xmu-2026-empty-全部",
+      "pass": true
+    },
+    {
+      "check": "xmu-2026-empty-物理类",
+      "pass": true
+    },
+    {
+      "check": "xmu-2026-empty-历史类",
+      "pass": true
+    },
+    {
+      "check": "xmu-2025-positive",
+      "pass": true
+    },
+    {
+      "check": "whut-2026-empty",
+      "pass": true
+    },
+    {
+      "check": "whut-2025-positive",
+      "pass": true
+    },
+    {
+      "check": "hnu-2026-empty-null-summary",
+      "pass": true
+    },
+    {
+      "check": "hnu-2025-response-positive-summary-only",
+      "pass": true
+    },
+    {
+      "check": "hrbeu-gx-2026-物理类-普通类:empty",
+      "pass": true
+    },
+    {
+      "check": "hrbeu-gx-2026-历史类-普通类:empty",
+      "pass": true
+    },
+    {
+      "check": "hrbeu-gx-2026-物理类-国家专项:empty",
+      "pass": true
+    },
+    {
+      "check": "hrbeu-2025-positive",
+      "pass": true
+    },
+    {
+      "check": "njust-columns-2023-2025",
+      "pass": true
+    },
+    {
+      "check": "references-closed",
+      "pass": true
+    },
+    {
+      "check": "seven-local-date-notes",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "major-c-20260912-zbti-gx",
+    "title": "浙江工商职业技术学院2026年六省高职（专科）录取情况：广西段",
+    "url": "https://zs.zbti.edu.cn/a/202687/5547.shtml",
+    "publisher": "浙江工商职业技术学院",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": "2026-08-07",
+    "accessedAt": "2026-09-11T23:18:41.525057+00:00",
+    "requestMethod": "GET",
+    "sha256": "383d9f905e6cb0d93416630eca1bbd2e4cfe7ab358d2822db5020d99d8fced51",
+    "rawSha256": "383d9f905e6cb0d93416630eca1bbd2e4cfe7ab358d2822db5020d99d8fced51",
+    "archiveSha256": "383d9f905e6cb0d93416630eca1bbd2e4cfe7ab358d2822db5020d99d8fced51",
+    "archiveFile": "raw/zbti-gx.html",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-zbti-charter",
+    "title": "浙江工商职业技术学院2026年普通高校招生章程",
+    "url": "https://zs.zbti.edu.cn/a/2026522/5357.shtml",
+    "publisher": "浙江工商职业技术学院",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": "2026-05-22",
+    "accessedAt": "2026-09-11T23:20:47.979106+00:00",
+    "requestMethod": "GET",
+    "sha256": "7d4220191ebe4f8c825827751355c48369142c66fc8fc2cbef7554706fe1fc91",
+    "rawSha256": "7d4220191ebe4f8c825827751355c48369142c66fc8fc2cbef7554706fe1fc91",
+    "archiveSha256": "7d4220191ebe4f8c825827751355c48369142c66fc8fc2cbef7554706fe1fc91",
+    "archiveFile": "raw/zbti-charter.html",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-gxtcmu-early",
+    "title": "广西中医药大学2026年广西本科提前批录取情况",
+    "url": "https://www.gxtcmu.edu.cn/zs/zsjz/content_88515",
+    "publisher": "广西中医药大学",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": "2026-07-13",
+    "accessedAt": "2026-09-11T23:18:41.525716+00:00",
+    "requestMethod": "GET",
+    "sha256": "b5b8841bcff41397ad7432e47349d21c41eac8c9f0538474843c9070a804e48b",
+    "rawSha256": "b5b8841bcff41397ad7432e47349d21c41eac8c9f0538474843c9070a804e48b",
+    "archiveSha256": "b5b8841bcff41397ad7432e47349d21c41eac8c9f0538474843c9070a804e48b",
+    "archiveFile": "raw/gxtcmu-early.html",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-gxtcmu-early-6",
+    "title": "广西中医药大学2026年中医学定向医学生历史类录取分数原图",
+    "url": "https://www.gxtcmu.edu.cn/upload/zs/contentmanage/article/image/2026/07/13/%E6%8F%90%E5%89%8D%E6%89%B9%E5%8E%86%E5%8F%B2%282%29.png",
+    "publisher": "广西中医药大学",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": "2026-07-13",
+    "accessedAt": "2026-09-11T23:20:47.979834+00:00",
+    "requestMethod": "GET",
+    "sha256": "a962cc17910da0b64a307d675b464e3cd2f67388f812eb8ba0565fe5ba96f894",
+    "rawSha256": "a962cc17910da0b64a307d675b464e3cd2f67388f812eb8ba0565fe5ba96f894",
+    "archiveSha256": "a962cc17910da0b64a307d675b464e3cd2f67388f812eb8ba0565fe5ba96f894",
+    "archiveFile": "raw/gxtcmu-early-6.png",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-gxtcmu-early-7",
+    "title": "广西中医药大学2026年中医学定向医学生物理类录取分数原图",
+    "url": "https://www.gxtcmu.edu.cn/upload/zs/contentmanage/article/image/2026/07/13/%E6%8F%90%E5%89%8D%E6%89%B9%E7%89%A9%E7%90%86.png",
+    "publisher": "广西中医药大学",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": "2026-07-13",
+    "accessedAt": "2026-09-11T23:20:47.979995+00:00",
+    "requestMethod": "GET",
+    "sha256": "59751e8b60df59e632d8017f92c56043893e2399382499ebeda94f7d3a1499ed",
+    "rawSha256": "59751e8b60df59e632d8017f92c56043893e2399382499ebeda94f7d3a1499ed",
+    "archiveSha256": "59751e8b60df59e632d8017f92c56043893e2399382499ebeda94f7d3a1499ed",
+    "archiveFile": "raw/gxtcmu-early-7.png",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-gxtcmu-charter",
+    "title": "广西中医药大学2026年普通本科、高职招生章程",
+    "url": "https://www.gxtcmu.edu.cn/zs/zszc/content_87648",
+    "publisher": "广西中医药大学",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": "2026-06-10",
+    "accessedAt": "2026-09-11T23:20:47.979540+00:00",
+    "requestMethod": "GET",
+    "sha256": "933e3889ef28026ccc46cac6016617febcb1b8e56acd727d763a09ff981d8005",
+    "rawSha256": "933e3889ef28026ccc46cac6016617febcb1b8e56acd727d763a09ff981d8005",
+    "archiveSha256": "933e3889ef28026ccc46cac6016617febcb1b8e56acd727d763a09ff981d8005",
+    "archiveFile": "raw/gxtcmu-charter.html",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-gx-policy-faq",
+    "title": "广西2026年普通高校招生政策百问百答（桂林学院官方转载）",
+    "url": "https://www.glc.edu.cn/zsw/info/1008/2891.htm",
+    "publisher": "桂林学院招生办公室",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": null,
+    "accessedAt": "2026-09-11T23:24:42.646996+00:00",
+    "requestMethod": "GET",
+    "sha256": "7c3506e89720010914c63117a7d311278ccbdb321f1b1edfd501fec84af9c6f9",
+    "rawSha256": "7c3506e89720010914c63117a7d311278ccbdb321f1b1edfd501fec84af9c6f9",
+    "archiveSha256": "7c3506e89720010914c63117a7d311278ccbdb321f1b1edfd501fec84af9c6f9",
+    "archiveFile": "raw/gx-policy-faq.html",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-gxtcmu-regular",
+    "title": "广西中医药大学2026年广西本科普通批情况：原图分数口径为首次投档",
+    "url": "https://www.gxtcmu.edu.cn/zs/zsjz/content_88882",
+    "publisher": "广西中医药大学",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": "2026-07-26",
+    "accessedAt": "2026-09-11T23:21:21.628445+00:00",
+    "requestMethod": "GET",
+    "sha256": "264fd2c706f132aca84761a22b91f8bd6c7746e515bd38fee9c68b051fc89854",
+    "rawSha256": "264fd2c706f132aca84761a22b91f8bd6c7746e515bd38fee9c68b051fc89854",
+    "archiveSha256": "264fd2c706f132aca84761a22b91f8bd6c7746e515bd38fee9c68b051fc89854",
+    "archiveFile": "raw/gxtcmu-regular.html",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-gxtcmu-regular-6",
+    "title": "广西中医药大学2026年本科首次投档专业分原图1",
+    "url": "https://www.gxtcmu.edu.cn/upload/zs/contentmanage/article/image/2026/07/30/2cd33541-41f5-46ca-b147-7ccb77df7382.png",
+    "publisher": "广西中医药大学",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": null,
+    "accessedAt": "2026-09-11T23:21:34.890317+00:00",
+    "requestMethod": "GET",
+    "sha256": "34271a49b434015ccf297dc4f7790c46b37c37bc9fed225793dda0665de113c7",
+    "rawSha256": "34271a49b434015ccf297dc4f7790c46b37c37bc9fed225793dda0665de113c7",
+    "archiveSha256": "34271a49b434015ccf297dc4f7790c46b37c37bc9fed225793dda0665de113c7",
+    "archiveFile": "raw/gxtcmu-regular-6.png",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-gxtcmu-regular-7",
+    "title": "广西中医药大学2026年本科首次投档专业分原图2",
+    "url": "https://www.gxtcmu.edu.cn/upload/zs/contentmanage/article/image/2026/07/30/7f2ca361-8f6a-4bc0-8986-e8b162198d66%282%29.png",
+    "publisher": "广西中医药大学",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": null,
+    "accessedAt": "2026-09-11T23:21:35.102183+00:00",
+    "requestMethod": "GET",
+    "sha256": "a998a2d83d041ae1d5ed1dbc2fdb9c5634f53e14e8420338b7e51c91d15a5d4b",
+    "rawSha256": "a998a2d83d041ae1d5ed1dbc2fdb9c5634f53e14e8420338b7e51c91d15a5d4b",
+    "archiveSha256": "a998a2d83d041ae1d5ed1dbc2fdb9c5634f53e14e8420338b7e51c91d15a5d4b",
+    "archiveFile": "raw/gxtcmu-regular-7.png",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-gxtcmu-junior",
+    "title": "广西中医药大学2026年广西高职高专普通批情况：原图为首次投档分",
+    "url": "https://www.gxtcmu.edu.cn/zs/zsjz/content_89174",
+    "publisher": "广西中医药大学",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": "2026-08-07",
+    "accessedAt": "2026-09-11T23:18:41.525815+00:00",
+    "requestMethod": "GET",
+    "sha256": "8d505d25e60d0a7af50349f53682a01e664606c61fe21df1e3fccf67f27df2fb",
+    "rawSha256": "8d505d25e60d0a7af50349f53682a01e664606c61fe21df1e3fccf67f27df2fb",
+    "archiveSha256": "8d505d25e60d0a7af50349f53682a01e664606c61fe21df1e3fccf67f27df2fb",
+    "archiveFile": "raw/gxtcmu-junior.html",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-gxtcmu-junior-6",
+    "title": "广西中医药大学2026年高职高专首次投档专业分原图",
+    "url": "https://www.gxtcmu.edu.cn/upload/zs/contentmanage/article/image/2026/08/07/c716ba8c-99e7-49f4-9415-ab18963bd920.png",
+    "publisher": "广西中医药大学",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": null,
+    "accessedAt": "2026-09-11T23:20:48.189200+00:00",
+    "requestMethod": "GET",
+    "sha256": "7949786c13fe360fc2cea1c1c6e9690e33fef8b1a1fc69ecfcc861d63a410e1b",
+    "rawSha256": "7949786c13fe360fc2cea1c1c6e9690e33fef8b1a1fc69ecfcc861d63a410e1b",
+    "archiveSha256": "7949786c13fe360fc2cea1c1c6e9690e33fef8b1a1fc69ecfcc861d63a410e1b",
+    "archiveFile": "raw/gxtcmu-junior-6.png",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "major-c-20260912-buu-score",
+    "title": "北京联合大学2026年各省普通本科录取最低分：广西段只有专业组分",
+    "url": "https://zs.buu.edu.cn/news/show-1309.html",
+    "publisher": "北京联合大学",
+    "sourceType": "official",
+    "year": 2026,
+    "province": "广西",
+    "publishedAt": "2026-07-10",
+    "accessedAt": "2026-09-11T23:18:41.525606+00:00",
+    "requestMethod": "GET",
+    "sha256": "72f2eec1da1c5ed050705182a8b70968b8f65d27aa09826605b0af3d620f5094",
+    "rawSha256": "72f2eec1da1c5ed050705182a8b70968b8f65d27aa09826605b0af3d620f5094",
+    "archiveSha256": "72f2eec1da1c5ed050705182a8b70968b8f65d27aa09826605b0af3d620f5094",
+    "archiveFile": "raw/buu-score.html",
+    "method": "公开官网直接读取；不保存请求或响应头。",
+    "notes": [
+      "图表分数性质按表头判别，不由网页标题或录取人数反推。"
+    ]
+  },
+  {
+    "id": "gxeea-2026-33107",
+    "title": "2026年本科普通批院校专业组投档最低分数线（首选物理科目组）",
+    "url": "https://www.gxeea.cn/view/content_624_33107.htm",
+    "publisher": "广西招生考试院",
+    "publishedAt": "2026-07-18T19:35:00+08:00",
+    "accessedAt": "2026-09-10T04:44:03.558372+00:00",
+    "sha256": "b7b7f3534ffd33458f46f42c4639d4b9b588d7799741326f113f9566d5560820",
+    "recordCount": 4222,
+    "method": "Official GBK HTML table; standard-library HTMLParser; independently cross-checked against regex extraction of every source cell; no OCR or third-party table used.",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "首轮",
+    "notes": [
+      "说明： 1.国家专项计划专业，只投档符合国家专项计划资格的考生；地方专项计划考生，只投档符合地方专项计划资格的考生；高校专项计划专业，只投档符合高校专项计划资格的考生；精准专项计划专业，只投档符合精准专项计划资格的考生。 2.表中空白处表示无出档考生。"
+    ],
+    "scoreSemantics": "院校专业组投档最低分；空白表示无出档考生，保存为 null。不是具体专业录取最低分。",
+    "rankSemantics": "原表未公布投档位次，rank 均为 null；不能把一分一档的分数名次直接宣称为精确投档位次。",
+    "auditAction": "作为既有资格标签佐证引用，本子任务不重复核验16张组线表。"
+  }
+]

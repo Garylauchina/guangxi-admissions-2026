@@ -1,0 +1,54 @@
+[
+  {
+    "id": "xmu-gx-2026-全部",
+    "url": "https://zsdata.xmu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "全部",
+      "xqmc": ""
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "xmu-gx-2026-物理类",
+    "url": "https://zsdata.xmu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "物理类",
+      "xqmc": ""
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "xmu-gx-2026-历史类",
+    "url": "https://zsdata.xmu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "历史类",
+      "xqmc": ""
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "xmu-gx-2025-全部",
+    "url": "https://zsdata.xmu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "全部",
+      "klmc": "全部",
+      "xqmc": ""
+    },
+    "encoding": "json"
+  }
+]

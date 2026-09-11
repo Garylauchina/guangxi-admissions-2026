@@ -1,0 +1,3566 @@
+[
+  {
+    "id": "major26-e8bad8aac424e5670abf",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科提前批（细分类待核）",
+    "group": null,
+    "major": "物理学（公费师范）",
+    "majorCode": null,
+    "score": 636,
+    "sourceMaximumScore": 639.0,
+    "sourceAverageScore": 637.5,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(提前批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "公费师范生",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。 国家公费师范生须在入学前签订《本研衔接师范生公费教育协议书》，否则取消录取资格。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-1",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-1",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-1",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条公费师范生，提前批细分类未列。"
+  },
+  {
+    "id": "major26-c4c66e9e4ec8b4285c65",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科提前批（细分类待核）",
+    "group": null,
+    "major": "化学（公费师范）",
+    "majorCode": null,
+    "score": 636,
+    "sourceMaximumScore": 636.0,
+    "sourceAverageScore": 636.0,
+    "admittedCount": 1,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(提前批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "公费师范生",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。 国家公费师范生须在入学前签订《本研衔接师范生公费教育协议书》，否则取消录取资格。 色弱、色盲不能录取；详见章程体检要求。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-1",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-1",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-1",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条公费师范生，提前批细分类未列。"
+  },
+  {
+    "id": "major26-c72786e1e897fd55d5b1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科提前批（细分类待核）",
+    "group": null,
+    "major": "数学与应用数学（公费师范）",
+    "majorCode": null,
+    "score": 646,
+    "sourceMaximumScore": 653.0,
+    "sourceAverageScore": 649.3,
+    "admittedCount": 3,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(提前批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "公费师范生",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。 国家公费师范生须在入学前签订《本研衔接师范生公费教育协议书》，否则取消录取资格。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-1",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-1",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-1"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-1",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 3,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条公费师范生，提前批细分类未列。"
+  },
+  {
+    "id": "major26-02d203b38a43f9c76927",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "遥感科学与技术（空间智能）",
+    "majorCode": null,
+    "score": 632,
+    "sourceMaximumScore": 640.0,
+    "sourceAverageScore": 635.0,
+    "admittedCount": 3,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-750c02be9ed80325f713",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "物理学",
+    "majorCode": null,
+    "score": 632,
+    "sourceMaximumScore": 634.0,
+    "sourceAverageScore": 633.0,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-8418ddee3d5e2fc2d05d",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "大数据管理与应用",
+    "majorCode": null,
+    "score": 632,
+    "sourceMaximumScore": 634.0,
+    "sourceAverageScore": 632.8,
+    "admittedCount": 6,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。 不能准确识别章程列明颜色的导线、按键、信号灯、几何图形者不能录取。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 3,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-10da6cb197f38e33fa0b",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "数学与应用数学",
+    "majorCode": null,
+    "score": 634,
+    "sourceMaximumScore": 645.0,
+    "sourceAverageScore": 637.3,
+    "admittedCount": 4,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 4,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-b60f6b9f784562c7cf20",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "统计学类",
+    "majorCode": null,
+    "score": 634,
+    "sourceMaximumScore": 634.0,
+    "sourceAverageScore": 634.0,
+    "admittedCount": 3,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 5,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。",
+    "majorType": "正式招生大类"
+  },
+  {
+    "id": "major26-45ec459361a11064fc7b",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "密码科学与技术",
+    "majorCode": null,
+    "score": 635,
+    "sourceMaximumScore": 638.0,
+    "sourceAverageScore": 636.5,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 6,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-a0f851398bdfa5df9211",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "微电子科学与工程",
+    "majorCode": null,
+    "score": 636,
+    "sourceMaximumScore": 641.0,
+    "sourceAverageScore": 637.6,
+    "admittedCount": 5,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 7,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-3fd2e250f9d9f2fa01e0",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "数据科学与大数据技术",
+    "majorCode": null,
+    "score": 639,
+    "sourceMaximumScore": 642.0,
+    "sourceAverageScore": 639.8,
+    "admittedCount": 4,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 8,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-0278e4613796ee506754",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "人工智能",
+    "majorCode": null,
+    "score": 640,
+    "sourceMaximumScore": 641.0,
+    "sourceAverageScore": 640.3,
+    "admittedCount": 4,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 9,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-2571b85601093822d91d",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "软件工程",
+    "majorCode": null,
+    "score": 643,
+    "sourceMaximumScore": 645.0,
+    "sourceAverageScore": 643.8,
+    "admittedCount": 5,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 10,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-0ea591a587e0d1d6545b",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "计算机科学与技术",
+    "majorCode": null,
+    "score": 644,
+    "sourceMaximumScore": 644.0,
+    "sourceAverageScore": 644.0,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。 不能准确识别显示器上章程列明颜色的数码、字母者不能录取。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-2",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-2"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-2",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 11,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-f067ed2697dbb66dc679",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "教育技术学（双学位）",
+    "majorCode": null,
+    "score": 558,
+    "sourceMaximumScore": 593.0,
+    "sourceAverageScore": 574.5,
+    "admittedCount": 4,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "国家专项",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "国家专项",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。 须符合国家专项计划报考资格，按教育部及学校专项招生规定执行。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-3",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-3",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-3",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条国家专项；原表未列精确批次。"
+  },
+  {
+    "id": "major26-1a2ba02e80b734271fca",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "药学",
+    "majorCode": null,
+    "score": 558,
+    "sourceMaximumScore": 573.0,
+    "sourceAverageScore": 565.0,
+    "admittedCount": 3,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "国家专项",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "国家专项",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。 须符合国家专项计划报考资格，按教育部及学校专项招生规定执行。 色弱、色盲不能录取；详见章程体检要求。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-3",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-3",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-3",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条国家专项；原表未列精确批次。"
+  },
+  {
+    "id": "major26-4c2a05982c6ae93d562a",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "化学",
+    "majorCode": null,
+    "score": 579,
+    "sourceMaximumScore": 589.0,
+    "sourceAverageScore": 585.7,
+    "admittedCount": 3,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "国家专项",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "国家专项",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。 须符合国家专项计划报考资格，按教育部及学校专项招生规定执行。 色弱、色盲不能录取；详见章程体检要求。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-3",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-3",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-3",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 3,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条国家专项；原表未列精确批次。"
+  },
+  {
+    "id": "major26-bfd22cfb0b1a03cd54a7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "生物科学类",
+    "majorCode": null,
+    "score": 599,
+    "sourceMaximumScore": 604.0,
+    "sourceAverageScore": 601.3,
+    "admittedCount": 3,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "国家专项",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "国家专项",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。 须符合国家专项计划报考资格，按教育部及学校专项招生规定执行。 色弱、色盲不能录取；详见章程体检要求。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-3",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-3",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-3"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-3",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 4,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条国家专项；原表未列精确批次。",
+    "majorType": "正式招生大类"
+  },
+  {
+    "id": "major26-a6e82ca2df57d1a1ebf8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "化学",
+    "majorCode": null,
+    "score": 606,
+    "sourceMaximumScore": 606.0,
+    "sourceAverageScore": 606.0,
+    "admittedCount": 1,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "高校专项",
+    "sourceTrack": "物理类",
+    "sourceSubjectRequirement": "化学",
+    "sourceCampus": null,
+    "admissionType": "高校专项",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学。 须符合高校专项计划报考资格；投档成绩应达到生源省特殊类型招生控制分数线。 色弱、色盲不能录取；详见章程体检要求。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-4",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-4",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33107"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-4"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-4",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条高校专项；原表未列精确批次。"
+  },
+  {
+    "id": "major26-d905b3ee6d2bf6ad31e2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科提前批（细分类待核）",
+    "group": null,
+    "major": "历史学（公费师范）",
+    "majorCode": null,
+    "score": 622,
+    "sourceMaximumScore": 622.0,
+    "sourceAverageScore": 622.0,
+    "admittedCount": 1,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(提前批)",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "公费师范生",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。 国家公费师范生须在入学前签订《本研衔接师范生公费教育协议书》，否则取消录取资格。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-5",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-5",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-5",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条公费师范生，提前批细分类未列。"
+  },
+  {
+    "id": "major26-19d842c889efca1fcc6a",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科提前批（细分类待核）",
+    "group": null,
+    "major": "英语（公费师范）",
+    "majorCode": null,
+    "score": 634,
+    "sourceMaximumScore": 636.0,
+    "sourceAverageScore": 635.0,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(提前批)",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "公费师范生",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。 国家公费师范生须在入学前签订《本研衔接师范生公费教育协议书》，否则取消录取资格。 只招收英语语种考生。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-5",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-5",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-5",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条公费师范生，提前批细分类未列。"
+  },
+  {
+    "id": "major26-cf221422e07d4a3e1ba2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科提前批（细分类待核）",
+    "group": null,
+    "major": "汉语言文学（公费师范）",
+    "majorCode": null,
+    "score": 641,
+    "sourceMaximumScore": 653.0,
+    "sourceAverageScore": 647.0,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(提前批)",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "公费师范生",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。 国家公费师范生须在入学前签订《本研衔接师范生公费教育协议书》，否则取消录取资格。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-5",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-5",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-5"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-5",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 3,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条公费师范生，提前批细分类未列。"
+  },
+  {
+    "id": "major26-d25fb901a022cda2ac11",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "历史学",
+    "majorCode": null,
+    "score": 625,
+    "sourceMaximumScore": 633.0,
+    "sourceAverageScore": 629.3,
+    "admittedCount": 3,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-6",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-6",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-6",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-e24d6166732db6288dcb",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "汉语国际教育",
+    "majorCode": null,
+    "score": 626,
+    "sourceMaximumScore": 629.0,
+    "sourceAverageScore": 627.5,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-6",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-6",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-6",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-10687501795b778642cd",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "金融学类",
+    "majorCode": null,
+    "score": 626,
+    "sourceMaximumScore": 627.0,
+    "sourceAverageScore": 626.5,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-6",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-6",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-6",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 3,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。",
+    "majorType": "正式招生大类"
+  },
+  {
+    "id": "major26-747655ba8dae4af7d5e6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "哲学",
+    "majorCode": null,
+    "score": 628,
+    "sourceMaximumScore": 635.0,
+    "sourceAverageScore": 631.5,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-6",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-6",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-6",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 4,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-22cd09822ead9f3d45ef",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "英语",
+    "majorCode": null,
+    "score": 631,
+    "sourceMaximumScore": 634.0,
+    "sourceAverageScore": 632.5,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。 只招收英语语种考生。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-6",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-6",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-6",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 5,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-c12cbe888a0770b11a0e",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "新闻传播学类",
+    "majorCode": null,
+    "score": 632,
+    "sourceMaximumScore": 632.0,
+    "sourceAverageScore": 632.0,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-6",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-6",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-6",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 6,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。",
+    "majorType": "正式招生大类"
+  },
+  {
+    "id": "major26-10266595a52a75f7bb21",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "汉语言文学",
+    "majorCode": null,
+    "score": 636,
+    "sourceMaximumScore": 640.0,
+    "sourceAverageScore": 638.0,
+    "admittedCount": 2,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "普通类(本科批)",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-6",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-6",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-6"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-6",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 7,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。"
+  },
+  {
+    "id": "major26-43b514686f92cffa656c",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "计算语言学",
+    "majorCode": null,
+    "score": 563,
+    "sourceMaximumScore": 595.0,
+    "sourceAverageScore": 579.0,
+    "admittedCount": 3,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "国家专项",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "国家专项",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。 须符合国家专项计划报考资格，按教育部及学校专项招生规定执行。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-7",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-7",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-7",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条国家专项；原表未列精确批次。"
+  },
+  {
+    "id": "major26-972e2559dfa9987327be",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "教育学类",
+    "majorCode": null,
+    "score": 589,
+    "sourceMaximumScore": 604.0,
+    "sourceAverageScore": 599.0,
+    "admittedCount": 4,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "国家专项",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "国家专项",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。 须符合国家专项计划报考资格，按教育部及学校专项招生规定执行。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-7",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-7",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-7"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-7",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 2,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条国家专项；原表未列精确批次。",
+    "majorType": "正式招生大类"
+  },
+  {
+    "id": "major26-26ce480ea81a0b381bdc",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工商管理类",
+    "majorCode": null,
+    "score": 613,
+    "sourceMaximumScore": 613.0,
+    "sourceAverageScore": 613.0,
+    "admittedCount": 1,
+    "plannedCount": null,
+    "scoreType": "专业录取最低分",
+    "scoreBasis": "普通高考750分制投档成绩；学校认可政策性加分最高一项且最高不超过20分，安排专业时亦适用；分数表未单列加分值。",
+    "scoreScaleMaximum": 750,
+    "round": "录取汇总（轮次未分）",
+    "sourceRound": null,
+    "sourceCategory": "高校专项",
+    "sourceTrack": "历史类",
+    "sourceSubjectRequirement": "不限",
+    "sourceCampus": null,
+    "admissionType": "高校专项",
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限。 须符合高校专项计划报考资格；投档成绩应达到生源省特殊类型招生控制分数线。 不能准确识别章程列明颜色的导线、按键、信号灯、几何图形者不能录取。",
+    "rank": null,
+    "scoreComparable": true,
+    "evidenceStatus": "verified",
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "sourceId": "major-20260912-b-ecnu-gx-2026-8",
+    "sourceIds": [
+      "major-20260912-b-ecnu-gx-2026-8",
+      "major-20260912-b-ecnu-entry",
+      "major-20260912-b-ecnu-params",
+      "major-20260912-b-ecnu-charter",
+      "gxeea-2026-33106"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "province": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "track": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "major": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "score": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "sourceAverageScore": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "admittedCount": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "admissionType": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "sourceCategory": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "sourceTrack": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "sourceSubjectRequirement": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "requiredSubjects": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "subjectRule": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "school": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "batch": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "round": [
+        "major-20260912-b-ecnu-gx-2026-8"
+      ],
+      "scoreBasis": [
+        "major-20260912-b-ecnu-charter"
+      ],
+      "requirementText": [
+        "major-20260912-b-ecnu-gx-2026-8",
+        "major-20260912-b-ecnu-charter"
+      ]
+    },
+    "sourceRow": 1,
+    "sourceTable": "data.sszygradeList",
+    "reviewedAt": "2026-09-12T07:27:13.345295+08:00",
+    "note": "官网分专业表原值。原表未分首轮或征集，保留录取汇总；未公布本专业最低分位次，未使用组汇总位次。专业组列为选科组合文字，不是广西组码。录取人数不作为招生计划数。 本条高校专项；原表未列精确批次。",
+    "majorType": "正式招生大类"
+  }
+]

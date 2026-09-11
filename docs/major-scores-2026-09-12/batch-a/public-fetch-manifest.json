@@ -1,0 +1,557 @@
+[
+  {
+    "id": "bjtu-2026-gx-历史-普通类-历史",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史",
+      "zslx": "普通类",
+      "zyz": "历史"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "130b3babe72fe8dca18b763b0e0baf86520732d2d9893d6ee5d68a4d4f045809",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-2026-gx-历史-普通类",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "130b3babe72fe8dca18b763b0e0baf86520732d2d9893d6ee5d68a4d4f045809",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-2026-gx-物理-国家专项-物化组",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理",
+      "zslx": "国家专项",
+      "zyz": "物化组"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "130b3babe72fe8dca18b763b0e0baf86520732d2d9893d6ee5d68a4d4f045809",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-2026-gx-物理-国家专项",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理",
+      "zslx": "国家专项"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "130b3babe72fe8dca18b763b0e0baf86520732d2d9893d6ee5d68a4d4f045809",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-2026-gx-物理-普通类-物化-詹天佑信息类",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理",
+      "zslx": "普通类",
+      "zyz": "物化-詹天佑信息类"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "130b3babe72fe8dca18b763b0e0baf86520732d2d9893d6ee5d68a4d4f045809",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-2026-gx-物理-普通类-物化-詹天佑智能类",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理",
+      "zslx": "普通类",
+      "zyz": "物化-詹天佑智能类"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "130b3babe72fe8dca18b763b0e0baf86520732d2d9893d6ee5d68a4d4f045809",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-2026-gx-物理-普通类-物化",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理",
+      "zslx": "普通类",
+      "zyz": "物化"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "130b3babe72fe8dca18b763b0e0baf86520732d2d9893d6ee5d68a4d4f045809",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-2026-gx-物理-普通类",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "130b3babe72fe8dca18b763b0e0baf86520732d2d9893d6ee5d68a4d4f045809",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-2026-gx-物理-民族班-民族班",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理",
+      "zslx": "民族班",
+      "zyz": "民族班"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "130b3babe72fe8dca18b763b0e0baf86520732d2d9893d6ee5d68a4d4f045809",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-2026-gx-物理-民族班",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理",
+      "zslx": "民族班"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "130b3babe72fe8dca18b763b0e0baf86520732d2d9893d6ee5d68a4d4f045809",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-home",
+    "url": "https://zsw.bjtu.edu.cn/",
+    "ext": "html",
+    "expectedArchiveSha256": "a8b50892cec6b5299e0a8b495ec5f30dbea4fd593d00efe949c6747efd191257",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-score-entry",
+    "url": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "ext": "html",
+    "expectedArchiveSha256": "245ca40405cd9b02ace82530ffc4ef28419d8aa9f9e7d1e4c1ca58363a3f40fe",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bjtu-score-params",
+    "url": "https://zsw.bjtu.edu.cn/f/ajax_lnfs_param",
+    "host": "https://zsw.bjtu.edu.cn",
+    "entryUrl": "https://zsw.bjtu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs_param",
+    "request": {},
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "6532f19b0d39680dfaee9483e27d186e4f84c306d06c476f21a25b751cc01381",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bnu-gx-2026-brochure",
+    "url": "https://admission.bnu.edu.cn/docs//2026-06/bf4044bdab3c45099fe724ce5650c45f.pdf",
+    "ext": "pdf",
+    "expectedArchiveSha256": "a2f4244bc3bf1cae95eec511f56e281800ee596a0ce2ed154ffc6652c1e3e4d3",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bnu-home",
+    "url": "https://admission.bnu.edu.cn/",
+    "ext": "html",
+    "expectedArchiveSha256": "8b63033e4f27c5e5f448e53c6c8312b1ce41f86f34b691cfc41047f3e3fe7fdd",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bnu-plan-scores-2026",
+    "url": "https://admission.bnu.edu.cn/zsjhlnfs/579650127d9e4120be2044b08d71da55.html",
+    "ext": "html",
+    "expectedArchiveSha256": "a418a1f98963e2d6b4c391f3f55cd438b37d517f1e1e2e59ea364b336dd8c22a",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "bnu-score-index",
+    "url": "https://admission.bnu.edu.cn/zsjhlnfs/index.html",
+    "ext": "html",
+    "expectedArchiveSha256": "bff0c06b543ccbd00466db1d133b878df49ccbb2bebd2b6aaedae92e2a4468b2",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "cupl-home",
+    "url": "https://zs.cupl.edu.cn/",
+    "ext": "html",
+    "expectedArchiveSha256": "0aa2b8bc08ceb56729a1516df15f1c910483b466e49ede1d2640d9266043e648",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-2026-gx-20-majors",
+    "url": "https://zs.dlut.edu.cn/apiV2025/portal/recruitmentInfo/admissionScore/admissionScoreList?zsCampusType=1&recruitmentYear=2026&provinceCode=450000&recruitmentSubjectType=20",
+    "ext": "json",
+    "queryParameters": {
+      "zsCampusType": 1,
+      "recruitmentYear": 2026,
+      "provinceCode": "450000",
+      "recruitmentSubjectType": 20
+    },
+    "expectedArchiveSha256": "04251380a03287cf569ffa249f60de8f17edd54673f4f53f2c354601053cae97",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-2026-gx-20-types",
+    "url": "https://zs.dlut.edu.cn/apiV2025/portal/recruitmentInfo/admissionScore/selectRecruitmentTypeList?zsCampusType=1&recruitmentYear=2026&provinceCode=450000&recruitmentSubjectType=20",
+    "ext": "json",
+    "queryParameters": {
+      "zsCampusType": 1,
+      "recruitmentYear": 2026,
+      "provinceCode": "450000",
+      "recruitmentSubjectType": 20
+    },
+    "expectedArchiveSha256": "04251380a03287cf569ffa249f60de8f17edd54673f4f53f2c354601053cae97",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-2026-gx-21-majors",
+    "url": "https://zs.dlut.edu.cn/apiV2025/portal/recruitmentInfo/admissionScore/admissionScoreList?zsCampusType=1&recruitmentYear=2026&provinceCode=450000&recruitmentSubjectType=21",
+    "ext": "json",
+    "queryParameters": {
+      "zsCampusType": 1,
+      "recruitmentYear": 2026,
+      "provinceCode": "450000",
+      "recruitmentSubjectType": 21
+    },
+    "expectedArchiveSha256": "04251380a03287cf569ffa249f60de8f17edd54673f4f53f2c354601053cae97",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-2026-gx-21-types",
+    "url": "https://zs.dlut.edu.cn/apiV2025/portal/recruitmentInfo/admissionScore/selectRecruitmentTypeList?zsCampusType=1&recruitmentYear=2026&provinceCode=450000&recruitmentSubjectType=21",
+    "ext": "json",
+    "queryParameters": {
+      "zsCampusType": 1,
+      "recruitmentYear": 2026,
+      "provinceCode": "450000",
+      "recruitmentSubjectType": 21
+    },
+    "expectedArchiveSha256": "04251380a03287cf569ffa249f60de8f17edd54673f4f53f2c354601053cae97",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-api-chunk",
+    "url": "https://zs.dlut.edu.cn/assets/index-480b452d.js",
+    "ext": "js",
+    "expectedArchiveSha256": "420d33179ac1119a0a3c9d390b5b348eeab9a778ade10eb485167da50fa245c4",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-app",
+    "url": "https://zs.dlut.edu.cn/assets/index-a85f3f00.js",
+    "ext": "js",
+    "expectedArchiveSha256": "7e83656eefacb63a9b17cd34b1b49c3bb4651244a2a8cf96226d44a2bd91acec",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-campus-chunk",
+    "url": "https://zs.dlut.edu.cn/assets/zsCampusType-f008d741.js",
+    "ext": "js",
+    "expectedArchiveSha256": "5f2de613ac0da3d38cef758abc4970fdeb92630787a96703a3a437f3c60f428a",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-dict-campus",
+    "url": "https://zs.dlut.edu.cn/apiV2025/portal/common/getDictData/zs_campus_type",
+    "ext": "json",
+    "expectedArchiveSha256": "b3bdc577d40bde66e8c0deb75a3b01801e922c886844b89bbcb9a636986201ba",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-dict-track",
+    "url": "https://zs.dlut.edu.cn/apiV2025/portal/common/getDictData/recruitment_subject_type",
+    "ext": "json",
+    "expectedArchiveSha256": "6eebd712a8996a1f34334f0044d659565d1eacee6607573eb6f3960af2a15ec5",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-dict-type",
+    "url": "https://zs.dlut.edu.cn/apiV2025/portal/common/getDictData/recruitment_type",
+    "ext": "json",
+    "expectedArchiveSha256": "5a8c30de8bacaae7ab477a510b01f2dbb7c35481cd6674671cada5cd30ebba18",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-provinces",
+    "url": "https://zs.dlut.edu.cn/apiV2025/portal/common/provinceList",
+    "ext": "json",
+    "expectedArchiveSha256": "836f84add58d37ff360c4207af44250c6e747d85135cc0897c1754a603c1a4ea",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-score-chunk",
+    "url": "https://zs.dlut.edu.cn/assets/index-6433af1e.js",
+    "ext": "js",
+    "expectedArchiveSha256": "07655714c3a23cf67207c65eadfd6551567ac2fdefccf358d933ced2fe73ff8f",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-score-entry",
+    "url": "https://zs.dlut.edu.cn/admissionScore",
+    "ext": "html",
+    "expectedArchiveSha256": "6f3483adeb990c7a97a59634aedbbe45917703a59021ee5767c7eb0fa79580ca",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "dlut-years",
+    "url": "https://zs.dlut.edu.cn/apiV2025/portal/recruitmentInfo/admissionScore/admissionScoreYearList?zsCampusType=1",
+    "ext": "json",
+    "expectedArchiveSha256": "04251380a03287cf569ffa249f60de8f17edd54673f4f53f2c354601053cae97",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "jlu-app",
+    "url": "https://zsb.jlu.edu.cn/js/app-ec3771fad27ccda1a3cd.js",
+    "ext": "js",
+    "expectedArchiveSha256": "e4f711891d374979b530b9968c0d42352b1eecdecc1212d193688925c226d55b",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "jlu-common",
+    "url": "https://zsb.jlu.edu.cn/js/common-ec3771fad27ccda1a3cd-chunk.js",
+    "ext": "js",
+    "expectedArchiveSha256": "3a364e491ea43a4e0e9417fb0cc638c98081a58c3941e7fafe0a4bec16461845",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "jlu-config",
+    "url": "https://zsb.jlu.edu.cn/ipcofig.js",
+    "ext": "js",
+    "expectedArchiveSha256": "56e298777ab42ac041d9b989746b719278d201b1a1b7b07c8c90b63b60b607f0",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "jlu-details",
+    "url": "https://zsb.jlu.edu.cn/js/details-ec3771fad27ccda1a3cd-chunk.js",
+    "ext": "js",
+    "expectedArchiveSha256": "593e95347160cea22d92d335115a21cee7d0cb09d34eaa630005ad869ca9dfbd",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "jlu-home",
+    "url": "https://zsb.jlu.edu.cn/",
+    "ext": "html",
+    "expectedArchiveSha256": "356d9d6693c05ef3c8d54b1853fcb5a83a22d57cf4f7e2b9f13284e4e92042ad",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "jlu-score-config",
+    "url": "https://study-cdn2.jobpi.cn/formal/38147/enroll/lqfsConfig.json",
+    "ext": "json",
+    "expectedArchiveSha256": "9080f16833cc3e20198eb52f580be5b5fe1d48739b991aa35084be8d5d22993f",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "jlu-score-data",
+    "url": "https://study-cdn2.jobpi.cn/formal/38147/enroll/lqfsDataMin.json",
+    "ext": "json",
+    "expectedArchiveSha256": "100f1f4fbae9f8de820bdb483e24bbeda707cb4fd03aa1733b944c6e6996f9a2",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "uestc-app",
+    "url": "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/js/app.b9fb24b1.js",
+    "ext": "js",
+    "expectedArchiveSha256": "6843614a1a676ee1acdd4ccf46d0dd6bac2829bfc565bc2eb8431439b4d57986",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "uestc-lnfs",
+    "url": "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/js/lqcxjg.7ac4330b.js",
+    "ext": "js",
+    "expectedArchiveSha256": "d55c20fabea3a569f6a89eba17fecfaecd3863f623b26031193ede6e622db090",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "uestc-query",
+    "url": "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/",
+    "ext": "html",
+    "expectedArchiveSha256": "f9221917fa3b0f2170621e65f7aa1595a23117cd3d05664b546a80430fa5a263",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "uestc-shahe-2026-gx-历史类",
+    "url": "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "ext": "json",
+    "method": "POST",
+    "encoding": "json",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "历史类",
+      "xqmc": "电子科技大学（沙河校区）"
+    },
+    "entryUrl": "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/",
+    "expectedArchiveSha256": "8fd073e39bcd6927a9769c2c1e3dee14de335644712303b64d7814aec4425082",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "uestc-shahe-2026-gx-物理类",
+    "url": "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "ext": "json",
+    "method": "POST",
+    "encoding": "json",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "物理类",
+      "xqmc": "电子科技大学（沙河校区）"
+    },
+    "entryUrl": "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/",
+    "expectedArchiveSha256": "8fd073e39bcd6927a9769c2c1e3dee14de335644712303b64d7814aec4425082",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "uestc-shahe-types",
+    "url": "https://chaxun.uestc.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "ext": "json",
+    "method": "POST",
+    "encoding": "json",
+    "request": {
+      "type": "lnfs"
+    },
+    "entryUrl": "https://chaxun.uestc.edu.cn/public/zsdata/lqxx/",
+    "expectedArchiveSha256": "b66daf729c186cff91eb09fd738517986603662a0f08608a226ad2970cb5ec5b",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "ustb-2026-gx-历史类-普通类",
+    "url": "https://zhaoshengyunzhi.ustb.edu.cn/f/ajax_lnfs",
+    "host": "https://zhaoshengyunzhi.ustb.edu.cn",
+    "entryUrl": "https://zhaoshengyunzhi.ustb.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "ustb-2026-gx-物理类-国家专项",
+    "url": "https://zhaoshengyunzhi.ustb.edu.cn/f/ajax_lnfs",
+    "host": "https://zhaoshengyunzhi.ustb.edu.cn",
+    "entryUrl": "https://zhaoshengyunzhi.ustb.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "国家专项"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "ustb-2026-gx-物理类-普通类",
+    "url": "https://zhaoshengyunzhi.ustb.edu.cn/f/ajax_lnfs",
+    "host": "https://zhaoshengyunzhi.ustb.edu.cn",
+    "entryUrl": "https://zhaoshengyunzhi.ustb.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "ustb-home",
+    "url": "https://zhaosheng.ustb.edu.cn/",
+    "ext": "html",
+    "expectedArchiveSha256": "b607ebe2b57241adce89e1c8125b2ae4642663150edd4a906abcf8bb65baddf8",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "ustb-score-entry",
+    "url": "https://zhaoshengyunzhi.ustb.edu.cn/zsw/lnfs.html",
+    "ext": "html",
+    "expectedArchiveSha256": "ee4d8cb019830ae2df23302743c22ca43485ab2376561086a0daf7b511494d47",
+    "expectedHttpStatus": 200
+  },
+  {
+    "id": "ustb-score-params",
+    "url": "https://zhaoshengyunzhi.ustb.edu.cn/f/ajax_lnfs_param",
+    "host": "https://zhaoshengyunzhi.ustb.edu.cn",
+    "entryUrl": "https://zhaoshengyunzhi.ustb.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs_param",
+    "request": {},
+    "ext": "json",
+    "csrf": false,
+    "expectedArchiveSha256": "4cff95cd8ca09307d1c275d7c861517710462ff686726761f1fe1a2035f1df42",
+    "expectedHttpStatus": 200
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xidian-app.js",
+    "url": "https://zsxc.xidian.edu.cn/auth/zsdata/lqxx/js/app.c9746a4c.js"
+  },
+  {
+    "name": "xidian-score.js",
+    "url": "https://zsxc.xidian.edu.cn/auth/zsdata/lqxx/js/lqcxjg.13a6cba5.js"
+  },
+  {
+    "name": "bucm-types-code-2025.json",
+    "url": "https://www.51gzb.com/api/zb/score/type.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2025&pro=450000"
+  },
+  {
+    "name": "bucm-types-code-2026.json",
+    "url": "https://www.51gzb.com/api/zb/score/type.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&pro=450000"
+  }
+]

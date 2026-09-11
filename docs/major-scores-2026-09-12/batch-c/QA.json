@@ -1,0 +1,1648 @@
+{
+  "checkedAt": "2026-09-12",
+  "summary": {
+    "newSchools": 2,
+    "newActualRows": 78,
+    "bySchool": {
+      "浙江工商职业技术学院": 6,
+      "广西中医药大学": 72
+    },
+    "byTrack": {
+      "历史": 31,
+      "物理": 47
+    },
+    "admittedCount": 117,
+    "directGroupRows": 72,
+    "rankRows": 0,
+    "uncomparableRows": 0,
+    "checks": 403,
+    "passed": 403,
+    "failed": 0
+  },
+  "checks": [
+    {
+      "id": "new-schools-only",
+      "pass": true
+    },
+    {
+      "id": "avoid-current-20-targets",
+      "pass": true
+    },
+    {
+      "id": "expected-new-count",
+      "pass": true
+    },
+    {
+      "id": "medical-count-history",
+      "pass": true
+    },
+    {
+      "id": "medical-count-physics",
+      "pass": true
+    },
+    {
+      "id": "medical-merged-boundary-yizhou",
+      "pass": true
+    },
+    {
+      "id": "medical-last-row-shangsi-image-review",
+      "pass": true
+    },
+    {
+      "id": "distinct-ids",
+      "pass": true
+    },
+    {
+      "id": "distinct-identities-with-service-area",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-38-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-38-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-38-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-38-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-38-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-39-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-39-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-39-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-39-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-39-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-40-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-40-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-40-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-40-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-40-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-41-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-41-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-41-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-41-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-41-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-42-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-42-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-42-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-42-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-42-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-43-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-43-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-43-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-43-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-43-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-1-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-1-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-1-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-1-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-1-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-2-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-2-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-2-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-2-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-2-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-3-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-3-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-3-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-3-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-3-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-4-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-4-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-4-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-4-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-4-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-5-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-5-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-5-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-5-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-5-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-6-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-6-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-6-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-6-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-6-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-7-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-7-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-7-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-7-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-7-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-8-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-8-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-8-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-8-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-8-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-9-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-9-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-9-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-9-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-9-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-10-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-10-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-10-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-10-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-10-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-11-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-11-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-11-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-11-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-11-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-12-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-12-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-12-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-12-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-12-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-13-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-13-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-13-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-13-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-13-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-14-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-14-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-14-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-14-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-14-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-15-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-15-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-15-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-15-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-15-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-16-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-16-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-16-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-16-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-16-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-17-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-17-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-17-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-17-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-17-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-18-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-18-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-18-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-18-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-18-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-19-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-19-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-19-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-19-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-19-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-20-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-20-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-20-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-20-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-20-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-21-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-21-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-21-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-21-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-21-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-22-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-22-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-22-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-22-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-22-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-23-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-23-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-23-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-23-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-23-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-24-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-24-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-24-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-24-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-24-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-25-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-25-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-25-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-25-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-25-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-26-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-26-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-26-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-26-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-26-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-27-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-27-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-27-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-27-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-27-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-28-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-28-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-28-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-28-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-28-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-1-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-1-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-1-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-1-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-1-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-2-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-2-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-2-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-2-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-2-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-3-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-3-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-3-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-3-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-3-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-4-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-4-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-4-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-4-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-4-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-5-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-5-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-5-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-5-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-5-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-6-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-6-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-6-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-6-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-6-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-7-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-7-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-7-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-7-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-7-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-8-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-8-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-8-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-8-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-8-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-9-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-9-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-9-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-9-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-9-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-10-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-10-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-10-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-10-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-10-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-11-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-11-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-11-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-11-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-11-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-12-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-12-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-12-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-12-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-12-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-13-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-13-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-13-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-13-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-13-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-14-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-14-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-14-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-14-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-14-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-15-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-15-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-15-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-15-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-15-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-16-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-16-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-16-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-16-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-16-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-17-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-17-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-17-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-17-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-17-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-18-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-18-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-18-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-18-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-18-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-19-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-19-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-19-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-19-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-19-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-20-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-20-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-20-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-20-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-20-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-21-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-21-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-21-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-21-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-21-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-22-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-22-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-22-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-22-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-22-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-23-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-23-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-23-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-23-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-23-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-24-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-24-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-24-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-24-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-24-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-25-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-25-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-25-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-25-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-25-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-26-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-26-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-26-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-26-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-26-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-27-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-27-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-27-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-27-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-27-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-28-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-28-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-28-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-28-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-28-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-29-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-29-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-29-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-29-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-29-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-30-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-30-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-30-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-30-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-30-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-31-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-31-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-31-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-31-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-31-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-32-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-32-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-32-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-32-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-32-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-33-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-33-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-33-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-33-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-33-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-34-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-34-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-34-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-34-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-34-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-35-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-35-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-35-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-35-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-35-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-36-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-36-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-36-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-36-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-36-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-37-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-37-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-37-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-37-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-37-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-38-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-38-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-38-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-38-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-38-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-39-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-39-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-39-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-39-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-39-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-40-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-40-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-40-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-40-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-40-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-41-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-41-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-41-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-41-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-41-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-42-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-42-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-42-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-42-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-42-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-43-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-43-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-43-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-43-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-43-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-44-range",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-44-single-student",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-44-no-inferred-rank",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-44-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-44-group-evidence",
+      "pass": true
+    },
+    {
+      "id": "actual-score-type-only",
+      "pass": true
+    },
+    {
+      "id": "no-filing-table-in-actual",
+      "pass": true
+    },
+    {
+      "id": "historical-baseline-snapshot",
+      "pass": true,
+      "detail": {
+        "sha256": "750db93387d362322c8e9137edd1cd9be01307776661dd6363879b1abde4d107",
+        "note": "历史预检基线，静态重建不声称当前线上库仍为948条。"
+      }
+    },
+    {
+      "id": "medical-direct-caption",
+      "pass": true
+    }
+  ],
+  "limits": [
+    "本轮确认2所新校，未凑3–5所。",
+    "无PDF来源；HTML原表和5张广西中医药原图均已目视。",
+    "透明PNG的白底预览只为显示原黑色文本，原文件和hash保持不变。",
+    "原表均没有位次，全部rank=null，不以其他年份位次补齐。",
+    "72条县区专业保持正式源名，类别和serviceArea用于区分服务地。",
+    "原计划数仅在转录证据中保留，未进入计划库。"
+  ]
+}

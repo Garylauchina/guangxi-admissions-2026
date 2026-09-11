@@ -1,0 +1,31 @@
+{
+  "files": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "QA.json",
+    "README.md",
+    "source-snapshots.json",
+    "query-evidence.json",
+    "public-fetch-manifest.json",
+    "collector.py",
+    "replay.py",
+    "extract_bnu.py",
+    "freeze_evidence.py",
+    "build.py",
+    "verify.py",
+    "PUBLIC-FILES.json",
+    "DELIVERY-SHA256SUMS",
+    "review_b.py",
+    "independent-review-b.json",
+    "independent-review-b.md"
+  ],
+  "excluded": [
+    "raw/",
+    "__pycache__/",
+    "discovery-*.json",
+    "api-*.json",
+    "replay-results.json"
+  ],
+  "note": "Publish only the explicit list; all raw bodies and extraction outputs remain local."
+}

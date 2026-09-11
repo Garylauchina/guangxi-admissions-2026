@@ -1,0 +1,41 @@
+[
+  {
+    "school": "广西中医药大学",
+    "schoolCode": "10600",
+    "sourceIds": [
+      "major-c-20260912-gxtcmu-regular",
+      "major-c-20260912-gxtcmu-regular-6",
+      "major-c-20260912-gxtcmu-regular-7"
+    ],
+    "rowCount": 40,
+    "reason": "原表写首次投档最低分，38条专业投档分非实际专业录取分；另2条为少数民族预科。",
+    "disposition": "不入actual；仅保留独立研究材料，不改既有major-filing库"
+  },
+  {
+    "school": "广西中医药大学",
+    "schoolCode": "10600",
+    "sourceIds": [
+      "major-c-20260912-gxtcmu-junior",
+      "major-c-20260912-gxtcmu-junior-6"
+    ],
+    "rowCount": 5,
+    "reason": "虽有录取数合计399，分数字段明确为首次投档最高/最低/平均分，不能由录取人数推为实际分。",
+    "disposition": "不入actual；保留源链接"
+  },
+  {
+    "school": "北京联合大学",
+    "schoolCode": "11417",
+    "sourceIds": [
+      "major-c-20260912-buu-score"
+    ],
+    "sourceTable": 15,
+    "rowCount": 12,
+    "reason": "广西段仅专业组分数，无专业名称。"
+  },
+  {
+    "school": "重庆三峡医药高等专科学校",
+    "schoolCode": "14008",
+    "url": "https://www.sxyyc.net/zsb/info/1015/2257.htm",
+    "reason": "读取页眉确认sxyyc.net为该校，已在948条基线内，排除重复采集。"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "xmu-types",
+    "url": "https://zsdata.xmu.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  }
+]

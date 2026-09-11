@@ -1,0 +1,33 @@
+{
+  "files": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "QA.json",
+    "README.md",
+    "collect.py",
+    "session_query.py",
+    "build.py",
+    "verify.py",
+    "verification.json",
+    "code-sources.json",
+    "importer-preflight.json",
+    "requests.json",
+    "requests-2.json",
+    "requests-3.json",
+    "requests-4.json",
+    "requests-5.json",
+    "requests-6.json",
+    "requests-7.json",
+    "requests-8.json",
+    "requests-9.json",
+    "session-requests.json",
+    "session-requests-2.json",
+    "PUBLIC-FILES.json"
+  ],
+  "excluded": [
+    "raw/**",
+    "__pycache__/**"
+  ],
+  "note": "仅白名单文件可公开；原始网页/PDF/接口全文与图片留本地。Cookie、CSRF、jessionid等会话值未公开。"
+}

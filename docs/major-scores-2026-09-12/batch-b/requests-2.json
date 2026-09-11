@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bnu-index",
+    "url": "https://admission.bnu.edu.cn/zsjhlnfs/index.html"
+  },
+  {
+    "id": "hnu-entry",
+    "url": "https://admi2.hnu.edu.cn/lnlqqk"
+  },
+  {
+    "id": "hrbeu-entry",
+    "url": "https://zsb.hrbeu.edu.cn/static/front/hrbeu/basic/html_web/lnfs.html"
+  },
+  {
+    "id": "hrbeu-tplt",
+    "url": "https://zsb.hrbeu.edu.cn/static/front/hrbeu/basic/js/tplt.js"
+  },
+  {
+    "id": "ecnu-entry",
+    "url": "https://zsb.ecnu.edu.cn/_redirect?siteId=799&columnId=37612&articleId=444126"
+  },
+  {
+    "id": "whut-query-js",
+    "url": "https://zs.whut.edu.cn/material/static/js/loaddata_lqqk.js"
+  }
+]

@@ -1,0 +1,153 @@
+{
+  "status": "PASS",
+  "reviewedAt": "2026-09-12T07:31:52.400172+08:00",
+  "scope": "独立只读复核华东师范32条；未修改B包、网站或已有记录。",
+  "inputSha256": "f76817b6c90620b7d1709a653799b7397aca9e047c1ddd9e419343986dad55a2",
+  "rows": 32,
+  "sourceFieldComparisons": 320,
+  "admittedCount": 88,
+  "tracks": {
+    "物理": 19,
+    "历史": 13
+  },
+  "categories": {
+    "公费师范生": 6,
+    "普通类": 18,
+    "国家专项": 6,
+    "高校专项": 2
+  },
+  "queryGroups": [
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-1",
+      "track": "物理类",
+      "category": "普通类(提前批)",
+      "subject": "化学",
+      "majorRows": 3,
+      "admittedCount": 6
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+      "track": "物理类",
+      "category": "普通类(本科批)",
+      "subject": "化学",
+      "majorRows": 11,
+      "admittedCount": 40
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-3",
+      "track": "物理类",
+      "category": "国家专项",
+      "subject": "化学",
+      "majorRows": 4,
+      "admittedCount": 13
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-4",
+      "track": "物理类",
+      "category": "高校专项",
+      "subject": "化学",
+      "majorRows": 1,
+      "admittedCount": 1
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-5",
+      "track": "历史类",
+      "category": "普通类(提前批)",
+      "subject": "不限",
+      "majorRows": 3,
+      "admittedCount": 5
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-6",
+      "track": "历史类",
+      "category": "普通类(本科批)",
+      "subject": "不限",
+      "majorRows": 7,
+      "admittedCount": 15
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-7",
+      "track": "历史类",
+      "category": "国家专项",
+      "subject": "不限",
+      "majorRows": 2,
+      "admittedCount": 7
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-8",
+      "track": "历史类",
+      "category": "高校专项",
+      "subject": "不限",
+      "majorRows": 1,
+      "admittedCount": 1
+    }
+  ],
+  "archiveHashChecks": 14,
+  "archiveHashes": [
+    {
+      "sourceId": "major-20260912-b-ecnu-charter",
+      "sha256": "c89e49a3c3b9158095c252ef4301293ccd46c0dc3ca8140f175b84082cd7c859"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-entry",
+      "sha256": "249d13ca0c1d604adc6d14ba6bd6075d564903c4e6724eea3af8d2d1fc34fe79"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-1",
+      "sha256": "0e69caaab968764a05c12781bf8f8d0f45a42eed791c4600b75c27342a21681a"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-2",
+      "sha256": "0ce5501c2853132c906074eee17750da22712b5004bdaa3952cd2bf93cc40a49"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-3",
+      "sha256": "1749dab250f58d3b1a131089c7093c7d9170b2059d6b729cadba688a8cb16a46"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-4",
+      "sha256": "ccb30519c858dbedaa69cf4d2ea4f59b53baa7620ccf04d3e9c61efce3d550c7"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-5",
+      "sha256": "a73bd590f9d23278a7f0dc1f37428e966ef3968810b3854d1b0401e1dd8478b1"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-6",
+      "sha256": "fcf43b2e72e8b9a7f55c8b1218a1a19f5896c80e234fac575b90f92c47acedcb"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-7",
+      "sha256": "378cbe2c5897d14e6e2bfbd8b8a7dcf9b5210f72d629437c090d4372e80f9420"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-gx-2026-8",
+      "sha256": "abc5addb9e7a81e3ef0d7fa4f6f4d30094332e0d7e21296d48fdc8a19a276371"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-home",
+      "sha256": "3a0d918641d8d9682966c250affb2b4728f978d6ad837206ced6de8082d3ddb7"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-init",
+      "sha256": "eca605874befc0ed66b4e67048c5e38e5ed45963e7aaa97e60b65b90d8d128a9"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-params",
+      "sha256": "a5e9cc827112dc095f841a48b2a4def954f02183c7c4a36ea612e66afe8ccae5"
+    },
+    {
+      "sourceId": "major-20260912-b-ecnu-tplt",
+      "sha256": "61e17c8e70df0300d7d91fbaabecfde7ce16f6dcc097ce8640477441b24c6caf"
+    }
+  ],
+  "publicFilesChecked": 24,
+  "blockingFindings": [],
+  "limitations": [
+    "针对本轮归档与转换作独立全量复核，没有另行重新在线请求",
+    "未独立复核B包其余六校缺口",
+    "组/校汇总8条及其位次未使用；完整专业招生覆盖仍限本次官方公开配置",
+    "API rs与同类别录取统计一致；不等于计划人数，保持plannedCount空",
+    "原始响应hash来自采集元数据；独立重算验证的是当前脱敏归档hash"
+  ]
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "major-score-audit-20260912-c-12789",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12789",
+    "school": "浙江工商职业技术学院",
+    "checkedAt": "2026-09-12",
+    "status": "collected",
+    "recordCount": 6,
+    "note": "取得2026官方六省专科录取表完整广西段6条，历史3、物理3，录取6人。只明示高职专科层次，具体批次未核；未明示轮次、组码和再选科目，均保留未知/汇总。其他省及非普通高考不采。",
+    "scope": "仅限本轮已读取的官方原文及表格；未取得不代表零录取或全校所有渠道均未公开。",
+    "sourceIds": [
+      "major-c-20260912-zbti-gx",
+      "major-c-20260912-zbti-charter"
+    ],
+    "checkedUrls": [
+      "https://zs.zbti.edu.cn/a/202687/5547.shtml",
+      "https://zs.zbti.edu.cn/a/2026522/5357.shtml"
+    ]
+  },
+  {
+    "id": "major-score-audit-20260912-c-10600",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10600",
+    "school": "广西中医药大学",
+    "checkedAt": "2026-09-12",
+    "status": "partial",
+    "recordCount": 72,
+    "note": "取得提前批中医学定向医学生72条县区科类记录（历史28条36人、物理44条75人），均有实际最高/最低分和录取数。普通本科两图40行含2预科，高职5行均写首次投档分，不能当作实际专业录取分；本批仅保留其来源和口径说明，不更新实际分库或既有投档分库。",
+    "scope": "仅限本轮已读取的官方原文及表格；未取得不代表零录取或全校所有渠道均未公开。",
+    "sourceIds": [
+      "major-c-20260912-gxtcmu-early",
+      "major-c-20260912-gxtcmu-early-6",
+      "major-c-20260912-gxtcmu-early-7",
+      "major-c-20260912-gxtcmu-regular",
+      "major-c-20260912-gxtcmu-regular-6",
+      "major-c-20260912-gxtcmu-regular-7",
+      "major-c-20260912-gxtcmu-junior",
+      "major-c-20260912-gxtcmu-junior-6",
+      "major-c-20260912-gxtcmu-charter",
+      "major-c-20260912-gx-policy-faq"
+    ],
+    "checkedUrls": [
+      "https://www.gxtcmu.edu.cn/zs/zsjz/content_88515",
+      "https://www.gxtcmu.edu.cn/upload/zs/contentmanage/article/image/2026/07/13/%E6%8F%90%E5%89%8D%E6%89%B9%E5%8E%86%E5%8F%B2%282%29.png",
+      "https://www.gxtcmu.edu.cn/upload/zs/contentmanage/article/image/2026/07/13/%E6%8F%90%E5%89%8D%E6%89%B9%E7%89%A9%E7%90%86.png",
+      "https://www.gxtcmu.edu.cn/zs/zsjz/content_88882",
+      "https://www.gxtcmu.edu.cn/upload/zs/contentmanage/article/image/2026/07/30/2cd33541-41f5-46ca-b147-7ccb77df7382.png",
+      "https://www.gxtcmu.edu.cn/upload/zs/contentmanage/article/image/2026/07/30/7f2ca361-8f6a-4bc0-8986-e8b162198d66%282%29.png",
+      "https://www.gxtcmu.edu.cn/zs/zsjz/content_89174",
+      "https://www.gxtcmu.edu.cn/upload/zs/contentmanage/article/image/2026/08/07/c716ba8c-99e7-49f4-9415-ab18963bd920.png",
+      "https://www.gxtcmu.edu.cn/zs/zszc/content_87648",
+      "https://www.glc.edu.cn/zsw/info/1008/2891.htm"
+    ]
+  },
+  {
+    "id": "major-score-audit-20260912-c-11417",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11417",
+    "school": "北京联合大学",
+    "checkedAt": "2026-09-12",
+    "status": "not-found-current-major",
+    "recordCount": 0,
+    "note": "实际读取2026各省普通本科录取最低分页面，广西段第15表只有科类、选考要求及专业组、录取最低分，12行均为专业组口径，无具体专业列；不采入实际专业分。页面其他省的专业分不能迁至广西。",
+    "scope": "仅限本轮已读取的官方原文及表格；未取得不代表零录取或全校所有渠道均未公开。",
+    "sourceIds": [
+      "major-c-20260912-buu-score"
+    ],
+    "checkedUrls": [
+      "https://zs.buu.edu.cn/news/show-1309.html"
+    ]
+  }
+]

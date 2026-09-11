@@ -1,0 +1,24 @@
+[
+  {
+    "host": "https://zsb.hrbeu.edu.cn",
+    "entryUrl": "https://zsb.hrbeu.edu.cn/static/front/hrbeu/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "hrbeu-params",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  },
+  {
+    "host": "https://zsbcx.ecnu.edu.cn",
+    "entryUrl": "https://zsbcx.ecnu.edu.cn/static/front/ecnu/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "ecnu-params",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  }
+]

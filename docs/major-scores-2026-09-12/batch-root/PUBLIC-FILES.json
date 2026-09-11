@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md",
+    "QA.json",
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "collect.py",
+    "build.py",
+    "requests-1.json",
+    "requests-2.json",
+    "requests-3.json",
+    "requests-4.json",
+    "requests-5.json",
+    "requests-6.json",
+    "requests-7.json",
+    "requests-8.json",
+    "PUBLIC-FILES.json"
+  ],
+  "excluded": [
+    "raw/**",
+    "__pycache__/**"
+  ]
+}

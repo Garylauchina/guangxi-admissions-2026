@@ -124,6 +124,28 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   assert.ok(![...document.querySelectorAll('.result-card')].some(r=>/定向/.test(r.textContent)));
   document.querySelector('[data-detail]').click();
   assert.match($('detail-content').textContent,/来源记载最低分位次（待核）/);$('close-detail').click();
+  input('query','10269');input('track','物理');input('kind','general');input('batch','all');input('round','all');
+  assert.equal(document.querySelectorAll('.result-card').length,11);
+  assert.ok([...document.querySelectorAll('#results-list .group-tag')].every(e=>e.textContent==='组码待核'));
+  document.querySelector('[data-detail]').click();
+  assert.match($('detail-content').textContent,/未使用组汇总位次/);$('close-detail').click();
+  input('kind','all');assert.equal(document.querySelectorAll('.result-card').length,19);
+  input('query','10600');input('track','历史');
+  assert.match($('result-count').textContent,/28 条记录/);
+  const countyDetails=[];
+  do {
+    for(const card of document.querySelectorAll('.result-card')) {
+      card.querySelector('[data-detail]').click();countyDetails.push($('detail-content').textContent);$('close-detail').click();
+    }
+    if($('next').disabled)break;
+    $('next').click();
+  } while(true);
+  assert.equal(countyDetails.length,28);
+  assert.ok(countyDetails.every(text=>/定向服务地：/.test(text)&&/连续3年以上/.test(text)&&/不少于6年/.test(text)));
+  const yizhou=countyDetails.filter(text=>text.includes('定向服务地：河池市宜州区'));
+  assert.equal(yizhou.length,1);assert.match(yizhou[0],/407/);assert.match(yizhou[0],/540/);
+  input('kind','general');assert.equal(document.querySelectorAll('.result-card').length,0);
+  input('query','12789');assert.equal(document.querySelectorAll('.result-card').length,3);
   document.querySelector('[data-view="special"]').click();assert.equal($('special-view').hidden,false);assert.equal($('query-layout').hidden,true);
   input('special-query','哈尔滨工业大学');assert.match($('special-list').textContent,/100 分制/);assert.match($('special-list').textContent,/加权成绩入围线/);assert.ok(!$('special-list').textContent.includes('entrance-weighted'));
   input('special-query','厦门大学');assert.match($('special-list').textContent,/1000 分制/);
@@ -132,7 +154,7 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   input('special-query','重庆大学');assert.match($('special-list').textContent,/本轮原页无法重读/);
   input('special-query','不存在的大学XYZ');assert.match($('special-list').textContent,/没有匹配/);
   document.querySelector('[data-view="sources"]').click();assert.equal($('sources-view').hidden,false);assert.match($('coverage-detail').textContent,/部分覆盖/);
-  assert.match($('coverage-detail').textContent,/最近补采或核查：2026-09-11（北京时间）/);
+  assert.match($('coverage-detail').textContent,/最近补采或核查：\d{4}-\d{2}-\d{2}（北京时间）/);
   assert.ok(document.querySelectorAll('#sources-list a').length>=18);
   document.querySelector('[data-view="gaps"]').click();assert.equal($('gaps-view').hidden,false);assert.equal($('query-layout').hidden,true);
   assert.match($('gap-overview').textContent,/1,961/);

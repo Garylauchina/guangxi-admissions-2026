@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "major-2026-0912c-12789-zbti-gx-38",
+    "sourceId": "major-c-20260912-zbti-gx",
+    "sourceTable": 1,
+    "sourceRow": 38,
+    "cells": [
+      "广西",
+      "历史类",
+      "1",
+      "电子商务",
+      "1",
+      "1",
+      "428",
+      "428"
+    ]
+  },
+  {
+    "id": "major-2026-0912c-12789-zbti-gx-39",
+    "sourceId": "major-c-20260912-zbti-gx",
+    "sourceTable": 1,
+    "sourceRow": 39,
+    "cells": [
+      "广西",
+      "历史类",
+      "2",
+      "工业机器人技术",
+      "1",
+      "1",
+      "420",
+      "420"
+    ]
+  },
+  {
+    "id": "major-2026-0912c-12789-zbti-gx-40",
+    "sourceId": "major-c-20260912-zbti-gx",
+    "sourceTable": 1,
+    "sourceRow": 40,
+    "cells": [
+      "广西",
+      "历史类",
+      "3",
+      "工业设计",
+      "1",
+      "1",
+      "412",
+      "412"
+    ]
+  },
+  {
+    "id": "major-2026-0912c-12789-zbti-gx-41",
+    "sourceId": "major-c-20260912-zbti-gx",
+    "sourceTable": 1,
+    "sourceRow": 41,
+    "cells": [
+      "广西",
+      "物理类",
+      "1",
+      "电子商务",
+      "1",
+      "1",
+      "414",
+      "414"
+    ]
+  },
+  {
+    "id": "major-2026-0912c-12789-zbti-gx-42",
+    "sourceId": "major-c-20260912-zbti-gx",
+    "sourceTable": 1,
+    "sourceRow": 42,
+    "cells": [
+      "广西",
+      "物理类",
+      "2",
+      "工业机器人技术",
+      "1",
+      "1",
+      "409",
+      "409"
+    ]
+  },
+  {
+    "id": "major-2026-0912c-12789-zbti-gx-43",
+    "sourceId": "major-c-20260912-zbti-gx",
+    "sourceTable": 1,
+    "sourceRow": 43,
+    "cells": [
+      "广西",
+      "物理类",
+      "3",
+      "工业设计",
+      "1",
+      "1",
+      "408",
+      "408"
+    ]
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-1",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 1,
+    "cells": {
+      "track": "历史",
+      "row": "1",
+      "group": "401",
+      "city": "南宁市",
+      "county": "横州市",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "582",
+      "minimum": "582"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-2",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "cells": {
+      "track": "历史",
+      "row": "2",
+      "group": "401",
+      "city": "南宁市",
+      "county": "隆安县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "553",
+      "minimum": "553"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-3",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "cells": {
+      "track": "历史",
+      "row": "3",
+      "group": "402",
+      "city": "柳州市",
+      "county": "柳城县",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "576",
+      "minimum": "535"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-4",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "cells": {
+      "track": "历史",
+      "row": "4",
+      "group": "402",
+      "city": "柳州市",
+      "county": "柳江区",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "594",
+      "minimum": "594"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-5",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "cells": {
+      "track": "历史",
+      "row": "5",
+      "group": "402",
+      "city": "柳州市",
+      "county": "融安县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "526",
+      "minimum": "526"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-6",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "cells": {
+      "track": "历史",
+      "row": "6",
+      "group": "402",
+      "city": "柳州市",
+      "county": "融水苗族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "528",
+      "minimum": "528"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-7",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "cells": {
+      "track": "历史",
+      "row": "7",
+      "group": "403",
+      "city": "桂林市",
+      "county": "龙胜各族自治县",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "582",
+      "minimum": "559"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-8",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "cells": {
+      "track": "历史",
+      "row": "8",
+      "group": "405",
+      "city": "玉林市",
+      "county": "博白县",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "560",
+      "minimum": "557"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-9",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "cells": {
+      "track": "历史",
+      "row": "9",
+      "group": "405",
+      "city": "玉林市",
+      "county": "陆川县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "609",
+      "minimum": "609"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-10",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 10,
+    "cells": {
+      "track": "历史",
+      "row": "10",
+      "group": "406",
+      "city": "百色市",
+      "county": "乐业县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "541",
+      "minimum": "541"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-11",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 11,
+    "cells": {
+      "track": "历史",
+      "row": "11",
+      "group": "406",
+      "city": "百色市",
+      "county": "隆林各族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "547",
+      "minimum": "547"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-12",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 12,
+    "cells": {
+      "track": "历史",
+      "row": "12",
+      "group": "406",
+      "city": "百色市",
+      "county": "平果市",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "549",
+      "minimum": "549"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-13",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 13,
+    "cells": {
+      "track": "历史",
+      "row": "13",
+      "group": "406",
+      "city": "百色市",
+      "county": "田林县",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "547",
+      "minimum": "542"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-14",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 14,
+    "cells": {
+      "track": "历史",
+      "row": "14",
+      "group": "406",
+      "city": "百色市",
+      "county": "田阳区",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "548",
+      "minimum": "548"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-15",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 15,
+    "cells": {
+      "track": "历史",
+      "row": "15",
+      "group": "407",
+      "city": "河池市",
+      "county": "巴马瑶族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "550",
+      "minimum": "550"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-16",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 16,
+    "cells": {
+      "track": "历史",
+      "row": "16",
+      "group": "407",
+      "city": "河池市",
+      "county": "凤山县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "543",
+      "minimum": "543"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-17",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 17,
+    "cells": {
+      "track": "历史",
+      "row": "17",
+      "group": "407",
+      "city": "河池市",
+      "county": "环江毛南族自治县",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "552",
+      "minimum": "534"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-18",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 18,
+    "cells": {
+      "track": "历史",
+      "row": "18",
+      "group": "407",
+      "city": "河池市",
+      "county": "罗城仫佬族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "534",
+      "minimum": "534"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-19",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 19,
+    "cells": {
+      "track": "历史",
+      "row": "19",
+      "group": "407",
+      "city": "河池市",
+      "county": "宜州区",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "540",
+      "minimum": "540"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-20",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 20,
+    "cells": {
+      "track": "历史",
+      "row": "20",
+      "group": "408",
+      "city": "贵港市",
+      "county": "桂平市",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "594",
+      "minimum": "561"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-21",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 21,
+    "cells": {
+      "track": "历史",
+      "row": "21",
+      "group": "408",
+      "city": "贵港市",
+      "county": "平南县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "575",
+      "minimum": "575"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-22",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 22,
+    "cells": {
+      "track": "历史",
+      "row": "22",
+      "group": "409",
+      "city": "来宾市",
+      "county": "合山市",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "548",
+      "minimum": "548"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-23",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 23,
+    "cells": {
+      "track": "历史",
+      "row": "23",
+      "group": "410",
+      "city": "贺州市",
+      "county": "富川瑶族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "549",
+      "minimum": "549"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-24",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 24,
+    "cells": {
+      "track": "历史",
+      "row": "24",
+      "group": "411",
+      "city": "崇左市",
+      "county": "扶绥县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "549",
+      "minimum": "549"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-25",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 25,
+    "cells": {
+      "track": "历史",
+      "row": "25",
+      "group": "411",
+      "city": "崇左市",
+      "county": "龙州县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "535",
+      "minimum": "535"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-26",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 26,
+    "cells": {
+      "track": "历史",
+      "row": "26",
+      "group": "412",
+      "city": "钦州市",
+      "county": "灵山县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "537",
+      "minimum": "537"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-27",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 27,
+    "cells": {
+      "track": "历史",
+      "row": "27",
+      "group": "412",
+      "city": "钦州市",
+      "county": "浦北县",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "568",
+      "minimum": "537"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-6-28",
+    "sourceId": "major-c-20260912-gxtcmu-early-6",
+    "sourceTable": 1,
+    "sourceRow": 28,
+    "cells": {
+      "track": "历史",
+      "row": "28",
+      "group": "412",
+      "city": "钦州市",
+      "county": "钦南区",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "552",
+      "minimum": "552"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-1",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 1,
+    "cells": {
+      "track": "物理",
+      "row": "1",
+      "group": "451",
+      "city": "南宁市",
+      "county": "横州市",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "561",
+      "minimum": "539"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-2",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "cells": {
+      "track": "物理",
+      "row": "2",
+      "group": "451",
+      "city": "南宁市",
+      "county": "隆安县",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "549",
+      "minimum": "541"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-3",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "cells": {
+      "track": "物理",
+      "row": "3",
+      "group": "451",
+      "city": "南宁市",
+      "county": "马山县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "542",
+      "minimum": "542"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-4",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "cells": {
+      "track": "物理",
+      "row": "4",
+      "group": "451",
+      "city": "南宁市",
+      "county": "上林县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "545",
+      "minimum": "545"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-5",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "cells": {
+      "track": "物理",
+      "row": "5",
+      "group": "452",
+      "city": "柳州市",
+      "county": "柳城县",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "503",
+      "minimum": "473"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-6",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "cells": {
+      "track": "物理",
+      "row": "6",
+      "group": "452",
+      "city": "柳州市",
+      "county": "柳江区",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "541",
+      "minimum": "527"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-7",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "cells": {
+      "track": "物理",
+      "row": "7",
+      "group": "452",
+      "city": "柳州市",
+      "county": "融安县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "494",
+      "minimum": "494"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-8",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "cells": {
+      "track": "物理",
+      "row": "8",
+      "group": "452",
+      "city": "柳州市",
+      "county": "融水苗族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "505",
+      "minimum": "505"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-9",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "cells": {
+      "track": "物理",
+      "row": "9",
+      "group": "453",
+      "city": "桂林市",
+      "county": "荔浦市",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "588",
+      "minimum": "588"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-10",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 10,
+    "cells": {
+      "track": "物理",
+      "row": "10",
+      "group": "453",
+      "city": "桂林市",
+      "county": "龙胜各族自治县",
+      "planned": "4",
+      "admitted": "4",
+      "maximum": "563",
+      "minimum": "548"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-11",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 11,
+    "cells": {
+      "track": "物理",
+      "row": "11",
+      "group": "453",
+      "city": "桂林市",
+      "county": "平乐县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "578",
+      "minimum": "578"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-12",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 12,
+    "cells": {
+      "track": "物理",
+      "row": "12",
+      "group": "454",
+      "city": "梧州市",
+      "county": "苍梧县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "582",
+      "minimum": "582"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-13",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 13,
+    "cells": {
+      "track": "物理",
+      "row": "13",
+      "group": "454",
+      "city": "梧州市",
+      "county": "长洲区",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "541",
+      "minimum": "541"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-14",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 14,
+    "cells": {
+      "track": "物理",
+      "row": "14",
+      "group": "454",
+      "city": "梧州市",
+      "county": "岑溪市",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "578",
+      "minimum": "578"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-15",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 15,
+    "cells": {
+      "track": "物理",
+      "row": "15",
+      "group": "455",
+      "city": "玉林市",
+      "county": "博白县",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "567",
+      "minimum": "554"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-16",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 16,
+    "cells": {
+      "track": "物理",
+      "row": "16",
+      "group": "455",
+      "city": "玉林市",
+      "county": "陆川县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "552",
+      "minimum": "552"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-17",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 17,
+    "cells": {
+      "track": "物理",
+      "row": "17",
+      "group": "455",
+      "city": "玉林市",
+      "county": "容县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "571",
+      "minimum": "571"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-18",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 18,
+    "cells": {
+      "track": "物理",
+      "row": "18",
+      "group": "456",
+      "city": "百色市",
+      "county": "乐业县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "513",
+      "minimum": "513"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-19",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 19,
+    "cells": {
+      "track": "物理",
+      "row": "19",
+      "group": "456",
+      "city": "百色市",
+      "county": "隆林各族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "574",
+      "minimum": "574"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-20",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 20,
+    "cells": {
+      "track": "物理",
+      "row": "20",
+      "group": "456",
+      "city": "百色市",
+      "county": "平果市",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "557",
+      "minimum": "557"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-21",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 21,
+    "cells": {
+      "track": "物理",
+      "row": "21",
+      "group": "456",
+      "city": "百色市",
+      "county": "田林县",
+      "planned": "6",
+      "admitted": "6",
+      "maximum": "527",
+      "minimum": "508"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-22",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 22,
+    "cells": {
+      "track": "物理",
+      "row": "22",
+      "group": "456",
+      "city": "百色市",
+      "county": "田阳区",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "544",
+      "minimum": "544"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-23",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 23,
+    "cells": {
+      "track": "物理",
+      "row": "23",
+      "group": "457",
+      "city": "河池市",
+      "county": "巴马瑶族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "547",
+      "minimum": "547"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-24",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 24,
+    "cells": {
+      "track": "物理",
+      "row": "24",
+      "group": "457",
+      "city": "河池市",
+      "county": "大化瑶族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "582",
+      "minimum": "582"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-25",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 25,
+    "cells": {
+      "track": "物理",
+      "row": "25",
+      "group": "457",
+      "city": "河池市",
+      "county": "凤山县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "542",
+      "minimum": "542"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-26",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 26,
+    "cells": {
+      "track": "物理",
+      "row": "26",
+      "group": "457",
+      "city": "河池市",
+      "county": "环江毛南族自治县",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "555",
+      "minimum": "529"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-27",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 27,
+    "cells": {
+      "track": "物理",
+      "row": "27",
+      "group": "457",
+      "city": "河池市",
+      "county": "金城江区",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "587",
+      "minimum": "587"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-28",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 28,
+    "cells": {
+      "track": "物理",
+      "row": "28",
+      "group": "457",
+      "city": "河池市",
+      "county": "罗城仫佬族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "538",
+      "minimum": "538"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-29",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 29,
+    "cells": {
+      "track": "物理",
+      "row": "29",
+      "group": "457",
+      "city": "河池市",
+      "county": "天峨县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "527",
+      "minimum": "527"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-30",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 30,
+    "cells": {
+      "track": "物理",
+      "row": "30",
+      "group": "457",
+      "city": "河池市",
+      "county": "宜州区",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "564",
+      "minimum": "552"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-31",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 31,
+    "cells": {
+      "track": "物理",
+      "row": "31",
+      "group": "458",
+      "city": "贵港市",
+      "county": "桂平市",
+      "planned": "7",
+      "admitted": "7",
+      "maximum": "566",
+      "minimum": "550"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-32",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 32,
+    "cells": {
+      "track": "物理",
+      "row": "32",
+      "group": "458",
+      "city": "贵港市",
+      "county": "平南县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "569",
+      "minimum": "569"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-33",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 33,
+    "cells": {
+      "track": "物理",
+      "row": "33",
+      "group": "459",
+      "city": "来宾市",
+      "county": "合山市",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "558",
+      "minimum": "558"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-34",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 34,
+    "cells": {
+      "track": "物理",
+      "row": "34",
+      "group": "460",
+      "city": "贺州市",
+      "county": "富川瑶族自治县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "565",
+      "minimum": "565"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-35",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 35,
+    "cells": {
+      "track": "物理",
+      "row": "35",
+      "group": "460",
+      "city": "贺州市",
+      "county": "平桂区",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "530",
+      "minimum": "530"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-36",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 36,
+    "cells": {
+      "track": "物理",
+      "row": "36",
+      "group": "461",
+      "city": "崇左市",
+      "county": "扶绥县",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "561",
+      "minimum": "533"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-37",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 37,
+    "cells": {
+      "track": "物理",
+      "row": "37",
+      "group": "461",
+      "city": "崇左市",
+      "county": "江州区",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "559",
+      "minimum": "559"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-38",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 38,
+    "cells": {
+      "track": "物理",
+      "row": "38",
+      "group": "461",
+      "city": "崇左市",
+      "county": "龙州县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "544",
+      "minimum": "544"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-39",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 39,
+    "cells": {
+      "track": "物理",
+      "row": "39",
+      "group": "461",
+      "city": "崇左市",
+      "county": "凭祥市",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "507",
+      "minimum": "507"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-40",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 40,
+    "cells": {
+      "track": "物理",
+      "row": "40",
+      "group": "462",
+      "city": "钦州市",
+      "county": "灵山县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "553",
+      "minimum": "553"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-41",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 41,
+    "cells": {
+      "track": "物理",
+      "row": "41",
+      "group": "462",
+      "city": "钦州市",
+      "county": "浦北县",
+      "planned": "5",
+      "admitted": "5",
+      "maximum": "588",
+      "minimum": "538"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-42",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 42,
+    "cells": {
+      "track": "物理",
+      "row": "42",
+      "group": "462",
+      "city": "钦州市",
+      "county": "钦北区",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "537",
+      "minimum": "537"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-43",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 43,
+    "cells": {
+      "track": "物理",
+      "row": "43",
+      "group": "462",
+      "city": "钦州市",
+      "county": "钦南区",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "537",
+      "minimum": "533"
+    }
+  },
+  {
+    "id": "major-2026-0912c-10600-gxtcmu-early-7-44",
+    "sourceId": "major-c-20260912-gxtcmu-early-7",
+    "sourceTable": 1,
+    "sourceRow": 44,
+    "cells": {
+      "track": "物理",
+      "row": "44",
+      "group": "464",
+      "city": "防城港市",
+      "county": "上思县",
+      "planned": "1",
+      "admitted": "1",
+      "maximum": "575",
+      "minimum": "575"
+    }
+  }
+]

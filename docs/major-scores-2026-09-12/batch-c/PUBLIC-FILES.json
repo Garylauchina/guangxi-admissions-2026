@@ -1,0 +1,25 @@
+{
+  "publicFiles": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "evidence-rows.json",
+    "excluded-records.json",
+    "QA.json",
+    "README.md",
+    "PUBLIC-FILES.json",
+    "collect.py",
+    "build.py",
+    "parse_tables.py",
+    "requests.json",
+    "gxtcmu-early-transcription.tsv",
+    "importer-preflight.json",
+    "baseline-context.json",
+    "code-sources.json"
+  ],
+  "excluded": [
+    "raw/**",
+    "__pycache__/**"
+  ],
+  "note": "原始网页、图片、白底预览及响应元数据留本地，不公开；脚本均使用相对路径，静态重建不依赖当前线上库。"
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "bucm-years.json",
+    "url": "https://www.51gzb.com/api/zb/score/year.json?sid=33347946-2ced-11e8-a80e-00163e002f0f"
+  },
+  {
+    "name": "xidian-query.html",
+    "url": "https://zsxc.xidian.edu.cn/auth/zsdata/lqxx/"
+  },
+  {
+    "name": "xidian-current-summary.html",
+    "url": "https://zsb.xidian.edu.cn/info/1073/6893.htm"
+  },
+  {
+    "name": "tmu-old-scores.pdf",
+    "url": "https://www.tmu.edu.cn/_upload/article/files/a9/d3/5ef8666248b28b187342266ddd37/f99bf3b5-c3c0-4bb1-9fbd-526c3af87b84.pdf"
+  },
+  {
+    "name": "bucm-provinces-2025.json",
+    "url": "https://www.51gzb.com/api/zb/score/province.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2025"
+  },
+  {
+    "name": "bucm-types-2025.json",
+    "url": "https://www.51gzb.com/api/zb/score/type.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2025&pro=%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA"
+  },
+  {
+    "name": "bucm-provinces-2026.json",
+    "url": "https://www.51gzb.com/api/zb/score/province.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026"
+  },
+  {
+    "name": "bucm-types-2026.json",
+    "url": "https://www.51gzb.com/api/zb/score/type.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&pro=%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA"
+  }
+]

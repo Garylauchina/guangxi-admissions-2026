@@ -1,0 +1,26 @@
+[
+  {
+    "name": "xidian-types.json",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "name": "bucm-gx-2025-11.json",
+    "url": "https://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2025&type=11&province=450000&levelType=01"
+  },
+  {
+    "name": "bucm-gx-2025-12.json",
+    "url": "https://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2025&type=12&province=450000&levelType=01"
+  },
+  {
+    "name": "bucm-gx-2026-11.json",
+    "url": "https://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&type=11&province=450000&levelType=01"
+  },
+  {
+    "name": "bucm-gx-2026-12.json",
+    "url": "https://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&type=12&province=450000&levelType=01"
+  }
+]

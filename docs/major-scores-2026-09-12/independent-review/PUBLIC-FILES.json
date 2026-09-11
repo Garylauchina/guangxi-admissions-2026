@@ -1,0 +1,13 @@
+{
+  "publicFiles": [
+    "REVIEW.md",
+    "QA.json",
+    "review_c.py",
+    "gxtcmu-independent-image-reading.tsv",
+    "PUBLIC-FILES.json"
+  ],
+  "excluded": [
+    "__pycache__/**"
+  ],
+  "note": "仅公开本独立报告、可复现核验脚本和独立图读数；原始页面与图片均保留在采集包本地 raw。"
+}

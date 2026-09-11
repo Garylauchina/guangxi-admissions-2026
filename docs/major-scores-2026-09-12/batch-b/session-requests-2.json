@@ -1,0 +1,166 @@
+[
+  {
+    "host": "https://zsb.hrbeu.edu.cn",
+    "entryUrl": "https://zsb.hrbeu.edu.cn/static/front/hrbeu/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "hrbeu-gx-2026-物理类-普通类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "id": "hrbeu-gx-2026-历史类-普通类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "id": "hrbeu-gx-2026-物理类-国家专项",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "国家专项"
+        }
+      },
+      {
+        "id": "hrbeu-gx-2025-物理类-普通类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      }
+    ]
+  },
+  {
+    "host": "https://zsbcx.ecnu.edu.cn",
+    "entryUrl": "https://zsbcx.ecnu.edu.cn/static/front/ecnu/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "ecnu-gx-2026-1",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "zslx": "普通类(提前批)",
+          "klmc": "物理类",
+          "zyz": "化学",
+          "sex": "",
+          "campus": ""
+        }
+      },
+      {
+        "id": "ecnu-gx-2026-2",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "zslx": "普通类(本科批)",
+          "klmc": "物理类",
+          "zyz": "化学",
+          "sex": "",
+          "campus": ""
+        }
+      },
+      {
+        "id": "ecnu-gx-2026-3",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "zslx": "国家专项",
+          "klmc": "物理类",
+          "zyz": "化学",
+          "sex": "",
+          "campus": ""
+        }
+      },
+      {
+        "id": "ecnu-gx-2026-4",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "zslx": "高校专项",
+          "klmc": "物理类",
+          "zyz": "化学",
+          "sex": "",
+          "campus": ""
+        }
+      },
+      {
+        "id": "ecnu-gx-2026-5",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "zslx": "普通类(提前批)",
+          "klmc": "历史类",
+          "zyz": "不限",
+          "sex": "",
+          "campus": ""
+        }
+      },
+      {
+        "id": "ecnu-gx-2026-6",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "zslx": "普通类(本科批)",
+          "klmc": "历史类",
+          "zyz": "不限",
+          "sex": "",
+          "campus": ""
+        }
+      },
+      {
+        "id": "ecnu-gx-2026-7",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "zslx": "国家专项",
+          "klmc": "历史类",
+          "zyz": "不限",
+          "sex": "",
+          "campus": ""
+        }
+      },
+      {
+        "id": "ecnu-gx-2026-8",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "zslx": "高校专项",
+          "klmc": "历史类",
+          "zyz": "不限",
+          "sex": "",
+          "campus": ""
+        }
+      }
+    ]
+  }
+]

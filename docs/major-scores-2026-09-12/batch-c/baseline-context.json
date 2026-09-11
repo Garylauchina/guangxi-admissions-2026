@@ -1,0 +1,122 @@
+{
+  "baselineDate": "2026-09-12",
+  "baselineRowCount": 948,
+  "baselineSha256": "750db93387d362322c8e9137edd1cd9be01307776661dd6363879b1abde4d107",
+  "baselineSchools": [
+    {
+      "schoolCode": "10043",
+      "school": "北京体育大学"
+    },
+    {
+      "schoolCode": "10052",
+      "school": "中央民族大学"
+    },
+    {
+      "schoolCode": "10078",
+      "school": "华北水利水电大学"
+    },
+    {
+      "schoolCode": "10120",
+      "school": "山西大同大学"
+    },
+    {
+      "schoolCode": "10220",
+      "school": "东北石油大学"
+    },
+    {
+      "schoolCode": "10232",
+      "school": "齐齐哈尔大学"
+    },
+    {
+      "schoolCode": "10596",
+      "school": "桂林理工大学"
+    },
+    {
+      "schoolCode": "10598",
+      "school": "广西医科大学"
+    },
+    {
+      "schoolCode": "10601",
+      "school": "桂林医科大学"
+    },
+    {
+      "schoolCode": "10606",
+      "school": "玉林师范学院"
+    },
+    {
+      "schoolCode": "10609",
+      "school": "百色学院"
+    },
+    {
+      "schoolCode": "10637",
+      "school": "重庆师范大学"
+    },
+    {
+      "schoolCode": "11313",
+      "school": "福建商学院"
+    },
+    {
+      "schoolCode": "11319",
+      "school": "江西水利电力大学"
+    },
+    {
+      "schoolCode": "11510",
+      "school": "山东交通学院"
+    },
+    {
+      "schoolCode": "11552",
+      "school": "四川旅游学院"
+    },
+    {
+      "schoolCode": "11765",
+      "school": "河南城建学院"
+    },
+    {
+      "schoolCode": "11825",
+      "school": "桂林航天工业学院"
+    },
+    {
+      "schoolCode": "12608",
+      "school": "重庆工程学院"
+    },
+    {
+      "schoolCode": "12864",
+      "school": "浙江经贸职业技术学院"
+    },
+    {
+      "schoolCode": "12896",
+      "school": "辽宁轨道交通职业学院"
+    },
+    {
+      "schoolCode": "14008",
+      "school": "重庆三峡医药高等专科学校"
+    },
+    {
+      "schoolCode": "16302",
+      "school": "西交利物浦大学"
+    }
+  ],
+  "excludedTargetSchoolCodes": [
+    "10141",
+    "10053",
+    "10004",
+    "10008",
+    "10027",
+    "10183",
+    "19614",
+    "10384",
+    "19027",
+    "10288",
+    "10532",
+    "10217",
+    "10269",
+    "10497",
+    "14896",
+    "14942",
+    "10026",
+    "10701",
+    "10062",
+    "10613"
+  ],
+  "note": "本次采集开始时的公开基线摘要；用于离线重建，不断言执行重建时线上仍为948条。"
+}

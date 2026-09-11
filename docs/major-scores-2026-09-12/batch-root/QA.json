@@ -1,0 +1,301 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-09-12",
+  "reviewedSchools": 6,
+  "newScoreRecords": 0,
+  "sourceRecords": 44,
+  "checks": [
+    {
+      "check": "FYUST current plan and Guangxi visible",
+      "passed": true
+    },
+    {
+      "check": "FYUST examined pages do not contain cutoff table headings",
+      "passed": true
+    },
+    {
+      "check": "GBU charter current 2026 with Guangxi",
+      "passed": true
+    },
+    {
+      "check": "GBU undergraduate page does not supply professional score headings",
+      "passed": true
+    },
+    {
+      "check": "BUCM school fixed ID and type mapping shown by public page",
+      "passed": true
+    },
+    {
+      "check": "BUCM year menu 2025-2022",
+      "passed": true
+    },
+    {
+      "check": "BUCM Guangxi province code450000",
+      "passed": true
+    },
+    {
+      "check": "bucm-provinces-2026.json successful empty config",
+      "passed": true
+    },
+    {
+      "check": "bucm-types-code-2026.json successful empty config",
+      "passed": true
+    },
+    {
+      "check": "BUCM 2025 type11 positive",
+      "passed": true
+    },
+    {
+      "check": "BUCM 2025 type12 positive",
+      "passed": true
+    },
+    {
+      "check": "BUCM 2026 history is unsuccessful business response not successful empty",
+      "passed": true
+    },
+    {
+      "check": "bucm-gx-2026-12.json transport failure preserved",
+      "passed": true
+    },
+    {
+      "check": "bucm-gx-2026-12-retry.json transport failure preserved",
+      "passed": true
+    },
+    {
+      "check": "bucm-gx-2026-12-http.json transport failure preserved",
+      "passed": true
+    },
+    {
+      "check": "TMU current article actually 2023-2025",
+      "passed": true
+    },
+    {
+      "check": "TMU PDF page7 title 2023-2025 Guangxi",
+      "passed": true
+    },
+    {
+      "check": "TMU PDF page7 explicit 2025/2024/2023 columns",
+      "passed": true
+    },
+    {
+      "check": "TMU PDF caveats retained",
+      "passed": true
+    },
+    {
+      "check": "SWJTU actual frontend Guangxi filename mapping",
+      "passed": true
+    },
+    {
+      "check": "SWJTU menu latest2025",
+      "passed": true
+    },
+    {
+      "check": "SWJTU 2026 expected file404",
+      "passed": true
+    },
+    {
+      "check": "SWJTU 2025 Guangxi file is positive",
+      "passed": true
+    },
+    {
+      "check": "Xidian Guangxi menu latest2025",
+      "passed": true
+    },
+    {
+      "check": "Xidian current 物理类 empty",
+      "passed": true
+    },
+    {
+      "check": "Xidian current 历史类 empty",
+      "passed": true
+    },
+    {
+      "check": "Xidian current 全部 empty",
+      "passed": true
+    },
+    {
+      "check": "Xidian 2025 physical allcategories positive17",
+      "passed": true
+    },
+    {
+      "check": "fyust-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "fyust-news.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "fyust-plan.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "gbu-charter.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "gbu-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-gx-2025-11.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-gx-2025-12.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-gx-2026-11.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-old-gx.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-provinces-2025.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-provinces-2026.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-query-https.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-query.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-scores.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-types-2025.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-types-2026.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-types-code-2025.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-types-code-2026.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "bucm-years.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "tmu-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "tmu-latest.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "tmu-old-scores.pdf archive hash",
+      "passed": true
+    },
+    {
+      "check": "tmu-scores.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "swjtu-gx-2025.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "swjtu-gx-2026.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "swjtu-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "swjtu-query.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "swjtu-query.js archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-admissions-menu.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-app.js archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-current-summary.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-gx-2025-物理类.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-gx-2026-全部.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-gx-2026-历史类.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-gx-2026-物理类.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-query.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-score.js archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-types.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "xidian-zs.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "six distinct reviewed identities",
+      "passed": true
+    }
+  ],
+  "manualReview": {
+    "file": "tmu-old-scores.pdf",
+    "physicalPage": 7,
+    "printedPage": 6,
+    "sha256": "30245d66408ff9569438c4d342794a851a1168b2c2675eb9658d1fbb188dcf76",
+    "review": "Rendered page visually confirms Guangxi and 2023-2025 headings, ordinary batch including supplementary rounds, Internet-sourced rank caveat."
+  },
+  "limits": [
+    "BUCM 2026 history business failure and physics transport failure are not successful empty professional queries",
+    "Only Xidian has successful current professional empty responses; others retain each response meaning",
+    "Full original PDFs, pages, screenshots and sessions are not published"
+  ]
+}

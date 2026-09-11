@@ -1,0 +1,58 @@
+[
+  {
+    "name": "bucm-gx-2026-12-retry.json",
+    "url": "https://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&type=12&province=450000&levelType=01"
+  },
+  {
+    "name": "xidian-gx-2026-物理类.json",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "物理类",
+      "xqmc": "长安校区"
+    }
+  },
+  {
+    "name": "xidian-gx-2026-历史类.json",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "历史类",
+      "xqmc": "长安校区"
+    }
+  },
+  {
+    "name": "xidian-gx-2026-全部.json",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "全部",
+      "xqmc": "长安校区"
+    }
+  },
+  {
+    "name": "xidian-gx-2025-物理类.json",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "全部",
+      "klmc": "物理类",
+      "xqmc": "长安校区"
+    }
+  }
+]

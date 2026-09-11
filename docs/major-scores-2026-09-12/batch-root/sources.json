@@ -1,0 +1,889 @@
+[
+  {
+    "id": "major-20260912-root-fyust-home-html",
+    "title": "福建福耀科技大学：招生官网",
+    "url": "https://zsc.fyust.edu.cn/",
+    "publisher": "福建福耀科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:18:38.773971+08:00",
+    "sha256": "b49580f38c7be4bb359b64dd652740f8bb75229b9a3cf1cd808f3084150ab4e6",
+    "responseSha256": "b49580f38c7be4bb359b64dd652740f8bb75229b9a3cf1cd808f3084150ab4e6",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "读取本科招生首页、招生政策栏目及2026本科计划正文，明确广西9人、按智能制造工程招生，但所读页面没有2026广西专业实际录取最低分。计划数和入学后可选专业不作为录取分；本轮未覆盖全部官方公众号历史文章，不据此认定学校全渠道未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-fyust-news-html",
+    "title": "福建福耀科技大学：招生政策栏目",
+    "url": "https://zsc.fyust.edu.cn/index/zszc.htm",
+    "publisher": "福建福耀科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:19:26.480683+08:00",
+    "sha256": "8057250e8821c2756c91ccaf2aa85d5d687b6421852a28f86262eec10bd40b8a",
+    "responseSha256": "8057250e8821c2756c91ccaf2aa85d5d687b6421852a28f86262eec10bd40b8a",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "读取本科招生首页、招生政策栏目及2026本科计划正文，明确广西9人、按智能制造工程招生，但所读页面没有2026广西专业实际录取最低分。计划数和入学后可选专业不作为录取分；本轮未覆盖全部官方公众号历史文章，不据此认定学校全渠道未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-fyust-plan-html",
+    "title": "福建福耀科技大学：2026招生计划",
+    "url": "https://zsc.fyust.edu.cn/info/1009/2321.htm",
+    "publisher": "福建福耀科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:19:26.481210+08:00",
+    "sha256": "33d1579cf8b201f226f8df7585331ffa7d9117783cdf6d13c535abad4ddb91fe",
+    "responseSha256": "33d1579cf8b201f226f8df7585331ffa7d9117783cdf6d13c535abad4ddb91fe",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "读取本科招生首页、招生政策栏目及2026本科计划正文，明确广西9人、按智能制造工程招生，但所读页面没有2026广西专业实际录取最低分。计划数和入学后可选专业不作为录取分；本轮未覆盖全部官方公众号历史文章，不据此认定学校全渠道未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-gbu-charter-html",
+    "title": "大湾区大学：2026招生章程",
+    "url": "https://www.gbu.edu.cn/tzgg2_details/16.html",
+    "publisher": "大湾区大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:02.168342+08:00",
+    "sha256": "5b6408de0e7d1344b5edace61f6c0ebd48a027e5ad63e6df04b96c892944c09f",
+    "responseSha256": "5b6408de0e7d1344b5edace61f6c0ebd48a027e5ad63e6df04b96c892944c09f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "本科招生页和2026章程明确面向广西，以计算机科学与技术统一招生、后续可选专业；所读页面没有2026广西专业实际最低分。未把其他培养方向分别赋予院校专业组分数，未访问考生个人录取查询，也不宣称遍查了全部官方渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-gbu-home-html",
+    "title": "大湾区大学：招生官网",
+    "url": "https://www.gbu.edu.cn/undergraduate.html",
+    "publisher": "大湾区大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:18:38.774437+08:00",
+    "sha256": "36b3ecb1464e380331d10b2b750ab9dc2dfe0db8ec656d7ae9c9ebc4582aaf90",
+    "responseSha256": "36b3ecb1464e380331d10b2b750ab9dc2dfe0db8ec656d7ae9c9ebc4582aaf90",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "本科招生页和2026章程明确面向广西，以计算机科学与技术统一招生、后续可选专业；所读页面没有2026广西专业实际最低分。未把其他培养方向分别赋予院校专业组分数，未访问考生个人录取查询，也不宣称遍查了全部官方渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-bucm-gx-2025-11-json",
+    "title": "北京中医药大学：广西 2025 历史类",
+    "url": "https://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2025&type=11&province=450000&levelType=01",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:21:55.440754+08:00",
+    "sha256": "8b0bfff145899aace015c6ac21b943d44a476ba9dd56fd1b68c5cc691d980015",
+    "responseSha256": "370c6d0e3fa9d62d84744a8ca2ee62abcd7aeb01fd919974eaf1b58cd2334025",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-bucm-gx-2025-12-json",
+    "title": "北京中医药大学：广西 2025 物理类",
+    "url": "https://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2025&type=12&province=450000&levelType=01",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:21:55.440892+08:00",
+    "sha256": "e400b45c5cb9904793140aeac7ba33a5752d748279ce856860ed8d2191d2a170",
+    "responseSha256": "7f3a1fff6eb8ccb98bd3781150be05a934cabd8a0694be6a2577cd4c33e8df79",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-bucm-gx-2026-11-json",
+    "title": "北京中医药大学：广西 2026 历史类",
+    "url": "https://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&type=11&province=450000&levelType=01",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:21:55.441013+08:00",
+    "sha256": "02ff78837c6b0ceb7a96afd74e9ff557bfdc9c432f3b69cb8dc1083f6c9ab30f",
+    "responseSha256": "a2456763b160216288331ce38a26e008f1f30e0086a1989a969a046dd1c71855",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-bucm-gx-2026-12-http-json",
+    "title": "北京中医药大学：广西 2026 物理类（官网HTTP路径重试）",
+    "url": "http://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&type=12&province=450000&levelType=01",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:24:08.764909+08:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": null,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "accessError": "Remote end closed connection without response"
+  },
+  {
+    "id": "major-20260912-root-bucm-gx-2026-12-retry-json",
+    "title": "北京中医药大学：广西 2026 物理类（HTTPS重试）",
+    "url": "https://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&type=12&province=450000&levelType=01",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:23:33.597700+08:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": null,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "accessError": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+  },
+  {
+    "id": "major-20260912-root-bucm-gx-2026-12-json",
+    "title": "北京中医药大学：广西 2026 物理类",
+    "url": "https://www.51gzb.com/api/zb/score/list.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&type=12&province=450000&levelType=01",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:21:55.766824+08:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": null,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "accessError": "Remote end closed connection without response"
+  },
+  {
+    "id": "major-20260912-root-bucm-home-html",
+    "title": "北京中医药大学：招生官网",
+    "url": "https://bkzs.bucm.edu.cn/",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:18:38.774595+08:00",
+    "sha256": "17cf782525b6a3e8c3e577567eea51fbb5c62cff3f151b09b71ae4a0d8d5cd85",
+    "responseSha256": "17cf782525b6a3e8c3e577567eea51fbb5c62cff3f151b09b71ae4a0d8d5cd85",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-bucm-old-gx-html",
+    "title": "北京中医药大学：广西2022至2024分数页",
+    "url": "https://bkzs.bucm.edu.cn/fsjh/lnfs/13336c7a19a343ba880de3ef2637447b.htm",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:19:26.782157+08:00",
+    "sha256": "a08bca23022406a7e97eabbbdacd86396e2c7c7b9b1aa06c61c9850f132d4183",
+    "responseSha256": "a08bca23022406a7e97eabbbdacd86396e2c7c7b9b1aa06c61c9850f132d4183",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-bucm-provinces-2025-json",
+    "title": "北京中医药大学：省份配置 2025",
+    "url": "https://www.51gzb.com/api/zb/score/province.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2025",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:46.655969+08:00",
+    "sha256": "5d85adcbdca9abf843bf111db1b39628baf18bd9e754dff2e14112d234d28274",
+    "responseSha256": "9c8cea8d0271a0c02cbd6478b72a0ca0c91610d757c7d412d25e2d2280890019",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-bucm-provinces-2026-json",
+    "title": "北京中医药大学：省份配置 2026",
+    "url": "https://www.51gzb.com/api/zb/score/province.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:46.818454+08:00",
+    "sha256": "00d7fb3a1afab0a5beb72bcbd20ec32ac0b2c5ba03f92479560802372d08e51f",
+    "responseSha256": "09d6ac9f089aa95f96d1c261cc2aa70d72baabeca2756415ecc7f0e270742b55",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-bucm-query-https-html",
+    "title": "北京中医药大学：公开分数查询页（HTTPS）",
+    "url": "https://www.51gzb.com/bucm/zb/bucmScore",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:19:26.481462+08:00",
+    "sha256": "c3bb3866ec762f84b3cf385684ba6018f7cf97193f3e7a724d53006c0ac97167",
+    "responseSha256": "c3bb3866ec762f84b3cf385684ba6018f7cf97193f3e7a724d53006c0ac97167",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-bucm-query-html",
+    "title": "北京中医药大学：当前公开分数查询页",
+    "url": "http://www.51gzb.com/bucm/zb/bucmScore",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:19:26.481348+08:00",
+    "sha256": "c3bb3866ec762f84b3cf385684ba6018f7cf97193f3e7a724d53006c0ac97167",
+    "responseSha256": "c3bb3866ec762f84b3cf385684ba6018f7cf97193f3e7a724d53006c0ac97167",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-bucm-scores-html",
+    "title": "北京中医药大学：历年分数栏目",
+    "url": "https://bkzs.bucm.edu.cn/fsjh/lnfs/index.htm",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:18:38.774731+08:00",
+    "sha256": "a05f3eeadd0550d55665e56852bb1055f988afc73e93d12a574f5401dcefc8fb",
+    "responseSha256": "a05f3eeadd0550d55665e56852bb1055f988afc73e93d12a574f5401dcefc8fb",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-bucm-types-2025-json",
+    "title": "北京中医药大学：初始科类查询（后已更正省码） 2025",
+    "url": "https://www.51gzb.com/api/zb/score/type.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2025&pro=%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:46.683411+08:00",
+    "sha256": "3974269335176787f3fa126195dc2896fd2d16acfc5f81a137a797dbb2561b40",
+    "responseSha256": "168aa3654fe8f5337eb204cab6bc1ee11e3a4d6b3565245c9bce59c60dc39cdb",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 400,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "accessError": "HTTP Error 400: Bad Request",
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-bucm-types-2026-json",
+    "title": "北京中医药大学：初始科类查询（后已更正省码） 2026",
+    "url": "https://www.51gzb.com/api/zb/score/type.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&pro=%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:46.979865+08:00",
+    "sha256": "3974269335176787f3fa126195dc2896fd2d16acfc5f81a137a797dbb2561b40",
+    "responseSha256": "168aa3654fe8f5337eb204cab6bc1ee11e3a4d6b3565245c9bce59c60dc39cdb",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 400,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "accessError": "HTTP Error 400: Bad Request",
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-bucm-types-code-2025-json",
+    "title": "北京中医药大学：广西科类配置 2025",
+    "url": "https://www.51gzb.com/api/zb/score/type.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2025&pro=450000",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:21:30.077636+08:00",
+    "sha256": "ebb033f4c9bd0651c7631d18c43b96ee55a718641a6947b8c85a5dce033c2f9c",
+    "responseSha256": "b64ec2e7bf981c40090ab90de64e848aa4a8860ac6c6073c12d733b23349edf5",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-bucm-types-code-2026-json",
+    "title": "北京中医药大学：广西科类配置 2026",
+    "url": "https://www.51gzb.com/api/zb/score/type.json?sid=33347946-2ced-11e8-a80e-00163e002f0f&year=2026&pro=450000",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:21:30.077735+08:00",
+    "sha256": "00d7fb3a1afab0a5beb72bcbd20ec32ac0b2c5ba03f92479560802372d08e51f",
+    "responseSha256": "09d6ac9f089aa95f96d1c261cc2aa70d72baabeca2756415ecc7f0e270742b55",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-bucm-years-json",
+    "title": "北京中医药大学：年份菜单",
+    "url": "https://www.51gzb.com/api/zb/score/year.json?sid=33347946-2ced-11e8-a80e-00163e002f0f",
+    "publisher": "北京中医药大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:46.475862+08:00",
+    "sha256": "1177db0817935e73956cabc8bb13fc79c72f85fdf4486308e961001d535b3901",
+    "responseSha256": "ec8d3a5797f7b8e0993847e360569f2e646b6b4999f401e25658182876179359",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "现官网链接的公开分数系统菜单最高2025；2026省份和广西科类配置成功返回空列表。按真实省码450000及历史11/物理12查询：历史返回success=false且list=null，物理HTTPS两次及官网原HTTP路径均连接关闭/协议失败，不能说两科专业查询成功为空。2025同接口历史4、物理22条正向对照；响应中的planYear=2026只是计划年份，成绩字段仍为2025。旧静态栏目为2022—2024。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-tmu-home-html",
+    "title": "天津医科大学：招生官网",
+    "url": "https://www.tmu.edu.cn/bkzs/main.htm",
+    "publisher": "天津医科大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:18:39.154098+08:00",
+    "sha256": "d0f7a3b210f556219b0015001e2b3ef2bc6c6c86f196a6363324b7f9ed66429c",
+    "responseSha256": "d0f7a3b210f556219b0015001e2b3ef2bc6c6c86f196a6363324b7f9ed66429c",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "录取分数栏目最新文章发布于2026-05-27，标题及PDF实际为2023—2025。已渲染目视核对附件第7页（印刷页6）的广西表，年份列为2025、2024、2023，没有2026。原脚注明普通批含征集，位次来自互联网仅供参考；不把发布时间或旧位次改作2026专业证据。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-tmu-latest-html",
+    "title": "天津医科大学：最新分数公告（2023至2025）",
+    "url": "https://www.tmu.edu.cn/bkzs/2026/0527/c8982a88058/page.htm",
+    "publisher": "天津医科大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:01.905352+08:00",
+    "sha256": "bd8bfceaecd1c885d53fb0593168c0e50be55bd2d6d9ae5e7e828e7d55c6e0c9",
+    "responseSha256": "bd8bfceaecd1c885d53fb0593168c0e50be55bd2d6d9ae5e7e828e7d55c6e0c9",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "录取分数栏目最新文章发布于2026-05-27，标题及PDF实际为2023—2025。已渲染目视核对附件第7页（印刷页6）的广西表，年份列为2025、2024、2023，没有2026。原脚注明普通批含征集，位次来自互联网仅供参考；不把发布时间或旧位次改作2026专业证据。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-tmu-old-scores-pdf",
+    "title": "天津医科大学：2023至2025分数附件",
+    "url": "https://www.tmu.edu.cn/_upload/article/files/a9/d3/5ef8666248b28b187342266ddd37/f99bf3b5-c3c0-4bb1-9fbd-526c3af87b84.pdf",
+    "publisher": "天津医科大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:46.476608+08:00",
+    "sha256": "30245d66408ff9569438c4d342794a851a1168b2c2675eb9658d1fbb188dcf76",
+    "responseSha256": "30245d66408ff9569438c4d342794a851a1168b2c2675eb9658d1fbb188dcf76",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "录取分数栏目最新文章发布于2026-05-27，标题及PDF实际为2023—2025。已渲染目视核对附件第7页（印刷页6）的广西表，年份列为2025、2024、2023，没有2026。原脚注明普通批含征集，位次来自互联网仅供参考；不把发布时间或旧位次改作2026专业证据。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-tmu-scores-html",
+    "title": "天津医科大学：历年分数栏目",
+    "url": "https://www.tmu.edu.cn/bkzs/8982/list.htm",
+    "publisher": "天津医科大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:19:26.817432+08:00",
+    "sha256": "6775daf6a862a3115cc8b8334e828c0c462d457ec9701ec37723faa73bd2b517",
+    "responseSha256": "6775daf6a862a3115cc8b8334e828c0c462d457ec9701ec37723faa73bd2b517",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "录取分数栏目最新文章发布于2026-05-27，标题及PDF实际为2023—2025。已渲染目视核对附件第7页（印刷页6）的广西表，年份列为2025、2024、2023，没有2026。原脚注明普通批含征集，位次来自互联网仅供参考；不把发布时间或旧位次改作2026专业证据。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-swjtu-gx-2025-html",
+    "title": "西南交通大学：广西 2025",
+    "url": "https://cjcx.swjtu.edu.cn/admission/admission_2025_ANXIZHUANGZUZIZHIOU.html",
+    "publisher": "西南交通大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:01.905770+08:00",
+    "sha256": "840141153eebc789ac4303cbd086fef0c440ffb9d8c5431a61e7923960ceb71d",
+    "responseSha256": "840141153eebc789ac4303cbd086fef0c440ffb9d8c5431a61e7923960ceb71d",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "官网导航的历史录取查询菜单只有2025、2024、2023、2022；按真实脚本省份映射构造的2026广西公开文件返回404，2025同格式广西文件可读取具体专业记录。没有把默认安徽表或旧年广西分数转成年份2026；404不等于录取0人，也不证明其他渠道没有公布。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-swjtu-gx-2026-html",
+    "title": "西南交通大学：广西 2026",
+    "url": "https://cjcx.swjtu.edu.cn/admission/admission_2026_ANXIZHUANGZUZIZHIOU.html",
+    "publisher": "西南交通大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:01.905897+08:00",
+    "sha256": "9b342ae7f25d65bdb817d8c995f3211ac398e41575fc5d149d994c1dcb008f0a",
+    "responseSha256": "9b342ae7f25d65bdb817d8c995f3211ac398e41575fc5d149d994c1dcb008f0a",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 404,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "官网导航的历史录取查询菜单只有2025、2024、2023、2022；按真实脚本省份映射构造的2026广西公开文件返回404，2025同格式广西文件可读取具体专业记录。没有把默认安徽表或旧年广西分数转成年份2026；404不等于录取0人，也不证明其他渠道没有公布。"
+    ],
+    "accessError": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "major-20260912-root-swjtu-home-html",
+    "title": "西南交通大学：招生官网",
+    "url": "https://zhaosheng.swjtu.edu.cn/",
+    "publisher": "西南交通大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:18:39.303078+08:00",
+    "sha256": "944e191938f51e3c9df6f882237f12848cfc1e1d487f4c95c7e362ee29d4a41c",
+    "responseSha256": "944e191938f51e3c9df6f882237f12848cfc1e1d487f4c95c7e362ee29d4a41c",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "官网导航的历史录取查询菜单只有2025、2024、2023、2022；按真实脚本省份映射构造的2026广西公开文件返回404，2025同格式广西文件可读取具体专业记录。没有把默认安徽表或旧年广西分数转成年份2026；404不等于录取0人，也不证明其他渠道没有公布。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-swjtu-query-html",
+    "title": "西南交通大学：当前公开分数查询页",
+    "url": "https://cjcx.swjtu.edu.cn/admission/default.html",
+    "publisher": "西南交通大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:18:39.379694+08:00",
+    "sha256": "cd231eaed3e08f375990dccdb263799f0fbe18952fb67a0cb12206a0392b2af6",
+    "responseSha256": "cd231eaed3e08f375990dccdb263799f0fbe18952fb67a0cb12206a0392b2af6",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "官网导航的历史录取查询菜单只有2025、2024、2023、2022；按真实脚本省份映射构造的2026广西公开文件返回404，2025同格式广西文件可读取具体专业记录。没有把默认安徽表或旧年广西分数转成年份2026；404不等于录取0人，也不证明其他渠道没有公布。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-swjtu-query-js",
+    "title": "西南交通大学：当前公开分数查询页",
+    "url": "https://cjcx.swjtu.edu.cn/admission/css/JavaScript.js",
+    "publisher": "西南交通大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:19:27.047925+08:00",
+    "sha256": "9da68fb02d367fdc7a2e41d8c808b36fdf65d5d64a37f0f5d467b1bbb83640a3",
+    "responseSha256": "9da68fb02d367fdc7a2e41d8c808b36fdf65d5d64a37f0f5d467b1bbb83640a3",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "官网导航的历史录取查询菜单只有2025、2024、2023、2022；按真实脚本省份映射构造的2026广西公开文件返回404，2025同格式广西文件可读取具体专业记录。没有把默认安徽表或旧年广西分数转成年份2026；404不等于录取0人，也不证明其他渠道没有公布。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-xidian-admissions-menu-html",
+    "title": "西安电子科技大学：主站招生导航",
+    "url": "https://www.xidian.edu.cn/zsjy.htm",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:19:27.067890+08:00",
+    "sha256": "d383b5a4bfeb7fbd2dca65e7764199c0197b58104aa669cd802c762a396ba2f8",
+    "responseSha256": "d383b5a4bfeb7fbd2dca65e7764199c0197b58104aa669cd802c762a396ba2f8",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-xidian-app-js",
+    "title": "西安电子科技大学：公开查询配置脚本",
+    "url": "https://zsxc.xidian.edu.cn/auth/zsdata/lqxx/js/app.c9746a4c.js",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:21:30.077093+08:00",
+    "sha256": "eea488c817783e77329784495d81cdbc5bb202865f3d67dad8cbd1405cb23b39",
+    "responseSha256": "eea488c817783e77329784495d81cdbc5bb202865f3d67dad8cbd1405cb23b39",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-xidian-current-summary-html",
+    "title": "西安电子科技大学：2026计划与近三年分数栏目",
+    "url": "https://zsb.xidian.edu.cn/info/1073/6893.htm",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:46.476472+08:00",
+    "sha256": "7a88c6250f4188392a4fb11e9bd5d19d41bca30c3141e158be79b0bd6b2d2c94",
+    "responseSha256": "7a88c6250f4188392a4fb11e9bd5d19d41bca30c3141e158be79b0bd6b2d2c94",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-xidian-gx-2025-物理类-json",
+    "title": "西安电子科技大学：广西 2025-物理类",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:23:33.780688+08:00",
+    "sha256": "9acad49287299b710f9b41669d3f6a51d29edcec83ff9bd48bc8181d3609216e",
+    "responseSha256": "ec6708561bbf126aaa84107041546663c1d2c626475f9ab30149bd205f56ae67",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "全部",
+      "klmc": "物理类",
+      "xqmc": "长安校区"
+    },
+    "requestEncoding": "json",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-xidian-gx-2026-全部-json",
+    "title": "西安电子科技大学：广西 2026-全部",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:23:33.598422+08:00",
+    "sha256": "7866e8b2e03cead9233274304ff403b74750deff7c814787420960e283ab8cbc",
+    "responseSha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "全部",
+      "xqmc": "长安校区"
+    },
+    "requestEncoding": "json",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-xidian-gx-2026-历史类-json",
+    "title": "西安电子科技大学：广西 2026-历史类",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:23:33.598295+08:00",
+    "sha256": "7866e8b2e03cead9233274304ff403b74750deff7c814787420960e283ab8cbc",
+    "responseSha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "历史类",
+      "xqmc": "长安校区"
+    },
+    "requestEncoding": "json",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-xidian-gx-2026-物理类-json",
+    "title": "西安电子科技大学：广西 2026-物理类",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:23:33.598143+08:00",
+    "sha256": "7866e8b2e03cead9233274304ff403b74750deff7c814787420960e283ab8cbc",
+    "responseSha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "物理类",
+      "xqmc": "长安校区"
+    },
+    "requestEncoding": "json",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-xidian-home-html",
+    "title": "西安电子科技大学：招生官网",
+    "url": "https://www.xidian.edu.cn/",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:18:39.070670+08:00",
+    "sha256": "47fcc5f71c6df0b540235d280daa0c1a92c6599de8688132cc3b9960e5c67599",
+    "responseSha256": "47fcc5f71c6df0b540235d280daa0c1a92c6599de8688132cc3b9960e5c67599",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-xidian-query-html",
+    "title": "西安电子科技大学：当前公开分数查询页",
+    "url": "https://zsxc.xidian.edu.cn/auth/zsdata/lqxx/",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:46.476308+08:00",
+    "sha256": "9588cf1e746d5aa8af33d4fe2e54b85756540e2e312b413a15eaf7d579f1a58e",
+    "responseSha256": "9588cf1e746d5aa8af33d4fe2e54b85756540e2e312b413a15eaf7d579f1a58e",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-xidian-score-js",
+    "title": "西安电子科技大学：公开查询字段脚本",
+    "url": "https://zsxc.xidian.edu.cn/auth/zsdata/lqxx/js/lqcxjg.13a6cba5.js",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:21:30.077518+08:00",
+    "sha256": "964c20ae7a4498273b392d4ddc87ee32c140fbabdf4926c7447f7468537651ba",
+    "responseSha256": "964c20ae7a4498273b392d4ddc87ee32c140fbabdf4926c7447f7468537651ba",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ]
+  },
+  {
+    "id": "major-20260912-root-xidian-types-json",
+    "title": "西安电子科技大学：年份与类别配置",
+    "url": "https://zsxc.xidian.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:21:55.440340+08:00",
+    "sha256": "730ea962323d630b0f0277e22766445a7a235344a265b7654a7756e121f2d339",
+    "responseSha256": "7db294695f723063f421d5263aaf6614ca041137a9f2243032549e1f315a6d8b",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs"
+    },
+    "requestEncoding": "json",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ],
+    "archiveMethod": "JSON formatted; session-related fields omitted"
+  },
+  {
+    "id": "major-20260912-root-xidian-zs-html",
+    "title": "西安电子科技大学：本科招生官网",
+    "url": "https://zsb.xidian.edu.cn/",
+    "publisher": "西安电子科技大学",
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T07:20:01.906020+08:00",
+    "sha256": "0f5ca40736598baa9c1386a5f663848b8b388b446a9ee84e153a273214136137",
+    "responseSha256": "0f5ca40736598baa9c1386a5f663848b8b388b446a9ee84e153a273214136137",
+    "requestMethod": "GET",
+    "requestData": null,
+    "requestEncoding": "form",
+    "httpStatus": 200,
+    "evidenceRole": "source-review-not-admission-records",
+    "method": "按当前官网导航及前端真实公开参数读取；保存本轮状态、归档摘要及明示范围内的正向对照。",
+    "notes": [
+      "通过主站招生菜单和本科招生页找到当前公开分数前端。广西菜单最高2025；限定长安校区、全部招生类别，2026物理类、历史类、全部科类三次均code200/success=true且list空，2025物理同接口取得17条正向对照。本轮没有将旧年分数、计划年份或汇总投档线改成2026专业最低分。"
+    ]
+  }
+]

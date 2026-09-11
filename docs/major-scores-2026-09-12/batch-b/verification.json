@@ -1,0 +1,1809 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "major26-e8bad8aac424e5670abf:year",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:province",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:track",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:major",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:score",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-e8bad8aac424e5670abf:public-normal-type",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:year",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:province",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:track",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:major",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:score",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-c4c66e9e4ec8b4285c65:public-normal-type",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:year",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:province",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:track",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:major",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:score",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-c72786e1e897fd55d5b1:public-normal-type",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:year",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:province",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:track",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:major",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:score",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-02d203b38a43f9c76927:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:year",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:province",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:track",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:major",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:score",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-750c02be9ed80325f713:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:year",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:province",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:track",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:major",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:score",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-8418ddee3d5e2fc2d05d:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:year",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:province",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:track",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:major",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:score",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-10da6cb197f38e33fa0b:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:year",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:province",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:track",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:major",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:score",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-b60f6b9f784562c7cf20:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:year",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:province",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:track",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:major",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:score",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-45ec459361a11064fc7b:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:year",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:province",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:track",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:major",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:score",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-a0f851398bdfa5df9211:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:year",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:province",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:track",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:major",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:score",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-3fd2e250f9d9f2fa01e0:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:year",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:province",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:track",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:major",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:score",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-0278e4613796ee506754:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:year",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:province",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:track",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:major",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:score",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-2571b85601093822d91d:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:year",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:province",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:track",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:major",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:score",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-0ea591a587e0d1d6545b:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:year",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:province",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:track",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:major",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:score",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-f067ed2697dbb66dc679:special-type",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:year",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:province",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:track",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:major",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:score",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-1a2ba02e80b734271fca:special-type",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:year",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:province",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:track",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:major",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:score",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-4c2a05982c6ae93d562a:special-type",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:year",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:province",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:track",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:major",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:score",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-bfd22cfb0b1a03cd54a7:special-type",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:year",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:province",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:track",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:major",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:score",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-a6e82ca2df57d1a1ebf8:special-type",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:year",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:province",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:track",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:major",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:score",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-d905b3ee6d2bf6ad31e2:public-normal-type",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:year",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:province",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:track",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:major",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:score",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-19d842c889efca1fcc6a:public-normal-type",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:year",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:province",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:track",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:major",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:score",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-cf221422e07d4a3e1ba2:public-normal-type",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:year",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:province",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:track",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:major",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:score",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-d25fb901a022cda2ac11:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:year",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:province",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:track",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:major",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:score",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-e24d6166732db6288dcb:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:year",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:province",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:track",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:major",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:score",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-10687501795b778642cd:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:year",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:province",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:track",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:major",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:score",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-747655ba8dae4af7d5e6:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:year",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:province",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:track",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:major",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:score",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-22cd09822ead9f3d45ef:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:year",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:province",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:track",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:major",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:score",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-c12cbe888a0770b11a0e:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:year",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:province",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:track",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:major",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:score",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-10266595a52a75f7bb21:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:year",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:province",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:track",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:major",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:score",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-43b514686f92cffa656c:special-type",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:year",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:province",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:track",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:major",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:score",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-972e2559dfa9987327be:special-type",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:year",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:province",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:track",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:major",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:score",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:sourceMaximumScore",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:sourceAverageScore",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:admittedCount",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:sourceCategory",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:sourceSubjectRequirement",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:unknown-fields-not-inferred",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:aggregated-round",
+      "pass": true
+    },
+    {
+      "check": "major26-26ce480ea81a0b381bdc:special-type",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-bnu-guide:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-bnu-gx-brochure:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-bnu-home:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-bnu-index:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-charter:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-entry:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-gx-2026-1:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-gx-2026-2:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-gx-2026-3:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-gx-2026-4:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-gx-2026-5:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-gx-2026-6:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-gx-2026-7:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-gx-2026-8:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-home:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-init:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-params:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-ecnu-tplt:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hnu-entry:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hnu-gx-2025-control:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hnu-gx-2026:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hnu-home:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hnu-js:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hrbeu-entry:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hrbeu-gx-2025-物理类-普通类:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hrbeu-gx-2026-历史类-普通类:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hrbeu-gx-2026-物理类-国家专项:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hrbeu-gx-2026-物理类-普通类:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hrbeu-home:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hrbeu-init:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hrbeu-params:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-hrbeu-tplt:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-njust-entry:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-njust-lines:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-whut-entry:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-whut-gx-2025-control:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-whut-gx-2026-all:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-whut-query-js:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-whut-tracks-2026:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-whut-years:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-xmu-app:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-xmu-component:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-xmu-entry:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-xmu-guide:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-xmu-gx-2025-全部:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-xmu-gx-2026-全部:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-xmu-gx-2026-历史类:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-xmu-gx-2026-物理类:sha256",
+      "pass": true
+    },
+    {
+      "check": "major-20260912-b-xmu-types:sha256",
+      "pass": true
+    },
+    {
+      "check": "32-rows-88-admitted",
+      "pass": true
+    },
+    {
+      "check": "all-seven-notes-local-date",
+      "pass": true
+    }
+  ],
+  "summary": {
+    "checks": 449,
+    "rawValueFieldsCompared": 320,
+    "sourcesHashChecked": 49,
+    "rows": 32,
+    "admittedCount": 88,
+    "scope": "Raw values and row interpretation only; no inference from sourceRecord or group statistics."
+  }
+}

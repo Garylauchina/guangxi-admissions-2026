@@ -1,0 +1,15 @@
+[
+  {
+    "id": "hnu-gx-2025-control",
+    "url": "https://admi2.hnu.edu.cn/lnlqqkSearch?year=2025&sf=%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA"
+  },
+  {
+    "id": "whut-gx-2025-control",
+    "url": "https://zs.whut.edu.cn/enroll-info/recruitByMajor/selRecruitByProvinceAndYearAndSubjectType.do",
+    "data": {
+      "year": "2025",
+      "province": "广西",
+      "subjectType": "全部"
+    }
+  }
+]

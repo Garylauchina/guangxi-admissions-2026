@@ -1,0 +1,288 @@
+{
+  "scopeYear": 2026,
+  "province": "广西",
+  "sourceCount": 51,
+  "recordCount": 0,
+  "evidenceBoundary": "以下仅为事实核对摘要。完整原始HTML/JS/PDF/JSON及请求元信息均保留raw，不公开发布。",
+  "schools": {
+    "10141": {
+      "campus": {
+        "value": 1,
+        "label": "主校区（含开发区校区）"
+      },
+      "provinceCode": "450000",
+      "trackCodes": {
+        "20": "物理类",
+        "21": "历史类"
+      },
+      "yearListResult": [],
+      "queries": [
+        {
+          "year": 2026,
+          "track": "物理类",
+          "typeOptions": [],
+          "majorRows": 0,
+          "categoryFilter": "未限定；源允许的所有类型"
+        },
+        {
+          "year": 2026,
+          "track": "历史类",
+          "typeOptions": [],
+          "majorRows": 0,
+          "categoryFilter": "未限定；源允许的所有类型"
+        }
+      ],
+      "sourceIds": [
+        "major-20260912-a-dlut-2026-gx-20-majors",
+        "major-20260912-a-dlut-2026-gx-20-types",
+        "major-20260912-a-dlut-2026-gx-21-majors",
+        "major-20260912-a-dlut-2026-gx-21-types",
+        "major-20260912-a-dlut-api-chunk",
+        "major-20260912-a-dlut-app",
+        "major-20260912-a-dlut-campus-chunk",
+        "major-20260912-a-dlut-dict-campus",
+        "major-20260912-a-dlut-dict-track",
+        "major-20260912-a-dlut-dict-type",
+        "major-20260912-a-dlut-provinces",
+        "major-20260912-a-dlut-score-chunk",
+        "major-20260912-a-dlut-score-entry",
+        "major-20260912-a-dlut-years"
+      ]
+    },
+    "10053": {
+      "httpStatus": 200,
+      "bodyKind": "浏览器访问验证页",
+      "dataQueriesExecuted": false,
+      "reason": "未取得可读查询前端字段，未猜造接口或执行挑战",
+      "sourceIds": [
+        "major-20260912-a-cupl-home"
+      ]
+    },
+    "10004": {
+      "availableGuangxiYears": [
+        "2024",
+        "2025"
+      ],
+      "queriedYear": 2026,
+      "queriedTracks": [
+        "物理",
+        "历史"
+      ],
+      "queriedCategories": [
+        "普通类",
+        "国家专项",
+        "民族班"
+      ],
+      "groupLabelQueries": [
+        "物化",
+        "物化-詹天佑信息类",
+        "物化-詹天佑智能类",
+        "历史",
+        "物化组",
+        "民族班"
+      ],
+      "note": "2026未出现在配置。对照当前公开字典参数做本年空结果验证；标签取自既有公开选项，不证明2026组码或类别不变。未将威海中外类别合入本部。",
+      "majorRows": 0,
+      "sourceIds": [
+        "major-20260912-a-bjtu-2026-gx-历史-普通类-历史",
+        "major-20260912-a-bjtu-2026-gx-历史-普通类",
+        "major-20260912-a-bjtu-2026-gx-物理-国家专项-物化组",
+        "major-20260912-a-bjtu-2026-gx-物理-国家专项",
+        "major-20260912-a-bjtu-2026-gx-物理-普通类-物化-詹天佑信息类",
+        "major-20260912-a-bjtu-2026-gx-物理-普通类-物化-詹天佑智能类",
+        "major-20260912-a-bjtu-2026-gx-物理-普通类-物化",
+        "major-20260912-a-bjtu-2026-gx-物理-普通类",
+        "major-20260912-a-bjtu-2026-gx-物理-民族班-民族班",
+        "major-20260912-a-bjtu-2026-gx-物理-民族班",
+        "major-20260912-a-bjtu-home",
+        "major-20260912-a-bjtu-score-entry",
+        "major-20260912-a-bjtu-score-params"
+      ]
+    },
+    "10008": {
+      "availableGuangxiYears": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "queriedYear": 2026,
+      "queries": [
+        {
+          "track": "物理类",
+          "category": "普通类"
+        },
+        {
+          "track": "物理类",
+          "category": "国家专项"
+        },
+        {
+          "track": "历史类",
+          "category": "普通类"
+        }
+      ],
+      "majorRows": 0,
+      "sourceIds": [
+        "major-20260912-a-ustb-2026-gx-历史类-普通类",
+        "major-20260912-a-ustb-2026-gx-物理类-国家专项",
+        "major-20260912-a-ustb-2026-gx-物理类-普通类",
+        "major-20260912-a-ustb-home",
+        "major-20260912-a-ustb-score-entry",
+        "major-20260912-a-ustb-score-params"
+      ]
+    },
+    "10027": {
+      "latestDirectoryEntryPublishedAt": "2026-06-18",
+      "brochurePageCount": 1,
+      "brochureTitle": "2026年在广西本科招生计划及2025年各专业录取分数",
+      "planYear": 2026,
+      "scoreYear": 2025,
+      "campusTableHeaders": [
+        "北京校区",
+        "珠海校区"
+      ],
+      "importedRows": 0,
+      "sourceIds": [
+        "major-20260912-a-bnu-gx-2026-brochure",
+        "major-20260912-a-bnu-home",
+        "major-20260912-a-bnu-plan-scores-2026",
+        "major-20260912-a-bnu-score-index"
+      ]
+    },
+    "10183": {
+      "total": 1704,
+      "rows": 1704,
+      "yearCounts": {
+        "2025": 412,
+        "2024": 493,
+        "2023": 429,
+        "2022": 370
+      },
+      "guangxiOldYearRows": 231,
+      "guangxiYearCounts": {
+        "2025": 61,
+        "2024": 60,
+        "2023": 59,
+        "2022": 51
+      },
+      "guangxiTracks": [
+        "历史",
+        "文史",
+        "物理",
+        "理工"
+      ],
+      "guangxiCategories": [
+        "国家专项",
+        "普通批",
+        "预科批",
+        "高校专项"
+      ],
+      "currentYearRows": 0,
+      "headMapping": {
+        "C": "nf",
+        "D": "lqzymc",
+        "E": "zykl",
+        "F": "lb",
+        "CY": "gx_num",
+        "CZ": "gx_cj1",
+        "DA": "gx_cj2",
+        "DB": "gx_cja",
+        "DC": "gx_wc"
+      },
+      "note": "主页面/配置/公开JS指定完整CDN表；一次下载全部1704行，total一致，无遗漏分页；数据年从C/nf逐行判定，整表没有2026。旧年数值不导入。",
+      "sourceIds": [
+        "major-20260912-a-jlu-app",
+        "major-20260912-a-jlu-common",
+        "major-20260912-a-jlu-config",
+        "major-20260912-a-jlu-details",
+        "major-20260912-a-jlu-home",
+        "major-20260912-a-jlu-score-config",
+        "major-20260912-a-jlu-score-data"
+      ]
+    },
+    "19614": {
+      "sourceCampusName": "电子科技大学（沙河校区）",
+      "siteSchoolName": "电子科技大学(沙河校区)",
+      "guangxiMenu": {
+        "广西_2025_全部_电子科技大学（沙河校区）": [
+          "全部",
+          "普通类",
+          "少数民族预科（沙河校区）"
+        ],
+        "广西_2025_物理类_电子科技大学（沙河校区）": [
+          "全部",
+          "普通类",
+          "少数民族预科（沙河校区）"
+        ],
+        "广西_2024_全部_电子科技大学（沙河校区）": [
+          "全部",
+          "普通类",
+          "少数民族预科（沙河校区）"
+        ],
+        "广西_2024_物理类_电子科技大学（沙河校区）": [
+          "全部",
+          "普通类",
+          "少数民族预科（沙河校区）"
+        ],
+        "广西_2023_全部_电子科技大学（沙河校区）": [
+          "全部",
+          "普通类",
+          "少数民族预科（沙河校区）"
+        ],
+        "广西_2023_理工_电子科技大学（沙河校区）": [
+          "全部",
+          "普通类",
+          "少数民族预科（沙河校区）"
+        ],
+        "广西_2022_全部_电子科技大学（沙河校区）": [
+          "全部",
+          "普通类",
+          "少数民族预科（沙河校区）"
+        ],
+        "广西_2022_理工_电子科技大学（沙河校区）": [
+          "全部",
+          "普通类",
+          "少数民族预科（沙河校区）"
+        ],
+        "广西_2021_全部_电子科技大学（沙河校区）": [
+          "全部",
+          "普通类"
+        ],
+        "广西_2021_理工_电子科技大学（沙河校区）": [
+          "全部",
+          "普通类"
+        ]
+      },
+      "queries": [
+        {
+          "nf": "2026",
+          "sf": "广西",
+          "klmc": "物理类",
+          "zslb": "普通类",
+          "xqmc": "电子科技大学（沙河校区）",
+          "code": 200,
+          "success": true,
+          "majorRows": 0
+        },
+        {
+          "nf": "2026",
+          "sf": "广西",
+          "klmc": "历史类",
+          "zslb": "普通类",
+          "xqmc": "电子科技大学（沙河校区）",
+          "code": 200,
+          "success": true,
+          "majorRows": 0
+        }
+      ],
+      "note": "本次重新请求沙河校区，未沿用昨日本部查询；没有推断未在本年菜单出现的其他类别。",
+      "sourceIds": [
+        "major-20260912-a-uestc-app",
+        "major-20260912-a-uestc-lnfs",
+        "major-20260912-a-uestc-query",
+        "major-20260912-a-uestc-shahe-2026-gx-历史类",
+        "major-20260912-a-uestc-shahe-2026-gx-物理类",
+        "major-20260912-a-uestc-shahe-types"
+      ]
+    }
+  }
+}

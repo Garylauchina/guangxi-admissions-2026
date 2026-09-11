@@ -1,0 +1,400 @@
+{
+  "before": 948,
+  "after": 1026,
+  "added": 78,
+  "updated": 0,
+  "schoolCodes": 25,
+  "pending": 3,
+  "changes": [
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-38",
+      "school": "浙江工商职业技术学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-39",
+      "school": "浙江工商职业技术学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-40",
+      "school": "浙江工商职业技术学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-41",
+      "school": "浙江工商职业技术学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-42",
+      "school": "浙江工商职业技术学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-12789-zbti-gx-43",
+      "school": "浙江工商职业技术学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-1",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-2",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-3",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-4",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-5",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-6",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-7",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-8",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-9",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-10",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-11",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-12",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-13",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-14",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-15",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-16",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-17",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-18",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-19",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-20",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-21",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-22",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-23",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-24",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-25",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-26",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-27",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-6-28",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-1",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-2",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-3",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-4",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-5",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-6",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-7",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-8",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-9",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-10",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-11",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-12",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-13",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-14",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-15",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-16",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-17",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-18",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-19",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-20",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-21",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-22",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-23",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-24",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-25",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-26",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-27",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-28",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-29",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-30",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-31",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-32",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-33",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-34",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-35",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-36",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-37",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-38",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-39",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-40",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-41",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-42",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-43",
+      "school": "广西中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-0912c-10600-gxtcmu-early-7-44",
+      "school": "广西中医药大学",
+      "action": "add"
+    }
+  ]
+}
