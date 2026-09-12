@@ -1,0 +1,12 @@
+[
+  {
+    "id": "11414-param-session",
+    "schoolCode": "11414",
+    "host": "https://bkzs.cup.edu.cn",
+    "entryUrl": "https://bkzs.cup.edu.cn/static/front/cup/basic/html_web/lnfs.html",
+    "path": "f/ajax_lnfs_param",
+    "url": "https://bkzs.cup.edu.cn/f/ajax_lnfs_param",
+    "request": {},
+    "ext": "json"
+  }
+]

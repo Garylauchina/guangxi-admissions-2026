@@ -1,0 +1,12 @@
+[
+  {
+    "id": "10022-param-session",
+    "schoolCode": "10022",
+    "host": "https://zsb.bjfu.edu.cn",
+    "entryUrl": "https://zsb.bjfu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs_param",
+    "url": "https://zsb.bjfu.edu.cn/f/ajax_lnfs_param",
+    "request": {},
+    "ext": "json"
+  }
+]

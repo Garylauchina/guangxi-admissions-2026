@@ -1,0 +1,182 @@
+[
+  {
+    "taskId": "2026-gx-major-10593",
+    "schoolCode": "10593",
+    "school": "广西大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 130,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10595",
+    "schoolCode": "10595",
+    "school": "桂林电子科技大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 135,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10602",
+    "schoolCode": "10602",
+    "school": "广西师范大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 154,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10599",
+    "schoolCode": "10599",
+    "school": "右江民族医学院",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 31,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10603",
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 166,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-11607",
+    "schoolCode": "11607",
+    "school": "北部湾大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 34,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10608",
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 156,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-11548",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 121,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10604",
+    "schoolCode": "10604",
+    "school": "广西民族师范学院",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 93,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-14127",
+    "schoolCode": "14127",
+    "school": "广西工程职业学院",
+    "ordinaryLevel": "vocational",
+    "baselinePlanRows": 88,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10248",
+    "schoolCode": "10248",
+    "school": "上海交通大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 15,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-19248",
+    "schoolCode": "19248",
+    "school": "上海交通大学医学院",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 3,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10007",
+    "schoolCode": "10007",
+    "school": "北京理工大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 4,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10006",
+    "schoolCode": "10006",
+    "school": "北京航空航天大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 10,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10213",
+    "schoolCode": "10213",
+    "school": "哈尔滨工业大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 7,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10558",
+    "schoolCode": "10558",
+    "school": "中山大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 24,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10284",
+    "schoolCode": "10284",
+    "school": "南京大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 12,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10358",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 12,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10487",
+    "schoolCode": "10487",
+    "school": "华中科技大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 27,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  },
+  {
+    "taskId": "2026-gx-major-10002",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 7,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "reviewed-no-actual-records"
+  }
+]

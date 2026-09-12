@@ -1,0 +1,367 @@
+{
+  "reviewedAt": "2026-09-12T14:20:03.795462+00:00",
+  "scope": "A/D public whitelist privacy, local offline reproducibility, and all 55 new filing source references; no frozen package files modified",
+  "packages": [
+    {
+      "package": "a-plan-to-score",
+      "publicFiles": [
+        {
+          "file": "README.md",
+          "bytes": 4660,
+          "sha256": "7299bf7132708e7829c7a6d7316d890855f0fcd984ea10626eee4fcb45491dda"
+        },
+        {
+          "file": "targets.json",
+          "bytes": 5306,
+          "sha256": "f3d67b9adaca1333d82c6297916f74e43c776617978955d75a62951142a316fc"
+        },
+        {
+          "file": "collect.py",
+          "bytes": 3780,
+          "sha256": "26f1de6f7f78d05fc660cb498b81c26b81f5305bf5e4dd1f8df568cb79f80dc5"
+        },
+        {
+          "file": "collect_public_api.py",
+          "bytes": 5872,
+          "sha256": "6040b160e427d737712f4101460f943247ffaef77f516cd9bd36d0f5a6e6e0b5"
+        },
+        {
+          "file": "build.py",
+          "bytes": 20487,
+          "sha256": "905829dad697e50efd9fc2d439d2152bd3da5115f6910c3ec9253d76a220a130"
+        },
+        {
+          "file": "qa.py",
+          "bytes": 2747,
+          "sha256": "1b334d5386e86602c8aa71f7d6c3ff3007802502a6d52e5918d517fc94d1b05b"
+        },
+        {
+          "file": "major-cutoffs-upsert.json",
+          "bytes": 427030,
+          "sha256": "96c091a3b1a0c32ecd352270491d3611c80d1a621ba5dca99f81ca9773fab652"
+        },
+        {
+          "file": "sources.json",
+          "bytes": 113758,
+          "sha256": "420e2f1240a98cbec75c08eb902adb052193481123cdd64897cc14d89cf34257"
+        },
+        {
+          "file": "school-audit-notes.json",
+          "bytes": 49568,
+          "sha256": "1f063e412e958047fc93399007b2d41eed331ead7d1c343e56eb0a9b44087031"
+        },
+        {
+          "file": "observations.json",
+          "bytes": 90208,
+          "sha256": "70e04b61bf3489fe4f98d3be776aabaa8779bf82c55ebcadb4a83a24f70e1f8e"
+        },
+        {
+          "file": "summary.json",
+          "bytes": 502,
+          "sha256": "9033518feb014efac2bd9a5d5745de7b78bb43ca35be8b283674088b3b565a4b"
+        },
+        {
+          "file": "supplementary-major-filing.json",
+          "bytes": 118422,
+          "sha256": "930133e53f5f0676149446152606ff7db9736d70e612fce058987bc9d91f0ee3"
+        },
+        {
+          "file": "fetch-manifest.json",
+          "bytes": 100522,
+          "sha256": "09041342f33ba7bee80e0c79ab2fc1c7e3782037d4562e8f94007f0722176bd3"
+        },
+        {
+          "file": "api-schools.json",
+          "bytes": 1061,
+          "sha256": "b6e9824213f9c33a6f0d74e330ae2ae2e7af4acb4e6410df221e9c4f823f9d20"
+        },
+        {
+          "file": "qa.json",
+          "bytes": 408,
+          "sha256": "4899b2a7ab6fd380d5bbca1bfbc3b56b39735ab0436b2f56663ba1f2b9c6942f"
+        },
+        {
+          "file": "import-preflight.json",
+          "bytes": 15203,
+          "sha256": "b3f612fee59cd519e39858145a950084eb03242b29a93970351be4239882b6ec"
+        },
+        {
+          "file": "requests-alternatives2.json",
+          "bytes": 4006,
+          "sha256": "9de62d627dc5994f8e5500a41e3aefdde1ede4b960768e25c9808a7f816a53c7"
+        },
+        {
+          "file": "requests-alternatives3.json",
+          "bytes": 2530,
+          "sha256": "9e32ff8b5f7c95802e405dc9cf30e5504bcbf4bcc0fb3e7e3b61ac70bada58b1"
+        },
+        {
+          "file": "requests-entry.json",
+          "bytes": 7103,
+          "sha256": "110e1fb071f38a63b436625de43dfe972b9b6f703d3fbf1213161fc11f75fe5c"
+        },
+        {
+          "file": "requests-gx-alternatives.json",
+          "bytes": 6703,
+          "sha256": "749c1fd31b057d0915699ad1ef2a4628a6069f067d76f66530349549ce5c09b1"
+        },
+        {
+          "file": "requests-gxufe-component.json",
+          "bytes": 262,
+          "sha256": "01f56acab54f3f203c8038a78c578e990017fb695950e0c6c519908d02b1fe01"
+        },
+        {
+          "file": "requests-gxufe-config-post.json",
+          "bytes": 315,
+          "sha256": "c3904ce279b7280e7f0c21424b0b5716f6d66b9bbbfe0924d291edfdd3a8c0e6"
+        },
+        {
+          "file": "requests-gxufe-config.json",
+          "bytes": 260,
+          "sha256": "83f6dd08b6a4a3e2ef7a0b120944638aa2ccfc126f77bfc0ff17d735d00a9b65"
+        },
+        {
+          "file": "requests-gxufe-detail.json",
+          "bytes": 878,
+          "sha256": "16e1a821691a6ab35e6b6ce75393b83d6cb17603e159b734ad0af51ae5be5ce6"
+        },
+        {
+          "file": "requests-gxufe-js.json",
+          "bytes": 253,
+          "sha256": "0732bd5e442bb7f8a044ae8d4e949f097235a19bcb87df0337ca35d0eed75b43"
+        },
+        {
+          "file": "requests-gxufe-list.json",
+          "bytes": 937,
+          "sha256": "b49b305703c9b71affa88c8f3b9278272240630ccb7df70c84d67ac5476df053"
+        },
+        {
+          "file": "requests-gxufe-query.json",
+          "bytes": 2848,
+          "sha256": "0a11dd268d26019a3e845203d86f9511ee9ff4460ec72a3e193bf740ebd60a73"
+        }
+      ],
+      "privacy": {
+        "absoluteLocalPaths": [],
+        "sessionValueFields": [],
+        "credentialUrls": [],
+        "rawFilesWhitelisted": [],
+        "embeddedFullPages": [],
+        "personalRecordKeys": [],
+        "passed": true
+      },
+      "offlineReplay": {
+        "publicOnlyBuild": {
+          "exitCode": 1,
+          "missingDependency": "raw archives (explicitly private)",
+          "expectedToSucceedWithoutRaw": false
+        },
+        "withLocalEvidenceBuildExitCode": 0,
+        "outputHashMatches": {
+          "major-cutoffs-upsert.json": true,
+          "sources.json": true,
+          "school-audit-notes.json": true,
+          "observations.json": true,
+          "supplementary-major-filing.json": true,
+          "summary.json": true
+        },
+        "qaExitCode": 0,
+        "passedWithPrivateEvidence": true
+      },
+      "frozenFilesUnchanged": true
+    },
+    {
+      "package": "d-new-gx-vocational",
+      "publicFiles": [
+        {
+          "file": "build.py",
+          "bytes": 12680,
+          "sha256": "bb0d016e6c349cabfd284922a98b0bc6990798620768d03e3951f1139c73d00d"
+        },
+        {
+          "file": "fetch.py",
+          "bytes": 4411,
+          "sha256": "7487034ff4df05707def7b1d18cf3b932997934d0df697936f758838f88ef0b9"
+        },
+        {
+          "file": "targets.json",
+          "bytes": 20305,
+          "sha256": "e1d8b0c9626c75201d5ccb60a550d3ffc2b2f9df10c786994663504cccd4e007"
+        },
+        {
+          "file": "observations.json",
+          "bytes": 19044,
+          "sha256": "93919015cb60b68efb42cb132fda917e082f4d50ff336a66e76b01d00640ca56"
+        },
+        {
+          "file": "sources.json",
+          "bytes": 44179,
+          "sha256": "847ddd789bdbb6387f813cf58cc177d36d38d7992bfe7ace7424d14fe05d15ac"
+        },
+        {
+          "file": "school-audit-notes.json",
+          "bytes": 29834,
+          "sha256": "70ebd7458bd6c1b0e69e7e9b753a16b0bce9e66cbfa1be1d397302bedf62da24"
+        },
+        {
+          "file": "major-cutoffs-upsert.json",
+          "bytes": 3,
+          "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+        },
+        {
+          "file": "README.md",
+          "bytes": 695,
+          "sha256": "4f9ad8b0dbc84b995bfc0920fccc760bc8e686266941b0ea4ecd6aebeb052ec1"
+        },
+        {
+          "file": "requests-01.json",
+          "bytes": 602,
+          "sha256": "cc2b563addaa7a0395478260a3995b4a0988039c9dfc2fa81e57da9c576d6659"
+        },
+        {
+          "file": "requests-02.json",
+          "bytes": 768,
+          "sha256": "2ed499e0366aade86db324453180da5969b5abb0ffe75310c7d30ca96641f56e"
+        },
+        {
+          "file": "requests-03.json",
+          "bytes": 854,
+          "sha256": "b3efe83903210aa52baa8476e396589d0a0e8c9edfbfe885755d8324d08d9052"
+        },
+        {
+          "file": "requests-04.json",
+          "bytes": 816,
+          "sha256": "0d1e02a6efcb2a7d7e18268dfd0b218f9efc04f4ee65cbe56d02b69c11db7bb5"
+        },
+        {
+          "file": "requests-05.json",
+          "bytes": 1174,
+          "sha256": "18169f968715d76a6a1fb22df40d2828bb7612321b006961eb2e5cf2ce9fd714"
+        },
+        {
+          "file": "requests-06.json",
+          "bytes": 1373,
+          "sha256": "ed9db986d661f8e17a8f55c5ff8ca4e0b0d888963417a8d8745c55a26eb7e4b3"
+        },
+        {
+          "file": "requests-07.json",
+          "bytes": 870,
+          "sha256": "8eb243c372881bdeebad3ac777a351275cda5e084ab9919f0c55b81d77b5f431"
+        },
+        {
+          "file": "requests-08.json",
+          "bytes": 335,
+          "sha256": "efc83f6a1bb99d7d86f02c4d03d1cca7791463b5bd7e800f3f7bb43a31537efe"
+        },
+        {
+          "file": "requests-09.json",
+          "bytes": 138,
+          "sha256": "95ec2278792b127a6066b22f6de350f90ee65678ac1ef2fea63da725a296d831"
+        },
+        {
+          "file": "requests-10.json",
+          "bytes": 79,
+          "sha256": "8fe26a418c6f46ced34d81c7c1d452e6bfa6ad9277677db905bfa3f7d389d5a2"
+        },
+        {
+          "file": "requests-11.json",
+          "bytes": 211,
+          "sha256": "54496abc86dcc67d8ea9b3a71268a3361c3100245ffd79905288c81bab05d7d2"
+        },
+        {
+          "file": "requests-12.json",
+          "bytes": 333,
+          "sha256": "ecf1dfb81062b75cc5d3d83b5895001b2e58a878c37dc1ba779c07c10b5ae17a"
+        },
+        {
+          "file": "requests-13.json",
+          "bytes": 1258,
+          "sha256": "c6e14b8693303112ae55fc0c1005d009de0b1ac40ad14bbd8f704aea3d3461db"
+        }
+      ],
+      "privacy": {
+        "absoluteLocalPaths": [],
+        "sessionValueFields": [],
+        "credentialUrls": [],
+        "rawFilesWhitelisted": [],
+        "embeddedFullPages": [],
+        "personalRecordKeys": [],
+        "passed": true
+      },
+      "offlineReplay": {
+        "publicOnlyBuild": {
+          "exitCode": 1,
+          "missingDependency": "targets.json (not in whitelist)",
+          "expectedToSucceedWithoutRaw": false
+        },
+        "withLocalEvidenceBuildExitCode": 0,
+        "outputHashMatches": {
+          "major-cutoffs-upsert.json": true,
+          "sources.json": true,
+          "school-audit-notes.json": true,
+          "observations.json": true
+        },
+        "passedWithPrivateEvidence": true
+      },
+      "frozenFilesUnchanged": true
+    }
+  ],
+  "findings": [
+    {
+      "severity": "medium",
+      "category": "reproducibility",
+      "package": "d-new-gx-vocational",
+      "files": [
+        {
+          "file": "build.py",
+          "line": 7
+        },
+        {
+          "file": "PUBLIC-FILES.json",
+          "line": 1
+        },
+        {
+          "file": "fetch.py",
+          "line": 65
+        }
+      ],
+      "finding": "Public whitelist omits targets.json required by build.py and a request input consumed by fetch.py. Raw evidence is intentionally private; missing nonsensitive target/request inputs are an additional obstacle to public recollection.",
+      "recommendation": "Publish a minimal targets.json containing only taskId/schoolCode/school and a sanitized requests.json derived from the existing public sources request metadata, or document exact commands to derive them. Keep raw and personal lists private. State that browser-only metadata needs manual rereview and that exact historical replay uses the private archive."
+    }
+  ],
+  "limits": [
+    "Static content inspection and offline replay of existing evidence; network sources were not re-fetched in this review.",
+    "Raw archives remain private. Exact historical rebuilding requires the original local archives; refetching can produce changed official content."
+  ],
+  "filingSourceCheck": {
+    "records": 55,
+    "primarySourceIds": 3,
+    "allReferenceOccurrences": 481,
+    "unknownInPackage": [],
+    "unknownInSite": [],
+    "passed": true
+  },
+  "manualHitAssessment": [
+    "A references to session/CSRF are code identifiers and explicit redactedFields labels, not stored credential values.",
+    "D mentions names/candidate numbers only when describing a table header and why the individual admission list is excluded; no actual person record is whitelisted.",
+    "Long digit substrings identified by a broad scanner in D sources are SHA-256 digests, not personal IDs.",
+    "Relative raw file references remain as provenance metadata, but no raw response file or embedded full HTML/API response is in either public whitelist."
+  ],
+  "overall": {
+    "privacyPassed": true,
+    "offlineReplayWithPrivateEvidencePassed": true,
+    "frozenPackagesUnchanged": true,
+    "filingSourcesPassed": true,
+    "publicRecollectionDocumentationGap": "D missing nonsensitive targets/request inputs"
+  },
+  "integrationResolution": {
+    "status": "resolved",
+    "finding": "D missing target/request inputs",
+    "changes": [
+      "targets.json and all numbered request lists added to whitelist",
+      "requests-reproduce.json includes all68 directly requested sources",
+      "README documents browser-only4sources and private historical archive dependency"
+    ],
+    "verified": "All68 manifest IDs correspond to published source metadata; no cookies, session values or individual records included."
+  }
+}

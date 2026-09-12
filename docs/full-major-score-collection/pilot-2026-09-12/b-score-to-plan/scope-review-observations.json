@@ -1,0 +1,1469 @@
+[
+  {
+    "taskId": "2026-gx-major-10269",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 32,
+    "plannedCount": 88,
+    "existingMajorScoreCount": 32,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划32条、88人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮重新读取2026广西8个科类/类别/选科组合，仍为32条专业行；普通本科、提前公费师范、国家专项、高校专项范围保留。计划同样32条88人，但相等不代表组码已核实。",
+    "planSourceIds": [
+      "pilot-b-20260912-10269-zsjh-0-json",
+      "pilot-b-20260912-10269-zsjh-1-json",
+      "pilot-b-20260912-10269-zsjh-2-json",
+      "pilot-b-20260912-10269-zsjh-3-json",
+      "pilot-b-20260912-10269-zsjh-4-json",
+      "pilot-b-20260912-10269-zsjh-5-json",
+      "pilot-b-20260912-10269-zsjh-6-json",
+      "pilot-b-20260912-10269-zsjh-7-json",
+      "pilot-b-20260912-10269-planentry-5-html",
+      "pilot-b-20260912-10269-session-params-json"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-10269-scorecheck-0-json",
+      "pilot-b-20260912-10269-scorecheck-1-json",
+      "pilot-b-20260912-10269-scorecheck-2-json",
+      "pilot-b-20260912-10269-scorecheck-3-json",
+      "pilot-b-20260912-10269-scorecheck-4-json",
+      "pilot-b-20260912-10269-scorecheck-5-json",
+      "pilot-b-20260912-10269-scorecheck-6-json",
+      "pilot-b-20260912-10269-scorecheck-7-json",
+      "pilot-b-20260912-10269-scorecheck-8-json"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-10036",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 30,
+    "plannedCount": 83,
+    "existingMajorScoreCount": 30,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划30条、83人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮重新读取既有2026广西普通/提前/专项/合作组合，保持现有30条专业分；同专业可能有多类别，不将类别合并。初始计划新增30条83人。",
+    "planSourceIds": [
+      "pilot-b-20260912-10036-zsjh-0-json",
+      "pilot-b-20260912-10036-zsjh-1-json",
+      "pilot-b-20260912-10036-zsjh-2-json",
+      "pilot-b-20260912-10036-zsjh-3-json",
+      "pilot-b-20260912-10036-zsjh-4-json",
+      "pilot-b-20260912-10036-zsjh-5-json",
+      "pilot-b-20260912-10036-zsjh-6-json",
+      "pilot-b-20260912-10036-zsjh-7-json",
+      "pilot-b-20260912-10036-zsjh-8-json",
+      "pilot-b-20260912-10036-planentry-1-html",
+      "pilot-b-20260912-10036-session-params-json"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-10036-scorecheck-0-json",
+      "pilot-b-20260912-10036-scorecheck-1-json",
+      "pilot-b-20260912-10036-scorecheck-10-json",
+      "pilot-b-20260912-10036-scorecheck-11-json",
+      "pilot-b-20260912-10036-scorecheck-2-json",
+      "pilot-b-20260912-10036-scorecheck-3-json",
+      "pilot-b-20260912-10036-scorecheck-4-json",
+      "pilot-b-20260912-10036-scorecheck-5-json",
+      "pilot-b-20260912-10036-scorecheck-6-json",
+      "pilot-b-20260912-10036-scorecheck-7-json",
+      "pilot-b-20260912-10036-scorecheck-8-json",
+      "pilot-b-20260912-10036-scorecheck-9-json"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-10052",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 37,
+    "plannedCount": 166,
+    "existingMajorScoreCount": 35,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划37条、166人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮2026广西专业录取API36行，其中体育1行不纳入普通专业分，现有35条范围保持。初始计划37条166人，比现有专业分多出的物理新闻传播学类、外国语言文学类列为待追查；计划PDF右侧是2025分数，不导入2026。",
+    "planSourceIds": [
+      "pilot-b-20260912-10052-plans-valid-json",
+      "pilot-b-20260912-10052-plan-0-pdf",
+      "pilot-b-20260912-10052-planentry-extra-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-10052-entry-2-html",
+      "pilot-b-20260912-10052-scores-current-json"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": [
+      {
+        "planId": "plan26-pilot-b-10052-8340bae99ebd",
+        "track": "物理",
+        "major": "新闻传播学类",
+        "category": "普通本科",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10052-edc7e8254ae2",
+        "track": "物理",
+        "major": "外国语言文学类",
+        "category": "普通本科",
+        "plannedCount": 2
+      }
+    ]
+  },
+  {
+    "taskId": "2026-gx-major-10423",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 60,
+    "plannedCount": 153,
+    "existingMajorScoreCount": 60,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划60条、153人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮按既有2026广西查询参数重新获取实际专业表，保留60条普通、提前、国家专项、高校专项、合作专业分及其原类别。预科汇总不拆专业；计划新增60条153人，姓名/类别差异仅作追查线索。",
+    "planSourceIds": [
+      "pilot-b-20260912-10423-zsjh-0-json",
+      "pilot-b-20260912-10423-zsjh-1-json",
+      "pilot-b-20260912-10423-zsjh-2-json",
+      "pilot-b-20260912-10423-zsjh-3-json",
+      "pilot-b-20260912-10423-zsjh-5-json",
+      "pilot-b-20260912-10423-zsjh-6-json",
+      "pilot-b-20260912-10423-zsjh-7-json",
+      "pilot-b-20260912-10423-planentry-6-html",
+      "pilot-b-20260912-10423-params-json"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-10423-scorecheck-valid-0-json",
+      "pilot-b-20260912-10423-scorecheck-valid-1-json",
+      "pilot-b-20260912-10423-scorecheck-valid-2-json",
+      "pilot-b-20260912-10423-scorecheck-valid-3-json",
+      "pilot-b-20260912-10423-scorecheck-valid-4-json",
+      "pilot-b-20260912-10423-scorecheck-valid-5-json",
+      "pilot-b-20260912-10423-scorecheck-valid-6-json",
+      "pilot-b-20260912-10423-scorecheck-valid-7-json",
+      "pilot-b-20260912-10423-scorecheck-valid-8-json"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": [
+      {
+        "planId": "plan26-pilot-b-10423-e01924e76427",
+        "track": "物理",
+        "major": "市场营销",
+        "category": "普通类-常规批",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10423-1637cafa7a86",
+        "track": "物理",
+        "major": "海洋科学(中外合作办学)",
+        "category": "中外合作办学",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10423-a6b837ffe527",
+        "track": "物理",
+        "major": "计算机科学与技术(中外合作办学)",
+        "category": "中外合作办学",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10423-e58586e5fe00",
+        "track": "物理",
+        "major": "物理学(中外合作办学)",
+        "category": "中外合作办学",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10423-a61f67f5c481",
+        "track": "历史",
+        "major": "工商管理",
+        "category": "普通类-常规批",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10423-94e63ba2615c",
+        "track": "历史",
+        "major": "市场营销",
+        "category": "普通类-常规批",
+        "plannedCount": 2
+      }
+    ]
+  },
+  {
+    "taskId": "2026-gx-major-10718",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10718",
+    "school": "陕西师范大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 69,
+    "plannedCount": 214,
+    "existingMajorScoreCount": 2,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划69条、214人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮2026广西计划API成功取得69条214人；专业分API菜单仍没有广西2026项，2026普通物理/历史请求均空，此结果与旧轮相同。另行重取官方2026合作办学分数PDF，原有2条实际专业分来自该PDF而非API；1条专业名称冲突保留，不能凭新计划同名猜改。",
+    "planSourceIds": [
+      "pilot-b-20260912-10718-zsjh-10-json",
+      "pilot-b-20260912-10718-zsjh-11-json",
+      "pilot-b-20260912-10718-zsjh-12-json",
+      "pilot-b-20260912-10718-zsjh-13-json",
+      "pilot-b-20260912-10718-zsjh-14-json",
+      "pilot-b-20260912-10718-zsjh-15-json",
+      "pilot-b-20260912-10718-zsjh-16-json",
+      "pilot-b-20260912-10718-zsjh-17-json",
+      "pilot-b-20260912-10718-zsjh-18-json",
+      "pilot-b-20260912-10718-zsjh-19-json",
+      "pilot-b-20260912-10718-zsjh-7-json",
+      "pilot-b-20260912-10718-zsjh-8-json",
+      "pilot-b-20260912-10718-zsjh-9-json",
+      "pilot-b-20260912-10718-plan-types-json",
+      "pilot-b-20260912-10718-view-js",
+      "pilot-b-20260912-10718-score-types-json"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-10718-score-types-json",
+      "pilot-b-20260912-10718-scores-current-2-json",
+      "pilot-b-20260912-10718-scores-current-3-json",
+      "pilot-b-20260912-10718-scores-original-pdf"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对",
+      "专业分API未提供2026广西其他类别，现有分数范围限于合作PDF"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": [
+      {
+        "planId": "plan26-pilot-b-10718-e1ce957abf1d",
+        "track": "历史",
+        "major": "公共管理类",
+        "category": "国家专项",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-bf39e215db2a",
+        "track": "历史",
+        "major": "新闻传播学类",
+        "category": "国家专项",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-2c95b2991b85",
+        "track": "历史",
+        "major": "教育学类",
+        "category": "国家专项",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-fcd627ed61e4",
+        "track": "历史",
+        "major": "英语",
+        "category": "高校专项",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-9098a23855a5",
+        "track": "历史",
+        "major": "教育学类",
+        "category": "民族班",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-c47f344440b4",
+        "track": "历史",
+        "major": "新闻传播学类",
+        "category": "民族班",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-8ce249c2a26d",
+        "track": "历史",
+        "major": "中国语言文学类",
+        "category": "民族班",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-6f7471cfd0ac",
+        "track": "历史",
+        "major": "哲学类",
+        "category": "民族班",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-f7c8fbd0f210",
+        "track": "物理",
+        "major": "物理学",
+        "category": "国家优师专项",
+        "plannedCount": 12
+      },
+      {
+        "planId": "plan26-pilot-b-10718-af030c47d2b3",
+        "track": "物理",
+        "major": "英语",
+        "category": "国家优师专项",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-9ccb33fb9ea0",
+        "track": "物理",
+        "major": "化学",
+        "category": "国家优师专项",
+        "plannedCount": 4
+      },
+      {
+        "planId": "plan26-pilot-b-10718-9f8395dd82e7",
+        "track": "物理",
+        "major": "地理科学",
+        "category": "国家优师专项",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10718-d3cc4f274fe1",
+        "track": "物理",
+        "major": "生物科学",
+        "category": "国家优师专项",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10718-58353d22e687",
+        "track": "物理",
+        "major": "数学与应用数学",
+        "category": "国家优师专项",
+        "plannedCount": 6
+      },
+      {
+        "planId": "plan26-pilot-b-10718-175ff5a88d2a",
+        "track": "物理",
+        "major": "物理学",
+        "category": "国家公费师范生",
+        "plannedCount": 6
+      },
+      {
+        "planId": "plan26-pilot-b-10718-0d134e1b4b25",
+        "track": "物理",
+        "major": "地理科学",
+        "category": "国家公费师范生",
+        "plannedCount": 4
+      },
+      {
+        "planId": "plan26-pilot-b-10718-5cfc58e532b3",
+        "track": "物理",
+        "major": "心理学",
+        "category": "国家公费师范生",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-66b6b36de492",
+        "track": "物理",
+        "major": "生物科学",
+        "category": "国家公费师范生",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10718-3dec0a8806aa",
+        "track": "物理",
+        "major": "计算机科学与技术",
+        "category": "国家公费师范生",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10718-16cf293b8ea5",
+        "track": "物理",
+        "major": "化学",
+        "category": "国家公费师范生",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-86492f146896",
+        "track": "物理",
+        "major": "科学教育",
+        "category": "国家公费师范生",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-67beeb067d73",
+        "track": "物理",
+        "major": "数学与应用数学",
+        "category": "国家公费师范生",
+        "plannedCount": 6
+      },
+      {
+        "planId": "plan26-pilot-b-10718-02b7a1da9235",
+        "track": "物理",
+        "major": "材料类",
+        "category": "普通类",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10718-694204580a12",
+        "track": "物理",
+        "major": "生物科学类",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10718-d4dd8bc2f421",
+        "track": "物理",
+        "major": "食品科学与工程类",
+        "category": "普通类",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-46ff7a185433",
+        "track": "物理",
+        "major": "物理学类",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10718-4e0b95e22904",
+        "track": "物理",
+        "major": "大数据管理与应用",
+        "category": "普通类",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10718-efee3e50c875",
+        "track": "物理",
+        "major": "心理学类",
+        "category": "普通类",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10718-d20f35e8dd26",
+        "track": "物理",
+        "major": "地理科学类",
+        "category": "普通类",
+        "plannedCount": 8
+      },
+      {
+        "planId": "plan26-pilot-b-10718-dc0799f81913",
+        "track": "物理",
+        "major": "外国语言文学类（英语）",
+        "category": "普通类",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-8b178c4f7085",
+        "track": "物理",
+        "major": "计算机类",
+        "category": "普通类",
+        "plannedCount": 10
+      },
+      {
+        "planId": "plan26-pilot-b-10718-811ae38e37c9",
+        "track": "物理",
+        "major": "数学类",
+        "category": "普通类",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10718-f9135e6ef087",
+        "track": "物理",
+        "major": "经济学类",
+        "category": "普通类",
+        "plannedCount": 4
+      },
+      {
+        "planId": "plan26-pilot-b-10718-f0b77243596e",
+        "track": "物理",
+        "major": "化学类",
+        "category": "普通类",
+        "plannedCount": 7
+      },
+      {
+        "planId": "plan26-pilot-b-10718-7bc9e9f08744",
+        "track": "物理",
+        "major": "材料类",
+        "category": "国家专项",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-f570522c2036",
+        "track": "物理",
+        "major": "食品科学与工程类",
+        "category": "国家专项",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-d13632717d09",
+        "track": "物理",
+        "major": "旅游管理（文旅融合实验班）",
+        "category": "国家专项",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-d30dd333b818",
+        "track": "物理",
+        "major": "工商管理类",
+        "category": "国家专项",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-314b4a5d69b2",
+        "track": "物理",
+        "major": "物理学",
+        "category": "国家专项",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-bf15c5e90dfe",
+        "track": "物理",
+        "major": "数学与应用数学",
+        "category": "国家专项",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-e76bff076ba2",
+        "track": "物理",
+        "major": "经济学类",
+        "category": "国家专项",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-c6fa06fb3cf6",
+        "track": "物理",
+        "major": "数学与应用数学",
+        "category": "高校专项",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-33b78f6e23ac",
+        "track": "物理",
+        "major": "材料类",
+        "category": "民族班",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-7f9ceb30fc04",
+        "track": "物理",
+        "major": "心理学类",
+        "category": "民族班",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-467f9574a387",
+        "track": "物理",
+        "major": "化学类",
+        "category": "民族班",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-f51b360396cb",
+        "track": "物理",
+        "major": "计算机类",
+        "category": "民族班",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-0d3d8a566146",
+        "track": "物理",
+        "major": "生物科学类",
+        "category": "民族班",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-61d05b39208f",
+        "track": "物理",
+        "major": "地理科学类",
+        "category": "民族班",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-88b49388a10f",
+        "track": "物理",
+        "major": "物理学类",
+        "category": "民族班",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-7bb8ca776f14",
+        "track": "物理",
+        "major": "数学类",
+        "category": "民族班",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-4a09d392508e",
+        "track": "物理",
+        "major": "物理学(中外合作办学)",
+        "category": "中外合作办学",
+        "plannedCount": 4
+      },
+      {
+        "planId": "plan26-pilot-b-10718-f34c7555a68f",
+        "track": "物理",
+        "major": "电子信息科学与技术(中外合作办学)",
+        "category": "中外合作办学",
+        "plannedCount": 4
+      },
+      {
+        "planId": "plan26-pilot-b-10718-aa0bc715d19a",
+        "track": "历史",
+        "major": "历史学",
+        "category": "国家优师专项",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10718-8b82b58ea886",
+        "track": "历史",
+        "major": "英语",
+        "category": "国家优师专项",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10718-cb655a4c778d",
+        "track": "历史",
+        "major": "思想政治教育",
+        "category": "国家优师专项",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10718-9d76ab7972a7",
+        "track": "历史",
+        "major": "汉语言文学",
+        "category": "国家优师专项",
+        "plannedCount": 6
+      },
+      {
+        "planId": "plan26-pilot-b-10718-390b18440e56",
+        "track": "历史",
+        "major": "英语",
+        "category": "国家公费师范生",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-cd79f99cf098",
+        "track": "历史",
+        "major": "思想政治教育",
+        "category": "国家公费师范生",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-17c76e8b8acc",
+        "track": "历史",
+        "major": "汉语言文学",
+        "category": "国家公费师范生",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10718-fddd17ca6ce9",
+        "track": "历史",
+        "major": "历史学",
+        "category": "国家公费师范生",
+        "plannedCount": 3
+      },
+      {
+        "planId": "plan26-pilot-b-10718-760c50760773",
+        "track": "历史",
+        "major": "学前教育",
+        "category": "国家公费师范生",
+        "plannedCount": 1
+      },
+      {
+        "planId": "plan26-pilot-b-10718-69cec829620a",
+        "track": "历史",
+        "major": "马克思主义理论",
+        "category": "普通类",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-fb2f0acbc3e4",
+        "track": "历史",
+        "major": "新闻传播学类",
+        "category": "普通类",
+        "plannedCount": 7
+      },
+      {
+        "planId": "plan26-pilot-b-10718-ccc79d79281a",
+        "track": "历史",
+        "major": "外国语言文学类（非英语）",
+        "category": "普通类",
+        "plannedCount": 4
+      },
+      {
+        "planId": "plan26-pilot-b-10718-dfc5194daded",
+        "track": "历史",
+        "major": "社会学",
+        "category": "普通类",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-a64d3a05c4c7",
+        "track": "历史",
+        "major": "哲学类",
+        "category": "普通类",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10718-a73ce216751d",
+        "track": "历史",
+        "major": "历史学类",
+        "category": "普通类",
+        "plannedCount": 4
+      },
+      {
+        "planId": "plan26-pilot-b-10718-d65fa20553cd",
+        "track": "历史",
+        "major": "外国语言文学类（英语）",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10718-3a70c0a49b51",
+        "track": "历史",
+        "major": "中国语言文学类",
+        "category": "普通类",
+        "plannedCount": 6
+      }
+    ]
+  },
+  {
+    "taskId": "2026-gx-major-10025",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10025",
+    "school": "首都医科大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "entry-only",
+    "planRowCount": 0,
+    "plannedCount": 0,
+    "existingMajorScoreCount": 6,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "官方广西计划年份菜单仅2021至2025，2026精确条件返回0条；2025同条件取得6条作为阳性对照。2026实际专业录取分仍有6条，不能用录取人数替代初始计划。",
+    "scoreNote": "本轮重新请求2026广西物理普通类本科普通批专业分，仍有6条；计划年份菜单仅到2025。分数为学校实考分规则，保持既有口径，不用计划查询旧年或录取人数补2026计划。",
+    "planSourceIds": [
+      "pilot-b-20260912-10025-planform-html",
+      "pilot-b-20260912-10025-plan-js-js",
+      "pilot-b-20260912-10025-plan-dic-city-json",
+      "pilot-b-20260912-10025-plans-2026-json",
+      "pilot-b-20260912-10025-plans-2025-json"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-10025-scores-current-json"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-10043",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10043",
+    "school": "北京体育大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "entry-only",
+    "planRowCount": 0,
+    "plannedCount": 0,
+    "existingMajorScoreCount": 11,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "本轮招生计划官方栏目未呈现计划条目；查到的体育单招与体育实验班计划不属于广西普通物理/历史专业计划。保留现有11条实际专业分，未取得初始专业计划。",
+    "scoreNote": "本轮重读2026广西普通类与中外合作查询页，保留11条普通高考专业分。艺体/运训单招另有规则，不纳入本批。计划栏目未取得可用广西初始专业数据。",
+    "planSourceIds": [
+      "pilot-b-20260912-10043-planindex-html",
+      "pilot-b-20260912-10043-planhome-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-10043-entry-1-html",
+      "pilot-b-20260912-10043-entry-2-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-10633",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 12,
+    "plannedCount": 43,
+    "existingMajorScoreCount": 12,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划12条、43人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮核对2026录取统计公告，已采范围仍为12条。计划接口广西14条中排除2条体育后为12条43人；未知组码/再选科目不由专业名称推算。",
+    "planSourceIds": [
+      "pilot-b-20260912-10633-plans-valid-json",
+      "pilot-b-20260912-10633-planentry-7-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-10633-entry-4-html",
+      "pilot-b-20260912-10633-scores-original-png"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-10637",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10637",
+    "school": "重庆师范大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 28,
+    "plannedCount": 130,
+    "existingMajorScoreCount": 11,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划28条、130人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮重新读取广西原表16条普通科类统计，其中社会工作等专业、秘书学等专业、工商管理类与旅游管理、材料类等专业、光电信息科学与工程等专业5条是多专业汇总，不能拆成逐专业线；保留11条实际单专业/正式专业类及食品质量与安全征集标记。",
+    "planSourceIds": [
+      "pilot-b-20260912-10637-plans-html",
+      "pilot-b-20260912-10637-plans-p2-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-10637-entry-1-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": [
+      {
+        "planId": "plan26-pilot-b-10637-752ea40ea492",
+        "track": "物理",
+        "major": "量子信息科学",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-2da50ba67954",
+        "track": "物理",
+        "major": "数学与应用数学（联合学士学位）",
+        "category": "普通类",
+        "plannedCount": 2
+      },
+      {
+        "planId": "plan26-pilot-b-10637-25c8b35eac4d",
+        "track": "物理",
+        "major": "计算机科学与技术",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-1f7fabf87323",
+        "track": "物理",
+        "major": "生物科学",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-d32cbeaf965f",
+        "track": "物理",
+        "major": "材料类",
+        "category": "普通类",
+        "plannedCount": 6
+      },
+      {
+        "planId": "plan26-pilot-b-10637-aaba003b5af7",
+        "track": "物理",
+        "major": "化学",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-c2f428cc39b9",
+        "track": "物理",
+        "major": "光电信息科学与工程",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-9c451e525eac",
+        "track": "物理",
+        "major": "电子信息科学与技术",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-32663ff17bde",
+        "track": "物理",
+        "major": "物理学",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-dc5a2dfe5d7f",
+        "track": "历史",
+        "major": "外国语言文学类",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-19b59876acc6",
+        "track": "历史",
+        "major": "工商管理类",
+        "category": "普通类",
+        "plannedCount": 6
+      },
+      {
+        "planId": "plan26-pilot-b-10637-f7be41b4a101",
+        "track": "历史",
+        "major": "旅游管理",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-897ef3d63001",
+        "track": "历史",
+        "major": "秘书学",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-d16dc6bbfa8e",
+        "track": "历史",
+        "major": "汉语言文学",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-0f4ba6665a78",
+        "track": "历史",
+        "major": "学前教育",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-678273d9c71e",
+        "track": "历史",
+        "major": "社会工作",
+        "category": "普通类",
+        "plannedCount": 5
+      },
+      {
+        "planId": "plan26-pilot-b-10637-24f9db72e2c3",
+        "track": "历史",
+        "major": "历史学",
+        "category": "普通类",
+        "plannedCount": 2
+      }
+    ]
+  },
+  {
+    "taskId": "2026-gx-major-11319",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11319",
+    "school": "江西水利电力大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "entry-only",
+    "planRowCount": 0,
+    "plannedCount": 0,
+    "existingMajorScoreCount": 18,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "官网指向envo2.juwp.edu.cn招生计划系统，本轮HTTPS证书过期，HTTP同路径404；现有公告无法建立2026广西初始专业计划。访问失败不等于无计划。",
+    "scoreNote": "本轮重读现有广西录取公告，既有18条专业分仍按原公告范围保留；计划系统本轮受证书过期/HTTP404影响，不能用录取人数替代初始计划。",
+    "planSourceIds": [
+      "pilot-b-20260912-11319-planentry-11-html",
+      "pilot-b-20260912-11319-plan-http-html",
+      "pilot-b-20260912-11319-entry-0-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-11319-entry-1-html",
+      "pilot-b-20260912-11319-entry-3-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-16302",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "16302",
+    "school": "西交利物浦大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "source-found",
+    "planRowCount": 0,
+    "plannedCount": 0,
+    "existingMajorScoreCount": 3,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "官网2026广西录取汇总表有3个招生大类及计划数，但未说明为录取前初始计划还是调整后计划。保留其作为后期计划统计线索，暂不导入initial；未把计划数转作新增专业录取分。",
+    "scoreNote": "本轮重读2026广西3个正式招生大类录取表，保留工商管理类/金融学类/电子信息类分数。学校按大类录取，不把大类最低分再拆给所含各专业；后期统计计划人数未明初始阶段，另留线索。",
+    "planSourceIds": [
+      "pilot-b-20260912-16302-entry-2-html",
+      "pilot-b-20260912-16302-entry-1-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-16302-entry-2-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-11552",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11552",
+    "school": "四川旅游学院",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 5,
+    "plannedCount": 21,
+    "existingMajorScoreCount": 5,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划5条、21人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮重读2026广西本科公告，保留5条专业分及合作办学类别；取得匹配的普通科类计划5条21人，另外艺术计划2条不纳入。",
+    "planSourceIds": [
+      "pilot-b-20260912-11552-plans-json"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-11552-entry-2-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": [
+      {
+        "planId": "plan26-pilot-b-11552-7d38e19b333f",
+        "track": "物理",
+        "major": "建筑电气与智能化(中外合作办学)",
+        "category": "中外合作办学",
+        "plannedCount": 3
+      }
+    ]
+  },
+  {
+    "taskId": "2026-gx-major-10120",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10120",
+    "school": "山西大同大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 8,
+    "plannedCount": 66,
+    "existingMajorScoreCount": 8,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划8条、66人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮重读2026广西录取统计页，保留8条专业分；初始计划8条66人。仍缺组码和正式批次，专业体检备注来自计划原文。",
+    "planSourceIds": [
+      "pilot-b-20260912-10120-plans-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-10120-entry-1-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-11313",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11313",
+    "school": "福建商学院",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 63,
+    "plannedCount": 143,
+    "existingMajorScoreCount": 63,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划63条、143人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮重新下载官方2026广西录取PDF，SHA256与旧证据一致，63条现有分数范围保持；计划3页广西列独立逐行复核为63条143人。未把国标专业代码作为广西填报码。",
+    "planSourceIds": [
+      "pilot-b-20260912-11313-plans-pdf"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-11313-entry-2-html",
+      "pilot-b-20260912-11313-score-original-pdf"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-11765",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "source-found",
+    "planRowCount": 0,
+    "plannedCount": 0,
+    "existingMajorScoreCount": 16,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得2026招生来源计划表广西95人，其中设计学类3人、动画4人；其余88人为16个专业/方向合计。原表未分物理/历史，不能按录取结果或专业名称拆分初始计划。原录取分冲突仍待学校澄清。",
+    "scoreNote": "本轮重新下载2026外省本科录取表，与旧证据SHA256一致，城市地下空间工程平均分高于最高分冲突仍在；保留16条及1条不可比标记。初始计划表未分科类，不能据专业分或名称猜分历史/物理。",
+    "planSourceIds": [
+      "pilot-b-20260912-11765-plan-3-html",
+      "pilot-b-20260912-11765-entry-1-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-11765-entry-3-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-11510",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11510",
+    "school": "山东交通学院",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 26,
+    "plannedCount": 64,
+    "existingMajorScoreCount": 24,
+    "addedMajorScoreCount": 2,
+    "scoreReviewStatus": "collected",
+    "planNote": "已取得本轮官方2026广西初始专业计划26条、64人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "初始计划26条64人与现有本科普通批24条60人对账，定位并取得2026广西本科提前批公告，新增航海技术最低523、轮机工程最低520两条，各计划/录取2人。两条均另有航海体检条件，仍缺专业组与轮次。",
+    "planSourceIds": [
+      "pilot-b-20260912-11510-planquery-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-11510-entry-1-html",
+      "pilot-b-20260912-11510-score-early-html",
+      "pilot-b-20260912-11510-charter-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-12789",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12789",
+    "school": "浙江工商职业技术学院",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 6,
+    "plannedCount": 6,
+    "existingMajorScoreCount": 6,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划6条、6人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮重读2026六省录取公告广西段，保留6条专业分；地图明确2026广西6人，点击官方参数查询得6条初始专业计划，历史3、物理3。计划页附带的是2025分数，不替换2026专业分。",
+    "planSourceIds": [
+      "pilot-b-20260912-12789-plans-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-12789-entry-2-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-12864",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12864",
+    "school": "浙江经贸职业技术学院",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 12,
+    "plannedCount": 20,
+    "existingMajorScoreCount": 12,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划12条、20人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮重新下载2026广西录取原图，SHA256与旧图一致；保留12条专业分。初始计划页按历史/物理逐列读取12条20人，各科10人。",
+    "planSourceIds": [
+      "pilot-b-20260912-12864-plans-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-12864-entry-1-html",
+      "pilot-b-20260912-12864-score-original-png"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-12758",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "source-found",
+    "planRowCount": 0,
+    "plannedCount": 0,
+    "existingMajorScoreCount": 9,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得2026统一高考专科广西5个专业合计20人；原计划未分历史/物理，不能按录取结果拆分。另查本科分省计划只列重庆、四川，不据此添加广西本科计划。",
+    "scoreNote": "本轮重读2026广西高职专科普通类录取公告，保留9条专业分。初始专科计划5专业共20人不分物理/历史，不能按录取人数反拆；本科计划不含广西。",
+    "planSourceIds": [
+      "pilot-b-20260912-12758-plan-4-html",
+      "pilot-b-20260912-12758-plan-5-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-12758-entry-2-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  },
+  {
+    "taskId": "2026-gx-major-14008",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "14008",
+    "school": "重庆三峡医药高等专科学校",
+    "checkedAt": "2026-09-12",
+    "auditKinds": [
+      "plans",
+      "major-scores"
+    ],
+    "reviewStatus": "reviewed",
+    "planStatus": "collected",
+    "planRowCount": 22,
+    "plannedCount": 80,
+    "existingMajorScoreCount": 22,
+    "addedMajorScoreCount": 0,
+    "scoreReviewStatus": "reviewed-existing-scores",
+    "planNote": "已取得本轮官方2026广西初始专业计划22条、80人，逐科类/类别及分页核对。此状态只表示本轮来源范围采集，不宣称全校所有渠道或所有专业组完整。",
+    "scoreNote": "本轮重读2026广西录取原文，SHA256与旧证据一致；医学检验技术与预防医学两条录取1人但最低/最高不同的冲突未修正。初始计划原图经独立复核新增22条80人，不能据计划数猜改原录取分。",
+    "planSourceIds": [
+      "pilot-b-20260912-14008-planimage-4-jpg",
+      "pilot-b-20260912-14008-plan-16-html",
+      "pilot-b-20260912-14008-entry-1-html"
+    ],
+    "scoreSourceIds": [
+      "pilot-b-20260912-14008-entry-1-html"
+    ],
+    "sourceScopeComplete": false,
+    "completePlanDenominatorKnown": false,
+    "remainingGaps": [
+      "广西专业组代码",
+      "完整官方计划分母与全部招生渠道核对"
+    ],
+    "reconciliationMethod": "同校代码、首选科目、专业名称精确相等仅生成追查线索，未据此合并类别/轮次/组码；名称不等不直接认定缺专业录取。",
+    "planNamesWithoutExactScoreName": []
+  }
+]

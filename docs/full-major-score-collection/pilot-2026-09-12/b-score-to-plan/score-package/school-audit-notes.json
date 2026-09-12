@@ -1,0 +1,452 @@
+[
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-10269",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-10269-scorecheck-0-json",
+      "pilot-b-20260912-10269-scorecheck-1-json",
+      "pilot-b-20260912-10269-scorecheck-2-json",
+      "pilot-b-20260912-10269-scorecheck-3-json",
+      "pilot-b-20260912-10269-scorecheck-4-json",
+      "pilot-b-20260912-10269-scorecheck-5-json",
+      "pilot-b-20260912-10269-scorecheck-6-json",
+      "pilot-b-20260912-10269-scorecheck-7-json",
+      "pilot-b-20260912-10269-scorecheck-8-json"
+    ],
+    "checkedUrls": [
+      "https://zsbcx.ecnu.edu.cn/f/ajax_lnfs",
+      "https://zsbcx.ecnu.edu.cn/f/ajax_lnfs_param"
+    ],
+    "note": "本轮重新读取2026广西8个科类/类别/选科组合，仍为32条专业行；普通本科、提前公费师范、国家专项、高校专项范围保留。计划同样32条88人，但相等不代表组码已核实。",
+    "recordCount": 0,
+    "existingRecordCount": 32,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-10036",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-10036-scorecheck-0-json",
+      "pilot-b-20260912-10036-scorecheck-1-json",
+      "pilot-b-20260912-10036-scorecheck-10-json",
+      "pilot-b-20260912-10036-scorecheck-11-json",
+      "pilot-b-20260912-10036-scorecheck-2-json",
+      "pilot-b-20260912-10036-scorecheck-3-json",
+      "pilot-b-20260912-10036-scorecheck-4-json",
+      "pilot-b-20260912-10036-scorecheck-5-json",
+      "pilot-b-20260912-10036-scorecheck-6-json",
+      "pilot-b-20260912-10036-scorecheck-7-json",
+      "pilot-b-20260912-10036-scorecheck-8-json",
+      "pilot-b-20260912-10036-scorecheck-9-json"
+    ],
+    "checkedUrls": [
+      "https://aeo.uibe.edu.cn/lqcx/f/ajax_lnfs",
+      "https://aeo.uibe.edu.cn/lqcx/f/ajax_lnfs_param"
+    ],
+    "note": "本轮重新读取既有2026广西普通/提前/专项/合作组合，保持现有30条专业分；同专业可能有多类别，不将类别合并。初始计划新增30条83人。",
+    "recordCount": 0,
+    "existingRecordCount": 30,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-10052",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-10052-entry-2-html",
+      "pilot-b-20260912-10052-scores-current-json"
+    ],
+    "checkedUrls": [
+      "https://zb.muc.edu.cn/content/zs/b7079c38-91e5-11f0-98a5-6c92bf4353bb.htm",
+      "https://zb.muc.edu.cn/query/findAdmissionScore.json"
+    ],
+    "note": "本轮2026广西专业录取API36行，其中体育1行不纳入普通专业分，现有35条范围保持。初始计划37条166人，比现有专业分多出的物理新闻传播学类、外国语言文学类列为待追查；计划PDF右侧是2025分数，不导入2026。",
+    "recordCount": 0,
+    "existingRecordCount": 35,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-10423",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-10423-scorecheck-valid-0-json",
+      "pilot-b-20260912-10423-scorecheck-valid-1-json",
+      "pilot-b-20260912-10423-scorecheck-valid-2-json",
+      "pilot-b-20260912-10423-scorecheck-valid-3-json",
+      "pilot-b-20260912-10423-scorecheck-valid-4-json",
+      "pilot-b-20260912-10423-scorecheck-valid-5-json",
+      "pilot-b-20260912-10423-scorecheck-valid-6-json",
+      "pilot-b-20260912-10423-scorecheck-valid-7-json",
+      "pilot-b-20260912-10423-scorecheck-valid-8-json"
+    ],
+    "checkedUrls": [
+      "https://lqcx.ouc.edu.cn/f/ajax_lnfs"
+    ],
+    "note": "本轮按既有2026广西查询参数重新获取实际专业表，保留60条普通、提前、国家专项、高校专项、合作专业分及其原类别。预科汇总不拆专业；计划新增60条153人，姓名/类别差异仅作追查线索。",
+    "recordCount": 0,
+    "existingRecordCount": 60,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-10718",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10718",
+    "school": "陕西师范大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-10718-score-types-json",
+      "pilot-b-20260912-10718-scores-current-2-json",
+      "pilot-b-20260912-10718-scores-current-3-json",
+      "pilot-b-20260912-10718-scores-original-pdf"
+    ],
+    "checkedUrls": [
+      "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getType",
+      "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+      "https://zsb.snnu.edu.cn/__local/D/77/EC/3BC9816EE6C19D71501E9A049A2_6DB30892_1377E.pdf"
+    ],
+    "note": "本轮2026广西计划API成功取得69条214人；专业分API菜单仍没有广西2026项，2026普通物理/历史请求均空，此结果与旧轮相同。另行重取官方2026合作办学分数PDF，原有2条实际专业分来自该PDF而非API；1条专业名称冲突保留，不能凭新计划同名猜改。",
+    "recordCount": 0,
+    "existingRecordCount": 2,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-10025",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10025",
+    "school": "首都医科大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-10025-scores-current-json"
+    ],
+    "checkedUrls": [
+      "https://admin.zhinengdayi.com/front/enroll/findMajorScoreCompareList?sCode=DEWVJI&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E7%B1%BB&batch=%E6%9C%AC%E7%A7%91%E6%99%AE%E9%80%9A%E6%89%B9"
+    ],
+    "note": "本轮重新请求2026广西物理普通类本科普通批专业分，仍有6条；计划年份菜单仅到2025。分数为学校实考分规则，保持既有口径，不用计划查询旧年或录取人数补2026计划。",
+    "recordCount": 0,
+    "existingRecordCount": 6,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-10043",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10043",
+    "school": "北京体育大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-10043-entry-1-html",
+      "pilot-b-20260912-10043-entry-2-html"
+    ],
+    "checkedUrls": [
+      "https://bm.bsu.edu.cn/lscj/index.aspx?pprov=45&type=3&year=2026",
+      "https://bm.bsu.edu.cn/lscj/index.aspx?type=1&year=2026&pprov=45"
+    ],
+    "note": "本轮重读2026广西普通类与中外合作查询页，保留11条普通高考专业分。艺体/运训单招另有规则，不纳入本批。计划栏目未取得可用广西初始专业数据。",
+    "recordCount": 0,
+    "existingRecordCount": 11,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-10633",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-10633-entry-4-html",
+      "pilot-b-20260912-10633-scores-original-png"
+    ],
+    "checkedUrls": [
+      "https://zs.cdutcm.edu.cn/Homecdutcm/Detail/1926",
+      "https://platst.cdutcm.edu.cn/V1/NetWork/TinImageFile/1017/5a006ee3532f4d1988731b347633ead3.png"
+    ],
+    "note": "本轮核对2026录取统计公告，已采范围仍为12条。计划接口广西14条中排除2条体育后为12条43人；未知组码/再选科目不由专业名称推算。",
+    "recordCount": 0,
+    "existingRecordCount": 12,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-10637",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10637",
+    "school": "重庆师范大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-10637-entry-1-html"
+    ],
+    "checkedUrls": [
+      "https://zsb.cqnu.edu.cn/info/10438/88323.htm"
+    ],
+    "note": "本轮重新读取广西原表16条普通科类统计，其中社会工作等专业、秘书学等专业、工商管理类与旅游管理、材料类等专业、光电信息科学与工程等专业5条是多专业汇总，不能拆成逐专业线；保留11条实际单专业/正式专业类及食品质量与安全征集标记。",
+    "recordCount": 0,
+    "existingRecordCount": 11,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-11319",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11319",
+    "school": "江西水利电力大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-11319-entry-1-html",
+      "pilot-b-20260912-11319-entry-3-html"
+    ],
+    "checkedUrls": [
+      "https://envo.juwp.edu.cn/info/1186/5432.htm",
+      "https://envo.juwp.edu.cn/info/1185/6502.htm"
+    ],
+    "note": "本轮重读现有广西录取公告，既有18条专业分仍按原公告范围保留；计划系统本轮受证书过期/HTTP404影响，不能用录取人数替代初始计划。",
+    "recordCount": 0,
+    "existingRecordCount": 18,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-16302",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "16302",
+    "school": "西交利物浦大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-16302-entry-2-html"
+    ],
+    "checkedUrls": [
+      "https://www.xjtlu.edu.cn/zh/admissions/domestic/ug/2023luqushuju"
+    ],
+    "note": "本轮重读2026广西3个正式招生大类录取表，保留工商管理类/金融学类/电子信息类分数。学校按大类录取，不把大类最低分再拆给所含各专业；后期统计计划人数未明初始阶段，另留线索。",
+    "recordCount": 0,
+    "existingRecordCount": 3,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-11552",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11552",
+    "school": "四川旅游学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-11552-entry-2-html"
+    ],
+    "checkedUrls": [
+      "https://www.sctu.edu.cn/zsjyc/info/1018/2267.htm"
+    ],
+    "note": "本轮重读2026广西本科公告，保留5条专业分及合作办学类别；取得匹配的普通科类计划5条21人，另外艺术计划2条不纳入。",
+    "recordCount": 0,
+    "existingRecordCount": 5,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-10120",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10120",
+    "school": "山西大同大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-10120-entry-1-html"
+    ],
+    "checkedUrls": [
+      "https://zhs.sxdtdx.edu.cn/news-show-431.html"
+    ],
+    "note": "本轮重读2026广西录取统计页，保留8条专业分；初始计划8条66人。仍缺组码和正式批次，专业体检备注来自计划原文。",
+    "recordCount": 0,
+    "existingRecordCount": 8,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-11313",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11313",
+    "school": "福建商学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-11313-entry-2-html",
+      "pilot-b-20260912-11313-score-original-pdf"
+    ],
+    "checkedUrls": [
+      "https://zsb.fjbu.edu.cn/info/1121/7711.htm",
+      "https://zsb.fjbu.edu.cn/__local/6/73/99/6446D4758253177993062B3978B_A3A99843_2175D.pdf"
+    ],
+    "note": "本轮重新下载官方2026广西录取PDF，SHA256与旧证据一致，63条现有分数范围保持；计划3页广西列独立逐行复核为63条143人。未把国标专业代码作为广西填报码。",
+    "recordCount": 0,
+    "existingRecordCount": 63,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-11765",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-11765-entry-3-html"
+    ],
+    "checkedUrls": [
+      "https://zs.huuc.edu.cn/info/1179/4818.htm"
+    ],
+    "note": "本轮重新下载2026外省本科录取表，与旧证据SHA256一致，城市地下空间工程平均分高于最高分冲突仍在；保留16条及1条不可比标记。初始计划表未分科类，不能据专业分或名称猜分历史/物理。",
+    "recordCount": 0,
+    "existingRecordCount": 16,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-11510",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11510",
+    "school": "山东交通学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "collected",
+    "sourceIds": [
+      "pilot-b-20260912-11510-entry-1-html",
+      "pilot-b-20260912-11510-score-early-html",
+      "pilot-b-20260912-11510-charter-html"
+    ],
+    "checkedUrls": [
+      "https://zsw.sdjtu.edu.cn/info/1012/7012.htm",
+      "https://zsw.sdjtu.edu.cn/info/1012/6552.htm",
+      "https://zsw.sdjtu.edu.cn/info/1008/6372.htm"
+    ],
+    "note": "初始计划26条64人与现有本科普通批24条60人对账，定位并取得2026广西本科提前批公告，新增航海技术最低523、轮机工程最低520两条，各计划/录取2人。两条均另有航海体检条件，仍缺专业组与轮次。",
+    "recordCount": 2,
+    "existingRecordCount": 24,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-12789",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12789",
+    "school": "浙江工商职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-12789-entry-2-html"
+    ],
+    "checkedUrls": [
+      "https://zs.zbti.edu.cn/a/202687/5547.shtml"
+    ],
+    "note": "本轮重读2026六省录取公告广西段，保留6条专业分；地图明确2026广西6人，点击官方参数查询得6条初始专业计划，历史3、物理3。计划页附带的是2025分数，不替换2026专业分。",
+    "recordCount": 0,
+    "existingRecordCount": 6,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-12864",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12864",
+    "school": "浙江经贸职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-12864-entry-1-html",
+      "pilot-b-20260912-12864-score-original-png"
+    ],
+    "checkedUrls": [
+      "https://zs.zjiet.edu.cn/2026/0817/c1030a71607/pagem.htm",
+      "https://zs.zjiet.edu.cn/_upload/article/images/d3/d0/2f45bca2432097a3305865280ad0/47dacf98-54ea-476d-ac7d-7e1bafb91ce3_d.png"
+    ],
+    "note": "本轮重新下载2026广西录取原图，SHA256与旧图一致；保留12条专业分。初始计划页按历史/物理逐列读取12条20人，各科10人。",
+    "recordCount": 0,
+    "existingRecordCount": 12,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-12758",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-12758-entry-2-html"
+    ],
+    "checkedUrls": [
+      "https://zs.cqc.edu.cn/2026/0808/c1594a93607/page.htm"
+    ],
+    "note": "本轮重读2026广西高职专科普通类录取公告，保留9条专业分。初始专科计划5专业共20人不分物理/历史，不能按录取人数反拆；本科计划不含广西。",
+    "recordCount": 0,
+    "existingRecordCount": 9,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  },
+  {
+    "id": "major-score-scope-review-pilot-b-20260912-14008",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "14008",
+    "school": "重庆三峡医药高等专科学校",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "reviewed-existing-scores",
+    "sourceIds": [
+      "pilot-b-20260912-14008-entry-1-html"
+    ],
+    "checkedUrls": [
+      "https://www.sxyyc.net/zsb/info/1015/2257.htm"
+    ],
+    "note": "本轮重读2026广西录取原文，SHA256与旧证据一致；医学检验技术与预防医学两条录取1人但最低/最高不同的冲突未修正。初始计划原图经独立复核新增22条80人，不能据计划数猜改原录取分。",
+    "recordCount": 0,
+    "existingRecordCount": 22,
+    "scope": "仅本轮列明的官网表格/API范围；未取得不等于无录取，不宣称全校渠道完备。"
+  }
+]

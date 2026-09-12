@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "reviewedAt": "2026-09-12",
+  "newMajorScoreRows": 141,
+  "schoolCounts": {
+    "10589": 65,
+    "11414": 21,
+    "10542": 37,
+    "10511": 17,
+    "10366": 1
+  },
+  "reviewedSchools": 30,
+  "sources": 162,
+  "auditStatusCounts": {
+    "entry-only-year-gap": 22,
+    "empty-current-response": 2,
+    "collected-partial": 5,
+    "access-blocked": 1
+  },
+  "checks": [
+    "2026且广西实际具体专业分，未用组汇总替代",
+    "141条身份无重复",
+    "最低最高平均分范围一致",
+    "5校章程专业分口径已核查",
+    "湖南师范23/14专业菜单与结果完整对应",
+    "CUP三组合、海南五组合覆盖全部当前广西菜单",
+    "华中师范排名区间未转单点",
+    "安徽医科PDF成绩页及章程页已渲染核对",
+    "30校均实际查过限定范围的官方入口"
+  ],
+  "limits": [
+    "院校全渠道完整率不可据本批判断",
+    "广西组码、广西填报代号、完整选科及轮次仍有缺口",
+    "两校当前年有效空表，一校查询入口访问失败",
+    "逐校时间为交错证据跨度而非独占人工耗时"
+  ],
+  "importerPreflight": "passed-read-only",
+  "importerAdded": 141,
+  "importerUpdated": 0,
+  "publicWhitelistFiles": 43,
+  "localRawHashes": "passed",
+  "privacyWhitelistScan": "passed"
+}

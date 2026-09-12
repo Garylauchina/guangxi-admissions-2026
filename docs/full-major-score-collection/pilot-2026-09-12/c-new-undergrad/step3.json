@@ -1,0 +1,127 @@
+[
+  {
+    "id": "10366-pdf",
+    "schoolCode": "10366",
+    "url": "https://zs.ahmu.edu.cn/_upload/article/files/42/88/9f733ffd4812afd9cf641957ab5b/25d83530-8254-4aad-ad4d-9192e9fae437.pdf"
+  },
+  {
+    "id": "10651-app",
+    "schoolCode": "10651",
+    "url": "https://zsdata.swufe.edu.cn/zsdata/lqxx/js/app.94da896d.js"
+  },
+  {
+    "id": "10651-lnfsjs",
+    "schoolCode": "10651",
+    "url": "https://zsdata.swufe.edu.cn/zsdata/lqxx/js/lqcxjg.cb49b323.js"
+  },
+  {
+    "id": "10710-app",
+    "schoolCode": "10710",
+    "url": "https://zsdata.chd.edu.cn/zsdata/lqxx/js/app.c668e400.js"
+  },
+  {
+    "id": "10710-lnfsjs",
+    "schoolCode": "10710",
+    "url": "https://zsdata.chd.edu.cn/zsdata/lqxx/js/lqcxjg.3b723d91.js"
+  },
+  {
+    "id": "10200-app",
+    "schoolCode": "10200",
+    "url": "https://gkcx.nenu.edu.cn/static/js/main.0a214d0e.js"
+  },
+  {
+    "id": "19145-app",
+    "schoolCode": "19145",
+    "url": "https://zslq.neuq.edu.cn/zjzwzhaolu/static/js/2026_07_12_09_43.0d58638056da8919ff86.main.js"
+  },
+  {
+    "id": "10112-release",
+    "schoolCode": "10112",
+    "url": "https://zhaolu.zjzw.cn/release-page/overyears?key=23a0a115af2262c7b0398b88"
+  },
+  {
+    "id": "10511-admit",
+    "schoolCode": "10511",
+    "url": "http://zsxt.ccnu.edu.cn/apply/index.php?g=apply&m=index&a=admit"
+  },
+  {
+    "id": "10159-admissions",
+    "schoolCode": "10159",
+    "url": "https://www.cmu.edu.cn/bkzs/"
+  },
+  {
+    "id": "10414-history",
+    "schoolCode": "10414",
+    "url": "https://zsjy.jxnu.edu.cn/bzslist.asp?lm=4",
+    "responseEncoding": "gb18030"
+  },
+  {
+    "id": "10459-gx2025",
+    "schoolCode": "10459",
+    "url": "https://ao.zzu.edu.cn/xxgk/lnlq_/gx/a2025.htm"
+  },
+  {
+    "id": "10386-gx2025",
+    "schoolCode": "10386",
+    "url": "https://zsks2.fzu.edu.cn/linianluqu/?zssf-6,zsnf-1,zxkl-0"
+  },
+  {
+    "id": "10726-querylist",
+    "schoolCode": "10726",
+    "url": "https://bkzn.nwupl.edu.cn/info/iList.jsp?cat_id=11812"
+  },
+  {
+    "id": "10726-query",
+    "schoolCode": "10726",
+    "url": "https://enrol.nwupl.edu.cn/zfzs/system/pc/xfd_lv_view.jsp"
+  },
+  {
+    "id": "10520-main",
+    "schoolCode": "10520",
+    "url": "https://bkzs.zuel.edu.cn/"
+  },
+  {
+    "id": "10022-param",
+    "schoolCode": "10022",
+    "url": "https://zsb.bjfu.edu.cn/f/ajax_lnfs_param",
+    "data": {}
+  },
+  {
+    "id": "10290-param",
+    "schoolCode": "10290",
+    "url": "https://zs.cumt.edu.cn/f/ajax_lnfs_param",
+    "data": {}
+  },
+  {
+    "id": "11414-param",
+    "schoolCode": "11414",
+    "url": "https://bkzs.cup.edu.cn/f/ajax_lnfs_param",
+    "data": {}
+  },
+  {
+    "id": "10589-param",
+    "schoolCode": "10589",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs_param",
+    "data": {}
+  },
+  {
+    "id": "10276-gx2026",
+    "schoolCode": "10276",
+    "url": "https://interface.ecupl.edu.cn/lq/ssfssearch/index.do",
+    "data": {
+      "year": "2026",
+      "ss": "广西",
+      "Button1": "查  询"
+    }
+  },
+  {
+    "id": "10276-gx2025",
+    "schoolCode": "10276",
+    "url": "https://interface.ecupl.edu.cn/lq/ssfssearch/index.do",
+    "data": {
+      "year": "2025",
+      "ss": "广西",
+      "Button1": "查  询"
+    }
+  }
+]

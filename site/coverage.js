@@ -17,6 +17,8 @@ export function planGaps(row, index) {
   return gaps;
 }
 const refs = recordSourceIds;
+export const isComparableMajorScore = row => row.scoreComparable !== false && Number.isFinite(row.score);
+export const comparableMajorCount = row => row.majorScoresComparable ?? Math.max(0, (row.majorCutoffs || 0) - (row.majorScoresPending || 0));
 
 // This is a census of the collected records, not proof of full school coverage.
 export function buildCoverage({ cutoffs, plans, majorCutoffs }) {
@@ -27,7 +29,7 @@ export function buildCoverage({ cutoffs, plans, majorCutoffs }) {
       year: 2026, schoolCode: row.schoolCode || null, school: row.school,
       names: new Set(), tracks: new Set(), sourceIds: new Set(), firstRoundGroups: 0,
       groupsWithNoFiling: 0, groupsWithPlans: new Set(), plans: 0,
-      plansWithComparableGroupScore: 0, majorCutoffs: 0, majorScoresPending: 0, majorRounds: new Set(),
+      plansWithComparableGroupScore: 0, majorCutoffs: 0, majorScoresComparable: 0, majorScoresPending: 0, majorRounds: new Set(),
       planGaps: Object.fromEntries(Object.keys(PLAN_GAPS).map(k => [k, 0])),
     });
     const entry = schools.get(key);
@@ -35,9 +37,12 @@ export function buildCoverage({ cutoffs, plans, majorCutoffs }) {
     refs(row).forEach(id => entry.sourceIds.add(id));
     return entry;
   }
-  for (const row of cutoffs.filter(r => r.round === '首轮')) {
-    const entry = school(row); entry.firstRoundGroups++;
-    if (row.score === null) entry.groupsWithNoFiling++;
+  for (const row of cutoffs) {
+    const entry = school(row);
+    if (row.round === '首轮') {
+      entry.firstRoundGroups++;
+      if (row.score === null) entry.groupsWithNoFiling++;
+    }
   }
   for (const row of plans) {
     const entry = school(row), gaps = planGaps(row, index); entry.plans++;
@@ -48,7 +53,8 @@ export function buildCoverage({ cutoffs, plans, majorCutoffs }) {
   }
   for (const row of majorCutoffs) {
     const entry = school(row); entry.majorCutoffs++;
-    if (row.scoreComparable === false) entry.majorScoresPending++;
+    if (isComparableMajorScore(row)) entry.majorScoresComparable++;
+    else entry.majorScoresPending++;
     entry.majorRounds.add(row.round || '未注明轮次');
   }
   return [...schools.values()].map(r => ({

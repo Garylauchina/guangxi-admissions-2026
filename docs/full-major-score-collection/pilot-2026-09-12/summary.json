@@ -1,0 +1,126 @@
+{
+  "asOf": "2026-09-12",
+  "baselineCommit": "369a9e866e7480ad629f4a8ca72b660af7a27b13",
+  "reviewedTargetSchools": 100,
+  "newComparableMajorScores": 143,
+  "newPendingScoreRows": 117,
+  "newInitialPlanRows": 410,
+  "newPlannedSeats": 1277,
+  "newMajorFilingRows": 55,
+  "after": {
+    "scoreStatusCounts": {
+      "not-score-reviewed": 1755,
+      "partial-collected": 42,
+      "reviewed-no-actual-records": 164
+    },
+    "actualMajorScores": {
+      "schoolCodesWithSomeRecords": 43,
+      "schoolCodesWithComparableRecords": 42,
+      "pendingOnlySchoolCodes": [
+        "11548"
+      ],
+      "schoolStatusRule": "partial-collected requires at least one comparable numeric actual score; pending-only schools are reviewed-no-actual-records (no comparable actual score)",
+      "ordinaryLevelCounts": {
+        "mixed": 4,
+        "undergraduate": 33,
+        "vocational": 5
+      },
+      "comparableRecords": 1394,
+      "pendingComparisonRecords": 121,
+      "sourceConflictRecords": 128,
+      "literalTrackMajorKeys": 1143,
+      "recordsWithGroup": 278,
+      "recordsWithPublishedRank": 482,
+      "recordsWithAdmittedCount": 773,
+      "schoolCompletenessEstablished": false,
+      "professionalDenominator": null,
+      "professionalCompletenessPercent": null
+    },
+    "planScoreOverlap": {
+      "planSchoolCodes": 49,
+      "scoreSchoolCodes": 42,
+      "bothSchoolCodes": 25,
+      "plansWithoutActualScoresSchoolCodes": 24,
+      "actualScoresWithoutPlansSchoolCodes": 17,
+      "neitherSchoolCodes": 1895,
+      "candidateLiteralTrackMajorKeys": 679,
+      "planRowsWithCandidateLiteralMatch": 836,
+      "scoreRowsWithCandidateLiteralMatch": 900,
+      "exactAssociationEstablished": false
+    }
+  },
+  "preservation": {
+    "major-cutoffs": {
+      "baselineRecords": 1255,
+      "unchangedRecords": 1255,
+      "recordsNow": 1515,
+      "addedRecords": 260
+    },
+    "major-filing-cutoffs": {
+      "baselineRecords": 81,
+      "unchangedRecords": 81,
+      "recordsNow": 136,
+      "addedRecords": 55
+    },
+    "plans": {
+      "baselineRecords": 1970,
+      "unchangedRecords": 1970,
+      "recordsNow": 2380,
+      "addedRecords": 410
+    },
+    "sources": {
+      "baselineRecords": 1101,
+      "unchangedRecords": 1101,
+      "recordsNow": 1604,
+      "addedRecords": 503
+    },
+    "school-audit-notes": {
+      "baselineRecords": 207,
+      "unchangedRecords": 207,
+      "recordsNow": 327,
+      "addedRecords": 120
+    },
+    "plan-source-catalog": {
+      "baselineRecords": 45,
+      "unchangedRecords": 45,
+      "recordsNow": 65,
+      "addedRecords": 20
+    },
+    "cutoffs": {
+      "baselineRecords": 11448,
+      "unchangedRecords": 11448,
+      "recordsNow": 11448,
+      "addedRecords": 0
+    },
+    "ranks": {
+      "baselineRecords": 1010,
+      "unchangedRecords": 1010,
+      "recordsNow": 1010,
+      "addedRecords": 0
+    },
+    "special-programs": {
+      "baselineRecords": 43,
+      "unchangedRecords": 43,
+      "recordsNow": 43,
+      "addedRecords": 0
+    },
+    "policies": {
+      "baselineRecords": 8,
+      "unchangedRecords": 8,
+      "recordsNow": 8,
+      "addedRecords": 0
+    },
+    "supplementary-plans": {
+      "baselineRecords": 84,
+      "unchangedRecords": 84,
+      "recordsNow": 84,
+      "addedRecords": 0
+    }
+  },
+  "limitations": [
+    "学校核查完成不等于完整专业分覆盖",
+    "年份冲突的117条原文单列待核，不能作为已核实2026专业分",
+    "新增计划缺官方组码，不能用专业名称把组线分配给专业",
+    "本批时间记录是交错采集的证据跨度，非逐工序人工计时；不据此承诺全量完工天数"
+  ]
+}

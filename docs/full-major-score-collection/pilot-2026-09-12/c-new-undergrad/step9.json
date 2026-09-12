@@ -1,0 +1,12 @@
+[
+  {
+    "id": "10542-batch1",
+    "schoolCode": "10542",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86"
+  },
+  {
+    "id": "10542-batch2",
+    "schoolCode": "10542",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86"
+  }
+]

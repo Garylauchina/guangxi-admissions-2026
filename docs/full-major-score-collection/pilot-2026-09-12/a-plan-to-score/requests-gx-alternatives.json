@@ -1,0 +1,241 @@
+[
+  {
+    "id": "p100a-10593-news",
+    "schoolCode": "10593",
+    "school": "广西大学",
+    "url": "https://zs.gxu.edu.cn/child/enrollment_news.jsp?urltype=tree.TreeTempUrl&wbtreeid=1222",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10602-quality2026",
+    "schoolCode": "10602",
+    "school": "广西师范大学",
+    "url": "https://xxgk.gxnu.edu.cn/2026/0814/c11789a348356/page.htm",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10602-years",
+    "schoolCode": "10602",
+    "school": "广西师范大学",
+    "url": "https://ibkzs.gxnu.edu.cn/RobotSys/selectYear",
+    "purpose": "alternative-official-source",
+    "request": {},
+    "requestEncoding": "form"
+  },
+  {
+    "id": "p100a-10602-query2026",
+    "schoolCode": "10602",
+    "school": "广西师范大学",
+    "url": "https://ibkzs.gxnu.edu.cn/RobotSys/GetScoreData",
+    "purpose": "alternative-official-source",
+    "request": {
+      "year": "2026",
+      "province": "广西",
+      "bigStuType": "",
+      "major": "",
+      "majorType": "",
+      "stuType": ""
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-10602-query2025",
+    "schoolCode": "10602",
+    "school": "广西师范大学",
+    "url": "https://ibkzs.gxnu.edu.cn/RobotSys/GetScoreData",
+    "purpose": "alternative-official-source",
+    "request": {
+      "year": "2025",
+      "province": "广西",
+      "bigStuType": "",
+      "major": "",
+      "majorType": "",
+      "stuType": ""
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-10599-lines-retry",
+    "schoolCode": "10599",
+    "school": "右江民族医学院",
+    "url": "https://yyzs.ymun.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10599-news",
+    "schoolCode": "10599",
+    "school": "右江民族医学院",
+    "url": "https://yyzs.ymun.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1062",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10603-types",
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "purpose": "alternative-official-source",
+    "request": {
+      "type": "lnfs"
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-10603-query2026-物理类",
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "purpose": "alternative-official-source",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "物理类",
+      "xqmc": ""
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-10603-query2026-历史类",
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "purpose": "alternative-official-source",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "历史类",
+      "xqmc": ""
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-10603-query2026-全部",
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "purpose": "alternative-official-source",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "全部",
+      "klmc": "全部",
+      "xqmc": ""
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-10603-query2025-物理类",
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "purpose": "alternative-official-source",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "全部",
+      "klmc": "物理类",
+      "xqmc": ""
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-10603-query2025-历史类",
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "purpose": "alternative-official-source",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "全部",
+      "klmc": "历史类",
+      "xqmc": ""
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-10603-query2025-全部",
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "url": "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "purpose": "alternative-official-source",
+    "request": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "全部",
+      "klmc": "全部",
+      "xqmc": ""
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-11607-home",
+    "schoolCode": "11607",
+    "school": "北部湾大学",
+    "url": "https://zsw.bbgu.edu.cn/sy.htm",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-11548-nav",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/www/subWebSites/zsxx/js/nav.js",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-11548-loading",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/wwwservice/commonJs/loadingData.js?v=1",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-11548-api",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/wwwservice/commonJs/ZywCommonApi.js?v=1",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10604-home",
+    "schoolCode": "10604",
+    "school": "广西民族师范学院",
+    "url": "https://zsw.gxnun.edu.cn/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10604-mixed-year",
+    "schoolCode": "10604",
+    "school": "广西民族师范学院",
+    "url": "https://zsw.gxnun.edu.cn/info/1168/3158.htm",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-14127-score-index",
+    "schoolCode": "14127",
+    "school": "广西工程职业学院",
+    "url": "https://gxgcedu.com/zsjy/zsb/lnfsx/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-14127-news",
+    "schoolCode": "14127",
+    "school": "广西工程职业学院",
+    "url": "https://gxgcedu.com/zsjy/zsb/zzdt/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10595-score-article-index",
+    "schoolCode": "10595",
+    "school": "桂林电子科技大学",
+    "url": "https://www.guet.edu.cn/zs/548/list.htm",
+    "purpose": "alternative-official-source"
+  }
+]

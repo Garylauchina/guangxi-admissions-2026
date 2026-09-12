@@ -1,0 +1,746 @@
+[
+  {
+    "schoolCode": "10459",
+    "school": "郑州大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://ao.zzu.edu.cn/xxgk/lnlq_.htm",
+      "https://ao.zzu.edu.cn/xxgk/lnlq_/gx.htm",
+      "https://ao.zzu.edu.cn/xxgk/lnlq_/gx/a2025.htm"
+    ],
+    "checkedRequestCount": 3,
+    "firstRecordedRequestAt": "2026-09-12T13:49:02.614853+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:52:05.798449+00:00",
+    "elapsedEvidenceSpanSeconds": 183.18,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取招生官网历年录取总目录、广西分省目录及2025广西页面；广西目录年份最高2025，当前入口没有2026选项。本轮未扩展核查学校所有信息公开渠道。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10112",
+    "school": "太原理工大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zhaolu.zjzw.cn/release-page/overyears?key=23a0a115af2262c7b0398b88",
+      "https://zslq.tyut.edu.cn/Pages/Zs/LnSearch.aspx",
+      "http://zs.tyut.edu.cn/",
+      "http://zslq.tyut.edu.cn/Pages/Zs/LnSearch.aspx"
+    ],
+    "checkedRequestCount": 5,
+    "firstRecordedRequestAt": "2026-09-12T13:49:02.615128+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:52:05.242665+00:00",
+    "elapsedEvidenceSpanSeconds": 182.63,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [
+      {
+        "sourceId": "major-20260912pilot-c-10112-entry",
+        "kind": "transport-error",
+        "httpStatus": null
+      }
+    ],
+    "finding": "旧zslq入口发生传输失败后，沿当前招生首页转入zhaolu.zjzw.cn公开历年数据。浏览器真实菜单仅2025、2024、2023；选取2025广西物理类本科批，实际呈现43条分专业结果。当前入口未提供2026选项，旧年分数不入2026库。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10520",
+    "school": "中南财经政法大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://bkzs.zuel.edu.cn/15347/list.htm",
+      "https://bkzs.zuel.edu.cn/5815/list.htm",
+      "https://bkzs.zuel.edu.cn/",
+      "https://bkzs.zuel.edu.cn/5816/list.htm",
+      "https://bkzs.zuel.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/10.rst?_p=YXM9MTI2JnQ9OTE5JnA9MSZtPU4m&mongo=false"
+    ],
+    "checkedRequestCount": 5,
+    "firstRecordedRequestAt": "2026-09-12T13:49:02.615228+00:00",
+    "lastRecordedRequestAt": "2026-09-12T14:05:43.823583+00:00",
+    "elapsedEvidenceSpanSeconds": 1001.21,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取旧各批次、分专业栏目与当前15347历年分数栏目，并继续读取外层页面内嵌commonquery查询表。内嵌表含广西专业记录，实际统计年份最高2025；外层空白不记为结果空表。所读当前公开统计表未取得2026广西数据。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "19145",
+    "school": "东北大学秦皇岛分校",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zslq.neuq.edu.cn/zjzwzhaolu/static/js/2026_07_12_09_43.0d58638056da8919ff86.main.js",
+      "https://zslq.neuq.edu.cn/release-page/OverYears?key=r%2BkqhCVU%2FPpgPn8%2FnHJ2",
+      "https://zs.neuq.edu.cn/bkzn/lnfs.htm",
+      "https://zslq.neuq.edu.cn/zjzwzhaolu/static/js/2026_07_12_09_43.e31e627a8fb1f54a.7458.chunk.js"
+    ],
+    "checkedRequestCount": 5,
+    "firstRecordedRequestAt": "2026-09-12T13:49:02.615315+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:57:01.579841+00:00",
+    "elapsedEvidenceSpanSeconds": 478.96,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "沿招生官网历年分数目录进入zslq.neuq.edu.cn公开查询；浏览器真实菜单仅2025、2024、2023。选取2025广西历史类本科批，显示经济学类、工商管理类、外国语言文学类3条专业结果，确认入口可用；未提供2026选项，不据此推定全校未发布。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "92027",
+    "school": "空军军医大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://www.fmmu.edu.cn/zhaosheng/",
+      "https://www.fmmu.edu.cn/zhaosheng/new_cxjgsocre.jsp?urltype=tree.TreeTempUrl&wbtreeid=1111"
+    ],
+    "checkedRequestCount": 2,
+    "firstRecordedRequestAt": "2026-09-12T13:49:02.615397+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:50:22.348919+00:00",
+    "elapsedEvidenceSpanSeconds": 79.73,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取学校招生主页及new_cxjgsocre.jsp录取分数查询表单，省份菜单含广西，年份菜单为2025至2021，未提供2026。未提交个人录取查询，不把旧年表单当作当前年分数。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10294",
+    "school": "河海大学",
+    "checkedOn": "2026-09-12",
+    "status": "empty-current-response",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zsw.hhu.edu.cn/lishifenshu.html",
+      "https://zsw.hhu.edu.cn/api/lsfs/fsList",
+      "https://zsw.hhu.edu.cn/api/lsfs/typeList",
+      "https://zsw.hhu.edu.cn/api/lsfs/yearList"
+    ],
+    "checkedRequestCount": 5,
+    "firstRecordedRequestAt": "2026-09-12T13:49:02.615472+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:55:18.710136+00:00",
+    "elapsedEvidenceSpanSeconds": 376.09,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取河海大学公开分数查询及年份、类型菜单，年份最高2025；按页面真实fsList字段提交广西2026，业务返回成功且data为空，同字段广西2025返回实际专业记录作阳性对照。本轮结论限该公开接口组合，不把空表解释为未招生。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10336",
+    "school": "杭州电子科技大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zhaosheng.hdu.edu.cn/list.php?cid=28"
+    ],
+    "checkedRequestCount": 1,
+    "firstRecordedRequestAt": "2026-09-12T13:49:02.615552+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:49:02.615552+00:00",
+    "elapsedEvidenceSpanSeconds": null,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取官网历年分数栏目，当前所列最新资料为2025。页面同时标注各省各专业首轮投档录取分，不能仅因发布日期或该投档口径替换成2026实际专业录取最低分。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10386",
+    "school": "福州大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zsks.fzu.edu.cn/zscx/lnfs.htm",
+      "https://zsks2.fzu.edu.cn/linianluqu/?zssf-6%2Czsnf-1%2Czxkl-0=",
+      "https://zsks2.fzu.edu.cn/linianluqu/?zssf-3%2Czsnf-1%2Czxkl-0="
+    ],
+    "checkedRequestCount": 3,
+    "firstRecordedRequestAt": "2026-09-12T13:49:02.898545+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:52:05.811059+00:00",
+    "elapsedEvidenceSpanSeconds": 182.91,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取招生考试中心历年分数页并进入zsks2.fzu.edu.cn查询表，年份菜单为2025至2018；选取广西2025确认分专业结果，当前菜单没有2026。旧年分页结果仅用于入口阳性验证，不宣称已采完旧年。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10511",
+    "school": "华中师范大学",
+    "checkedOn": "2026-09-12",
+    "status": "collected-partial",
+    "newMajorScoreRows": 17,
+    "checkedUrls": [
+      "http://zsxt.ccnu.edu.cn/apply/index.php?g=apply&m=index&a=admit",
+      "https://zs.ccnu.edu.cn/info/1006/11433.htm",
+      "https://zs.ccnu.edu.cn/",
+      "http://zsxt.ccnu.edu.cn/apply/index.php?g=Apply&m=Index&a=index"
+    ],
+    "checkedRequestCount": 6,
+    "firstRecordedRequestAt": "2026-09-12T13:49:02.974754+00:00",
+    "lastRecordedRequestAt": "2026-09-12T14:08:14.098883+00:00",
+    "elapsedEvidenceSpanSeconds": 1151.12,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "按官网公开admit表单真实year/pro字段查询2026广西，取得17条实际专业最低分：15条公费师范、2条优师计划，两科类均覆盖。原排名为分数段位次区间，保留文字，未转成单一位次。2025同条件含普通本科、国家及高校专项等，2026当前返回仅提前批两类，普通本科及专项仍存在来源缺口。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10651",
+    "school": "西南财经大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zsdata.swufe.edu.cn/zsdata/lqxx/js/app.94da896d.js",
+      "https://zb.swufe.edu.cn/index.htm",
+      "https://zsdata.swufe.edu.cn/lqxx/s/api/front/lqxx2/getFzcxpzList",
+      "https://zsdata.swufe.edu.cn/lqxx/s/api/front/lqxx2/getType",
+      "https://zsdata.swufe.edu.cn/lqxx/s/api/front/infoconfig/getGlobalCfg",
+      "https://zsdata.swufe.edu.cn/lqxx/s/api/front/infoconfig/getlqxsgz",
+      "https://zsdata.swufe.edu.cn/zsdata/lqxx/js/lqcxjg.cb49b323.js",
+      "https://zsdata.swufe.edu.cn/zsdata/lqxx/"
+    ],
+    "checkedRequestCount": 8,
+    "firstRecordedRequestAt": "2026-09-12T13:49:02.979962+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:53:25.595890+00:00",
+    "elapsedEvidenceSpanSeconds": 262.62,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "沿官网进入zsdata历年分数查询，读取实际前端、getType菜单和表头配置。广西菜单最高2025，含各科类普通与专项类别；未提供2026。仅确认所读公开接口的当前年份范围，未把发布时间当作招生统计年。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10080",
+    "school": "河北工业大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zs.hebut.edu.cn/",
+      "https://zs.hebut.edu.cn/2026-07-12/229.html",
+      "https://zs.hebut.edu.cn/baokao/fenshu.html"
+    ],
+    "checkedRequestCount": 3,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.021455+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:53:26.470827+00:00",
+    "elapsedEvidenceSpanSeconds": 263.45,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取河北工业大学官网分数查询表，年份仅2015至2025，且表单带验证码；未尝试解码或绕过验证。另读2026录取公告公开入口，未获得具体广西专业最低分表。当前年数据缺口与验证码限制分开记录。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10159",
+    "school": "中国医科大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://www.cmu.edu.cn/bkzs/info/4621/1855.htm",
+      "https://www.cmu.edu.cn/bkzs/",
+      "https://www.cmu.edu.cn/bkzs/cxxz.htm",
+      "https://bkzs.cmu.edu.cn/",
+      "https://www.cmu.edu.cn/"
+    ],
+    "checkedRequestCount": 5,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.021628+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:53:26.464366+00:00",
+    "elapsedEvidenceSpanSeconds": 263.44,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [
+      {
+        "sourceId": "major-20260912pilot-c-10159-entry",
+        "kind": "transport-error",
+        "httpStatus": null
+      }
+    ],
+    "finding": "初始bkzs域名失败后，沿学校主页进入www.cmu.edu.cn/bkzs正确招生入口，读取查询下载栏目及2025分省分专业录取信息页。该资料发布于2026年4月，但标题明确统计年2025；不改写为2026，也不沿用旧域名失败判断当前官网不可用。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10188",
+    "school": "东北电力大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zs.neepu.edu.cn/lnfs.htm"
+    ],
+    "checkedRequestCount": 1,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.137311+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:49:03.137311+00:00",
+    "elapsedEvidenceSpanSeconds": null,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取东北电力大学lnfs查询界面及内联菜单，年份按钮仅2025、2024、2023、2022、2021；页面其他2026字样不是分数年份选项。当前表单没有2026，未虚构当前年参数结果。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10366",
+    "school": "安徽医科大学",
+    "checkedOn": "2026-09-12",
+    "status": "collected-partial",
+    "newMajorScoreRows": 1,
+    "checkedUrls": [
+      "https://zs.ahmu.edu.cn/2026/0714/c7126a202240/page.htm",
+      "https://zs.ahmu.edu.cn/zszc_7147/list.htm",
+      "https://zs.ahmu.edu.cn/_upload/article/files/74/a4/8610865b493b8223e93dd6ada83f/3388db34-aa2a-4499-96c6-7f1a75e2d7ae.pdf",
+      "https://zs.ahmu.edu.cn/2026/0522/c7122a200138/page.htm",
+      "https://zs.ahmu.edu.cn/lnlq/list.htm",
+      "https://zs.ahmu.edu.cn/main.htm",
+      "https://zs.ahmu.edu.cn/_upload/article/files/42/88/9f733ffd4812afd9cf641957ab5b/25d83530-8254-4aad-ad4d-9192e9fae437.pdf",
+      "https://zs.ahmu.edu.cn/ptbk/list.htm"
+    ],
+    "checkedRequestCount": 8,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.185022+00:00",
+    "lastRecordedRequestAt": "2026-09-12T14:12:03.526884+00:00",
+    "elapsedEvidenceSpanSeconds": 1380.34,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取2026年普通本科分省分专业录取情况官方4页PDF；广西位于第2页且仅1行临床医学，平行志愿录取数1、最低602、最高602、平均602。按平行志愿实际最低分列采集，旁边首轮投档线为另一列；征集栏空白。已渲染核对该页及章程第3页加分口径，不能据一条记录宣称学校所有类型均完整。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10504",
+    "school": "华中农业大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zs.hzau.edu.cn/index/lnfs/1.htm",
+      "https://zs.hzau.edu.cn/info/1009/2413.htm",
+      "https://zs.hzau.edu.cn/index/lnfs/gxq.htm",
+      "https://zs.hzau.edu.cn/index/lnfs.htm"
+    ],
+    "checkedRequestCount": 4,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.208334+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:57:01.579953+00:00",
+    "elapsedEvidenceSpanSeconds": 478.37,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取旧历年分数页、当前历年分数总入口及广西专题目录；广西专题共3条统计资料，最新2024，其次2023、2022。2025发布日期不等于统计年，更不能补成2026。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "11414",
+    "school": "中国石油大学(北京)",
+    "checkedOn": "2026-09-12",
+    "status": "collected-partial",
+    "newMajorScoreRows": 21,
+    "checkedUrls": [
+      "https://bkzs.cup.edu.cn/f/newsCenter/ajax_article_view",
+      "https://bkzs.cup.edu.cn/static/front/cup/basic/html_cms/frontViewArticle.html?id=9f76c2aded2d48ce9c9f0c85581e2a87",
+      "https://bkzs.cup.edu.cn/",
+      "https://bkzs.cup.edu.cn/static/front/cup/basic/html_web/lnfs.html",
+      "https://bkzs.cup.edu.cn/f/ajax_lnfs_param",
+      "https://bkzs.cup.edu.cn/f/ajax_lnfs"
+    ],
+    "checkedRequestCount": 10,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.274448+00:00",
+    "lastRecordedRequestAt": "2026-09-12T14:10:38.064554+00:00",
+    "elapsedEvidenceSpanSeconds": 1294.79,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [
+      {
+        "sourceId": "major-20260912pilot-c-11414-charter-body",
+        "kind": "http-error",
+        "httpStatus": 403
+      },
+      {
+        "sourceId": "major-20260912pilot-c-11414-param",
+        "kind": "http-error",
+        "httpStatus": 403
+      }
+    ],
+    "finding": "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10290",
+    "school": "中国矿业大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zs.cumt.edu.cn/",
+      "https://zs.cumt.edu.cn/zsw/lnfs.html",
+      "https://zs.cumt.edu.cn/f/ajax_lnfs_param",
+      "https://zs.cumt.edu.cn/f/ajax_lnfs"
+    ],
+    "checkedRequestCount": 7,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.387642+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:55:24.995599+00:00",
+    "elapsedEvidenceSpanSeconds": 381.61,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [
+      {
+        "sourceId": "major-20260912pilot-c-10290-param",
+        "kind": "http-error",
+        "httpStatus": 403
+      }
+    ],
+    "finding": "实际读取中国矿业大学官方ajax_lnfs查询菜单，广西最高统计年2025；普通类、国家专项、高校专项2025物理类查询均用于阳性对照。菜单未提供2026，不用该旧年数据填补当前年。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10357",
+    "school": "安徽大学",
+    "checkedOn": "2026-09-12",
+    "status": "access-blocked",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zsb.ahu.edu.cn/",
+      "https://bkzs.ahu.edu.cn/static/front/ahu/basic/html_web/lnfs.html",
+      "https://zsb.ahu.edu.cn/13317/list.htm",
+      "http://zsb.ahu.edu.cn/",
+      "https://www.ahu.edu.cn/13/list.htm",
+      "https://www.ahu.edu.cn/"
+    ],
+    "checkedRequestCount": 8,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.499334+00:00",
+    "lastRecordedRequestAt": "2026-09-12T14:06:52.251019+00:00",
+    "elapsedEvidenceSpanSeconds": 1068.75,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [
+      {
+        "sourceId": "major-20260912pilot-c-10357-entry",
+        "kind": "http-error",
+        "httpStatus": 412
+      },
+      {
+        "sourceId": "major-20260912pilot-c-10357-http",
+        "kind": "http-error",
+        "httpStatus": 412
+      },
+      {
+        "sourceId": "major-20260912pilot-c-10357-query",
+        "kind": "http-error",
+        "httpStatus": 412
+      }
+    ],
+    "finding": "命令行招生域名返回412后，以正常浏览器恢复zsb.ahu.edu.cn首页，沿真实历年录取链接访问bkzs.ahu.edu.cn；HTTP与HTTPS均呈现资源访问错误502。另实际读取招生快讯首页（15条，最新2026年9月，至2025年9月），未取得专业分表。未绕过限制；结论是本轮公开查询入口访问失败，不是有效空表或2026未发布。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10491",
+    "school": "中国地质大学(武汉)",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zhaosheng.cug.edu.cn/page/detail/AIGTAZ/10518/1012",
+      "https://zhaosheng.cug.edu.cn/",
+      "https://admin.zhinengdayi.com/front/info/form/majorScore?sCode=AIGTAZ&showDetailsConfig=",
+      "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=AIGTAZ&cityName=%E5%B9%BF%E8%A5%BF&type=&batch=&scienceClass=",
+      "https://admin.zhinengdayi.com/static/scripts/front/page/majorEnrollForm2.js"
+    ],
+    "checkedRequestCount": 5,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.517161+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:59:17.021681+00:00",
+    "elapsedEvidenceSpanSeconds": 613.5,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "沿中国地质大学武汉官方页面读取AIGTAZ专业录取查询及真实majorScore表单，广西getMajorSelectChange菜单yearList最高2025，最低2017；当前菜单未提供2026。所读信息页发布日期不作分数年份证据。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10022",
+    "school": "北京林业大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zsb.bjfu.edu.cn/",
+      "https://zsb.bjfu.edu.cn/zsw/lnfs.html",
+      "https://zsb.bjfu.edu.cn/f/ajax_lnfs_param",
+      "https://zsb.bjfu.edu.cn/f/ajax_lnfs"
+    ],
+    "checkedRequestCount": 6,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.523862+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:55:23.356549+00:00",
+    "elapsedEvidenceSpanSeconds": 379.83,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [
+      {
+        "sourceId": "major-20260912pilot-c-10022-param",
+        "kind": "http-error",
+        "httpStatus": 403
+      }
+    ],
+    "finding": "实际读取北京林业大学官方ajax_lnfs查询表与有效匿名会话菜单，广西最高统计年2025；另以2025物理类普通考生、国家专项作成功结果阳性对照。2026未在该真实菜单内，未将旧年普通、专项、预科或艺术菜单误导入。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10726",
+    "school": "西北政法大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://bkzn.nwupl.edu.cn/info/iList.jsp?cat_id=11144",
+      "https://enrol.nwupl.edu.cn/zfzs/system/pc/xfd_lv_view.jsp",
+      "https://bkzn.nwupl.edu.cn/info/iList.jsp?cat_id=11812"
+    ],
+    "checkedRequestCount": 3,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.545441+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:52:05.941394+00:00",
+    "elapsedEvidenceSpanSeconds": 182.4,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "旧lnfs目录最新2022后继续转入enrol.nwupl.edu.cn公开历年分数查询，读取实际select_datas菜单，年份2017至2025，广西最新2025本科批。当前查询未提供2026，恢复新入口后不再沿用旧栏目年份作唯一依据。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10030",
+    "school": "北京外国语大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://joinus.bfsu.edu.cn/",
+      "http://joinus.bfsu.edu.cn/",
+      "https://www.bfsu.edu.cn/",
+      "https://zhaosheng.bfsu.edu.cn/f/ajax_lnfs_param",
+      "https://zhaosheng.bfsu.edu.cn/static/front/bfsu/basic/html_web/lnfs.html?20220331=",
+      "https://joinus.bfsu.edu.cn/index.htm"
+    ],
+    "checkedRequestCount": 7,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.581101+00:00",
+    "lastRecordedRequestAt": "2026-09-12T14:08:21.642124+00:00",
+    "elapsedEvidenceSpanSeconds": 1158.06,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [
+      {
+        "sourceId": "major-20260912pilot-c-10030-entry",
+        "kind": "incomplete-response",
+        "httpStatus": null
+      },
+      {
+        "sourceId": "major-20260912pilot-c-10030-http",
+        "kind": "incomplete-response",
+        "httpStatus": null
+      },
+      {
+        "sourceId": "major-20260912pilot-c-10030-retry",
+        "kind": "incomplete-response",
+        "httpStatus": null
+      }
+    ],
+    "finding": "命令行joinus入口响应中断后，通过正常浏览器恢复北外招生首页，跟随历年分数转至zhaosheng.bfsu.edu.cn并取得有效匿名ajax_lnfs_param菜单。广西最高2025，含物理/历史统招一批、综合评价、国家专项，未列2026；入口传输失败已由另一正常公开入口恢复，最终不记不可访问。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10572",
+    "school": "广州中医药大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://www.gzucm.edu.cn/zsxxw/lnfs.htm"
+    ],
+    "checkedRequestCount": 1,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.784649+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:49:03.784649+00:00",
+    "elapsedEvidenceSpanSeconds": null,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取广州中医药大学官网历年分数目录，最新文章题为2025年各省专业录取分数线、发布于2026年6月2日，链接官方微信；其他目录项为2024及以前。本轮未把2026发布日期改成2026录取数据，旧年微信正文未作为新分数采集。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10200",
+    "school": "东北师范大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://gkcx.nenu.edu.cn/static/js/main.0a214d0e.js",
+      "https://gkcx.nenu.edu.cn/static/js/178.da286612.chunk.js",
+      "https://gkcx.nenu.edu.cn/static/js/47.df08f155.chunk.js",
+      "https://gkcx.nenu.edu.cn/static/js/969.309b6f68.chunk.js",
+      "https://zsb.nenu.edu.cn/",
+      "https://gkcx.nenu.edu.cn/api/user/param?which=score&year=2026",
+      "https://gkcx.nenu.edu.cn/history_score",
+      "https://gkcx.nenu.edu.cn/static/js/669.36f41bf6.chunk.js",
+      "https://gkcx.nenu.edu.cn/api/common/scoreConfig"
+    ],
+    "checkedRequestCount": 9,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.814381+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:59:36.094026+00:00",
+    "elapsedEvidenceSpanSeconds": 632.28,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "沿东北师范大学官网进入gkcx.nenu.edu.cn/history_score，读取实际前端、scoreConfig及user/param菜单。广西参数明列2023、2024、2025各科类及普通/专项等组合，即使查询参数year=2026也未返回2026菜单。当前端年份范围没有2026，不把旧年结果或学校汇总填成专业当前年分。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10542",
+    "school": "湖南师范大学",
+    "checkedOn": "2026-09-12",
+    "status": "collected-partial",
+    "newMajorScoreRows": 37,
+    "checkedUrls": [
+      "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86",
+      "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86",
+      "https://zsb.hunnu.edu.cn/info/1044/2277.htm",
+      "https://zsb.hunnu.edu.cn/",
+      "https://admin.zhinengdayi.com/front/info/form/majorScore?sCode=NJBCYO&showDetailsConfig=",
+      "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026",
+      "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&type=&batch=&scienceClass=",
+      "https://zhinengdayi.com/page/list/NJBCYO/4894_10_1",
+      "https://zhinengdayi.com/page/detail/NJBCYO/4894/13602",
+      "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9",
+      "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9",
+      "https://admin.zhinengdayi.com/front/enroll/findMajorScoreCompareList?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9",
+      "https://admin.zhinengdayi.com/front/enroll/findMajorScoreCompareList?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9",
+      "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB",
+      "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB"
+    ],
+    "checkedRequestCount": 16,
+    "firstRecordedRequestAt": "2026-09-12T13:49:03.920555+00:00",
+    "lastRecordedRequestAt": "2026-09-12T14:08:14.098017+00:00",
+    "elapsedEvidenceSpanSeconds": 1150.18,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10589",
+    "school": "海南大学",
+    "checkedOn": "2026-09-12",
+    "status": "collected-partial",
+    "newMajorScoreRows": 65,
+    "checkedUrls": [
+      "https://bkzs.hainanu.edu.cn/info/1003/5647.htm",
+      "https://bkzs.hainanu.edu.cn/home.htm",
+      "https://zsfw.hainanu.edu.cn/f/ajax_lnfs_param",
+      "https://zsfw.hainanu.edu.cn/static/front/hainanu/basic/html_web/lnfs.html",
+      "https://zsfw.hainanu.edu.cn/f/ajax_lnfs"
+    ],
+    "checkedRequestCount": 9,
+    "firstRecordedRequestAt": "2026-09-12T13:49:04.143515+00:00",
+    "lastRecordedRequestAt": "2026-09-12T14:08:14.098702+00:00",
+    "elapsedEvidenceSpanSeconds": 1149.96,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "按海南大学真实ajax_lnfs_param菜单覆盖2026广西全部5个组合：物理普通43、中外合作1、软件工程NIIT 1；历史普通16、中外合作4，共65条实际专业分。最低分、最低分排名、人数、选考科目字段逐项对照官网表头。化生組等原组名不等于广西3位组码，完整选科逻辑保留待核；中外合作和NIIT保留独立类别，轮次及精确批次未明示时不推定。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10710",
+    "school": "长安大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zsdata.chd.edu.cn/zsdata/lqxx/js/app.c668e400.js",
+      "https://zsb.chd.edu.cn/",
+      "https://zsdata.chd.edu.cn/lqxx/s/api/front/lqxx2/getFzcxpzList",
+      "https://zsdata.chd.edu.cn/lqxx/s/api/front/lqxx2/getType",
+      "https://zsdata.chd.edu.cn/lqxx/s/api/front/infoconfig/getGlobalCfg",
+      "https://zsdata.chd.edu.cn/lqxx/s/api/front/infoconfig/getlqxsgz",
+      "https://zsdata.chd.edu.cn/zsdata/lqxx/js/lqcxjg.3b723d91.js",
+      "https://zsdata.chd.edu.cn/zsdata/lqxx/"
+    ],
+    "checkedRequestCount": 8,
+    "firstRecordedRequestAt": "2026-09-12T13:49:04.181901+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:53:25.987911+00:00",
+    "elapsedEvidenceSpanSeconds": 261.81,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "沿长安大学官网进入zsdata历年分数，实际读取前端、getType广西菜单与getFzcxpzList字段配置；广西最高2025，普通类、国家/高校专项等类别均属旧年菜单。2026未列在当前查询，未导入旧年分数。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10276",
+    "school": "华东政法大学",
+    "checkedOn": "2026-09-12",
+    "status": "empty-current-response",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zsb.ecupl.edu.cn/",
+      "https://interface.ecupl.edu.cn/lq/ssfssearch/index.do"
+    ],
+    "checkedRequestCount": 4,
+    "firstRecordedRequestAt": "2026-09-12T13:49:04.182051+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:52:06.348113+00:00",
+    "elapsedEvidenceSpanSeconds": 182.17,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取华东政法大学公开分省分专业查询，年份菜单含2026；按真实POST字段提交2026广西，返回有2026广西标题及表头的有效空表；2025同字段阳性对照实际14条专业分。当前年该组合为空，不能推出学校未招生或其他渠道未发布。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10673",
+    "school": "云南大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zsb.ynu.edu.cn/info/1050/3432.htm",
+      "https://zsb.ynu.edu.cn/wnzs.htm"
+    ],
+    "checkedRequestCount": 2,
+    "firstRecordedRequestAt": "2026-09-12T13:49:04.254919+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:50:23.367564+00:00",
+    "elapsedEvidenceSpanSeconds": 79.11,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "实际读取云南大学往年招生目录及当前最新分省成绩文章，标题明确2025年各省区录取新生成绩统计表，未取得2026专业数据。只将旧年资料记为可用历史入口，不将目录或附件发布时间当统计年份。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  },
+  {
+    "schoolCode": "10414",
+    "school": "江西师范大学",
+    "checkedOn": "2026-09-12",
+    "status": "entry-only-year-gap",
+    "newMajorScoreRows": 0,
+    "checkedUrls": [
+      "https://zsjy.jxnu.edu.cn/",
+      "https://zsjy.jxnu.edu.cn/bzslist.asp?lm=4"
+    ],
+    "checkedRequestCount": 3,
+    "firstRecordedRequestAt": "2026-09-12T13:49:04.341855+00:00",
+    "lastRecordedRequestAt": "2026-09-12T13:52:05.525451+00:00",
+    "elapsedEvidenceSpanSeconds": 181.18,
+    "timingMethod": "交错执行的首末请求证据时间跨度，含其他学校工作；非独占人工耗时，不能逐校相加。初版采集器未记录单次请求结束时间，仅一次请求时跨度置空。",
+    "failures": [],
+    "finding": "按GB18030正确解码江西师范大学官方招生站并读取历年录取栏目首页，当前列出的最新分专业统计年2024，发布于2025年4月；目录共6页，本轮检查按时间倒序首页，不声称遍历全部历史档案。未取得2026广西实际专业分。",
+    "scopeComplete": false,
+    "boundedReviewComplete": true
+  }
+]

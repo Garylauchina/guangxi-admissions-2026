@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "independentReviewer": "root",
+  "yearConflictRowsMatchedToRaw": 117,
+  "engineeringFilingRowsMatchedToHtml": 41,
+  "gxnuFilingRowsCheckedAgainstArticle": 14,
+  "limits": "117 rows remain year-conflicted; 55 filing records are separate from actual outcomes."
+}

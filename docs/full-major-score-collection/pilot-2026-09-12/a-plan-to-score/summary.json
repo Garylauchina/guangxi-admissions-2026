@@ -1,0 +1,20 @@
+{
+  "reviewedAt": "2026-09-12",
+  "targetSchools": 20,
+  "reviewedSchools": 20,
+  "actualMajorScoreRowsAdded": 0,
+  "supplementaryFilingRows": 55,
+  "pendingMajorScoreRows": 117,
+  "supplementaryFilingComparableRows": 54,
+  "supplementaryFilingConflictRows": 1,
+  "sources": 136,
+  "requestsAttempted": 136,
+  "statusCounts": {
+    "not-found-current-major": 1,
+    "year-unavailable": 8,
+    "current-year-query-empty": 8,
+    "access-limited": 1,
+    "source-conflict": 1,
+    "filing-only": 1
+  }
+}

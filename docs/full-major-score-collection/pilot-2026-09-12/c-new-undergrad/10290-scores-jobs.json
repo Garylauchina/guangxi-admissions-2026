@@ -1,0 +1,56 @@
+[
+  {
+    "id": "10290-scores-1",
+    "schoolCode": "10290",
+    "host": "https://zs.cumt.edu.cn",
+    "entryUrl": "https://zs.cumt.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://zs.cumt.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "普通类",
+      "sex": "",
+      "campus": ""
+    },
+    "ext": "json",
+    "csrf": true
+  },
+  {
+    "id": "10290-scores-2",
+    "schoolCode": "10290",
+    "host": "https://zs.cumt.edu.cn",
+    "entryUrl": "https://zs.cumt.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://zs.cumt.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "国家专项",
+      "sex": "",
+      "campus": ""
+    },
+    "ext": "json",
+    "csrf": true
+  },
+  {
+    "id": "10290-scores-3",
+    "schoolCode": "10290",
+    "host": "https://zs.cumt.edu.cn",
+    "entryUrl": "https://zs.cumt.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://zs.cumt.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "高校专项",
+      "sex": "",
+      "campus": ""
+    },
+    "ext": "json",
+    "csrf": true
+  }
+]

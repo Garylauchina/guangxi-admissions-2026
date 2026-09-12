@@ -1,0 +1,715 @@
+{
+  "before": 1374,
+  "after": 1515,
+  "added": 141,
+  "updated": 0,
+  "schoolCodes": 43,
+  "pending": 121,
+  "changes": [
+    {
+      "id": "major-20260912pilot-c-10589-001",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-002",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-003",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-004",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-005",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-006",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-007",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-008",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-009",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-010",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-011",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-012",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-013",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-014",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-015",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-016",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-017",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-018",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-019",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-020",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-021",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-022",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-023",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-024",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-025",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-026",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-027",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-028",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-029",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-030",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-031",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-032",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-033",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-034",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-035",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-036",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-037",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-038",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-039",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-040",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-041",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-042",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-043",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-044",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-045",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-046",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-047",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-048",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-049",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-050",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-051",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-052",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-053",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-054",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-055",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-056",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-057",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-058",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-059",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-060",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-061",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-062",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-063",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-064",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10589-065",
+      "school": "海南大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-001",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-002",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-003",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-004",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-005",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-006",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-007",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-008",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-009",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-010",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-011",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-012",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-013",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-014",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-015",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-016",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-017",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-018",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-019",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-020",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-11414-021",
+      "school": "中国石油大学(北京)",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-001",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-002",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-003",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-004",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-005",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-006",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-007",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-008",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-009",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-010",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-011",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-012",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-013",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-014",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-015",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-016",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-017",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-018",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-019",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-020",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-021",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-022",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-023",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-024",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-025",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-026",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-027",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-028",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-029",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-030",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-031",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-032",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-033",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-034",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-035",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-036",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10542-037",
+      "school": "湖南师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-001",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-002",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-003",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-004",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-005",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-006",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-007",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-008",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-009",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-010",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-011",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-012",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-013",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-014",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-015",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-016",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10511-017",
+      "school": "华中师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912pilot-c-10366-001",
+      "school": "安徽医科大学",
+      "action": "add"
+    }
+  ]
+}

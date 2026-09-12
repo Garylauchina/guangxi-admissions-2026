@@ -1,0 +1,1488 @@
+[
+  {
+    "id": "major-score-review-p100a-10593",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10593",
+    "school": "广西大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "not-found-current-major",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10593-entry1",
+      "p100a-10593-news"
+    ],
+    "checkedUrls": [
+      "https://zs.gxu.edu.cn/child/xinxichaxun.jsp?urltype=tree.TreeTempUrl&wbtreeid=1232",
+      "https://zs.gxu.edu.cn/child/enrollment_news.jsp?urltype=tree.TreeTempUrl&wbtreeid=1222"
+    ],
+    "note": "官网录取分数目录最新本科结果为2025年；2026年发布的预科表也标明数据年2025。另查招生动态首页，未发现2026广西专业实际最低分。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10595",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10595",
+    "school": "桂林电子科技大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10595-entry1",
+      "p100a-10595-entry2",
+      "p100a-10595-score-article-index"
+    ],
+    "checkedUrls": [
+      "https://www.guet.edu.cn/zs/6004/list.htm",
+      "https://www.guet.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/60.rst?_p=YXM9MjQmdD0yMCZwPTEmbT1OJg__&mongo=true",
+      "https://www.guet.edu.cn/zs/548/list.htm"
+    ],
+    "note": "当前专业分查询配置提供2020至2025，无2026；另查官网历史文章目录，首页仍为2023分省结果。未把旧年数据或查询表单视为本年分数。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10602",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10602",
+    "school": "广西师范大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "current-year-query-empty",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10602-entry1",
+      "p100a-10602-entry2",
+      "p100a-10602-entry3",
+      "p100a-10602-quality2026",
+      "p100a-10602-years",
+      "p100a-10602-query2026",
+      "p100a-10602-query2025"
+    ],
+    "checkedUrls": [
+      "https://bkzs.gxnu.edu.cn/lnfs_12177/list.htm",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/selectYear",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/pScorePage",
+      "https://xxgk.gxnu.edu.cn/2026/0814/c11789a348356/page.htm",
+      "https://ibkzs.gxnu.edu.cn/RobotSys/GetScoreData"
+    ],
+    "note": "当前查询年份为2025、2024、2023；2026广西全部类别JSON查询成功返回空数组，2025同条件对照有记录。另找到2026生源质量公告中的14条专业投档最高/最低分，另列为投档证据，不能替代专业实际录取分。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "p100a-10602-years",
+        "request": {},
+        "httpStatus": 200,
+        "responseRowCount": 3
+      },
+      {
+        "sourceId": "p100a-10602-query2026",
+        "request": {
+          "year": "2026",
+          "province": "广西",
+          "bigStuType": "",
+          "major": "",
+          "majorType": "",
+          "stuType": ""
+        },
+        "httpStatus": 200,
+        "responseRowCount": 0
+      },
+      {
+        "sourceId": "p100a-10602-query2025",
+        "request": {
+          "year": "2025",
+          "province": "广西",
+          "bigStuType": "",
+          "major": "",
+          "majorType": "",
+          "stuType": ""
+        },
+        "httpStatus": 200,
+        "responseRowCount": 295
+      }
+    ],
+    "supplementaryFilingRows": 14
+  },
+  {
+    "id": "major-score-review-p100a-10599",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10599",
+    "school": "右江民族医学院",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "access-limited",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10599-entry1",
+      "p100a-10599-entry2",
+      "p100a-10599-lines-retry",
+      "p100a-10599-news"
+    ],
+    "checkedUrls": [
+      "https://yyzs.ymun.edu.cn/",
+      "https://yyzs.ymun.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1048",
+      "https://yyzs.ymun.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1062"
+    ],
+    "note": "官网首页可读，2026普通批第一次征集和新生通知入口可定位；历年分数与招生动态列表本轮多次TLS连接失败，不能据此判断未发布。搜索及已访问首页未取得2026广西专业实际最低分，历史审计中的2025年份结论未冒充本轮成功读表。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10603",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10603",
+    "school": "南宁师范大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "current-year-query-empty",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10603-entry1",
+      "p100a-10603-entry2",
+      "p100a-10603-entry3",
+      "p100a-10603-entry4",
+      "p100a-10603-entry6",
+      "p100a-10603-entry5",
+      "p100a-10603-types",
+      "p100a-10603-query2026-物理类",
+      "p100a-10603-query2026-历史类",
+      "p100a-10603-query2026-全部",
+      "p100a-10603-query2025-物理类",
+      "p100a-10603-query2025-历史类",
+      "p100a-10603-query2025-全部"
+    ],
+    "checkedUrls": [
+      "https://zsw.nnnu.edu.cn/zsdata/lqxx/js/app.4fa9fdca.js",
+      "https://zsw.nnnu.edu.cn/zsdata/lqxx/js/lqcxjg.e6efaaac.js",
+      "https://zsw.nnnu.edu.cn/zsdata/lqxx/",
+      "https://zsw.nnnu.edu.cn/",
+      "https://zsw.nnnu.edu.cn/lqxx/#/lnfs",
+      "https://zs.nnnu.edu.cn/",
+      "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getType",
+      "https://zsw.nnnu.edu.cn/lqxx/s/api/front/lqxx/getList"
+    ],
+    "note": "当前菜单广西最新2025。按页面实际API的JSON字段查询2026广西物理、历史和全部科类，类别全部，3次均成功空列表；对应2025对照有记录。新旧官网入口均核查，不能将部分入口403或404等同于接口无数据。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "p100a-10603-types",
+        "request": {
+          "type": "lnfs"
+        },
+        "httpStatus": 200,
+        "code": 200,
+        "success": true
+      },
+      {
+        "sourceId": "p100a-10603-query2026-物理类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "物理类",
+          "xqmc": ""
+        },
+        "httpStatus": 200,
+        "code": 200,
+        "success": true,
+        "listCount": 0
+      },
+      {
+        "sourceId": "p100a-10603-query2026-历史类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "历史类",
+          "xqmc": ""
+        },
+        "httpStatus": 200,
+        "code": 200,
+        "success": true,
+        "listCount": 0
+      },
+      {
+        "sourceId": "p100a-10603-query2026-全部",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2026",
+          "zslb": "全部",
+          "klmc": "全部",
+          "xqmc": ""
+        },
+        "httpStatus": 200,
+        "code": 200,
+        "success": true,
+        "listCount": 0
+      },
+      {
+        "sourceId": "p100a-10603-query2025-物理类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2025",
+          "zslb": "全部",
+          "klmc": "物理类",
+          "xqmc": ""
+        },
+        "httpStatus": 200,
+        "code": 200,
+        "success": true,
+        "listCount": 147
+      },
+      {
+        "sourceId": "p100a-10603-query2025-历史类",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2025",
+          "zslb": "全部",
+          "klmc": "历史类",
+          "xqmc": ""
+        },
+        "httpStatus": 200,
+        "code": 200,
+        "success": true,
+        "listCount": 67
+      },
+      {
+        "sourceId": "p100a-10603-query2025-全部",
+        "request": {
+          "type": "lnfs",
+          "sf": "广西",
+          "nf": "2025",
+          "zslb": "全部",
+          "klmc": "全部",
+          "xqmc": ""
+        },
+        "httpStatus": 200,
+        "code": 200,
+        "success": true,
+        "listCount": 301
+      }
+    ],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-11607",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11607",
+    "school": "北部湾大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-11607-entry1",
+      "p100a-11607-home",
+      "p100a-11607-scores",
+      "p100a-11607-news",
+      "p100a-11607-downloads"
+    ],
+    "checkedUrls": [
+      "https://zsw.bbgu.edu.cn/",
+      "https://zsw.bbgu.edu.cn/sy.htm",
+      "https://zsw.bbgu.edu.cn/lqxx.htm",
+      "https://zsw.bbgu.edu.cn/zsgg.htm",
+      "https://zsw.bbgu.edu.cn/xzzx.htm"
+    ],
+    "note": "从旧首页图像导航进入真实招生首页sy.htm，再进入历年分数lqxx.htm、招生公告及下载中心。广西区内各专业录取表最新2025；下载栏目未取得2026专业录取结果。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10608",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10608",
+    "school": "广西民族大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10608-entry1",
+      "p100a-10608-entry2"
+    ],
+    "checkedUrls": [
+      "https://zs.gxmzu.edu.cn/",
+      "https://zs.gxmzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1101"
+    ],
+    "note": "官网首页和历年分数目录最新普通、国家专项、地方专项、民族班、公费师范及合作类型专业分均为2025；2026录取查询为个人结果入口，未使用考生身份数据。未取得2026广西专业实际分。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-11548",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "source-conflict",
+    "recordCount": 117,
+    "sourceIds": [
+      "p100a-11548-entry1",
+      "p100a-11548-nav",
+      "p100a-11548-loading",
+      "p100a-11548-api",
+      "p100a-11548-common",
+      "p100a-11548-demo01",
+      "p100a-11548-header",
+      "p100a-11548-types",
+      "p100a-11548-score-list",
+      "p100a-11548-news-list",
+      "p100a-11548-complete2026",
+      "p100a-11548-complete2026-data",
+      "p100a-11548-overyears",
+      "p100a-11548-release-js",
+      "p100a-11548-history-component",
+      "p100a-11548-history-config",
+      "p100a-11548-history-config-post",
+      "p100a-11548-history-2026-物理类",
+      "p100a-11548-history-2026-历史类",
+      "p100a-11548-history-2025-物理类",
+      "p100a-11548-history-2025-历史类"
+    ],
+    "checkedUrls": [
+      "https://www.gxufe.edu.cn/www/subWebSites/zsxx/index.html",
+      "https://www.gxufe.edu.cn/www/subWebSites/zsxx/js/nav.js",
+      "https://www.gxufe.edu.cn/wwwservice/commonJs/loadingData.js?v=1",
+      "https://www.gxufe.edu.cn/wwwservice/commonJs/ZywCommonApi.js?v=1",
+      "https://www.gxufe.edu.cn/www/subWebSites/zsxx/js/common.js",
+      "https://www.gxufe.edu.cn/www/subWebSites/zsxx/js/demo01.js",
+      "https://www.gxufe.edu.cn/www/subWebSites/zsxx/header.html",
+      "https://www.gxufe.edu.cn/wwwservice/fetchInfoTypeListAll",
+      "https://www.gxufe.edu.cn/wwwservice/fetchInformationListBy",
+      "https://www.gxufe.edu.cn/www/myweb/informationShow.html?informationid=1712250&typeid=www0106&typeid0=www01",
+      "https://www.gxufe.edu.cn/wwwservice/fetchInformationBy",
+      "https://zhaolu.zjzw.cn/release-page/overyears?key=6b8efc49fe05cd3b4bcd9800",
+      "https://zhaolu.zjzw.cn/zjzwzhaolu/static/js/2026_09_11_20_16.d626428c1f631863faca.main.js",
+      "https://zhaolu.zjzw.cn/zjzwzhaolu/static/js/2026_09_11_20_16.2fc09fa4924f985e.7458.chunk.js",
+      "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relHistoryData/config?key=6b8efc49fe05cd3b4bcd9800",
+      "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relHistoryData/dataSearch?key=6b8efc49fe05cd3b4bcd9800"
+    ],
+    "note": "已解析新版官网公开栏目API：历年分数18篇、1页，最新标题2025；招生动态包含2026录取收官公告，正文只有总招生规模，无广西各专业最低分。沿官网链接进入招就网历年系统，配置标题和菜单只2025，但显式查询2026广西本科物理/历史返回117条逐行year=2026专业统计，2025对照108条。年份标题与接口冲突，全部先留待核，不能直接比较；不把2025正投说明套给2026。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "p100a-11548-types",
+        "request": {
+          "typeid00": "zsxx",
+          "includeAll": true
+        },
+        "httpStatus": 200,
+        "code": "0"
+      },
+      {
+        "sourceId": "p100a-11548-score-list",
+        "request": {
+          "typeid": "zsxx0003",
+          "recordnumber": 100,
+          "page": 1,
+          "typeid00": "zsxx",
+          "typeid0": "",
+          "title": "",
+          "bmmc": "",
+          "includeThumbnail": false
+        },
+        "httpStatus": 200,
+        "code": "0",
+        "contentCount": 18
+      },
+      {
+        "sourceId": "p100a-11548-news-list",
+        "request": {
+          "typeid": "zsxx0006",
+          "recordnumber": 100,
+          "page": 1,
+          "typeid00": "zsxx",
+          "typeid0": "",
+          "title": "",
+          "bmmc": "",
+          "includeThumbnail": false
+        },
+        "httpStatus": 200,
+        "code": "0",
+        "contentCount": 50
+      },
+      {
+        "sourceId": "p100a-11548-complete2026-data",
+        "request": {
+          "informationid": "1712250",
+          "tempCode": null
+        },
+        "httpStatus": 200,
+        "code": "0"
+      },
+      {
+        "sourceId": "p100a-11548-history-config-post",
+        "request": {},
+        "httpStatus": 200,
+        "code": 0
+      },
+      {
+        "sourceId": "p100a-11548-history-2026-物理类",
+        "request": {
+          "years": [
+            "2026"
+          ],
+          "provinces": [
+            "45"
+          ],
+          "subjects": [
+            "物理类"
+          ],
+          "levels": [
+            "本科"
+          ],
+          "show_fields": [
+            "major",
+            "xkyq",
+            "min_score",
+            "lowest_position",
+            "max_score",
+            "highest_position",
+            "average"
+          ]
+        },
+        "httpStatus": 200,
+        "code": 0,
+        "dataSourceCount": 5,
+        "major_data_sourceCount": 71
+      },
+      {
+        "sourceId": "p100a-11548-history-2026-历史类",
+        "request": {
+          "years": [
+            "2026"
+          ],
+          "provinces": [
+            "45"
+          ],
+          "subjects": [
+            "历史类"
+          ],
+          "levels": [
+            "本科"
+          ],
+          "show_fields": [
+            "major",
+            "xkyq",
+            "min_score",
+            "lowest_position",
+            "max_score",
+            "highest_position",
+            "average"
+          ]
+        },
+        "httpStatus": 200,
+        "code": 0,
+        "dataSourceCount": 4,
+        "major_data_sourceCount": 46
+      },
+      {
+        "sourceId": "p100a-11548-history-2025-物理类",
+        "request": {
+          "years": [
+            "2025"
+          ],
+          "provinces": [
+            "45"
+          ],
+          "subjects": [
+            "物理类"
+          ],
+          "levels": [
+            "本科"
+          ],
+          "show_fields": [
+            "major",
+            "xkyq",
+            "min_score",
+            "lowest_position",
+            "max_score",
+            "highest_position",
+            "average"
+          ]
+        },
+        "httpStatus": 200,
+        "code": 0,
+        "dataSourceCount": 5,
+        "major_data_sourceCount": 65
+      },
+      {
+        "sourceId": "p100a-11548-history-2025-历史类",
+        "request": {
+          "years": [
+            "2025"
+          ],
+          "provinces": [
+            "45"
+          ],
+          "subjects": [
+            "历史类"
+          ],
+          "levels": [
+            "本科"
+          ],
+          "show_fields": [
+            "major",
+            "xkyq",
+            "min_score",
+            "lowest_position",
+            "max_score",
+            "highest_position",
+            "average"
+          ]
+        },
+        "httpStatus": 200,
+        "code": 0,
+        "dataSourceCount": 4,
+        "major_data_sourceCount": 43
+      }
+    ],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10604",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10604",
+    "school": "广西民族师范学院",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10604-entry1",
+      "p100a-10604-home",
+      "p100a-10604-mixed-year"
+    ],
+    "checkedUrls": [
+      "https://zsw.gxnun.edu.cn/zsfs.htm",
+      "https://zsw.gxnun.edu.cn/",
+      "https://zsw.gxnun.edu.cn/info/1168/3158.htm"
+    ],
+    "note": "官网招生分数目录和首页最新广西资料标题明确为“广西2026年招生计划及2025年各专业录取分数”。已核对该混合年文章的表头；不能把其2025分数按2026计划年导入。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-14127",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "14127",
+    "school": "广西工程职业学院",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "filing-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-14127-entry1",
+      "p100a-14127-entry2",
+      "p100a-14127-score-index",
+      "p100a-14127-news",
+      "p100a-14127-recruit-physics",
+      "p100a-14127-recruit-history"
+    ],
+    "checkedUrls": [
+      "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-07/9122.html",
+      "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-07/9123.html",
+      "https://gxgcedu.com/zsjy/zsb/lnfsx/",
+      "https://gxgcedu.com/zsjy/zsb/zzdt/",
+      "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-10/9128.html",
+      "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-10/9127.html"
+    ],
+    "note": "官网2026两科首批专业分页面明确为投档最低分，本站原有81条保持原口径。本轮另发现第一次征集专业投档表41条（物理20、历史21），独立输出投档候选；仍未取得实际专业录取最低分。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [],
+    "supplementaryFilingRows": 41
+  },
+  {
+    "id": "major-score-review-p100a-10248",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10248",
+    "school": "上海交通大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10248-entry1",
+      "p100a-10248-home",
+      "p100a-10248-score-index"
+    ],
+    "checkedUrls": [
+      "https://admissions.sjtu.edu.cn/rnapi/newsList",
+      "https://admissions.sjtu.edu.cn/"
+    ],
+    "note": "已重读官网首页及历年分数公开newsList栏目；返回12篇文章，数据年2014至2025，无2026。最初对POST接口误作GET返回404，已按原前端JSON请求纠正，不用404证明缺年。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "p100a-10248-score-index",
+        "request": {
+          "subjectsID": 3810062,
+          "pageNum": 1,
+          "pageSize": 100
+        },
+        "httpStatus": 200,
+        "code": 0
+      }
+    ],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-19248",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "19248",
+    "school": "上海交通大学医学院",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-19248-entry1",
+      "p100a-19248-entry2",
+      "p100a-19248-information-public"
+    ],
+    "checkedUrls": [
+      "https://www.shsmu.edu.cn/ygzs/info/1025/1206.htm",
+      "https://www.shsmu.edu.cn/ygzs/zsxx/lnfs.htm",
+      "https://www.shsmu.edu.cn/xxgk/xxgklm1/zsxx.htm"
+    ],
+    "note": "独立院校代码19248核查阳光招生历年分数列表、最新文章及医学院信息公开招生栏目，最新普通批次结果均标明2025。未与交大本部代码混用，未取得2026广西专业实际分。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10007",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10007",
+    "school": "北京理工大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "current-year-query-empty",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10007-entry1",
+      "p100a-10007-params",
+      "p100a-10007-scores-2026-1",
+      "p100a-10007-scores-2026-2",
+      "p100a-10007-scores-2025-1",
+      "p100a-10007-home",
+      "p100a-10007-protocol"
+    ],
+    "checkedUrls": [
+      "https://admission.bit.edu.cn/static/front/bit/basic/html_web/lnfs.html",
+      "https://admission.bit.edu.cn/f/ajax_lnfs_param",
+      "https://admission.bit.edu.cn/f/ajax_lnfs",
+      "https://admission.bit.edu.cn/",
+      "https://admission.bit.edu.cn/static/front/bit/basic/js/tplt.js"
+    ],
+    "note": "公开广西菜单最新2025；2026物理/历史统招缺年探查均state=1且学校/专业列表空。2025物理对照非空，但其sszygradeList的“物理组”是组汇总，不能因位于专业列表便作为单专业结果。另查官网首页公告。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "p100a-10007-params",
+        "request": {},
+        "httpStatus": 200,
+        "state": 1
+      },
+      {
+        "sourceId": "p100a-10007-scores-2026-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "统招"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10007-scores-2026-2",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "统招"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10007-scores-2025-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "zslx": "统招"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 1,
+        "zsSsgradeListCount": 1
+      }
+    ],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10006",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10006",
+    "school": "北京航空航天大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "current-year-query-empty",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10006-entry1",
+      "p100a-10006-entry2",
+      "p100a-10006-entry3",
+      "p100a-10006-params",
+      "p100a-10006-scores-2026-1",
+      "p100a-10006-scores-2026-2",
+      "p100a-10006-scores-2026-3",
+      "p100a-10006-scores-2026-4",
+      "p100a-10006-scores-2026-5",
+      "p100a-10006-scores-2025-1",
+      "p100a-10006-home",
+      "p100a-10006-protocol",
+      "p100a-10006-admission2026"
+    ],
+    "checkedUrls": [
+      "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/lnfs.html",
+      "https://zs.buaa.edu.cn/info/1082/1247.htm",
+      "https://zs.buaa.edu.cn/bkzn/lnfs.htm",
+      "https://lqcx.buaa.edu.cn/f/ajax_lnfs_param",
+      "https://lqcx.buaa.edu.cn/f/ajax_lnfs",
+      "https://zs.buaa.edu.cn/",
+      "https://lqcx.buaa.edu.cn/static/front/buaa/basic/js/tplt.js",
+      "https://zs.buaa.edu.cn/info/1047/3600.htm"
+    ],
+    "note": "公开广西菜单最新2025；按其已列类别作2026物理/历史及统招、合作、国家/高校专项等5组缺年探查，均成功空列表；2025对照学校汇总非空。另核2026本科录取信息公告，其历年分数仍指向同一查询，不提供新的本年专业统计。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "p100a-10006-params",
+        "request": {},
+        "httpStatus": 200,
+        "state": 1
+      },
+      {
+        "sourceId": "p100a-10006-scores-2026-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "统招"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10006-scores-2026-2",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "中外合作办学"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10006-scores-2026-3",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "国家专项"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10006-scores-2026-4",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "民族班"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10006-scores-2026-5",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "统招"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10006-scores-2025-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "zslx": "统招"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 1
+      }
+    ],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10213",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10213",
+    "school": "哈尔滨工业大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10213-entry1",
+      "p100a-10213-home",
+      "p100a-10213-score2026"
+    ],
+    "checkedUrls": [
+      "https://zsb.hit.edu.cn/information/score",
+      "https://zsb.hit.edu.cn/",
+      "https://zsb.hit.edu.cn/information/score?year=2026&province=%E5%B9%BF%E8%A5%BF"
+    ],
+    "note": "官方分数页仅2025/2024；显式请求广西2026后返回页面filter-info仍为2025广西，属于回退旧年，不能当作2026。另核招生首页及官方检索结果，强基入围/综合成绩未混入普通分数。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10558",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10558",
+    "school": "中山大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "current-year-query-empty",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10558-entry1",
+      "p100a-10558-params",
+      "p100a-10558-scores-2026-1",
+      "p100a-10558-scores-2026-2",
+      "p100a-10558-scores-2026-3",
+      "p100a-10558-scores-2026-4",
+      "p100a-10558-scores-2026-5",
+      "p100a-10558-scores-2026-6",
+      "p100a-10558-scores-2026-7",
+      "p100a-10558-scores-2026-8",
+      "p100a-10558-scores-2025-1",
+      "p100a-10558-home"
+    ],
+    "checkedUrls": [
+      "https://admission.sysu.edu.cn/f/ajax_lnfs",
+      "https://admission.sysu.edu.cn/f/ajax_lnfs_param",
+      "https://admission.sysu.edu.cn/"
+    ],
+    "note": "公开广西菜单最新2025；根据菜单普通、国家专项、高校专项、民族班等已列两科类别，8组2026缺年探查均成功空列表；2025物理普通对照有实际专业记录。另查官网新闻，所见综合评价公告为广东或第二学位，不能补广西普通专业分。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "p100a-10558-params",
+        "request": {},
+        "httpStatus": 200,
+        "state": 1
+      },
+      {
+        "sourceId": "p100a-10558-scores-2026-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "普通录取"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10558-scores-2026-2",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "国家专项"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10558-scores-2026-3",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "高校专项"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10558-scores-2026-4",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "民族班"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10558-scores-2026-5",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "普通录取"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10558-scores-2026-6",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "国家专项"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10558-scores-2026-7",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "高校专项"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10558-scores-2026-8",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "民族班"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10558-scores-2025-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "zslx": "普通录取"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 20,
+        "zsSsgradeListCount": 1
+      }
+    ],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10284",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10284",
+    "school": "南京大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "current-year-query-empty",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10284-entry1",
+      "p100a-10284-params",
+      "p100a-10284-scores-2026-1",
+      "p100a-10284-scores-2026-2",
+      "p100a-10284-scores-2025-1",
+      "p100a-10284-home",
+      "p100a-10284-protocol"
+    ],
+    "checkedUrls": [
+      "https://bkzs.nju.edu.cn/static/front/nju/basic/html_web/lnfs.html",
+      "https://bkzs.nju.edu.cn/f/ajax_lnfs_param",
+      "https://bkzs.nju.edu.cn/f/ajax_lnfs",
+      "https://bkzs.nju.edu.cn/",
+      "https://bkzs.nju.edu.cn/static/front/nju/basic/js/tplt.js"
+    ],
+    "note": "公开广西菜单2025/2024/2023；2026物理、历史普通批次2次明确缺年探查均state=1双列表空。2025对照院校汇总非空、专业列表空；另查官网首页和官方定向检索，未取得本年广西专业分。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "p100a-10284-params",
+        "request": {},
+        "httpStatus": 200,
+        "state": 1
+      },
+      {
+        "sourceId": "p100a-10284-scores-2026-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "普通批次"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10284-scores-2026-2",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "普通批次"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10284-scores-2025-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "zslx": "普通批次"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 1
+      }
+    ],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10358",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "current-year-query-empty",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10358-entry1",
+      "p100a-10358-params",
+      "p100a-10358-scores-2026-1",
+      "p100a-10358-scores-2025-1",
+      "p100a-10358-home",
+      "p100a-10358-protocol",
+      "p100a-10358-information-public"
+    ],
+    "checkedUrls": [
+      "https://zsfw.ustc.edu.cn/zsw/lnfs.html",
+      "https://zsfw.ustc.edu.cn/f/ajax_lnfs_param",
+      "https://zsfw.ustc.edu.cn/f/ajax_lnfs",
+      "https://zsb.ustc.edu.cn/",
+      "https://zsfw.ustc.edu.cn/static/front/ustc/basic/js/tplt.js",
+      "https://zsb.ustc.edu.cn/xxgk/list.htm"
+    ],
+    "note": "广西菜单为2025/2024；2026物理普通本科缺年探查成功双列表空，2025对照有专业记录，说明接口可返回专业统计。前端展示配置与接口隐藏记录不能混同；2026强基公告是综合成绩，已排除。另查招生首页和信息公开栏目。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "p100a-10358-params",
+        "request": {},
+        "httpStatus": 200,
+        "state": 1
+      },
+      {
+        "sourceId": "p100a-10358-scores-2026-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "普通本科"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10358-scores-2025-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "zslx": "普通本科"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 13,
+        "zsSsgradeListCount": 1
+      }
+    ],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10487",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10487",
+    "school": "华中科技大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10487-entry1",
+      "p100a-10487-home",
+      "p100a-10487-admission-index",
+      "p100a-10487-news-index"
+    ],
+    "checkedUrls": [
+      "https://zsb.hust.edu.cn/bkzn/fsfzyfsx.htm",
+      "https://zsb.hust.edu.cn/",
+      "https://zsb.hust.edu.cn/bkzn/lqqk.htm",
+      "https://zsb.hust.edu.cn/bkzn/tzgg.htm"
+    ],
+    "note": "分省分专业分数页面实际嵌入年份只有2025、2024、2023；另查录取情况、通知公告和官网首页，未取得2026广西专业实际最低分。2026计划、强基和其他申请类别结果均不能替代。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [],
+    "supplementaryFilingRows": 0
+  },
+  {
+    "id": "major-score-review-p100a-10002",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "auditKind": "major-scores",
+    "title": "100校试运行A组：2026广西专业分补缺复核",
+    "checkedAt": "2026-09-12",
+    "status": "current-year-query-empty",
+    "recordCount": 0,
+    "sourceIds": [
+      "p100a-10002-entry1",
+      "p100a-10002-params",
+      "p100a-10002-scores-2026-1",
+      "p100a-10002-scores-2026-2",
+      "p100a-10002-scores-2026-3",
+      "p100a-10002-scores-2026-4",
+      "p100a-10002-scores-2026-5",
+      "p100a-10002-scores-2026-6",
+      "p100a-10002-scores-2025-1",
+      "p100a-10002-home",
+      "p100a-10002-protocol"
+    ],
+    "checkedUrls": [
+      "https://rdzs.ruc.edu.cn/zsw/lnfs.html",
+      "https://rdzs.ruc.edu.cn/f/ajax_lnfs_param",
+      "https://rdzs.ruc.edu.cn/f/ajax_lnfs",
+      "https://rdzs.ruc.edu.cn/",
+      "https://rdzs.ruc.edu.cn/static/front/ruc/basic/js/tplt.js"
+    ],
+    "note": "公开广西菜单只有2025；按其物理/历史本科一批、国家专项、新路引航等6组菜单类别作2026缺年探查，均成功双列表空；2025对照有旧年专业记录。另查官网首页和官方定向检索，未取得本年广西专业最低分。",
+    "scope": "本轮明确列出的官方目录、网页、前端配置和查询条件；不是全站及公众号穷尽搜索结论。",
+    "evidenceGaps": [
+      "2026广西分专业实际最低录取分未取得",
+      "完整本年专业分目录和轮次未核定",
+      "专业组、最低位次及完整计划匹配仍缺证据"
+    ],
+    "queryResults": [
+      {
+        "sourceId": "p100a-10002-params",
+        "request": {},
+        "httpStatus": 200,
+        "state": 1
+      },
+      {
+        "sourceId": "p100a-10002-scores-2026-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "新路引航专项计划"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10002-scores-2026-2",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "本科一批"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10002-scores-2026-3",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "zslx": "国家专项"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10002-scores-2026-4",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "新路引航专项计划"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10002-scores-2026-5",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "本科一批"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10002-scores-2026-6",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "zslx": "国家专项"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 0,
+        "zsSsgradeListCount": 0
+      },
+      {
+        "sourceId": "p100a-10002-scores-2025-1",
+        "request": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "历史类",
+          "zslx": "新路引航专项计划"
+        },
+        "httpStatus": 200,
+        "state": 1,
+        "sszygradeListCount": 1,
+        "zsSsgradeListCount": 1
+      }
+    ],
+    "supplementaryFilingRows": 0
+  }
+]

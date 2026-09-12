@@ -3,7 +3,22 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { JSDOM } from 'jsdom';
 
+const fmt = n => n.toLocaleString('zh-CN');
+async function liveReviewStats() {
+  const [cutoffs, plans, scores, notes] = await Promise.all(['cutoffs', 'plans', 'major-cutoffs', 'school-audit-notes'].map(async name => JSON.parse(await readFile(new URL(`../site/data/${name}.json`, import.meta.url), 'utf8'))));
+  const codes = new Set([...cutoffs, ...plans, ...scores].map(r => String(r.schoolCode)));
+  const valid = new Set(scores.filter(r => r.scoreComparable !== false && Number.isFinite(r.score)).map(r => String(r.schoolCode)));
+  const audited = new Set(notes.filter(r => r.auditKind === 'major-scores' || /^review-major-(gap|collected)-/.test(r.id || '')).map(r => String(r.schoolCode)));
+  const reviewed = new Set([...audited, ...scores.map(r => String(r.schoolCode))].filter(code => codes.has(code)));
+  const reviewedGap = [...codes].filter(code => reviewed.has(code) && !valid.has(code));
+  const unreviewed = [...codes].filter(code => !reviewed.has(code) && !valid.has(code));
+  const planOnlyAudit = notes.find(r => codes.has(String(r.schoolCode)) && !reviewed.has(String(r.schoolCode)));
+  assert.equal(valid.size + reviewedGap.length + unreviewed.length, codes.size);
+  return { total: codes.size, collected: valid.size, reviewed: reviewed.size, reviewedGap: reviewedGap.length, unreviewed: unreviewed.length, planOnlyAudit, firstGroups: cutoffs.filter(r => r.round === '首轮').length };
+}
+
 test('页面真实数据加载、筛选、备选、详情、导出和导航交互', async () => {
+  const stats = await liveReviewStats();
   const html=await readFile(new URL('../site/index.html',import.meta.url),'utf8');
   const dom=new JSDOM(html,{url:'https://example.test/guangxi-admissions-2026/'});
   const {window}=dom;
@@ -20,13 +35,13 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   const $=id=>document.getElementById(id);
   const input=(id,value)=>{$(id).value=value;$(id).dispatchEvent(new window.Event('input',{bubbles:true}));};
   assert.ok(document.querySelectorAll('.result-card').length>0);
-  assert.match($('coverage-strip').textContent,/1,961个目标院校代码/);
-  assert.match($('coverage-strip').textContent,/37个已有部分专业分/);
-  assert.match($('coverage-strip').textContent,/109个已核查仍无专业分/);
-  assert.match($('coverage-strip').textContent,/1,815个待核查专业分/);
-  assert.match($('major-review-note').textContent,/已核查 146 个院校代码/);
+  assert.ok($('coverage-strip').textContent.includes(`${fmt(stats.total)}个目标院校代码`));
+  assert.ok($('coverage-strip').textContent.includes(`${fmt(stats.collected)}个已有可比较专业分`));
+  assert.ok($('coverage-strip').textContent.includes(`${fmt(stats.reviewedGap)}个已核查仍缺可比较分`));
+  assert.ok($('coverage-strip').textContent.includes(`${fmt(stats.unreviewed)}个待核查专业分`));
+  assert.ok($('major-review-note').textContent.includes(`已核查 ${fmt(stats.reviewed)} 个院校代码`));
   assert.match($('major-review-note').textContent,/已核查不代表已取得全部专业分/);
-  assert.match($('coverage-detail').textContent,/8,155/);
+  assert.ok($('coverage-detail').textContent.includes(`${fmt(stats.firstGroups)} 条`));
   input('query','广西大学');input('kind','all');input('batch','all');
   document.querySelector('[data-detail]').click();
   assert.match($('detail-content').textContent,/该校专业计划来源/);
@@ -193,22 +208,23 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   assert.match($('coverage-detail').textContent,/最近补采或核查：\d{4}-\d{2}-\d{2}（北京时间）/);
   assert.ok(document.querySelectorAll('#sources-list a').length>=18);
   document.querySelector('[data-view="gaps"]').click();assert.equal($('gaps-view').hidden,false);assert.equal($('query-layout').hidden,true);
-  assert.match($('gap-overview').textContent,/1,961/);
-  assert.match($('gap-overview').textContent,/37 个已有部分专业分/);
-  assert.match($('gap-overview').textContent,/109 个已核查仍未取得专业分/);
-  assert.match($('gap-overview').textContent,/1,815 个尚待专业分核查/);
+  assert.ok($('gap-overview').textContent.includes(`${fmt(stats.total)} 个院校代码`));
+  assert.ok($('gap-overview').textContent.includes(`${fmt(stats.collected)} 个已有可比较专业分`));
+  assert.ok($('gap-overview').textContent.includes(`${fmt(stats.reviewedGap)} 个已核查仍缺可比较专业分`));
+  assert.ok($('gap-overview').textContent.includes(`${fmt(stats.unreviewed)} 个尚待专业分核查`));
   $('gap-status').value='major-collected';$('gap-status').dispatchEvent(new window.Event('change',{bubbles:true}));
-  assert.match($('gap-count').textContent,/37 个院校条目/);
+  assert.ok($('gap-count').textContent.includes(`${fmt(stats.collected)} 个院校条目`));
   input('gap-query','10043');
   assert.equal(document.querySelectorAll('.gap-card').length,1);
   assert.match($('gap-list').textContent,/复查日期：2026-09-10 · 已收录部分专业分/,'早期 collected 分数审计不能被误认作计划审计');
   $('gap-status').value='major-reviewed-gap';$('gap-status').dispatchEvent(new window.Event('change',{bubbles:true}));
-  input('gap-query','');assert.match($('gap-count').textContent,/109 个院校条目/);
+  input('gap-query','');assert.ok($('gap-count').textContent.includes(`${fmt(stats.reviewedGap)} 个院校条目`));
   input('gap-query','10595');assert.equal(document.querySelectorAll('.gap-card').length,1,'早期 gap 分数审计计入已查缺口');
   assert.match($('gap-list').textContent,/本次核查未取得专业分/);
   $('gap-status').value='major-not-reviewed';$('gap-status').dispatchEvent(new window.Event('change',{bubbles:true}));
-  input('gap-query','');assert.match($('gap-count').textContent,/1,815 个院校条目/);
-  input('gap-query','14684');assert.equal(document.querySelectorAll('.gap-card').length,1,'只有计划审计的学校仍待专业分核查');
+  input('gap-query','');assert.ok($('gap-count').textContent.includes(`${fmt(stats.unreviewed)} 个院校条目`));
+  assert.ok(stats.planOnlyAudit, '真实库保留仅计划审计的回归样例');
+  input('gap-query',stats.planOnlyAudit.schoolCode);assert.equal(document.querySelectorAll('.gap-card').length,1,'只有计划审计的学校仍待专业分核查');
   $('gap-status').value='all';$('gap-status').dispatchEvent(new window.Event('change',{bubbles:true}));
   input('gap-query','广西大学');assert.match($('gap-list').textContent,/专业组代码/);assert.equal(document.querySelectorAll('.gap-card').length,1);
   document.querySelector('[data-school-query][data-destination="plans"]').click();assert.equal($('query').value,'10593');assert.equal($('query-layout').hidden,false);assert.equal($('kind').value,'all');
@@ -222,6 +238,7 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
 });
 
 test('全量专业分核查范围包括仅在征集投档出现的院校', async()=>{
+  const stats = await liveReviewStats();
   const html=await readFile(new URL('../site/index.html',import.meta.url),'utf8');
   const dom=new JSDOM(html,{url:'https://example.test/'});
   globalThis.document=dom.window.document;globalThis.window=dom.window;globalThis.localStorage=dom.window.localStorage;
@@ -233,9 +250,9 @@ test('全量专业分核查范围包括仅在征集投档出现的院校', async
   await import('../site/app.js?supplementary-scope-test');
   for(let i=0;i<200&&document.documentElement.dataset.ready===undefined;i++)await new Promise(resolve=>setTimeout(resolve,10));
   assert.equal(document.documentElement.dataset.ready,'true');
-  assert.match(document.getElementById('coverage-strip').textContent,/1,962个目标院校代码/);
-  assert.match(document.getElementById('coverage-strip').textContent,/1,816个待核查专业分/);
-  assert.match(document.getElementById('major-review-note').textContent,/已核查 146 个院校代码/);
+  assert.ok(document.getElementById('coverage-strip').textContent.includes(`${fmt(stats.total + 1)}个目标院校代码`));
+  assert.ok(document.getElementById('coverage-strip').textContent.includes(`${fmt(stats.unreviewed + 1)}个待核查专业分`));
+  assert.ok(document.getElementById('major-review-note').textContent.includes(`已核查 ${fmt(stats.reviewed)} 个院校代码`));
   dom.window.close();
 });
 

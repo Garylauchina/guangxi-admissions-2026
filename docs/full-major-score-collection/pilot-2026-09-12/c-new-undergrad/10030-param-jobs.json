@@ -1,0 +1,13 @@
+[
+  {
+    "id": "10030-param-session",
+    "schoolCode": "10030",
+    "host": "https://zhaosheng.bfsu.edu.cn",
+    "entryUrl": "https://zhaosheng.bfsu.edu.cn/static/front/bfsu/basic/html_web/lnfs.html?20220331",
+    "url": "https://zhaosheng.bfsu.edu.cn/f/ajax_lnfs_param",
+    "path": "f/ajax_lnfs_param",
+    "request": {},
+    "method": "POST",
+    "ext": "json"
+  }
+]

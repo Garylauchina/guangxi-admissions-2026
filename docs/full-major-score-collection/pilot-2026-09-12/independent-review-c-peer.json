@@ -1,0 +1,80 @@
+{
+  "status": "passed",
+  "reviewedAt": "2026-09-12T22:34:08.268960+08:00",
+  "reviewer": "pilot_score_to_plan peer; independent of C collector and builder",
+  "scope": "只读 C 冻结包及原始公开来源；未修改 C 包或站点数据",
+  "reviewedRows": 141,
+  "schoolCounts": {
+    "10589": 65,
+    "11414": 21,
+    "10542": 37,
+    "10511": 17,
+    "10366": 1
+  },
+  "checks": {
+    "allFinalRowsMappedToEvidence": 141,
+    "allJsonEvidenceFieldsMatchedToRaw": 123,
+    "allCcnuHtmlEvidenceRowsMatchedToRaw": 17,
+    "rawArchiveHashesVerified": 150,
+    "rankPointRows": 86,
+    "rankIntervalRowsKeptAsText": 17,
+    "statisticsYearExplicitly2026": 141,
+    "provinceExplicitlyGuangxi": 141,
+    "unknownGroupAndProvinceMajorCodesPreserved": 141
+  },
+  "charterReviews": [
+    {
+      "schoolCode": "10589",
+      "file": "10589-charter.html",
+      "clauses": "第十二条、第十五条",
+      "conclusion": "认可教育部及生源省高考加分；专业录取按投档分且不含排位小分。与 scoreBasis 相符。"
+    },
+    {
+      "schoolCode": "11414",
+      "file": "11414-charter-body-session.json",
+      "clauses": "第十条、第十一条第一款",
+      "conclusion": "提档认可全国性高考加分，录取分配专业按投档成绩。适用于本批分省计划普通、国家专项及合作类型。"
+    },
+    {
+      "schoolCode": "10511",
+      "file": "10511-charter.html",
+      "clauses": "第十三条、第十四条",
+      "conclusion": "录取认可全国性加分，专业按投档成绩。15条公费师范、2条优师分别保留，17条位次区间未变成单点。"
+    },
+    {
+      "schoolCode": "10542",
+      "file": "10542-charter.html",
+      "clauses": "第二十四条、第二十六条",
+      "conclusion": "投档成绩含全国性加分，以投档成绩和专业志愿录取。普通文理37条映射普通类，名称中师范并未误标公费师范。"
+    },
+    {
+      "schoolCode": "10366",
+      "file": "10366-charter-pdf.pdf",
+      "page": 3,
+      "clauses": "第十二条、第十四条第一款",
+      "conclusion": "省规定加分进档；院校专业组内分数优先含政策加分，采用高考排序成绩。广西唯一行平行志愿最低分602，并非错误取旁列首轮投档线。PDF视觉逐格核查由根独立完成，本次复读已提取章程文字。"
+    }
+  ],
+  "categoryCounts": {
+    "普通类": 114,
+    "中外合作办学批": 5,
+    "软件工程（NIIT)": 1,
+    "中外合作办学": 2,
+    "国家专项计划": 2,
+    "公费师范": 15,
+    "优师计划": 2
+  },
+  "findings": [],
+  "limitations": [
+    "海南化生組、不限组等仅按原选考科目文字保留，未推定完整选科逻辑。",
+    "中国石油大学北京 rs 未有可见人数表头，未规范为录取人数；zydm 未冒充广西填报代号。",
+    "安徽医科 score 行的 plannedCount 来自录取回顾原表，不构成初始计划导入。",
+    "本报告不声称五校全部类型、所有轮次和渠道已经覆盖。"
+  ],
+  "artifactHashes": {
+    "major-cutoffs-upsert.json": "8893e8be568c9c673e4649deb15737d7b1d1e139cffbc04d6ca053c5f3d03c0a",
+    "evidence-rows.json": "ac97330f3130b772bd5eacf878afaa6b47716f52e2c088f802905b08d6988acd",
+    "source-manifest.json": "6779745eb5330fb5946fea12068c45d3f11466a882f2e2b1349efe89aa785570",
+    "sources.json": "d8eedbf8eb3db84dd583ec0dd95f701b82c2314742b7ea154e519b526948daf1"
+  }
+}

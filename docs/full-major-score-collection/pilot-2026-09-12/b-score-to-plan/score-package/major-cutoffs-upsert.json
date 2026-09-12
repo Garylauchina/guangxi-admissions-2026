@@ -1,0 +1,138 @@
+[
+  {
+    "id": "major-2026-pilot-b-sdjtu-early-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11510",
+    "school": "山东交通学院",
+    "track": "物理",
+    "sourceTrack": "物理",
+    "batch": "本科提前批",
+    "group": null,
+    "major": "航海技术",
+    "majorCode": null,
+    "score": 523,
+    "sourceMaximumScore": 531,
+    "sourceAverageScore": 527.0,
+    "scoreType": "专业录取最低分",
+    "plannedCount": 2,
+    "admittedCount": 2,
+    "sourceControlScore": 368,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "航海类",
+    "sourceCategory": "非定向",
+    "scoreBasis": "普通高考总分（学校章程认可省级加分投档政策；原表未另列加分处理）",
+    "scoreScaleMaximum": 750,
+    "sourceId": "pilot-b-20260912-11510-score-early-html",
+    "sourceIds": [
+      "pilot-b-20260912-11510-score-early-html",
+      "pilot-b-20260912-11510-charter-html"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "sourceMaximumScore": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "sourceAverageScore": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "plannedCount": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "admittedCount": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "batch": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "major": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "scoreBasis": [
+        "pilot-b-20260912-11510-charter-html"
+      ]
+    },
+    "sourceRow": 2,
+    "reviewedAt": "2026-09-12",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "官网2026年7月10日广西本科提前批专业结果。最低分取录取最低分列，368为控制线；计划数与录取数各列均为2。轮次和广西专业组未列。航海类另有辨色力、视力和船员体检条件，公共外语须选英语，详见学校章程。"
+  },
+  {
+    "id": "major-2026-pilot-b-sdjtu-early-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11510",
+    "school": "山东交通学院",
+    "track": "物理",
+    "sourceTrack": "物理",
+    "batch": "本科提前批",
+    "group": null,
+    "major": "轮机工程",
+    "majorCode": null,
+    "score": 520,
+    "sourceMaximumScore": 524,
+    "sourceAverageScore": 522.0,
+    "scoreType": "专业录取最低分",
+    "plannedCount": 2,
+    "admittedCount": 2,
+    "sourceControlScore": 368,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "航海类",
+    "sourceCategory": "非定向",
+    "scoreBasis": "普通高考总分（学校章程认可省级加分投档政策；原表未另列加分处理）",
+    "scoreScaleMaximum": 750,
+    "sourceId": "pilot-b-20260912-11510-score-early-html",
+    "sourceIds": [
+      "pilot-b-20260912-11510-score-early-html",
+      "pilot-b-20260912-11510-charter-html"
+    ],
+    "fieldSourceIds": {
+      "score": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "sourceMaximumScore": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "sourceAverageScore": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "plannedCount": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "admittedCount": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "batch": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "major": [
+        "pilot-b-20260912-11510-score-early-html"
+      ],
+      "scoreBasis": [
+        "pilot-b-20260912-11510-charter-html"
+      ]
+    },
+    "sourceRow": 3,
+    "reviewedAt": "2026-09-12",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "官网2026年7月10日广西本科提前批专业结果。最低分取录取最低分列，368为控制线；计划数与录取数各列均为2。轮次和广西专业组未列。航海类另有辨色力、视力和船员体检条件，公共外语须选英语，详见学校章程。"
+  }
+]

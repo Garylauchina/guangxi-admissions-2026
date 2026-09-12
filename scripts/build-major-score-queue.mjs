@@ -4,6 +4,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { SPECIAL, restrictionText, recordSourceIds, reviewDate } from '../site/logic.js';
+import { isComparableMajorScore } from '../site/coverage.js';
 
 export const CODE_DATASETS = [
   'cutoffs', 'plans', 'major-cutoffs', 'school-coverage',
@@ -97,10 +98,12 @@ export function buildMajorScoreQueue(data, { asOf, inputEvidence = [] } = {}) {
     const coverage = datasets['school-coverage'];
     assert.ok(coverage.length <= 1, `Duplicate coverage code: ${code}`);
     const names = sorted(all.map(r => r.school));
-    const pending = scores.filter(r => r.scoreComparable === false).length;
-    const status = scores.length ? 'partial-collected' : reviews.length ? 'reviewed-no-actual-records' : 'not-score-reviewed';
+    const comparableScores = scores.filter(isComparableMajorScore);
+    const pending = scores.length - comparableScores.length;
+    // Pending-only evidence is reviewed, but does not establish a usable actual score.
+    const status = comparableScores.length ? 'partial-collected' : (scores.length || reviews.length) ? 'reviewed-no-actual-records' : 'not-score-reviewed';
     const pkeys = new Set(plans.map(literalMajorKey));
-    const mkeys = new Set(scores.map(literalMajorKey));
+    const mkeys = new Set(comparableScores.map(literalMajorKey));
     const sourceRefs = sorted(all.flatMap(recordSourceIds));
     for (const id of sourceRefs) assert.ok(sourceIds.has(id), `Unknown source reference ${id} for ${code}.`);
     const priorityByTrack = Object.fromEntries(['物理', '历史'].map(track => {
@@ -142,7 +145,7 @@ export function buildMajorScoreQueue(data, { asOf, inputEvidence = [] } = {}) {
       },
       actualMajorScore: {
         records: scores.length,
-        comparableRecords: scores.filter(r => r.scoreComparable !== false && Number.isFinite(r.score)).length,
+        comparableRecords: comparableScores.length,
         pendingComparisonRecords: pending,
         sourceConflictRecords: scores.filter(r => r.evidenceStatus === 'source-conflict').length,
         tracks: sorted(scores.map(r => r.track)),
@@ -155,10 +158,10 @@ export function buildMajorScoreQueue(data, { asOf, inputEvidence = [] } = {}) {
       },
       majorFilingOnlyRecords: datasets['major-filing-cutoffs'].length,
       planScoreOverlap: {
-        hasBothAtSchoolLevel: Boolean(plans.length && scores.length),
+        hasBothAtSchoolLevel: Boolean(plans.length && comparableScores.length),
         literalTrackMajorKeys: [...pkeys].filter(k => mkeys.has(k)).length,
         planRowsWithLiteralMatch: plans.filter(r => mkeys.has(literalMajorKey(r))).length,
-        scoreRowsWithLiteralMatch: scores.filter(r => pkeys.has(literalMajorKey(r))).length,
+        scoreRowsWithLiteralMatch: comparableScores.filter(r => pkeys.has(literalMajorKey(r))).length,
         exactAssociationEstablished: false,
       },
       scoreStatus: status,
@@ -241,16 +244,20 @@ export function buildMajorScoreQueue(data, { asOf, inputEvidence = [] } = {}) {
     scoreStatusCounts: counts(inventory, 'scoreStatus'),
     scoreAudit: {
       noteRecords: data['school-audit-notes'].filter(isMajorScoreAudit).length,
-      reviewedSchoolCodes: inventory.filter(r => r.scoreAudit.noteIds.length).length,
+      reviewedSchoolCodes: inventory.filter(r => r.scoreAudit.noteIds.length || r.actualMajorScore.records).length,
+      schoolCodesWithAuditNotes: inventory.filter(r => r.scoreAudit.noteIds.length).length,
       legacyNoteRecords: data['school-audit-notes'].filter(r => r.auditKind !== 'major-scores' && isMajorScoreAudit(r)).length,
       reviewedNoActualScoreLevelCounts: levelCounts(reviewedEmpty),
       notReviewedLevelCounts: levelCounts(unreviewed),
       anyAuditKindSchoolCodes: inventory.filter(r => r.anyAuditNoteRecords).length,
       onlyNonScoreAuditCodes: inventory.filter(r => r.anyAuditNoteRecords && !r.scoreAudit.noteIds.length).map(r => r.schoolCode),
-      classificationRule: 'auditKind === major-scores OR id matches ^review-major-(gap|collected)-; plan-only audits excluded',
+      classificationRule: 'audit notes: auditKind === major-scores OR id matches ^review-major-(gap|collected)-; plan-only audits excluded; schools with stored actual-score evidence (including pending-only) are also reviewed',
     },
     actualMajorScores: {
-      schoolCodesWithSomeRecords: partial.length,
+      schoolCodesWithSomeRecords: inventory.filter(r => r.actualMajorScore.records).length,
+      schoolCodesWithComparableRecords: partial.length,
+      pendingOnlySchoolCodes: inventory.filter(r => r.actualMajorScore.records && !r.actualMajorScore.comparableRecords).map(r => r.schoolCode),
+      schoolStatusRule: 'partial-collected requires at least one comparable numeric actual score; pending-only schools are reviewed-no-actual-records (no comparable actual score)',
       ordinaryLevelCounts: levelCounts(partial),
       comparableRecords: sum('actualMajorScore', 'comparableRecords'),
       pendingComparisonRecords: sum('actualMajorScore', 'pendingComparisonRecords'),
@@ -266,10 +273,10 @@ export function buildMajorScoreQueue(data, { asOf, inputEvidence = [] } = {}) {
     planScoreOverlap: {
       planSchoolCodes: inventory.filter(r => r.plan.records).length,
       scoreSchoolCodes: partial.length,
-      bothSchoolCodes: inventory.filter(r => r.plan.records && r.actualMajorScore.records).length,
-      plansWithoutActualScoresSchoolCodes: inventory.filter(r => r.plan.records && !r.actualMajorScore.records).length,
-      actualScoresWithoutPlansSchoolCodes: inventory.filter(r => !r.plan.records && r.actualMajorScore.records).length,
-      neitherSchoolCodes: inventory.filter(r => !r.plan.records && !r.actualMajorScore.records).length,
+      bothSchoolCodes: inventory.filter(r => r.plan.records && r.actualMajorScore.comparableRecords).length,
+      plansWithoutActualScoresSchoolCodes: inventory.filter(r => r.plan.records && !r.actualMajorScore.comparableRecords).length,
+      actualScoresWithoutPlansSchoolCodes: inventory.filter(r => !r.plan.records && r.actualMajorScore.comparableRecords).length,
+      neitherSchoolCodes: inventory.filter(r => !r.plan.records && !r.actualMajorScore.comparableRecords).length,
       candidateLiteralTrackMajorKeys: sum('planScoreOverlap', 'literalTrackMajorKeys'),
       planRowsWithCandidateLiteralMatch: sum('planScoreOverlap', 'planRowsWithLiteralMatch'),
       scoreRowsWithCandidateLiteralMatch: sum('planScoreOverlap', 'scoreRowsWithLiteralMatch'),
@@ -293,7 +300,8 @@ export function buildMajorScoreQueue(data, { asOf, inputEvidence = [] } = {}) {
     },
     limits: [
       '院校身份以原 schoolCode 为准，保留名称和校区原文，不按相似名称合并。',
-      '已有专业分和已审记录均不证明全专业或全部发布渠道完整；缺口不代表未发布。',
+      '已有可比较专业分和已审记录均不证明全专业或全部发布渠道完整；缺口不代表未发布。',
+      '仅有待核记录的学校计为已核查仍缺可比较专业分；待核原文保留，不纳入计划与可比较专业分交集。',
       '计划与分数的逐字专业名交集仅是候选，不证明科类之外的批次、组码、招生类别、校区与轮次一致。',
       '逐字专业名称计数不是独立专业总数，正式专业分母仍缺。',
       '专业组投档分、专业投档分、实际专业录取分和特殊招生分数不能混用。',

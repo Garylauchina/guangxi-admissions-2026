@@ -1,0 +1,14 @@
+{
+  "checks": "passed",
+  "schools": 20,
+  "sourcesWithMatchingHash": 136,
+  "verifiedActualRows": 0,
+  "pendingYearConflictRows": 117,
+  "filingRows": 55,
+  "filingBySchool": {
+    "广西工程职业学院": 41,
+    "广西师范大学": 14
+  },
+  "filingNameConflictRows": 1,
+  "limits": "HTML原表与API字段核对；专业投档候选由根线程独立复核；年份冲突117条一律不比较。"
+}

@@ -27,7 +27,12 @@ test('score queue uses every code-based dataset and keeps identical names under 
   assert.equal(summary.scope.otherDataOnlyCodes.length, 7);
   assert.equal(inventory.find(r => r.schoolCode === '20001').ordinaryLevel, 'unknown');
   assert.equal(inventory.find(r => r.schoolCode === '20001').observedLevel, 'undergraduate');
-  assert.equal(inventory.find(r => r.schoolCode === '30001').scoreStatus, 'partial-collected');
+  assert.equal(inventory.find(r => r.schoolCode === '30001').scoreStatus, 'reviewed-no-actual-records');
+  assert.equal(summary.actualMajorScores.schoolCodesWithSomeRecords, 1);
+  assert.equal(summary.actualMajorScores.schoolCodesWithComparableRecords, 0);
+  assert.deepEqual(summary.actualMajorScores.pendingOnlySchoolCodes, ['30001']);
+  assert.equal(summary.scoreAudit.reviewedSchoolCodes, 2);
+  assert.equal(summary.scoreAudit.schoolCodesWithAuditNotes, 1);
   assert.equal(inventory.find(r => r.schoolCode === '30001').actualMajorScore.comparableRecords, 0);
   assert.equal(inventory.find(r => r.schoolCode === '60001').actualMajorScore.records, 0);
   assert.equal(inventory.find(r => r.schoolCode === '60001').nextAction.code, 'verify-final-major-admission-outcomes');
@@ -57,6 +62,28 @@ test('legacy score audits count, plan audits do not, and some score rows never e
   assert.equal(summary.actualMajorScores.professionalDenominator, null);
   assert.equal(summary.actualMajorScores.professionalCompletenessPercent, null);
   assert.equal(isMajorScoreAudit({ id: 'review-major-plan-10001' }), false);
+});
+test('pending-only major scores do not fill plan-score gaps; mixed schools use only comparable rows for overlap', () => {
+  const data=emptyData();
+  data.plans=[row('10001',{major:'数学',track:'物理'}),row('10002',{major:'数学',track:'物理'})];
+  data['major-cutoffs']=[
+    row('10001',{major:'数学',track:'物理',score:500,scoreComparable:false}),
+    row('10002',{major:'数学',track:'物理',score:500,scoreComparable:false}),
+    row('10002',{major:'法学',track:'历史',score:600,scoreComparable:true}),
+  ];
+  const {inventory,summary}=buildMajorScoreQueue(data,{asOf});
+  assert.equal(inventory[0].scoreStatus,'reviewed-no-actual-records');
+  assert.equal(inventory[0].planScoreOverlap.hasBothAtSchoolLevel,false);
+  assert.equal(inventory[1].scoreStatus,'partial-collected');
+  assert.equal(inventory[1].actualMajorScore.records,2);
+  assert.equal(inventory[1].actualMajorScore.comparableRecords,1);
+  assert.equal(inventory[1].planScoreOverlap.hasBothAtSchoolLevel,true);
+  assert.equal(summary.planScoreOverlap.bothSchoolCodes,1);
+  assert.equal(summary.planScoreOverlap.plansWithoutActualScoresSchoolCodes,1);
+  assert.equal(summary.planScoreOverlap.planRowsWithCandidateLiteralMatch,0);
+  assert.equal(summary.actualMajorScores.schoolCodesWithSomeRecords,2);
+  assert.equal(summary.actualMajorScores.schoolCodesWithComparableRecords,1);
+  assert.deepEqual(summary.actualMajorScores.pendingOnlySchoolCodes,['10001']);
 });
 
 test('ranking remains per track and uses known first-round group scores while candidate major matches stay unverified', () => {

@@ -1,0 +1,38 @@
+[
+  {
+    "code": "10007",
+    "school": "北京理工大学",
+    "entry": "https://admission.bit.edu.cn/static/front/bit/basic/html_web/lnfs.html",
+    "host": "https://admission.bit.edu.cn"
+  },
+  {
+    "code": "10006",
+    "school": "北京航空航天大学",
+    "entry": "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/lnfs.html",
+    "host": "https://lqcx.buaa.edu.cn"
+  },
+  {
+    "code": "10558",
+    "school": "中山大学",
+    "entry": "https://admission.sysu.edu.cn/zsw/lnfs.html",
+    "host": "https://admission.sysu.edu.cn"
+  },
+  {
+    "code": "10284",
+    "school": "南京大学",
+    "entry": "https://bkzs.nju.edu.cn/static/front/nju/basic/html_web/lnfs.html",
+    "host": "https://bkzs.nju.edu.cn"
+  },
+  {
+    "code": "10358",
+    "school": "中国科学技术大学",
+    "entry": "https://zsfw.ustc.edu.cn/zsw/lnfs.html",
+    "host": "https://zsfw.ustc.edu.cn"
+  },
+  {
+    "code": "10002",
+    "school": "中国人民大学",
+    "entry": "https://rdzs.ruc.edu.cn/zsw/lnfs.html",
+    "host": "https://rdzs.ruc.edu.cn"
+  }
+]

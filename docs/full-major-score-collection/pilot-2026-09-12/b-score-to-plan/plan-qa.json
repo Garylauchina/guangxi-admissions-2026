@@ -1,0 +1,301 @@
+[
+  {
+    "schoolCode": "10269",
+    "source": "10269-zsjh-0.json",
+    "sourceRows": 3,
+    "sumPlanned": 6,
+    "sourceTotal": 6,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10269",
+    "source": "10269-zsjh-1.json",
+    "sourceRows": 11,
+    "sumPlanned": 40,
+    "sourceTotal": 40,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10269",
+    "source": "10269-zsjh-2.json",
+    "sourceRows": 4,
+    "sumPlanned": 13,
+    "sourceTotal": 13,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10269",
+    "source": "10269-zsjh-3.json",
+    "sourceRows": 1,
+    "sumPlanned": 1,
+    "sourceTotal": 1,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10269",
+    "source": "10269-zsjh-4.json",
+    "sourceRows": 3,
+    "sumPlanned": 5,
+    "sourceTotal": 5,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10269",
+    "source": "10269-zsjh-5.json",
+    "sourceRows": 7,
+    "sumPlanned": 15,
+    "sourceTotal": 15,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10269",
+    "source": "10269-zsjh-6.json",
+    "sourceRows": 2,
+    "sumPlanned": 7,
+    "sourceTotal": 7,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10269",
+    "source": "10269-zsjh-7.json",
+    "sourceRows": 1,
+    "sumPlanned": 1,
+    "sourceTotal": 1,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10036",
+    "source": "10036-zsjh-0.json",
+    "sourceRows": 4,
+    "sumPlanned": 7,
+    "sourceTotal": 7,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10036",
+    "source": "10036-zsjh-1.json",
+    "sourceRows": 7,
+    "sumPlanned": 26,
+    "sourceTotal": 26,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10036",
+    "source": "10036-zsjh-2.json",
+    "sourceRows": 1,
+    "sumPlanned": 2,
+    "sourceTotal": 2,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10036",
+    "source": "10036-zsjh-3.json",
+    "sourceRows": 3,
+    "sumPlanned": 6,
+    "sourceTotal": 6,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10036",
+    "source": "10036-zsjh-4.json",
+    "sourceRows": 1,
+    "sumPlanned": 1,
+    "sourceTotal": 1,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10036",
+    "source": "10036-zsjh-5.json",
+    "sourceRows": 11,
+    "sumPlanned": 34,
+    "sourceTotal": 34,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10036",
+    "source": "10036-zsjh-6.json",
+    "sourceRows": 1,
+    "sumPlanned": 4,
+    "sourceTotal": 4,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10036",
+    "source": "10036-zsjh-7.json",
+    "sourceRows": 1,
+    "sumPlanned": 2,
+    "sourceTotal": 2,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10036",
+    "source": "10036-zsjh-8.json",
+    "sourceRows": 1,
+    "sumPlanned": 1,
+    "sourceTotal": 1,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10423",
+    "source": "10423-zsjh-0.json",
+    "sourceRows": 34,
+    "sumPlanned": 99,
+    "sourceTotal": 99,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10423",
+    "source": "10423-zsjh-1.json",
+    "sourceRows": 1,
+    "sumPlanned": 3,
+    "sourceTotal": 3,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10423",
+    "source": "10423-zsjh-2.json",
+    "sourceRows": 1,
+    "sumPlanned": 1,
+    "sourceTotal": 1,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10423",
+    "source": "10423-zsjh-3.json",
+    "sourceRows": 7,
+    "sumPlanned": 13,
+    "sourceTotal": 13,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10423",
+    "source": "10423-zsjh-4.json",
+    "sourceRows": 1,
+    "sumPlanned": 4,
+    "sourceTotal": 4,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10423",
+    "source": "10423-zsjh-5.json",
+    "sourceRows": 3,
+    "sumPlanned": 6,
+    "sourceTotal": 6,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10423",
+    "source": "10423-zsjh-6.json",
+    "sourceRows": 13,
+    "sumPlanned": 30,
+    "sourceTotal": 30,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10423",
+    "source": "10423-zsjh-7.json",
+    "sourceRows": 1,
+    "sumPlanned": 1,
+    "sourceTotal": 1,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10423",
+    "source": "10423-zsjh-8.json",
+    "sourceRows": 1,
+    "sumPlanned": 2,
+    "sourceTotal": 2,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-10.json",
+    "sourceRows": 3,
+    "sumPlanned": 3,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-11.json",
+    "sourceRows": 1,
+    "sumPlanned": 1,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-12.json",
+    "sourceRows": 4,
+    "sumPlanned": 4,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-13.json",
+    "sourceRows": 6,
+    "sumPlanned": 32,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-14.json",
+    "sourceRows": 8,
+    "sumPlanned": 27,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-15.json",
+    "sourceRows": 12,
+    "sumPlanned": 55,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-16.json",
+    "sourceRows": 7,
+    "sumPlanned": 11,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-17.json",
+    "sourceRows": 1,
+    "sumPlanned": 1,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-18.json",
+    "sourceRows": 8,
+    "sumPlanned": 10,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-19.json",
+    "sourceRows": 2,
+    "sumPlanned": 8,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-7.json",
+    "sourceRows": 4,
+    "sumPlanned": 17,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-8.json",
+    "sourceRows": 5,
+    "sumPlanned": 13,
+    "check": "API detailed rows equal total"
+  },
+  {
+    "schoolCode": "10718",
+    "source": "10718-zsjh-9.json",
+    "sourceRows": 8,
+    "sumPlanned": 32,
+    "check": "API detailed rows equal total"
+  }
+]

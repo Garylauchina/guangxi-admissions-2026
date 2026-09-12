@@ -1,0 +1,92 @@
+[
+  {
+    "id": "10589-scores-1",
+    "schoolCode": "10589",
+    "host": "https://zsfw.hainanu.edu.cn",
+    "entryUrl": "https://zsfw.hainanu.edu.cn/static/front/hainanu/basic/html_web/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "本科普通批",
+      "sex": "",
+      "campus": ""
+    },
+    "ext": "json",
+    "csrf": true
+  },
+  {
+    "id": "10589-scores-2",
+    "schoolCode": "10589",
+    "host": "https://zsfw.hainanu.edu.cn",
+    "entryUrl": "https://zsfw.hainanu.edu.cn/static/front/hainanu/basic/html_web/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "中外合作办学批",
+      "sex": "",
+      "campus": ""
+    },
+    "ext": "json",
+    "csrf": true
+  },
+  {
+    "id": "10589-scores-3",
+    "schoolCode": "10589",
+    "host": "https://zsfw.hainanu.edu.cn",
+    "entryUrl": "https://zsfw.hainanu.edu.cn/static/front/hainanu/basic/html_web/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "软件工程（NIIT)",
+      "sex": "",
+      "campus": ""
+    },
+    "ext": "json",
+    "csrf": true
+  },
+  {
+    "id": "10589-scores-4",
+    "schoolCode": "10589",
+    "host": "https://zsfw.hainanu.edu.cn",
+    "entryUrl": "https://zsfw.hainanu.edu.cn/static/front/hainanu/basic/html_web/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "本科普通批",
+      "sex": "",
+      "campus": ""
+    },
+    "ext": "json",
+    "csrf": true
+  },
+  {
+    "id": "10589-scores-5",
+    "schoolCode": "10589",
+    "host": "https://zsfw.hainanu.edu.cn",
+    "entryUrl": "https://zsfw.hainanu.edu.cn/static/front/hainanu/basic/html_web/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "中外合作办学批",
+      "sex": "",
+      "campus": ""
+    },
+    "ext": "json",
+    "csrf": true
+  }
+]

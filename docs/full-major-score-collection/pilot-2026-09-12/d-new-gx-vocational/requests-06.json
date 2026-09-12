@@ -1,0 +1,64 @@
+[
+  {
+    "id": "13036-zs",
+    "url": "https://csjyc.cszyedu.cn/"
+  },
+  {
+    "id": "12572-zs",
+    "url": "http://www.gdit.edu.cn/zsb/main.htm"
+  },
+  {
+    "id": "12573-home",
+    "url": "https://www.gdyzy.edu.cn/index.do"
+  },
+  {
+    "id": "12104-zs",
+    "url": "https://www.lzpu.edu.cn/zjc/zsxxw1"
+  },
+  {
+    "id": "10861-zs",
+    "url": "https://zs.gdcp.edu.cn/"
+  },
+  {
+    "id": "10870-zs",
+    "url": "http://zhaosheng.cqepc.cn/"
+  },
+  {
+    "id": "14012-scores",
+    "url": "http://qjyzzs.jysd.com/fsx?target=_self"
+  },
+  {
+    "id": "12040-scores",
+    "url": "https://www.gcac.edu.cn/zsw/lnfs.htm"
+  },
+  {
+    "id": "13943-scores",
+    "url": "https://www.gtxy.cn/zsxxw/zsjh/lnlqfsx"
+  },
+  {
+    "id": "11773-menu2026",
+    "url": "https://zsw.gxzjy.edu.cn/index.php?sys=home&module=school_lnlqcj&act=getdata&subact=getDefLnlqcj",
+    "data": {
+      "select_id": "ND",
+      "ND_value": "2026",
+      "SFMC_value": "",
+      "PCMC_value": "",
+      "KLMC_value": ""
+    }
+  },
+  {
+    "id": "11773-menu2025",
+    "url": "https://zsw.gxzjy.edu.cn/index.php?sys=home&module=school_lnlqcj&act=getdata&subact=getDefLnlqcj",
+    "data": {
+      "select_id": "ND",
+      "ND_value": "2025",
+      "SFMC_value": "",
+      "PCMC_value": "",
+      "KLMC_value": ""
+    }
+  },
+  {
+    "id": "10605-guide-http",
+    "url": "http://zs.hcnu.edu.cn/bkzn.htm"
+  }
+]

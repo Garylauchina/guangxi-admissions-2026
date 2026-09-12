@@ -1,0 +1,32 @@
+[
+  {
+    "id": "10542-majormenu1-1",
+    "schoolCode": "10542",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9"
+  },
+  {
+    "id": "10542-scores1-1",
+    "schoolCode": "10542",
+    "url": "https://admin.zhinengdayi.com/front/enroll/findMajorScoreCompareList?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9"
+  },
+  {
+    "id": "10542-majormenu2-1",
+    "schoolCode": "10542",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9"
+  },
+  {
+    "id": "10542-scores2-1",
+    "schoolCode": "10542",
+    "url": "https://admin.zhinengdayi.com/front/enroll/findMajorScoreCompareList?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9"
+  },
+  {
+    "id": "10030-query",
+    "schoolCode": "10030",
+    "url": "https://zhaosheng.bfsu.edu.cn/static/front/bfsu/basic/html_web/lnfs.html?20220331"
+  },
+  {
+    "id": "10357-query",
+    "schoolCode": "10357",
+    "url": "https://bkzs.ahu.edu.cn/static/front/ahu/basic/html_web/lnfs.html"
+  }
+]

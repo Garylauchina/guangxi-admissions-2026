@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10022-scores-1",
+    "schoolCode": "10022",
+    "host": "https://zsb.bjfu.edu.cn",
+    "entryUrl": "https://zsb.bjfu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://zsb.bjfu.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "普通考生",
+      "sex": "",
+      "campus": ""
+    },
+    "ext": "json",
+    "csrf": true
+  },
+  {
+    "id": "10022-scores-2",
+    "schoolCode": "10022",
+    "host": "https://zsb.bjfu.edu.cn",
+    "entryUrl": "https://zsb.bjfu.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://zsb.bjfu.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "国家专项",
+      "sex": "",
+      "campus": ""
+    },
+    "ext": "json",
+    "csrf": true
+  }
+]

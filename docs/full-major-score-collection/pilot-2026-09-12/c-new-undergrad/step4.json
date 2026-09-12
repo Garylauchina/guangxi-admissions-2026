@@ -1,0 +1,126 @@
+[
+  {
+    "id": "10651-getType",
+    "schoolCode": "10651",
+    "url": "https://zsdata.swufe.edu.cn/lqxx/s/api/front/lqxx2/getType",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "10651-getFzcxpzList",
+    "schoolCode": "10651",
+    "url": "https://zsdata.swufe.edu.cn/lqxx/s/api/front/lqxx2/getFzcxpzList",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "10651-headers",
+    "schoolCode": "10651",
+    "url": "https://zsdata.swufe.edu.cn/lqxx/s/api/front/infoconfig/getlqxsgz",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "10651-global",
+    "schoolCode": "10651",
+    "url": "https://zsdata.swufe.edu.cn/lqxx/s/api/front/infoconfig/getGlobalCfg",
+    "data": {},
+    "encoding": "json"
+  },
+  {
+    "id": "10710-getType",
+    "schoolCode": "10710",
+    "url": "https://zsdata.chd.edu.cn/lqxx/s/api/front/lqxx2/getType",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "10710-getFzcxpzList",
+    "schoolCode": "10710",
+    "url": "https://zsdata.chd.edu.cn/lqxx/s/api/front/lqxx2/getFzcxpzList",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "10710-headers",
+    "schoolCode": "10710",
+    "url": "https://zsdata.chd.edu.cn/lqxx/s/api/front/infoconfig/getlqxsgz",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "10710-global",
+    "schoolCode": "10710",
+    "url": "https://zsdata.chd.edu.cn/lqxx/s/api/front/infoconfig/getGlobalCfg",
+    "data": {},
+    "encoding": "json"
+  },
+  {
+    "id": "10511-gx2026",
+    "schoolCode": "10511",
+    "url": "http://zsxt.ccnu.edu.cn/apply/index.php?g=apply&m=index&a=admit",
+    "data": {
+      "year": "2026",
+      "pro": "广西"
+    }
+  },
+  {
+    "id": "10511-gx2025",
+    "schoolCode": "10511",
+    "url": "http://zsxt.ccnu.edu.cn/apply/index.php?g=apply&m=index&a=admit",
+    "data": {
+      "year": "2025",
+      "pro": "广西"
+    }
+  },
+  {
+    "id": "10294-year",
+    "schoolCode": "10294",
+    "url": "https://zsw.hhu.edu.cn/api/lsfs/yearList",
+    "data": {
+      "province": "广西"
+    }
+  },
+  {
+    "id": "10294-type",
+    "schoolCode": "10294",
+    "url": "https://zsw.hhu.edu.cn/api/lsfs/typeList"
+  },
+  {
+    "id": "10491-detail",
+    "schoolCode": "10491",
+    "url": "https://zhaosheng.cug.edu.cn/page/detail/AIGTAZ/10518/1012"
+  },
+  {
+    "id": "10542-list-detail",
+    "schoolCode": "10542",
+    "url": "https://zhinengdayi.com/page/list/NJBCYO/4894_10_1"
+  },
+  {
+    "id": "10159-downloads",
+    "schoolCode": "10159",
+    "url": "https://www.cmu.edu.cn/bkzs/cxxz.htm"
+  },
+  {
+    "id": "10159-2025",
+    "schoolCode": "10159",
+    "url": "https://www.cmu.edu.cn/bkzs/info/4621/1855.htm"
+  },
+  {
+    "id": "10080-notice",
+    "schoolCode": "10080",
+    "url": "https://zs.hebut.edu.cn/2026-07-12/229.html"
+  }
+]

@@ -1,0 +1,295 @@
+[
+  {
+    "id": "10605-guide",
+    "url": "https://zs.hcnu.edu.cn/bkzn.htm"
+  },
+  {
+    "id": "11354-zs",
+    "url": "https://zsw.gxuwz.edu.cn/"
+  },
+  {
+    "id": "11354-scores",
+    "url": "https://zsw.gxuwz.edu.cn/lnfs.htm"
+  },
+  {
+    "id": "11354-gx-round2",
+    "url": "https://zsw.gxuwz.edu.cn/info/1009/5741.htm"
+  },
+  {
+    "id": "11546-zs",
+    "url": "http://zsw.gxstnu.edu.cn"
+  },
+  {
+    "id": "11546-scores",
+    "url": "https://zsw.gxstnu.edu.cn/xxcx/lnfs.htm"
+  },
+  {
+    "id": "11547-zs",
+    "url": "http://www.gxjcxy.com/zsxx1"
+  },
+  {
+    "id": "11547-notice",
+    "url": "https://www.gxjcxy.edu.cn/zsxx1/tzgg"
+  },
+  {
+    "id": "11671-home",
+    "url": "https://zsb.glnc.edu.cn/"
+  },
+  {
+    "id": "11671-notice",
+    "url": "https://zsb.glnc.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1051"
+  },
+  {
+    "id": "11671-2025-score",
+    "url": "https://zsb.glnc.edu.cn/info/1051/3206.htm"
+  },
+  {
+    "id": "11671-2026-progress",
+    "url": "https://zsb.glnc.edu.cn/info/1051/3228.htm"
+  },
+  {
+    "id": "11355-zs",
+    "url": "https://zs.nnvtu.edu.cn/"
+  },
+  {
+    "id": "11355-scores2026",
+    "url": "https://zs.nnvtu.edu.cn/lnfsx/a2026nygfsx77.htm"
+  },
+  {
+    "id": "12104-zs-new",
+    "url": "https://www.lzpu.edu.cn/zsxx"
+  },
+  {
+    "id": "12104-scores-new",
+    "url": "https://www.lzpu.edu.cn/zsxx/ptgkzs/lnlqfs"
+  },
+  {
+    "id": "12104-2026-result",
+    "url": "https://www.lzpu.edu.cn/zsxx/zsdt__xwdt/zsdt1/content_106868"
+  },
+  {
+    "id": "11773-zs",
+    "url": "https://zsw.gxzjy.edu.cn/"
+  },
+  {
+    "id": "11773-scores",
+    "url": "https://zsw.gxzjy.edu.cn/index.php?sys=home&menu=LLFSCX"
+  },
+  {
+    "id": "11773-queryjs",
+    "url": "https://zsw.gxzjy.edu.cn/js/school_lnlqcj_ajax.js"
+  },
+  {
+    "id": "11773-menu2026",
+    "url": "https://zsw.gxzjy.edu.cn/index.php?sys=home&module=school_lnlqcj&act=getdata&subact=getDefLnlqcj",
+    "data": {
+      "select_id": "ND",
+      "ND_value": "2026",
+      "SFMC_value": "",
+      "PCMC_value": "",
+      "KLMC_value": ""
+    }
+  },
+  {
+    "id": "11773-menu2025",
+    "url": "https://zsw.gxzjy.edu.cn/index.php?sys=home&module=school_lnlqcj&act=getdata&subact=getDefLnlqcj",
+    "data": {
+      "select_id": "ND",
+      "ND_value": "2025",
+      "SFMC_value": "",
+      "PCMC_value": "",
+      "KLMC_value": ""
+    }
+  },
+  {
+    "id": "11773-ordinary-menu2025",
+    "url": "https://zsw.gxzjy.edu.cn/index.php?sys=home&module=school_lnlqcj&act=getdata&subact=getDefLnlqcj",
+    "data": {
+      "select_id": "PCMC",
+      "ND_value": "2025",
+      "SFMC_value": "广西壮族自治区",
+      "PCMC_value": "普通批",
+      "KLMC_value": ""
+    }
+  },
+  {
+    "id": "11773-2025-ordinary-物理组",
+    "url": "https://zsw.gxzjy.edu.cn/index.php?sys=home&module=school_lnlqcj&dev=ajax&ND=2025&SFMC=%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA&PCMC=%E6%99%AE%E9%80%9A%E6%89%B9&KLMC=%E7%89%A9%E7%90%86%E7%BB%84&pagelist=500&limit=500&offset=0"
+  },
+  {
+    "id": "11773-2025-ordinary-历史组",
+    "url": "https://zsw.gxzjy.edu.cn/index.php?sys=home&module=school_lnlqcj&dev=ajax&ND=2025&SFMC=%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA&PCMC=%E6%99%AE%E9%80%9A%E6%89%B9&KLMC=%E5%8E%86%E5%8F%B2%E7%BB%84&pagelist=500&limit=500&offset=0"
+  },
+  {
+    "id": "11773-2026-ordinary-物理组",
+    "url": "https://zsw.gxzjy.edu.cn/index.php?sys=home&module=school_lnlqcj&dev=ajax&ND=2026&SFMC=%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA&PCMC=%E6%99%AE%E9%80%9A%E6%89%B9&KLMC=%E7%89%A9%E7%90%86%E7%BB%84&pagelist=500&limit=500&offset=0"
+  },
+  {
+    "id": "11773-2026-ordinary-历史组",
+    "url": "https://zsw.gxzjy.edu.cn/index.php?sys=home&module=school_lnlqcj&dev=ajax&ND=2026&SFMC=%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA&PCMC=%E6%99%AE%E9%80%9A%E6%89%B9&KLMC=%E5%8E%86%E5%8F%B2%E7%BB%84&pagelist=500&limit=500&offset=0"
+  },
+  {
+    "id": "11837-zs",
+    "url": "https://zsbgs.gltu.edu.cn/"
+  },
+  {
+    "id": "16205-zs",
+    "url": "https://www.gxnzd.edu.cn/zs/"
+  },
+  {
+    "id": "16205-scores",
+    "url": "https://www.gxnzd.edu.cn/zs/lnlqfs.htm"
+  },
+  {
+    "id": "10867-zs",
+    "url": "http://zs.gxcme.edu.cn"
+  },
+  {
+    "id": "10867-notice",
+    "url": "http://zs.gxcme.edu.cn/zsgg.htm"
+  },
+  {
+    "id": "11608-zs",
+    "url": "https://www.gxsdxy.cn/zjc/index/zs1/shouy.htm"
+  },
+  {
+    "id": "11608-scores",
+    "url": "https://www.gxsdxy.cn/zjc/lnfs.htm"
+  },
+  {
+    "id": "12356-zs",
+    "url": "https://www.gxjtc.edu.cn/zjc/"
+  },
+  {
+    "id": "12356-scores",
+    "url": "https://www.gxjtc.edu.cn/zjc/zszx/lnfs.htm"
+  },
+  {
+    "id": "12392-zs",
+    "url": "https://zs.ltzy.edu.cn"
+  },
+  {
+    "id": "12392-2025",
+    "url": "https://zs.ltzy.edu.cn/info/1043/1667.htm"
+  },
+  {
+    "id": "12301-zs",
+    "url": "https://www.yongzhouzhiyuan.cn/zsc/"
+  },
+  {
+    "id": "12301-2026",
+    "url": "https://www.yongzhouzhiyuan.cn/zsc/info/1045/2758.htm"
+  },
+  {
+    "id": "12040-zs",
+    "url": "http://www.gcac.edu.cn/zsw"
+  },
+  {
+    "id": "12040-scores",
+    "url": "https://www.gcac.edu.cn/zsw/lnfs.htm"
+  },
+  {
+    "id": "14592-zs",
+    "url": "https://www.gzws.edu.cn/zs"
+  },
+  {
+    "id": "14592-scores",
+    "url": "https://www.gzws.edu.cn/zs/lnjhjfs"
+  },
+  {
+    "id": "14012-home",
+    "url": "https://www.qjmc.edu.cn/"
+  },
+  {
+    "id": "14012-zs",
+    "url": "http://qjyzzs.jysd.com/"
+  },
+  {
+    "id": "14012-scores",
+    "url": "http://qjyzzs.jysd.com/fsx?target=_self"
+  },
+  {
+    "id": "10861-zs",
+    "url": "https://zs.gdcp.edu.cn/"
+  },
+  {
+    "id": "10861-2026",
+    "url": "https://zs.gdcp.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1461&wbnewsid=5601"
+  },
+  {
+    "id": "10861-2026-img",
+    "url": "https://zs.gdcp.edu.cn/__local/D/AB/1D/FAE9EB87569CE7663BA56A5899C_6E0F0974_114DA.png"
+  },
+  {
+    "id": "10870-home",
+    "url": "https://www.cqepc.cn/"
+  },
+  {
+    "id": "10870-zs",
+    "url": "http://zhaosheng.cqepc.cn/"
+  },
+  {
+    "id": "13713-zs",
+    "url": "https://zs.zhcpt.edu.cn/"
+  },
+  {
+    "id": "13713-pg",
+    "url": "https://zs.zhcpt.edu.cn/zsxx/pgzs.htm"
+  },
+  {
+    "id": "13943-zs",
+    "url": "https://www.gtxy.cn/zsxxw"
+  },
+  {
+    "id": "13943-scores",
+    "url": "https://www.gtxy.cn/zsxxw/zsjh/lnlqfsx"
+  },
+  {
+    "id": "12055-zs",
+    "url": "https://zs.cavtc.cn/home.htm"
+  },
+  {
+    "id": "12055-guide",
+    "url": "https://zs.cavtc.cn/info/1013/3200.htm"
+  },
+  {
+    "id": "12942-zs",
+    "url": "https://www.jxyy.edu.cn/zsw/"
+  },
+  {
+    "id": "12942-2026",
+    "url": "https://www.jxyy.edu.cn/zsw/info/1047/4946.htm"
+  },
+  {
+    "id": "13036-zs",
+    "url": "https://csjyc.cszyedu.cn/"
+  },
+  {
+    "id": "13036-scores",
+    "url": "https://csjyc.cszyedu.cn/zsxx/wnfs.htm"
+  },
+  {
+    "id": "12572-zs",
+    "url": "http://www.gdit.edu.cn/zsb/main.htm"
+  },
+  {
+    "id": "12572-score2026",
+    "url": "https://mp.weixin.qq.com/s/zol_AWc86X63WKnWqruokg"
+  },
+  {
+    "id": "12572-scoreold",
+    "url": "https://mp.weixin.qq.com/s/AoJRdMJIzW8ZykQY711GoA"
+  },
+  {
+    "id": "12573-zs",
+    "url": "https://www.gdyzy.edu.cn/web/loadWebPage.do?4401401_440114302_0_4"
+  },
+  {
+    "id": "12573-scores2026",
+    "url": "https://www.gdyzy.edu.cn/web/loadWebPage.do?4401401_600016706_0_4&lmid=60007026"
+  },
+  {
+    "id": "12791-scores",
+    "url": "https://zs.zjitc.edu.cn/lnlq.htm"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p100a-11548-score-list",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/wwwservice/fetchInformationListBy",
+    "purpose": "alternative-official-index",
+    "request": {
+      "typeid": "zsxx0003",
+      "recordnumber": 100,
+      "page": 1,
+      "typeid00": "zsxx",
+      "typeid0": "",
+      "title": "",
+      "bmmc": "",
+      "includeThumbnail": false
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-11548-news-list",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/wwwservice/fetchInformationListBy",
+    "purpose": "alternative-official-index",
+    "request": {
+      "typeid": "zsxx0006",
+      "recordnumber": 100,
+      "page": 1,
+      "typeid00": "zsxx",
+      "typeid0": "",
+      "title": "",
+      "bmmc": "",
+      "includeThumbnail": false
+    },
+    "requestEncoding": "json"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "p100a-11548-history-2026-物理类",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relHistoryData/dataSearch?key=6b8efc49fe05cd3b4bcd9800",
+    "purpose": "missing-year-probe",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "levels": [
+        "本科"
+      ],
+      "show_fields": [
+        "major",
+        "xkyq",
+        "min_score",
+        "lowest_position",
+        "max_score",
+        "highest_position",
+        "average"
+      ]
+    },
+    "requestEncoding": "json",
+    "missingYearProbe": true
+  },
+  {
+    "id": "p100a-11548-history-2026-历史类",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relHistoryData/dataSearch?key=6b8efc49fe05cd3b4bcd9800",
+    "purpose": "missing-year-probe",
+    "request": {
+      "years": [
+        "2026"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "levels": [
+        "本科"
+      ],
+      "show_fields": [
+        "major",
+        "xkyq",
+        "min_score",
+        "lowest_position",
+        "max_score",
+        "highest_position",
+        "average"
+      ]
+    },
+    "requestEncoding": "json",
+    "missingYearProbe": true
+  },
+  {
+    "id": "p100a-11548-history-2025-物理类",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relHistoryData/dataSearch?key=6b8efc49fe05cd3b4bcd9800",
+    "purpose": "positive-control",
+    "request": {
+      "years": [
+        "2025"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "物理类"
+      ],
+      "levels": [
+        "本科"
+      ],
+      "show_fields": [
+        "major",
+        "xkyq",
+        "min_score",
+        "lowest_position",
+        "max_score",
+        "highest_position",
+        "average"
+      ]
+    },
+    "requestEncoding": "json",
+    "missingYearProbe": false
+  },
+  {
+    "id": "p100a-11548-history-2025-历史类",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://zhaolu.zjzw.cn/webapi/rel/dataRelease/relHistoryData/dataSearch?key=6b8efc49fe05cd3b4bcd9800",
+    "purpose": "positive-control",
+    "request": {
+      "years": [
+        "2025"
+      ],
+      "provinces": [
+        "45"
+      ],
+      "subjects": [
+        "历史类"
+      ],
+      "levels": [
+        "本科"
+      ],
+      "show_fields": [
+        "major",
+        "xkyq",
+        "min_score",
+        "lowest_position",
+        "max_score",
+        "highest_position",
+        "average"
+      ]
+    },
+    "requestEncoding": "json",
+    "missingYearProbe": false
+  }
+]

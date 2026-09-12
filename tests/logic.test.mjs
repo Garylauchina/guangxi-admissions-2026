@@ -72,6 +72,20 @@ test('逐校盘点区分组数、计划条数、空投档分、未收录和字�
   assert.equal(row.planGaps.tuition,1);assert.equal(row.planGaps.subjects,1);assert.equal(row.plansWithComparableGroupScore,2);
   assert.equal(row.coverageStatus,'partial');
 });
+test('覆盖台账保留仅征集院校并将可比较分与待核分分开计数',()=>{
+  const base={year:2026,schoolCode:'10001',school:'待核大学',track:'物理',batch:'本科普通批',sourceId:'source'};
+  const rows=buildCoverage({
+    cutoffs:[{...base,schoolCode:'10002',school:'仅征集院校',round:'第一次征集',score:400}],
+    plans:[],
+    majorCutoffs:[{...base,major:'甲',score:500,scoreComparable:false},{...base,schoolCode:'10003',major:'乙',score:600},{...base,schoolCode:'10003',major:'丙',score:550,scoreComparable:false}],
+  });
+  const pending=rows.find(r=>r.schoolCode==='10001');
+  assert.equal(pending.majorCutoffs,1);assert.equal(pending.majorScoresComparable,0);assert.equal(pending.majorScoresPending,1);
+  const supplementary=rows.find(r=>r.schoolCode==='10002');
+  assert.equal(supplementary.firstRoundGroups,0);assert.equal(supplementary.groupsWithoutCollectedPlans,0);
+  const mixed=rows.find(r=>r.schoolCode==='10003');
+  assert.equal(mixed.majorCutoffs,2);assert.equal(mixed.majorScoresComparable,1);assert.equal(mixed.majorScoresPending,1);
+});
 test('导出和来源链接拒绝公式注入及脚本协议', () => {
   assert.equal(csvCell('=1+1'),'"\'=1+1"');
   assert.equal(safeUrl('javascript:alert(1)'),'#');

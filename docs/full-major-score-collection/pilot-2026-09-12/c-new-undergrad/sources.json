@@ -1,0 +1,3386 @@
+[
+  {
+    "id": "major-20260912pilot-c-10022-entry",
+    "title": "北京林业大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zsb.bjfu.edu.cn/",
+    "publisher": "北京林业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.523862+00:00",
+    "sha256": "aa8270c0362f35128d11ab14a524cb1389c7286c2ca953aa197d3175b37257ae",
+    "responseSha256": "aa8270c0362f35128d11ab14a524cb1389c7286c2ca953aa197d3175b37257ae",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10022-entry.html",
+    "notes": [
+      "实际读取北京林业大学官方ajax_lnfs查询表与有效匿名会话菜单，广西最高统计年2025；另以2025物理类普通考生、国家专项作成功结果阳性对照。2026未在该真实菜单内，未将旧年普通、专项、预科或艺术菜单误导入。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10022-lnfs",
+    "title": "北京林业大学：招生官网栏目与公开资料核查（lnfs）",
+    "url": "https://zsb.bjfu.edu.cn/zsw/lnfs.html",
+    "publisher": "北京林业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:23.091038+00:00",
+    "sha256": "041c9c36d599cc4d0c3fc4a5e658fee5263c87a546e93e2878c1541c1b4db8c5",
+    "responseSha256": "041c9c36d599cc4d0c3fc4a5e658fee5263c87a546e93e2878c1541c1b4db8c5",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10022-lnfs.html",
+    "notes": [
+      "实际读取北京林业大学官方ajax_lnfs查询表与有效匿名会话菜单，广西最高统计年2025；另以2025物理类普通考生、国家专项作成功结果阳性对照。2026未在该真实菜单内，未将旧年普通、专项、预科或艺术菜单误导入。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10022-param-session",
+    "title": "北京林业大学：公开分数查询菜单与字段配置（param-session）",
+    "url": "https://zsb.bjfu.edu.cn/f/ajax_lnfs_param",
+    "publisher": "北京林业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:28.531565+00:00",
+    "sha256": "c503f250b6b8124264e184a326fd47105d01941a2274079a9fd0384872c9ede8",
+    "responseSha256": "7d3bbc955673eb583c22556b77acbd78bb19ed00f843136b26f5ccb21bbde1ee",
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10022-param-session.json",
+    "notes": [
+      "实际读取北京林业大学官方ajax_lnfs查询表与有效匿名会话菜单，广西最高统计年2025；另以2025物理类普通考生、国家专项作成功结果阳性对照。2026未在该真实菜单内，未将旧年普通、专项、预科或艺术菜单误导入。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10022-param",
+    "title": "北京林业大学：公开分数查询菜单与字段配置（param）",
+    "url": "https://zsb.bjfu.edu.cn/f/ajax_lnfs_param",
+    "publisher": "北京林业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:06.134889+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 403,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "实际读取北京林业大学官方ajax_lnfs查询表与有效匿名会话菜单，广西最高统计年2025；另以2025物理类普通考生、国家专项作成功结果阳性对照。2026未在该真实菜单内，未将旧年普通、专项、预科或艺术菜单误导入。"
+    ],
+    "accessFailure": "http-error"
+  },
+  {
+    "id": "major-20260912pilot-c-10022-scores-1",
+    "title": "北京林业大学：公开分数查询结果核查（scores-1）",
+    "url": "https://zsb.bjfu.edu.cn/f/ajax_lnfs",
+    "publisher": "北京林业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:23.128877+00:00",
+    "sha256": "3b1eccf4161611b2e126e350384e405da075379aa81d4a00db7abfc0a20b0383",
+    "responseSha256": "017b1cc1d564be9c21156db574e5f5f9bf29377fd73af4d0294ab150bb98a27f",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "普通考生",
+      "sex": "",
+      "campus": ""
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10022-scores-1.json",
+    "notes": [
+      "实际读取北京林业大学官方ajax_lnfs查询表与有效匿名会话菜单，广西最高统计年2025；另以2025物理类普通考生、国家专项作成功结果阳性对照。2026未在该真实菜单内，未将旧年普通、专项、预科或艺术菜单误导入。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10022-scores-2",
+    "title": "北京林业大学：公开分数查询结果核查（scores-2）",
+    "url": "https://zsb.bjfu.edu.cn/f/ajax_lnfs",
+    "publisher": "北京林业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:23.356549+00:00",
+    "sha256": "569ada4d4583fb8c6a80357de6104f5b9c968f9cd113b38cc84bd71a4a03c93e",
+    "responseSha256": "a759a4c134b1737c8116483163054c0e7b6ec3d14b40c6c075241196165f6da6",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "国家专项",
+      "sex": "",
+      "campus": ""
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10022-scores-2.json",
+    "notes": [
+      "实际读取北京林业大学官方ajax_lnfs查询表与有效匿名会话菜单，广西最高统计年2025；另以2025物理类普通考生、国家专项作成功结果阳性对照。2026未在该真实菜单内，未将旧年普通、专项、预科或艺术菜单误导入。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10030-browser-observation-6",
+    "title": "北京外国语大学：公开页面浏览器核查记录（browser-observation-6）",
+    "url": "https://joinus.bfsu.edu.cn/",
+    "publisher": "北京外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12",
+    "sha256": "931a4bd530e6a17703b6ea39903a32dc3ce331d4f801068e94102d72643f8d42",
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "browser-dom-observation",
+    "archiveFile": "10030-browser-observation-6.json",
+    "notes": [
+      "正常浏览器恢复招生首页，历年分数链接指向https://zhaosheng.bfsu.edu.cn/static/front/bfsu/basic/html_web/lnfs.html?20220331。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10030-entry",
+    "title": "北京外国语大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://joinus.bfsu.edu.cn/",
+    "publisher": "北京外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.581101+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "命令行joinus入口响应中断后，通过正常浏览器恢复北外招生首页，跟随历年分数转至zhaosheng.bfsu.edu.cn并取得有效匿名ajax_lnfs_param菜单。广西最高2025，含物理/历史统招一批、综合评价、国家专项，未列2026；入口传输失败已由另一正常公开入口恢复，最终不记不可访问。"
+    ],
+    "accessFailure": "incomplete-response"
+  },
+  {
+    "id": "major-20260912pilot-c-10030-http",
+    "title": "北京外国语大学：招生官网栏目与公开资料核查（http）",
+    "url": "http://joinus.bfsu.edu.cn/",
+    "publisher": "北京外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:57:21.659311+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "命令行joinus入口响应中断后，通过正常浏览器恢复北外招生首页，跟随历年分数转至zhaosheng.bfsu.edu.cn并取得有效匿名ajax_lnfs_param菜单。广西最高2025，含物理/历史统招一批、综合评价、国家专项，未列2026；入口传输失败已由另一正常公开入口恢复，最终不记不可访问。"
+    ],
+    "accessFailure": "incomplete-response"
+  },
+  {
+    "id": "major-20260912pilot-c-10030-officialhome",
+    "title": "北京外国语大学：招生官网栏目与公开资料核查（officialhome）",
+    "url": "https://www.bfsu.edu.cn/",
+    "publisher": "北京外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:05:43.823776+00:00",
+    "sha256": "7aa82ee1732ef885310b7b716efd191ef899acfcaaac2e74bc5d645442bac96f",
+    "responseSha256": "7aa82ee1732ef885310b7b716efd191ef899acfcaaac2e74bc5d645442bac96f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10030-officialhome.html",
+    "notes": [
+      "命令行joinus入口响应中断后，通过正常浏览器恢复北外招生首页，跟随历年分数转至zhaosheng.bfsu.edu.cn并取得有效匿名ajax_lnfs_param菜单。广西最高2025，含物理/历史统招一批、综合评价、国家专项，未列2026；入口传输失败已由另一正常公开入口恢复，最终不记不可访问。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10030-param-session",
+    "title": "北京外国语大学：公开分数查询菜单与字段配置（param-session）",
+    "url": "https://zhaosheng.bfsu.edu.cn/f/ajax_lnfs_param",
+    "publisher": "北京外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:08:21.642124+00:00",
+    "sha256": "9a5e13a188f49d8146faa78b57129286b3aa77a94f981730573fa0fdf96c57ff",
+    "responseSha256": "7ca1db719f28b555270d201c691f2bd69b7ffb4444cdbc032fbdd5d7cfef81ae",
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10030-param-session.json",
+    "notes": [
+      "命令行joinus入口响应中断后，通过正常浏览器恢复北外招生首页，跟随历年分数转至zhaosheng.bfsu.edu.cn并取得有效匿名ajax_lnfs_param菜单。广西最高2025，含物理/历史统招一批、综合评价、国家专项，未列2026；入口传输失败已由另一正常公开入口恢复，最终不记不可访问。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10030-query",
+    "title": "北京外国语大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://zhaosheng.bfsu.edu.cn/static/front/bfsu/basic/html_web/lnfs.html?20220331=",
+    "publisher": "北京外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:06:52.250843+00:00",
+    "sha256": "02917f842eef465c1845563ce3d573325373fa0a16153640d79d342dfdc82931",
+    "responseSha256": "02917f842eef465c1845563ce3d573325373fa0a16153640d79d342dfdc82931",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10030-query.html",
+    "notes": [
+      "命令行joinus入口响应中断后，通过正常浏览器恢复北外招生首页，跟随历年分数转至zhaosheng.bfsu.edu.cn并取得有效匿名ajax_lnfs_param菜单。广西最高2025，含物理/历史统招一批、综合评价、国家专项，未列2026；入口传输失败已由另一正常公开入口恢复，最终不记不可访问。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10030-retry",
+    "title": "北京外国语大学：招生官网栏目与公开资料核查（retry）",
+    "url": "https://joinus.bfsu.edu.cn/index.htm",
+    "publisher": "北京外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:23.091170+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "命令行joinus入口响应中断后，通过正常浏览器恢复北外招生首页，跟随历年分数转至zhaosheng.bfsu.edu.cn并取得有效匿名ajax_lnfs_param菜单。广西最高2025，含物理/历史统招一批、综合评价、国家专项，未列2026；入口传输失败已由另一正常公开入口恢复，最终不记不可访问。"
+    ],
+    "accessFailure": "incomplete-response"
+  },
+  {
+    "id": "major-20260912pilot-c-10080-entry",
+    "title": "河北工业大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zs.hebut.edu.cn/",
+    "publisher": "河北工业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.021455+00:00",
+    "sha256": "5441495f5af5fdfc69ce57024c33f181e93ce3043467402d7dd0612096d056ed",
+    "responseSha256": "5441495f5af5fdfc69ce57024c33f181e93ce3043467402d7dd0612096d056ed",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10080-entry.html",
+    "notes": [
+      "实际读取河北工业大学官网分数查询表，年份仅2015至2025，且表单带验证码；未尝试解码或绕过验证。另读2026录取公告公开入口，未获得具体广西专业最低分表。当前年数据缺口与验证码限制分开记录。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10080-notice",
+    "title": "河北工业大学：招生官网栏目与公开资料核查（notice）",
+    "url": "https://zs.hebut.edu.cn/2026-07-12/229.html",
+    "publisher": "河北工业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:26.470827+00:00",
+    "sha256": "e17bc45293ee1bda9d7b9b4f7f8e6a3240fa8490c0743a31b5a9f34b5537eb82",
+    "responseSha256": "e17bc45293ee1bda9d7b9b4f7f8e6a3240fa8490c0743a31b5a9f34b5537eb82",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10080-notice.html",
+    "notes": [
+      "实际读取河北工业大学官网分数查询表，年份仅2015至2025，且表单带验证码；未尝试解码或绕过验证。另读2026录取公告公开入口，未获得具体广西专业最低分表。当前年数据缺口与验证码限制分开记录。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10080-query",
+    "title": "河北工业大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://zs.hebut.edu.cn/baokao/fenshu.html",
+    "publisher": "河北工业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.636362+00:00",
+    "sha256": "f0481b1fce5f06e5d4caa1fb15a45512dee260b7aca2cfc8c81f127fc526059b",
+    "responseSha256": "f0481b1fce5f06e5d4caa1fb15a45512dee260b7aca2cfc8c81f127fc526059b",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10080-query.html",
+    "notes": [
+      "实际读取河北工业大学官网分数查询表，年份仅2015至2025，且表单带验证码；未尝试解码或绕过验证。另读2026录取公告公开入口，未获得具体广西专业最低分表。当前年数据缺口与验证码限制分开记录。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10112-browser-observation-2",
+    "title": "太原理工大学：公开页面浏览器核查记录（browser-observation-2）",
+    "url": "https://zhaolu.zjzw.cn/release-page/overyears?key=23a0a115af2262c7b0398b88",
+    "publisher": "太原理工大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12",
+    "sha256": "fe85d1a53b45d6468f69f711bb397e106dd34bee116f5031fcaa160c9ca66c50",
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "browser-dom-observation",
+    "archiveFile": "10112-browser-observation-2.json",
+    "notes": [
+      "浏览器选择2025广西物理类本科批；年份菜单2025/2024/2023，具体专业结果43条。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10112-entry",
+    "title": "太原理工大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zslq.tyut.edu.cn/Pages/Zs/LnSearch.aspx",
+    "publisher": "太原理工大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:02.615128+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "旧zslq入口发生传输失败后，沿当前招生首页转入zhaolu.zjzw.cn公开历年数据。浏览器真实菜单仅2025、2024、2023；选取2025广西物理类本科批，实际呈现43条分专业结果。当前入口未提供2026选项，旧年分数不入2026库。"
+    ],
+    "accessFailure": "transport-error"
+  },
+  {
+    "id": "major-20260912pilot-c-10112-home",
+    "title": "太原理工大学：招生官网栏目与公开资料核查（home）",
+    "url": "http://zs.tyut.edu.cn/",
+    "publisher": "太原理工大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.348524+00:00",
+    "sha256": "a02deead0aa67cb36b172e0b8e291c1b52f52bcfab16806944431def03c03bac",
+    "responseSha256": "a02deead0aa67cb36b172e0b8e291c1b52f52bcfab16806944431def03c03bac",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10112-home.html",
+    "notes": [
+      "旧zslq入口发生传输失败后，沿当前招生首页转入zhaolu.zjzw.cn公开历年数据。浏览器真实菜单仅2025、2024、2023；选取2025广西物理类本科批，实际呈现43条分专业结果。当前入口未提供2026选项，旧年分数不入2026库。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10112-query-http",
+    "title": "太原理工大学：招生官网栏目与公开资料核查（query-http）",
+    "url": "http://zslq.tyut.edu.cn/Pages/Zs/LnSearch.aspx",
+    "publisher": "太原理工大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.348649+00:00",
+    "sha256": "fedb9eb8aa48eee417c08067450512d13701b2c9120d52f8281efa48cc707bce",
+    "responseSha256": "c1b93131356611da3140ee9e4ee736ef3542fbffc986c6052d5e46fc4b96487f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10112-query-http.html",
+    "notes": [
+      "旧zslq入口发生传输失败后，沿当前招生首页转入zhaolu.zjzw.cn公开历年数据。浏览器真实菜单仅2025、2024、2023；选取2025广西物理类本科批，实际呈现43条分专业结果。当前入口未提供2026选项，旧年分数不入2026库。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10112-release",
+    "title": "太原理工大学：招生官网栏目与公开资料核查（release）",
+    "url": "https://zhaolu.zjzw.cn/release-page/overyears?key=23a0a115af2262c7b0398b88",
+    "publisher": "太原理工大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:05.242665+00:00",
+    "sha256": "e8cde1f4341ca6a4a4180ad85b22cd516d096fc763e3203fca35e9a1c03a412f",
+    "responseSha256": "e8cde1f4341ca6a4a4180ad85b22cd516d096fc763e3203fca35e9a1c03a412f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10112-release.html",
+    "notes": [
+      "旧zslq入口发生传输失败后，沿当前招生首页转入zhaolu.zjzw.cn公开历年数据。浏览器真实菜单仅2025、2024、2023；选取2025广西物理类本科批，实际呈现43条分专业结果。当前入口未提供2026选项，旧年分数不入2026库。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10159-2025",
+    "title": "中国医科大学：招生官网栏目与公开资料核查（2025）",
+    "url": "https://www.cmu.edu.cn/bkzs/info/4621/1855.htm",
+    "publisher": "中国医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:26.464366+00:00",
+    "sha256": "b67ff31f2da68170a2b8e233ab942948c28b3138680d86015d7001e4391efeec",
+    "responseSha256": "b67ff31f2da68170a2b8e233ab942948c28b3138680d86015d7001e4391efeec",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10159-2025.html",
+    "notes": [
+      "初始bkzs域名失败后，沿学校主页进入www.cmu.edu.cn/bkzs正确招生入口，读取查询下载栏目及2025分省分专业录取信息页。该资料发布于2026年4月，但标题明确统计年2025；不改写为2026，也不沿用旧域名失败判断当前官网不可用。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10159-admissions",
+    "title": "中国医科大学：招生官网栏目与公开资料核查（admissions）",
+    "url": "https://www.cmu.edu.cn/bkzs/",
+    "publisher": "中国医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:05.490219+00:00",
+    "sha256": "a168aece98ac9f10a1dada6ce881f8c49d0cbd07af1bc5bed2ef9da1b44acc8a",
+    "responseSha256": "a168aece98ac9f10a1dada6ce881f8c49d0cbd07af1bc5bed2ef9da1b44acc8a",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10159-admissions.html",
+    "notes": [
+      "初始bkzs域名失败后，沿学校主页进入www.cmu.edu.cn/bkzs正确招生入口，读取查询下载栏目及2025分省分专业录取信息页。该资料发布于2026年4月，但标题明确统计年2025；不改写为2026，也不沿用旧域名失败判断当前官网不可用。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10159-downloads",
+    "title": "中国医科大学：招生官网栏目与公开资料核查（downloads）",
+    "url": "https://www.cmu.edu.cn/bkzs/cxxz.htm",
+    "publisher": "中国医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:26.428185+00:00",
+    "sha256": "c912d0a41bebd813311ff20039e2729ddce808abfc44c3adc56c3fa399c96e1a",
+    "responseSha256": "c912d0a41bebd813311ff20039e2729ddce808abfc44c3adc56c3fa399c96e1a",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10159-downloads.html",
+    "notes": [
+      "初始bkzs域名失败后，沿学校主页进入www.cmu.edu.cn/bkzs正确招生入口，读取查询下载栏目及2025分省分专业录取信息页。该资料发布于2026年4月，但标题明确统计年2025；不改写为2026，也不沿用旧域名失败判断当前官网不可用。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10159-entry",
+    "title": "中国医科大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://bkzs.cmu.edu.cn/",
+    "publisher": "中国医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.021628+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "初始bkzs域名失败后，沿学校主页进入www.cmu.edu.cn/bkzs正确招生入口，读取查询下载栏目及2025分省分专业录取信息页。该资料发布于2026年4月，但标题明确统计年2025；不改写为2026，也不沿用旧域名失败判断当前官网不可用。"
+    ],
+    "accessFailure": "transport-error"
+  },
+  {
+    "id": "major-20260912pilot-c-10159-home",
+    "title": "中国医科大学：招生官网栏目与公开资料核查（home）",
+    "url": "https://www.cmu.edu.cn/",
+    "publisher": "中国医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.670652+00:00",
+    "sha256": "3384580fc9e477beca75dc936c6f5271c674e705e5f2b4d51aef914f5a61475f",
+    "responseSha256": "3384580fc9e477beca75dc936c6f5271c674e705e5f2b4d51aef914f5a61475f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10159-home.html",
+    "notes": [
+      "初始bkzs域名失败后，沿学校主页进入www.cmu.edu.cn/bkzs正确招生入口，读取查询下载栏目及2025分省分专业录取信息页。该资料发布于2026年4月，但标题明确统计年2025；不改写为2026，也不沿用旧域名失败判断当前官网不可用。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10188-entry",
+    "title": "东北电力大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zs.neepu.edu.cn/lnfs.htm",
+    "publisher": "东北电力大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.137311+00:00",
+    "sha256": "7a4ab654cf0375c697eaa96e4144ae68977e62ddba43cc80ab7705e37e6b1be6",
+    "responseSha256": "7a4ab654cf0375c697eaa96e4144ae68977e62ddba43cc80ab7705e37e6b1be6",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10188-entry.html",
+    "notes": [
+      "实际读取东北电力大学lnfs查询界面及内联菜单，年份按钮仅2025、2024、2023、2022、2021；页面其他2026字样不是分数年份选项。当前表单没有2026，未虚构当前年参数结果。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10200-app",
+    "title": "东北师范大学：公开查询前端字段（app）",
+    "url": "https://gkcx.nenu.edu.cn/static/js/main.0a214d0e.js",
+    "publisher": "东北师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:04.926205+00:00",
+    "sha256": "7bfdc4a4497dc340b362eefe35a21bfdc252d9adb8dd527420f9fd1c4cc37445",
+    "responseSha256": "7bfdc4a4497dc340b362eefe35a21bfdc252d9adb8dd527420f9fd1c4cc37445",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10200-app.js",
+    "notes": [
+      "沿东北师范大学官网进入gkcx.nenu.edu.cn/history_score，读取实际前端、scoreConfig及user/param菜单。广西参数明列2023、2024、2025各科类及普通/专项等组合，即使查询参数year=2026也未返回2026菜单。当前端年份范围没有2026，不把旧年结果或学校汇总填成专业当前年分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10200-chunk178",
+    "title": "东北师范大学：公开查询前端字段（chunk178）",
+    "url": "https://gkcx.nenu.edu.cn/static/js/178.da286612.chunk.js",
+    "publisher": "东北师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:58:21.180933+00:00",
+    "sha256": "5f68af2adf9781ca0b7e312ba25cc67bb34978cb53abaed5f6b006762e9f304c",
+    "responseSha256": "5f68af2adf9781ca0b7e312ba25cc67bb34978cb53abaed5f6b006762e9f304c",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10200-chunk178.js",
+    "notes": [
+      "沿东北师范大学官网进入gkcx.nenu.edu.cn/history_score，读取实际前端、scoreConfig及user/param菜单。广西参数明列2023、2024、2025各科类及普通/专项等组合，即使查询参数year=2026也未返回2026菜单。当前端年份范围没有2026，不把旧年结果或学校汇总填成专业当前年分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10200-chunk47",
+    "title": "东北师范大学：公开查询前端字段（chunk47）",
+    "url": "https://gkcx.nenu.edu.cn/static/js/47.df08f155.chunk.js",
+    "publisher": "东北师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:58:21.181204+00:00",
+    "sha256": "b226ed8a282d2c45b473db6c2a9ec089130acb737bd26f529c269a0e24b733e4",
+    "responseSha256": "b226ed8a282d2c45b473db6c2a9ec089130acb737bd26f529c269a0e24b733e4",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10200-chunk47.js",
+    "notes": [
+      "沿东北师范大学官网进入gkcx.nenu.edu.cn/history_score，读取实际前端、scoreConfig及user/param菜单。广西参数明列2023、2024、2025各科类及普通/专项等组合，即使查询参数year=2026也未返回2026菜单。当前端年份范围没有2026，不把旧年结果或学校汇总填成专业当前年分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10200-chunk969",
+    "title": "东北师范大学：公开查询前端字段（chunk969）",
+    "url": "https://gkcx.nenu.edu.cn/static/js/969.309b6f68.chunk.js",
+    "publisher": "东北师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:58:21.181313+00:00",
+    "sha256": "7f2b98e0e146d13f24062045f3749b8b4d7b24c4167a4f2e9970489e2ce458aa",
+    "responseSha256": "7f2b98e0e146d13f24062045f3749b8b4d7b24c4167a4f2e9970489e2ce458aa",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10200-chunk969.js",
+    "notes": [
+      "沿东北师范大学官网进入gkcx.nenu.edu.cn/history_score，读取实际前端、scoreConfig及user/param菜单。广西参数明列2023、2024、2025各科类及普通/专项等组合，即使查询参数year=2026也未返回2026菜单。当前端年份范围没有2026，不把旧年结果或学校汇总填成专业当前年分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10200-entry",
+    "title": "东北师范大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zsb.nenu.edu.cn/",
+    "publisher": "东北师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.814381+00:00",
+    "sha256": "ee4e8908192330b66b4b4965fc7e3f808b263531f601b2dfd6ccd5a0684a1783",
+    "responseSha256": "ee4e8908192330b66b4b4965fc7e3f808b263531f601b2dfd6ccd5a0684a1783",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10200-entry.html",
+    "notes": [
+      "沿东北师范大学官网进入gkcx.nenu.edu.cn/history_score，读取实际前端、scoreConfig及user/param菜单。广西参数明列2023、2024、2025各科类及普通/专项等组合，即使查询参数year=2026也未返回2026菜单。当前端年份范围没有2026，不把旧年结果或学校汇总填成专业当前年分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10200-param2026",
+    "title": "东北师范大学：公开分数查询菜单与字段配置（param2026）",
+    "url": "https://gkcx.nenu.edu.cn/api/user/param?which=score&year=2026",
+    "publisher": "东北师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:59:35.134344+00:00",
+    "sha256": "1ca7c249ab5d66c32a011bab7d3a6222a5a93c6b44786f5c97b75da1a677d8a7",
+    "responseSha256": "09461d08b3ed8700e736b07a965590f8db96536c0f28318046712af86a9e615b",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10200-param2026.json",
+    "notes": [
+      "沿东北师范大学官网进入gkcx.nenu.edu.cn/history_score，读取实际前端、scoreConfig及user/param菜单。广西参数明列2023、2024、2025各科类及普通/专项等组合，即使查询参数year=2026也未返回2026菜单。当前端年份范围没有2026，不把旧年结果或学校汇总填成专业当前年分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10200-query",
+    "title": "东北师范大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://gkcx.nenu.edu.cn/history_score",
+    "publisher": "东北师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:23.115432+00:00",
+    "sha256": "b9300dbd7e3b6aac780418421fae41b29c000b784ec50d8d72d0617012d5b939",
+    "responseSha256": "b9300dbd7e3b6aac780418421fae41b29c000b784ec50d8d72d0617012d5b939",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10200-query.html",
+    "notes": [
+      "沿东北师范大学官网进入gkcx.nenu.edu.cn/history_score，读取实际前端、scoreConfig及user/param菜单。广西参数明列2023、2024、2025各科类及普通/专项等组合，即使查询参数year=2026也未返回2026菜单。当前端年份范围没有2026，不把旧年结果或学校汇总填成专业当前年分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10200-scorechunk",
+    "title": "东北师范大学：公开分数查询结果核查（scorechunk）",
+    "url": "https://gkcx.nenu.edu.cn/static/js/669.36f41bf6.chunk.js",
+    "publisher": "东北师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:57:01.579484+00:00",
+    "sha256": "031f327e58cea98cb272702f16d05fc2d6041d04e03cde4411558d851147ca73",
+    "responseSha256": "031f327e58cea98cb272702f16d05fc2d6041d04e03cde4411558d851147ca73",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10200-scorechunk.js",
+    "notes": [
+      "沿东北师范大学官网进入gkcx.nenu.edu.cn/history_score，读取实际前端、scoreConfig及user/param菜单。广西参数明列2023、2024、2025各科类及普通/专项等组合，即使查询参数year=2026也未返回2026菜单。当前端年份范围没有2026，不把旧年结果或学校汇总填成专业当前年分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10200-scoreconfig",
+    "title": "东北师范大学：公开分数查询结果核查（scoreconfig）",
+    "url": "https://gkcx.nenu.edu.cn/api/common/scoreConfig",
+    "publisher": "东北师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:59:36.094026+00:00",
+    "sha256": "a09abea3bec607380d251e146479654d0cafec2a2084fbb0eddf34a26c540e7b",
+    "responseSha256": "ca61d8620fb1ec9f59b827815b5f3a52d316780df3333e9904f23a8c17ed7eb2",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10200-scoreconfig.json",
+    "notes": [
+      "沿东北师范大学官网进入gkcx.nenu.edu.cn/history_score，读取实际前端、scoreConfig及user/param菜单。广西参数明列2023、2024、2025各科类及普通/专项等组合，即使查询参数year=2026也未返回2026菜单。当前端年份范围没有2026，不把旧年结果或学校汇总填成专业当前年分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10276-entry",
+    "title": "华东政法大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zsb.ecupl.edu.cn/",
+    "publisher": "华东政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:04.182051+00:00",
+    "sha256": "3adc3392f561edf0f8382bf12b19852a4ceead009bfdf30b42413755db93f065",
+    "responseSha256": "3adc3392f561edf0f8382bf12b19852a4ceead009bfdf30b42413755db93f065",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10276-entry.html",
+    "notes": [
+      "实际读取华东政法大学公开分省分专业查询，年份菜单含2026；按真实POST字段提交2026广西，返回有2026广西标题及表头的有效空表；2025同字段阳性对照实际14条专业分。当前年该组合为空，不能推出学校未招生或其他渠道未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10276-gx2025",
+    "title": "华东政法大学：公开分数查询结果核查（gx2025）",
+    "url": "https://interface.ecupl.edu.cn/lq/ssfssearch/index.do",
+    "publisher": "华东政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:06.348113+00:00",
+    "sha256": "29e3496ee8a1f0e114511299d890b8297149861e51209cca560801e3d058681c",
+    "responseSha256": "29e3496ee8a1f0e114511299d890b8297149861e51209cca560801e3d058681c",
+    "requestMethod": "POST",
+    "requestData": {
+      "year": "2025",
+      "ss": "广西",
+      "Button1": "查  询"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10276-gx2025.html",
+    "notes": [
+      "实际读取华东政法大学公开分省分专业查询，年份菜单含2026；按真实POST字段提交2026广西，返回有2026广西标题及表头的有效空表；2025同字段阳性对照实际14条专业分。当前年该组合为空，不能推出学校未招生或其他渠道未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10276-gx2026",
+    "title": "华东政法大学：公开分数查询结果核查（gx2026）",
+    "url": "https://interface.ecupl.edu.cn/lq/ssfssearch/index.do",
+    "publisher": "华东政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:06.338489+00:00",
+    "sha256": "c8ee9ec90f5672ae017a10ccc5b257a96ff8ccf754e58b7b22bbab7346b96e8e",
+    "responseSha256": "c8ee9ec90f5672ae017a10ccc5b257a96ff8ccf754e58b7b22bbab7346b96e8e",
+    "requestMethod": "POST",
+    "requestData": {
+      "year": "2026",
+      "ss": "广西",
+      "Button1": "查  询"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10276-gx2026.html",
+    "notes": [
+      "实际读取华东政法大学公开分省分专业查询，年份菜单含2026；按真实POST字段提交2026广西，返回有2026广西标题及表头的有效空表；2025同字段阳性对照实际14条专业分。当前年该组合为空，不能推出学校未招生或其他渠道未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10276-query",
+    "title": "华东政法大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://interface.ecupl.edu.cn/lq/ssfssearch/index.do",
+    "publisher": "华东政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:23.308289+00:00",
+    "sha256": "9ddd5d234b4aa4c2c09cda61af533fb471873284b1e74ddd6ba1ef5d657b2a1f",
+    "responseSha256": "9ddd5d234b4aa4c2c09cda61af533fb471873284b1e74ddd6ba1ef5d657b2a1f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10276-query.html",
+    "notes": [
+      "实际读取华东政法大学公开分省分专业查询，年份菜单含2026；按真实POST字段提交2026广西，返回有2026广西标题及表头的有效空表；2025同字段阳性对照实际14条专业分。当前年该组合为空，不能推出学校未招生或其他渠道未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10290-entry",
+    "title": "中国矿业大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zs.cumt.edu.cn/",
+    "publisher": "中国矿业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.387642+00:00",
+    "sha256": "3ecaf0c58d058dc47e2654d5409e581ba2d997615be2de5c30639e5caf514a05",
+    "responseSha256": "3ecaf0c58d058dc47e2654d5409e581ba2d997615be2de5c30639e5caf514a05",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10290-entry.html",
+    "notes": [
+      "实际读取中国矿业大学官方ajax_lnfs查询菜单，广西最高统计年2025；普通类、国家专项、高校专项2025物理类查询均用于阳性对照。菜单未提供2026，不用该旧年数据填补当前年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10290-lnfs",
+    "title": "中国矿业大学：招生官网栏目与公开资料核查（lnfs）",
+    "url": "https://zs.cumt.edu.cn/zsw/lnfs.html",
+    "publisher": "中国矿业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.940094+00:00",
+    "sha256": "f6ef5b1929fedd88187af877cf4c9c981a0661d5fce5ee894853042d3b80b18f",
+    "responseSha256": "f6ef5b1929fedd88187af877cf4c9c981a0661d5fce5ee894853042d3b80b18f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10290-lnfs.html",
+    "notes": [
+      "实际读取中国矿业大学官方ajax_lnfs查询菜单，广西最高统计年2025；普通类、国家专项、高校专项2025物理类查询均用于阳性对照。菜单未提供2026，不用该旧年数据填补当前年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10290-param-session",
+    "title": "中国矿业大学：公开分数查询菜单与字段配置（param-session）",
+    "url": "https://zs.cumt.edu.cn/f/ajax_lnfs_param",
+    "publisher": "中国矿业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:29.382927+00:00",
+    "sha256": "3408cbcf21dba34b2be54c734cf77afc44d7acfdabb7b81344b7135741693ccd",
+    "responseSha256": "f5f809469d2f98b2bff6fcb135a713226873a55c4b06e3cb8315590dbd13b8ed",
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10290-param-session.json",
+    "notes": [
+      "实际读取中国矿业大学官方ajax_lnfs查询菜单，广西最高统计年2025；普通类、国家专项、高校专项2025物理类查询均用于阳性对照。菜单未提供2026，不用该旧年数据填补当前年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10290-param",
+    "title": "中国矿业大学：公开分数查询菜单与字段配置（param）",
+    "url": "https://zs.cumt.edu.cn/f/ajax_lnfs_param",
+    "publisher": "中国矿业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:06.140769+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 403,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "实际读取中国矿业大学官方ajax_lnfs查询菜单，广西最高统计年2025；普通类、国家专项、高校专项2025物理类查询均用于阳性对照。菜单未提供2026，不用该旧年数据填补当前年。"
+    ],
+    "accessFailure": "http-error"
+  },
+  {
+    "id": "major-20260912pilot-c-10290-scores-1",
+    "title": "中国矿业大学：公开分数查询结果核查（scores-1）",
+    "url": "https://zs.cumt.edu.cn/f/ajax_lnfs",
+    "publisher": "中国矿业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:24.419370+00:00",
+    "sha256": "c730d37531f11e85f8c8f04c846304436659a8dd00f1d8e10a8bf897430f0241",
+    "responseSha256": "32015379aa1ba4f524f3ababf806e2725842b25aea44d593f21d705165ef8546",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "普通类",
+      "sex": "",
+      "campus": ""
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10290-scores-1.json",
+    "notes": [
+      "实际读取中国矿业大学官方ajax_lnfs查询菜单，广西最高统计年2025；普通类、国家专项、高校专项2025物理类查询均用于阳性对照。菜单未提供2026，不用该旧年数据填补当前年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10290-scores-2",
+    "title": "中国矿业大学：公开分数查询结果核查（scores-2）",
+    "url": "https://zs.cumt.edu.cn/f/ajax_lnfs",
+    "publisher": "中国矿业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:24.711620+00:00",
+    "sha256": "77cbb5a8e7d2aa0707727f601fb0b8d9d9e8282d22842c566515f3811ca14be8",
+    "responseSha256": "ee5637a8ad734b8086c11903527e19d4d737cc396d5695f4b2d0cc6ba3df3630",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "国家专项",
+      "sex": "",
+      "campus": ""
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10290-scores-2.json",
+    "notes": [
+      "实际读取中国矿业大学官方ajax_lnfs查询菜单，广西最高统计年2025；普通类、国家专项、高校专项2025物理类查询均用于阳性对照。菜单未提供2026，不用该旧年数据填补当前年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10290-scores-3",
+    "title": "中国矿业大学：公开分数查询结果核查（scores-3）",
+    "url": "https://zs.cumt.edu.cn/f/ajax_lnfs",
+    "publisher": "中国矿业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:24.995599+00:00",
+    "sha256": "db17697962faa98132df9d5b13b0563e37ac268dd381b3477eab7a2d68e26ca4",
+    "responseSha256": "4e8275473bf3ce191ce7ef7c3542cc5a8e93ce5d26dbf0467b5e139bf95be376",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "高校专项",
+      "sex": "",
+      "campus": ""
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10290-scores-3.json",
+    "notes": [
+      "实际读取中国矿业大学官方ajax_lnfs查询菜单，广西最高统计年2025；普通类、国家专项、高校专项2025物理类查询均用于阳性对照。菜单未提供2026，不用该旧年数据填补当前年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10294-entry",
+    "title": "河海大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zsw.hhu.edu.cn/lishifenshu.html",
+    "publisher": "河海大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:02.615472+00:00",
+    "sha256": "b29b6684f8deb0478866fee5ba1edd34ccb1e6413f844224b277a813f637c244",
+    "responseSha256": "b29b6684f8deb0478866fee5ba1edd34ccb1e6413f844224b277a813f637c244",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10294-entry.html",
+    "notes": [
+      "实际读取河海大学公开分数查询及年份、类型菜单，年份最高2025；按页面真实fsList字段提交广西2026，业务返回成功且data为空，同字段广西2025返回实际专业记录作阳性对照。本轮结论限该公开接口组合，不把空表解释为未招生。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10294-gx2025",
+    "title": "河海大学：公开分数查询结果核查（gx2025）",
+    "url": "https://zsw.hhu.edu.cn/api/lsfs/fsList",
+    "publisher": "河海大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:18.710136+00:00",
+    "sha256": "b4fd94e53f52166f3843227ed3bf3fe7c1ae2fc47af431674474bb28f81d438b",
+    "responseSha256": "7c6cad879ba68e98ad255ba6770869e1d493427a36e0749e8492834b7989e313",
+    "requestMethod": "POST",
+    "requestData": {
+      "province": "广西",
+      "year": "2025"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10294-gx2025.json",
+    "notes": [
+      "实际读取河海大学公开分数查询及年份、类型菜单，年份最高2025；按页面真实fsList字段提交广西2026，业务返回成功且data为空，同字段广西2025返回实际专业记录作阳性对照。本轮结论限该公开接口组合，不把空表解释为未招生。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10294-gx2026",
+    "title": "河海大学：公开分数查询结果核查（gx2026）",
+    "url": "https://zsw.hhu.edu.cn/api/lsfs/fsList",
+    "publisher": "河海大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:18.710007+00:00",
+    "sha256": "6df9eec43946bdde7fd43b58b6ccd0c48cd22f7b1427df2f1ea03a0643d15a20",
+    "responseSha256": "bfcb16538d7f94c5910d3034fc76f606ce972f3e598a1263cce9747c05b13d66",
+    "requestMethod": "POST",
+    "requestData": {
+      "province": "广西",
+      "year": "2026"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10294-gx2026.json",
+    "notes": [
+      "实际读取河海大学公开分数查询及年份、类型菜单，年份最高2025；按页面真实fsList字段提交广西2026，业务返回成功且data为空，同字段广西2025返回实际专业记录作阳性对照。本轮结论限该公开接口组合，不把空表解释为未招生。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10294-type",
+    "title": "河海大学：公开分数查询菜单与字段配置（type）",
+    "url": "https://zsw.hhu.edu.cn/api/lsfs/typeList",
+    "publisher": "河海大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:26.015453+00:00",
+    "sha256": "c3c381c5bb71d0e04bbfb4fecbbb040cd07a8ed6283276cbf97c117740c1beb4",
+    "responseSha256": "638d2027cb7f598ddbc4c474b4ac5a88e43aa8e38cbdf05b9808cd9008a7c2fa",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10294-type.json",
+    "notes": [
+      "实际读取河海大学公开分数查询及年份、类型菜单，年份最高2025；按页面真实fsList字段提交广西2026，业务返回成功且data为空，同字段广西2025返回实际专业记录作阳性对照。本轮结论限该公开接口组合，不把空表解释为未招生。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10294-year",
+    "title": "河海大学：公开分数查询菜单与字段配置（year）",
+    "url": "https://zsw.hhu.edu.cn/api/lsfs/yearList",
+    "publisher": "河海大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:26.014548+00:00",
+    "sha256": "a26ccd4b86db04129123eb80e03f5914dc7af8195431163bb2c02d8daba094d6",
+    "responseSha256": "85226b2b68437098b91f610715410789e50ab973f144fe4c8e52a9f13d06f939",
+    "requestMethod": "POST",
+    "requestData": {
+      "province": "广西"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10294-year.json",
+    "notes": [
+      "实际读取河海大学公开分数查询及年份、类型菜单，年份最高2025；按页面真实fsList字段提交广西2026，业务返回成功且data为空，同字段广西2025返回实际专业记录作阳性对照。本轮结论限该公开接口组合，不把空表解释为未招生。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10336-entry",
+    "title": "杭州电子科技大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zhaosheng.hdu.edu.cn/list.php?cid=28",
+    "publisher": "杭州电子科技大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:02.615552+00:00",
+    "sha256": "287e84c3903cee63b8ce9a7022deacd929471a3e89519114a94f10931caf9b2a",
+    "responseSha256": "287e84c3903cee63b8ce9a7022deacd929471a3e89519114a94f10931caf9b2a",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10336-entry.html",
+    "notes": [
+      "实际读取官网历年分数栏目，当前所列最新资料为2025。页面同时标注各省各专业首轮投档录取分，不能仅因发布日期或该投档口径替换成2026实际专业录取最低分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10357-browser-observation-3",
+    "title": "安徽大学：公开页面浏览器核查记录（browser-observation-3）",
+    "url": "https://zsb.ahu.edu.cn/",
+    "publisher": "安徽大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12",
+    "sha256": "9dbc94876f553930b5687b66b2efabd7fafcdd46a63db59211adc3f3df3363dd",
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "browser-dom-observation",
+    "archiveFile": "10357-browser-observation-3.json",
+    "notes": [
+      "正常浏览器读取官方招生首页，历年录取真实链接指向http://bkzs.ahu.edu.cn/static/front/ahu/basic/html_web/lnfs.html。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10357-browser-observation-4",
+    "title": "安徽大学：公开页面浏览器核查记录（browser-observation-4）",
+    "url": "https://bkzs.ahu.edu.cn/static/front/ahu/basic/html_web/lnfs.html",
+    "publisher": "安徽大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12",
+    "sha256": "5846fd07a400722ab675c6c03bfec3ba2c923affdf9e5d9dc690dc0032895ff2",
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "browser-dom-observation",
+    "archiveFile": "10357-browser-observation-4.json",
+    "notes": [
+      "正常浏览器访问HTTP与HTTPS均呈现资源访问错误502；没有读到分数菜单。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10357-browser-observation-5",
+    "title": "安徽大学：公开页面浏览器核查记录（browser-observation-5）",
+    "url": "https://zsb.ahu.edu.cn/13317/list.htm",
+    "publisher": "安徽大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12",
+    "sha256": "b76235571a3f175982f5c34719e29d007e5ab1175f02ff6e6777c413d79300f3",
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "browser-dom-observation",
+    "archiveFile": "10357-browser-observation-5.json",
+    "notes": [
+      "招生快讯首页列15条，总30条、2页；最新2026-09-08，页尾2025-09-11；本轮该页未提供2026广西专业分表。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10357-entry",
+    "title": "安徽大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zsb.ahu.edu.cn/",
+    "publisher": "安徽大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.499334+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 412,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "命令行招生域名返回412后，以正常浏览器恢复zsb.ahu.edu.cn首页，沿真实历年录取链接访问bkzs.ahu.edu.cn；HTTP与HTTPS均呈现资源访问错误502。另实际读取招生快讯首页（15条，最新2026年9月，至2025年9月），未取得专业分表。未绕过限制；结论是本轮公开查询入口访问失败，不是有效空表或2026未发布。"
+    ],
+    "accessFailure": "http-error"
+  },
+  {
+    "id": "major-20260912pilot-c-10357-http",
+    "title": "安徽大学：招生官网栏目与公开资料核查（http）",
+    "url": "http://zsb.ahu.edu.cn/",
+    "publisher": "安徽大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.968368+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 412,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "命令行招生域名返回412后，以正常浏览器恢复zsb.ahu.edu.cn首页，沿真实历年录取链接访问bkzs.ahu.edu.cn；HTTP与HTTPS均呈现资源访问错误502。另实际读取招生快讯首页（15条，最新2026年9月，至2025年9月），未取得专业分表。未绕过限制；结论是本轮公开查询入口访问失败，不是有效空表或2026未发布。"
+    ],
+    "accessFailure": "http-error"
+  },
+  {
+    "id": "major-20260912pilot-c-10357-main",
+    "title": "安徽大学：招生官网栏目与公开资料核查（main）",
+    "url": "https://www.ahu.edu.cn/13/list.htm",
+    "publisher": "安徽大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:57:22.365415+00:00",
+    "sha256": "787ea9179322d11c60893e1d672701e726745e93f0478df2181c6e72e892d1b7",
+    "responseSha256": "787ea9179322d11c60893e1d672701e726745e93f0478df2181c6e72e892d1b7",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10357-main.html",
+    "notes": [
+      "命令行招生域名返回412后，以正常浏览器恢复zsb.ahu.edu.cn首页，沿真实历年录取链接访问bkzs.ahu.edu.cn；HTTP与HTTPS均呈现资源访问错误502。另实际读取招生快讯首页（15条，最新2026年9月，至2025年9月），未取得专业分表。未绕过限制；结论是本轮公开查询入口访问失败，不是有效空表或2026未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10357-officialhome",
+    "title": "安徽大学：招生官网栏目与公开资料核查（officialhome）",
+    "url": "https://www.ahu.edu.cn/",
+    "publisher": "安徽大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:05:43.823686+00:00",
+    "sha256": "ce67e2f2007a49016200d2f3da949fa81227b3bb914d9f38163bfdc2a55ed018",
+    "responseSha256": "ce67e2f2007a49016200d2f3da949fa81227b3bb914d9f38163bfdc2a55ed018",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10357-officialhome.html",
+    "notes": [
+      "命令行招生域名返回412后，以正常浏览器恢复zsb.ahu.edu.cn首页，沿真实历年录取链接访问bkzs.ahu.edu.cn；HTTP与HTTPS均呈现资源访问错误502。另实际读取招生快讯首页（15条，最新2026年9月，至2025年9月），未取得专业分表。未绕过限制；结论是本轮公开查询入口访问失败，不是有效空表或2026未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10357-query",
+    "title": "安徽大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://bkzs.ahu.edu.cn/static/front/ahu/basic/html_web/lnfs.html",
+    "publisher": "安徽大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:06:52.251019+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 412,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "命令行招生域名返回412后，以正常浏览器恢复zsb.ahu.edu.cn首页，沿真实历年录取链接访问bkzs.ahu.edu.cn；HTTP与HTTPS均呈现资源访问错误502。另实际读取招生快讯首页（15条，最新2026年9月，至2025年9月），未取得专业分表。未绕过限制；结论是本轮公开查询入口访问失败，不是有效空表或2026未发布。"
+    ],
+    "accessFailure": "http-error"
+  },
+  {
+    "id": "major-20260912pilot-c-10366-2026",
+    "title": "安徽医科大学：招生官网栏目与公开资料核查（2026）",
+    "url": "https://zs.ahmu.edu.cn/2026/0714/c7126a202240/page.htm",
+    "publisher": "安徽医科大学",
+    "year": null,
+    "publishedAt": "2026-07-14",
+    "accessedAt": "2026-09-12T13:50:22.678058+00:00",
+    "sha256": "ce0a80b94a1fa14fab2e098c116cdea988852d112d07b3839d6e45df9f1acf38",
+    "responseSha256": "ce0a80b94a1fa14fab2e098c116cdea988852d112d07b3839d6e45df9f1acf38",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10366-2026.html",
+    "notes": [
+      "实际读取2026年普通本科分省分专业录取情况官方4页PDF；广西位于第2页且仅1行临床医学，平行志愿录取数1、最低602、最高602、平均602。按平行志愿实际最低分列采集，旁边首轮投档线为另一列；征集栏空白。已渲染核对该页及章程第3页加分口径，不能据一条记录宣称学校所有类型均完整。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10366-charter-list",
+    "title": "安徽医科大学：招生章程与专业录取分数口径（charter-list）",
+    "url": "https://zs.ahmu.edu.cn/zszc_7147/list.htm",
+    "publisher": "安徽医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:09:38.926362+00:00",
+    "sha256": "6116b43397cfda75616141bc2b3896903903c3335393cb369746c3b948f6b7de",
+    "responseSha256": "6116b43397cfda75616141bc2b3896903903c3335393cb369746c3b948f6b7de",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10366-charter-list.html",
+    "notes": [
+      "实际读取2026年普通本科分省分专业录取情况官方4页PDF；广西位于第2页且仅1行临床医学，平行志愿录取数1、最低602、最高602、平均602。按平行志愿实际最低分列采集，旁边首轮投档线为另一列；征集栏空白。已渲染核对该页及章程第3页加分口径，不能据一条记录宣称学校所有类型均完整。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10366-charter-pdf",
+    "title": "安徽医科大学：招生章程与专业录取分数口径（charter-pdf）",
+    "url": "https://zs.ahmu.edu.cn/_upload/article/files/74/a4/8610865b493b8223e93dd6ada83f/3388db34-aa2a-4499-96c6-7f1a75e2d7ae.pdf",
+    "publisher": "安徽医科大学",
+    "year": 2026,
+    "publishedAt": "2026-05-22",
+    "accessedAt": "2026-09-12T14:12:03.526884+00:00",
+    "sha256": "c6a39d776d47f5a79f4c84029ddd2618f930c463daee689c4635c8e2d797ec66",
+    "responseSha256": "c6a39d776d47f5a79f4c84029ddd2618f930c463daee689c4635c8e2d797ec66",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10366-charter-pdf.pdf",
+    "notes": [
+      "实际读取2026年普通本科分省分专业录取情况官方4页PDF；广西位于第2页且仅1行临床医学，平行志愿录取数1、最低602、最高602、平均602。按平行志愿实际最低分列采集，旁边首轮投档线为另一列；征集栏空白。已渲染核对该页及章程第3页加分口径，不能据一条记录宣称学校所有类型均完整。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10366-charter",
+    "title": "安徽医科大学：招生章程与专业录取分数口径（charter）",
+    "url": "https://zs.ahmu.edu.cn/2026/0522/c7122a200138/page.htm",
+    "publisher": "安徽医科大学",
+    "year": null,
+    "publishedAt": "2026-05-22",
+    "accessedAt": "2026-09-12T14:11:30.546453+00:00",
+    "sha256": "20c92a67ed6c47ec85dfc7b90089937fd8d989991844ab15bc68ad04d5c9bc63",
+    "responseSha256": "20c92a67ed6c47ec85dfc7b90089937fd8d989991844ab15bc68ad04d5c9bc63",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10366-charter.html",
+    "notes": [
+      "实际读取2026年普通本科分省分专业录取情况官方4页PDF；广西位于第2页且仅1行临床医学，平行志愿录取数1、最低602、最高602、平均602。按平行志愿实际最低分列采集，旁边首轮投档线为另一列；征集栏空白。已渲染核对该页及章程第3页加分口径，不能据一条记录宣称学校所有类型均完整。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10366-entry",
+    "title": "安徽医科大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zs.ahmu.edu.cn/lnlq/list.htm",
+    "publisher": "安徽医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.185022+00:00",
+    "sha256": "a97932268a2e8eea92404684787e8c98017a797b9ed59f7ed5debbf638522a20",
+    "responseSha256": "a97932268a2e8eea92404684787e8c98017a797b9ed59f7ed5debbf638522a20",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10366-entry.html",
+    "notes": [
+      "实际读取2026年普通本科分省分专业录取情况官方4页PDF；广西位于第2页且仅1行临床医学，平行志愿录取数1、最低602、最高602、平均602。按平行志愿实际最低分列采集，旁边首轮投档线为另一列；征集栏空白。已渲染核对该页及章程第3页加分口径，不能据一条记录宣称学校所有类型均完整。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10366-main",
+    "title": "安徽医科大学：招生官网栏目与公开资料核查（main）",
+    "url": "https://zs.ahmu.edu.cn/main.htm",
+    "publisher": "安徽医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:08:14.099046+00:00",
+    "sha256": "ca1f8cd83b933b8faabac1f0ba4f5e98edc4ee60b4c6f6b1b942bdd30ef23a5f",
+    "responseSha256": "ca1f8cd83b933b8faabac1f0ba4f5e98edc4ee60b4c6f6b1b942bdd30ef23a5f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10366-main.html",
+    "notes": [
+      "实际读取2026年普通本科分省分专业录取情况官方4页PDF；广西位于第2页且仅1行临床医学，平行志愿录取数1、最低602、最高602、平均602。按平行志愿实际最低分列采集，旁边首轮投档线为另一列；征集栏空白。已渲染核对该页及章程第3页加分口径，不能据一条记录宣称学校所有类型均完整。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10366-pdf",
+    "title": "安徽医科大学：2026广西具体专业录取最低分（pdf）",
+    "url": "https://zs.ahmu.edu.cn/_upload/article/files/42/88/9f733ffd4812afd9cf641957ab5b/25d83530-8254-4aad-ad4d-9192e9fae437.pdf",
+    "publisher": "安徽医科大学",
+    "year": 2026,
+    "publishedAt": "2026-07-14",
+    "accessedAt": "2026-09-12T13:52:04.925419+00:00",
+    "sha256": "4ec2873d9e943812899560d157bb99f6aacc2ea7baf28a74f92f3d5fc1ebdfed",
+    "responseSha256": "4ec2873d9e943812899560d157bb99f6aacc2ea7baf28a74f92f3d5fc1ebdfed",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "10366-pdf.pdf",
+    "notes": [
+      "实际读取2026年普通本科分省分专业录取情况官方4页PDF；广西位于第2页且仅1行临床医学，平行志愿录取数1、最低602、最高602、平均602。按平行志愿实际最低分列采集，旁边首轮投档线为另一列；征集栏空白。已渲染核对该页及章程第3页加分口径，不能据一条记录宣称学校所有类型均完整。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10366-policy",
+    "title": "安徽医科大学：招生官网栏目与公开资料核查（policy）",
+    "url": "https://zs.ahmu.edu.cn/ptbk/list.htm",
+    "publisher": "安徽医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:10:37.077054+00:00",
+    "sha256": "0e175443dbc8b381236910d14db78e03f949d8bae521521f7ccd8db3871ab969",
+    "responseSha256": "0e175443dbc8b381236910d14db78e03f949d8bae521521f7ccd8db3871ab969",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10366-policy.html",
+    "notes": [
+      "实际读取2026年普通本科分省分专业录取情况官方4页PDF；广西位于第2页且仅1行临床医学，平行志愿录取数1、最低602、最高602、平均602。按平行志愿实际最低分列采集，旁边首轮投档线为另一列；征集栏空白。已渲染核对该页及章程第3页加分口径，不能据一条记录宣称学校所有类型均完整。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10386-entry",
+    "title": "福州大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zsks.fzu.edu.cn/zscx/lnfs.htm",
+    "publisher": "福州大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:02.898545+00:00",
+    "sha256": "2750cf644214c6ade3a974a084523d2b359896b69fb026cee5030819e6500ec1",
+    "responseSha256": "2750cf644214c6ade3a974a084523d2b359896b69fb026cee5030819e6500ec1",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10386-entry.html",
+    "notes": [
+      "实际读取招生考试中心历年分数页并进入zsks2.fzu.edu.cn查询表，年份菜单为2025至2018；选取广西2025确认分专业结果，当前菜单没有2026。旧年分页结果仅用于入口阳性验证，不宣称已采完旧年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10386-gx2025",
+    "title": "福州大学：公开分数查询结果核查（gx2025）",
+    "url": "https://zsks2.fzu.edu.cn/linianluqu/?zssf-6%2Czsnf-1%2Czxkl-0=",
+    "publisher": "福州大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:05.811059+00:00",
+    "sha256": "02827d17aef0988cbd18f91ba09e39ea3f08ad6caefa9ffb11cb0e1b6e89e0db",
+    "responseSha256": "02827d17aef0988cbd18f91ba09e39ea3f08ad6caefa9ffb11cb0e1b6e89e0db",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10386-gx2025.html",
+    "notes": [
+      "实际读取招生考试中心历年分数页并进入zsks2.fzu.edu.cn查询表，年份菜单为2025至2018；选取广西2025确认分专业结果，当前菜单没有2026。旧年分页结果仅用于入口阳性验证，不宣称已采完旧年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10386-query",
+    "title": "福州大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://zsks2.fzu.edu.cn/linianluqu/?zssf-3%2Czsnf-1%2Czxkl-0=",
+    "publisher": "福州大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.349000+00:00",
+    "sha256": "85af50e58daa769ab8ff04cc6585ce82d2ad6e2d666bf6a319d32829bf99e8ff",
+    "responseSha256": "85af50e58daa769ab8ff04cc6585ce82d2ad6e2d666bf6a319d32829bf99e8ff",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10386-query.html",
+    "notes": [
+      "实际读取招生考试中心历年分数页并进入zsks2.fzu.edu.cn查询表，年份菜单为2025至2018；选取广西2025确认分专业结果，当前菜单没有2026。旧年分页结果仅用于入口阳性验证，不宣称已采完旧年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10414-entry",
+    "title": "江西师范大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zsjy.jxnu.edu.cn/",
+    "publisher": "江西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:04.341855+00:00",
+    "sha256": "b0e086a773bf1ae53586479c44c0cb0d25182b684f3ef035d8aeeb8068361ff1",
+    "responseSha256": "907ededa8189d1ac91c47d8ec15563dda2ace7c16ff82f26ea526ba021b7285f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10414-entry.html",
+    "notes": [
+      "按GB18030正确解码江西师范大学官方招生站并读取历年录取栏目首页，当前列出的最新分专业统计年2024，发布于2025年4月；目录共6页，本轮检查按时间倒序首页，不声称遍历全部历史档案。未取得2026广西实际专业分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10414-gbk",
+    "title": "江西师范大学：招生官网栏目与公开资料核查（gbk）",
+    "url": "https://zsjy.jxnu.edu.cn/",
+    "publisher": "江西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:23.447700+00:00",
+    "sha256": "3c464b57a4848ee1cd62ddece1cba3839018a27f7ed125fe44e69ca7c95be163",
+    "responseSha256": "907ededa8189d1ac91c47d8ec15563dda2ace7c16ff82f26ea526ba021b7285f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10414-gbk.html",
+    "notes": [
+      "按GB18030正确解码江西师范大学官方招生站并读取历年录取栏目首页，当前列出的最新分专业统计年2024，发布于2025年4月；目录共6页，本轮检查按时间倒序首页，不声称遍历全部历史档案。未取得2026广西实际专业分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10414-history",
+    "title": "江西师范大学：招生官网栏目与公开资料核查（history）",
+    "url": "https://zsjy.jxnu.edu.cn/bzslist.asp?lm=4",
+    "publisher": "江西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:05.525451+00:00",
+    "sha256": "9dd19fd6be29f13b8ab1f49362bba9f4bddda5ca8750bc3dd74cdfad4d924b88",
+    "responseSha256": "70d863321e77424ed56fac7994c9bf15195648006cb56ba161bcc99d834dba1b",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10414-history.html",
+    "notes": [
+      "按GB18030正确解码江西师范大学官方招生站并读取历年录取栏目首页，当前列出的最新分专业统计年2024，发布于2025年4月；目录共6页，本轮检查按时间倒序首页，不声称遍历全部历史档案。未取得2026广西实际专业分。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10459-entry",
+    "title": "郑州大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://ao.zzu.edu.cn/xxgk/lnlq_.htm",
+    "publisher": "郑州大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:02.614853+00:00",
+    "sha256": "eb754633b7548d484fa9b2c72420e9b78de62ffc45a22fe94ecc2df4146b5bac",
+    "responseSha256": "eb754633b7548d484fa9b2c72420e9b78de62ffc45a22fe94ecc2df4146b5bac",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10459-entry.html",
+    "notes": [
+      "实际读取招生官网历年录取总目录、广西分省目录及2025广西页面；广西目录年份最高2025，当前入口没有2026选项。本轮未扩展核查学校所有信息公开渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10459-gx",
+    "title": "郑州大学：招生官网栏目与公开资料核查（gx）",
+    "url": "https://ao.zzu.edu.cn/xxgk/lnlq_/gx.htm",
+    "publisher": "郑州大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.348250+00:00",
+    "sha256": "0c0881c46d6ca1320b54f4d279e9faaf53a434947602f82b347f18010a16fd2f",
+    "responseSha256": "0c0881c46d6ca1320b54f4d279e9faaf53a434947602f82b347f18010a16fd2f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10459-gx.html",
+    "notes": [
+      "实际读取招生官网历年录取总目录、广西分省目录及2025广西页面；广西目录年份最高2025，当前入口没有2026选项。本轮未扩展核查学校所有信息公开渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10459-gx2025",
+    "title": "郑州大学：公开分数查询结果核查（gx2025）",
+    "url": "https://ao.zzu.edu.cn/xxgk/lnlq_/gx/a2025.htm",
+    "publisher": "郑州大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:05.798449+00:00",
+    "sha256": "c87a56289f2cfd89b52cee266a3888b4f51448400591d00a31d0c31c4e7335c3",
+    "responseSha256": "c87a56289f2cfd89b52cee266a3888b4f51448400591d00a31d0c31c4e7335c3",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10459-gx2025.html",
+    "notes": [
+      "实际读取招生官网历年录取总目录、广西分省目录及2025广西页面；广西目录年份最高2025，当前入口没有2026选项。本轮未扩展核查学校所有信息公开渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10491-detail",
+    "title": "中国地质大学(武汉)：招生官网栏目与公开资料核查（detail）",
+    "url": "https://zhaosheng.cug.edu.cn/page/detail/AIGTAZ/10518/1012",
+    "publisher": "中国地质大学(武汉)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:26.276074+00:00",
+    "sha256": "554274409a6e772b00e03a88c93d8cc4ad88e36bee174d90baa892e5e5f2e1ae",
+    "responseSha256": "554274409a6e772b00e03a88c93d8cc4ad88e36bee174d90baa892e5e5f2e1ae",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10491-detail.html",
+    "notes": [
+      "沿中国地质大学武汉官方页面读取AIGTAZ专业录取查询及真实majorScore表单，广西getMajorSelectChange菜单yearList最高2025，最低2017；当前菜单未提供2026。所读信息页发布日期不作分数年份证据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10491-entry",
+    "title": "中国地质大学(武汉)：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zhaosheng.cug.edu.cn/",
+    "publisher": "中国地质大学(武汉)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.517161+00:00",
+    "sha256": "6ca30b03c7f403c2225719bf7f2d3e42d57dced7ec91f0aa61ca01f95e47215e",
+    "responseSha256": "6ca30b03c7f403c2225719bf7f2d3e42d57dced7ec91f0aa61ca01f95e47215e",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10491-entry.html",
+    "notes": [
+      "沿中国地质大学武汉官方页面读取AIGTAZ专业录取查询及真实majorScore表单，广西getMajorSelectChange菜单yearList最高2025，最低2017；当前菜单未提供2026。所读信息页发布日期不作分数年份证据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10491-form",
+    "title": "中国地质大学(武汉)：招生官网栏目与公开资料核查（form）",
+    "url": "https://admin.zhinengdayi.com/front/info/form/majorScore?sCode=AIGTAZ&showDetailsConfig=",
+    "publisher": "中国地质大学(武汉)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:18.709730+00:00",
+    "sha256": "4d2321a18787051dc602a4091fa8a3fc1ea925e97fe77ebe081303e293b24990",
+    "responseSha256": "4d2321a18787051dc602a4091fa8a3fc1ea925e97fe77ebe081303e293b24990",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10491-form.html",
+    "notes": [
+      "沿中国地质大学武汉官方页面读取AIGTAZ专业录取查询及真实majorScore表单，广西getMajorSelectChange菜单yearList最高2025，最低2017；当前菜单未提供2026。所读信息页发布日期不作分数年份证据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10491-gxmenu",
+    "title": "中国地质大学(武汉)：公开分数查询菜单与字段配置（gxmenu）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=AIGTAZ&cityName=%E5%B9%BF%E8%A5%BF&type=&batch=&scienceClass=",
+    "publisher": "中国地质大学(武汉)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:59:17.021681+00:00",
+    "sha256": "976ddda0d8114a113a623ac60a6306fe2bc6c39f66ed9dcfa8121545cba3db2e",
+    "responseSha256": "7a64abf923a043f5edb6f212cef9684be6aa9e9cc3b2b582d497903c04268606",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10491-gxmenu.json",
+    "notes": [
+      "沿中国地质大学武汉官方页面读取AIGTAZ专业录取查询及真实majorScore表单，广西getMajorSelectChange菜单yearList最高2025，最低2017；当前菜单未提供2026。所读信息页发布日期不作分数年份证据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10504-entry",
+    "title": "华中农业大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zs.hzau.edu.cn/index/lnfs/1.htm",
+    "publisher": "华中农业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.208334+00:00",
+    "sha256": "ca90b2615ec15e81459ff4c2bb5bc32403c7bcec65e053052d181a197e68db66",
+    "responseSha256": "ca90b2615ec15e81459ff4c2bb5bc32403c7bcec65e053052d181a197e68db66",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10504-entry.html",
+    "notes": [
+      "实际读取旧历年分数页、当前历年分数总入口及广西专题目录；广西专题共3条统计资料，最新2024，其次2023、2022。2025发布日期不等于统计年，更不能补成2026。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10504-gx",
+    "title": "华中农业大学：招生官网栏目与公开资料核查（gx）",
+    "url": "https://zs.hzau.edu.cn/info/1009/2413.htm",
+    "publisher": "华中农业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.852855+00:00",
+    "sha256": "708d80c758c4852a1fb3cce5f3d78e2946164a230e2434b94173e2d16cd59065",
+    "responseSha256": "708d80c758c4852a1fb3cce5f3d78e2946164a230e2434b94173e2d16cd59065",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10504-gx.html",
+    "notes": [
+      "实际读取旧历年分数页、当前历年分数总入口及广西专题目录；广西专题共3条统计资料，最新2024，其次2023、2022。2025发布日期不等于统计年，更不能补成2026。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10504-gxnew",
+    "title": "华中农业大学：招生官网栏目与公开资料核查（gxnew）",
+    "url": "https://zs.hzau.edu.cn/index/lnfs/gxq.htm",
+    "publisher": "华中农业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:57:01.579953+00:00",
+    "sha256": "6634bf8f4726e5a9bc18a9cdfc03e3b688259c98b548e315291e5f701afc57f4",
+    "responseSha256": "6634bf8f4726e5a9bc18a9cdfc03e3b688259c98b548e315291e5f701afc57f4",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10504-gxnew.html",
+    "notes": [
+      "实际读取旧历年分数页、当前历年分数总入口及广西专题目录；广西专题共3条统计资料，最新2024，其次2023、2022。2025发布日期不等于统计年，更不能补成2026。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10504-latest",
+    "title": "华中农业大学：招生官网栏目与公开资料核查（latest）",
+    "url": "https://zs.hzau.edu.cn/index/lnfs.htm",
+    "publisher": "华中农业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.837464+00:00",
+    "sha256": "bd638e90d8fe9c380c1f9187b3ff867d83883d4936da51fac958762f9a103123",
+    "responseSha256": "bd638e90d8fe9c380c1f9187b3ff867d83883d4936da51fac958762f9a103123",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10504-latest.html",
+    "notes": [
+      "实际读取旧历年分数页、当前历年分数总入口及广西专题目录；广西专题共3条统计资料，最新2024，其次2023、2022。2025发布日期不等于统计年，更不能补成2026。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10511-admit",
+    "title": "华中师范大学：招生官网栏目与公开资料核查（admit）",
+    "url": "http://zsxt.ccnu.edu.cn/apply/index.php?g=apply&m=index&a=admit",
+    "publisher": "华中师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:05.277132+00:00",
+    "sha256": "9d010629a137449b4f95820803bf7e3ee22c79cbc884c7c66fd9d0bff8cdc6a2",
+    "responseSha256": "9d010629a137449b4f95820803bf7e3ee22c79cbc884c7c66fd9d0bff8cdc6a2",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10511-admit.html",
+    "notes": [
+      "按官网公开admit表单真实year/pro字段查询2026广西，取得17条实际专业最低分：15条公费师范、2条优师计划，两科类均覆盖。原排名为分数段位次区间，保留文字，未转成单一位次。2025同条件含普通本科、国家及高校专项等，2026当前返回仅提前批两类，普通本科及专项仍存在来源缺口。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10511-charter",
+    "title": "华中师范大学：招生章程与专业录取分数口径（charter）",
+    "url": "https://zs.ccnu.edu.cn/info/1006/11433.htm",
+    "publisher": "华中师范大学",
+    "year": 2026,
+    "publishedAt": "2026-05-29",
+    "accessedAt": "2026-09-12T14:08:14.098883+00:00",
+    "sha256": "3ff07d924fc775acc948d4d46e7b844c1c0c6a922de64448269f2ff412f7e626",
+    "responseSha256": "3ff07d924fc775acc948d4d46e7b844c1c0c6a922de64448269f2ff412f7e626",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10511-charter.html",
+    "notes": [
+      "按官网公开admit表单真实year/pro字段查询2026广西，取得17条实际专业最低分：15条公费师范、2条优师计划，两科类均覆盖。原排名为分数段位次区间，保留文字，未转成单一位次。2025同条件含普通本科、国家及高校专项等，2026当前返回仅提前批两类，普通本科及专项仍存在来源缺口。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10511-entry",
+    "title": "华中师范大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zs.ccnu.edu.cn/",
+    "publisher": "华中师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:02.974754+00:00",
+    "sha256": "af13c26a7d169f64ea888fe7567c30580fbda754ecdd56ef577346803fb69237",
+    "responseSha256": "af13c26a7d169f64ea888fe7567c30580fbda754ecdd56ef577346803fb69237",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10511-entry.html",
+    "notes": [
+      "按官网公开admit表单真实year/pro字段查询2026广西，取得17条实际专业最低分：15条公费师范、2条优师计划，两科类均覆盖。原排名为分数段位次区间，保留文字，未转成单一位次。2025同条件含普通本科、国家及高校专项等，2026当前返回仅提前批两类，普通本科及专项仍存在来源缺口。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10511-gx2025",
+    "title": "华中师范大学：公开分数查询结果核查（gx2025）",
+    "url": "http://zsxt.ccnu.edu.cn/apply/index.php?g=apply&m=index&a=admit",
+    "publisher": "华中师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:26.005929+00:00",
+    "sha256": "748602de13e66bdbbc682ef7a5da60454fa5674cfdfcf4591bcffdf37604dff6",
+    "responseSha256": "748602de13e66bdbbc682ef7a5da60454fa5674cfdfcf4591bcffdf37604dff6",
+    "requestMethod": "POST",
+    "requestData": {
+      "year": "2025",
+      "pro": "广西"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10511-gx2025.html",
+    "notes": [
+      "按官网公开admit表单真实year/pro字段查询2026广西，取得17条实际专业最低分：15条公费师范、2条优师计划，两科类均覆盖。原排名为分数段位次区间，保留文字，未转成单一位次。2025同条件含普通本科、国家及高校专项等，2026当前返回仅提前批两类，普通本科及专项仍存在来源缺口。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10511-gx2026",
+    "title": "华中师范大学：2026广西具体专业录取最低分（gx2026）",
+    "url": "http://zsxt.ccnu.edu.cn/apply/index.php?g=apply&m=index&a=admit",
+    "publisher": "华中师范大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:25.995054+00:00",
+    "sha256": "fc84d6cf6dd2ba8597719cdf3fd7cb9a67d2da7cbe48d9c9b83622ea7f863f96",
+    "responseSha256": "fc84d6cf6dd2ba8597719cdf3fd7cb9a67d2da7cbe48d9c9b83622ea7f863f96",
+    "requestMethod": "POST",
+    "requestData": {
+      "year": "2026",
+      "pro": "广西"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "10511-gx2026.html",
+    "notes": [
+      "按官网公开admit表单真实year/pro字段查询2026广西，取得17条实际专业最低分：15条公费师范、2条优师计划，两科类均覆盖。原排名为分数段位次区间，保留文字，未转成单一位次。2025同条件含普通本科、国家及高校专项等，2026当前返回仅提前批两类，普通本科及专项仍存在来源缺口。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10511-query",
+    "title": "华中师范大学：招生官网栏目与公开资料核查（query）",
+    "url": "http://zsxt.ccnu.edu.cn/apply/index.php?g=Apply&m=Index&a=index",
+    "publisher": "华中师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.594039+00:00",
+    "sha256": "76843762c136a2f598567c6f99323f17242e2e6e7458f01bfd42b979fcc9070d",
+    "responseSha256": "76843762c136a2f598567c6f99323f17242e2e6e7458f01bfd42b979fcc9070d",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10511-query.html",
+    "notes": [
+      "按官网公开admit表单真实year/pro字段查询2026广西，取得17条实际专业最低分：15条公费师范、2条优师计划，两科类均覆盖。原排名为分数段位次区间，保留文字，未转成单一位次。2025同条件含普通本科、国家及高校专项等，2026当前返回仅提前批两类，普通本科及专项仍存在来源缺口。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10520-current",
+    "title": "中南财经政法大学：招生官网栏目与公开资料核查（current）",
+    "url": "https://bkzs.zuel.edu.cn/15347/list.htm",
+    "publisher": "中南财经政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:57:01.580138+00:00",
+    "sha256": "c500420cf67b321e0255c7a2b464bdfffdb599648b8da846806290b97b957823",
+    "responseSha256": "c500420cf67b321e0255c7a2b464bdfffdb599648b8da846806290b97b957823",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10520-current.html",
+    "notes": [
+      "实际读取旧各批次、分专业栏目与当前15347历年分数栏目，并继续读取外层页面内嵌commonquery查询表。内嵌表含广西专业记录，实际统计年份最高2025；外层空白不记为结果空表。所读当前公开统计表未取得2026广西数据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10520-entry",
+    "title": "中南财经政法大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://bkzs.zuel.edu.cn/5815/list.htm",
+    "publisher": "中南财经政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:02.615228+00:00",
+    "sha256": "fd77c6062907729fc6ef1c6d2ab89f8f69f41cf225e99a6a26d32a86be4f54c4",
+    "responseSha256": "fd77c6062907729fc6ef1c6d2ab89f8f69f41cf225e99a6a26d32a86be4f54c4",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10520-entry.html",
+    "notes": [
+      "实际读取旧各批次、分专业栏目与当前15347历年分数栏目，并继续读取外层页面内嵌commonquery查询表。内嵌表含广西专业记录，实际统计年份最高2025；外层空白不记为结果空表。所读当前公开统计表未取得2026广西数据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10520-main",
+    "title": "中南财经政法大学：招生官网栏目与公开资料核查（main）",
+    "url": "https://bkzs.zuel.edu.cn/",
+    "publisher": "中南财经政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:06.097311+00:00",
+    "sha256": "3de27a43221ec06398ad3c9807500ef10e78ca3926b496f4d6a02b74a6232971",
+    "responseSha256": "3de27a43221ec06398ad3c9807500ef10e78ca3926b496f4d6a02b74a6232971",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10520-main.html",
+    "notes": [
+      "实际读取旧各批次、分专业栏目与当前15347历年分数栏目，并继续读取外层页面内嵌commonquery查询表。内嵌表含广西专业记录，实际统计年份最高2025；外层空白不记为结果空表。所读当前公开统计表未取得2026广西数据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10520-majors",
+    "title": "中南财经政法大学：招生官网栏目与公开资料核查（majors）",
+    "url": "https://bkzs.zuel.edu.cn/5816/list.htm",
+    "publisher": "中南财经政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.348755+00:00",
+    "sha256": "3f616b55127d127e41ab29d3c50fd52a084d36abebb913876f25f3f7ea3b1ce6",
+    "responseSha256": "3f616b55127d127e41ab29d3c50fd52a084d36abebb913876f25f3f7ea3b1ce6",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10520-majors.html",
+    "notes": [
+      "实际读取旧各批次、分专业栏目与当前15347历年分数栏目，并继续读取外层页面内嵌commonquery查询表。内嵌表含广西专业记录，实际统计年份最高2025；外层空白不记为结果空表。所读当前公开统计表未取得2026广西数据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10520-query",
+    "title": "中南财经政法大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://bkzs.zuel.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/10.rst?_p=YXM9MTI2JnQ9OTE5JnA9MSZtPU4m&mongo=false",
+    "publisher": "中南财经政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:05:43.823583+00:00",
+    "sha256": "603cb3b3a5d32fc581a00070f7ed2da0cb23852cee52b6ad9a86d2d3007d99c5",
+    "responseSha256": "603cb3b3a5d32fc581a00070f7ed2da0cb23852cee52b6ad9a86d2d3007d99c5",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10520-query.html",
+    "notes": [
+      "实际读取旧各批次、分专业栏目与当前15347历年分数栏目，并继续读取外层页面内嵌commonquery查询表。内嵌表含广西专业记录，实际统计年份最高2025；外层空白不记为结果空表。所读当前公开统计表未取得2026广西数据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-batch1",
+    "title": "湖南师范大学：招生官网栏目与公开资料核查（batch1）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:06:14.472840+00:00",
+    "sha256": "361d4dd352cdab09bf1ac7c8372dffdbf9dbc7e1219909cc8b45a511ee50b8e6",
+    "responseSha256": "5732ed183b043a3ebba4b58df70a77198d089e5d752caa426df92d2d142a75a6",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-batch1.json",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-batch2",
+    "title": "湖南师范大学：招生官网栏目与公开资料核查（batch2）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:06:14.473129+00:00",
+    "sha256": "8fd4edf3f641d889114a6761e45937b24b14cc80d6ca55baaa42a1abf9fffefb",
+    "responseSha256": "f69b30a8e6a61ad751c097afc46c64de83fe2df921c42b8860479c3b5d0e88f9",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-batch2.json",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-charter",
+    "title": "湖南师范大学：招生章程与专业录取分数口径（charter）",
+    "url": "https://zsb.hunnu.edu.cn/info/1044/2277.htm",
+    "publisher": "湖南师范大学",
+    "year": 2026,
+    "publishedAt": "2026-05-25",
+    "accessedAt": "2026-09-12T14:08:14.098017+00:00",
+    "sha256": "3d0e4c114af3078507b896d34deef30421abee24aa8ea4e1717b5acf11ac14dc",
+    "responseSha256": "3d0e4c114af3078507b896d34deef30421abee24aa8ea4e1717b5acf11ac14dc",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-charter.html",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-entry",
+    "title": "湖南师范大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zsb.hunnu.edu.cn/",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.920555+00:00",
+    "sha256": "0692c87e44161288c55a9dd01e164c673f7e06c6aef977408cbac2d9a727f18b",
+    "responseSha256": "0692c87e44161288c55a9dd01e164c673f7e06c6aef977408cbac2d9a727f18b",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-entry.html",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-form",
+    "title": "湖南师范大学：招生官网栏目与公开资料核查（form）",
+    "url": "https://admin.zhinengdayi.com/front/info/form/majorScore?sCode=NJBCYO&showDetailsConfig=",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:57:01.580354+00:00",
+    "sha256": "ae13046fa06f6707bb7ff3ba09b19e72cd219132cb4e06800bb196372a945f17",
+    "responseSha256": "ae13046fa06f6707bb7ff3ba09b19e72cd219132cb4e06800bb196372a945f17",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-form.html",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-gx2026menu",
+    "title": "湖南师范大学：公开分数查询菜单与字段配置（gx2026menu）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:00:02.464710+00:00",
+    "sha256": "9299c153e2d60506305207e76ff794d63d4c42247d199dea96d30eb17bb9a414",
+    "responseSha256": "8d1a84ee954f62fdaa87ebaf4a002ea2f4d5bc63484e77accf286f52b4cd201f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-gx2026menu.json",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-gxmenu",
+    "title": "湖南师范大学：公开分数查询菜单与字段配置（gxmenu）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&type=&batch=&scienceClass=",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:59:17.575612+00:00",
+    "sha256": "915bcad4e95e17fd7df5622606684146e5d65153b6b41ac66980243b7d0d200a",
+    "responseSha256": "8e232c3373c04735700114247ec8bb0336a29edf1d2e89bee7b730daa40e9967",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-gxmenu.json",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-list-detail",
+    "title": "湖南师范大学：招生官网栏目与公开资料核查（list-detail）",
+    "url": "https://zhinengdayi.com/page/list/NJBCYO/4894_10_1",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:26.412551+00:00",
+    "sha256": "1deb9103283a9faee6a0dbfe626d9717ab76c4802470d3db5b86cd3bc507ba21",
+    "responseSha256": "1deb9103283a9faee6a0dbfe626d9717ab76c4802470d3db5b86cd3bc507ba21",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-list-detail.html",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-major",
+    "title": "湖南师范大学：招生官网栏目与公开资料核查（major）",
+    "url": "https://zhinengdayi.com/page/detail/NJBCYO/4894/13602",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:57:01.580252+00:00",
+    "sha256": "b7cd075a5af3a036f53a35b7983630f204027c3f650e495e0ca7e61dd45543d3",
+    "responseSha256": "b7cd075a5af3a036f53a35b7983630f204027c3f650e495e0ca7e61dd45543d3",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-major.html",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-majormenu1-1",
+    "title": "湖南师范大学：公开分数查询菜单与字段配置（majormenu1-1）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:06:52.249881+00:00",
+    "sha256": "4719e21a0c9f0b3d2831a9c753ded0e658fed58ceee30c4da52f8e8a2ce71f09",
+    "responseSha256": "13b63d8171977ceb9abd25fcf5146d32647b85989a8d3537e1468f991056567c",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-majormenu1-1.json",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-majormenu2-1",
+    "title": "湖南师范大学：公开分数查询菜单与字段配置（majormenu2-1）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:06:52.250428+00:00",
+    "sha256": "3f3de6b36842e85b4f35bc6e47ddac6de1c4216954405b7db44e95e71792b16e",
+    "responseSha256": "c648ff1b78ec9742c4ef9e5ce588f40c51cb766bed1f0867447f55b3f5d520d5",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-majormenu2-1.json",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-query",
+    "title": "湖南师范大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://zhinengdayi.com/page/list/NJBCYO/4894_10_1",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:23.121708+00:00",
+    "sha256": "1deb9103283a9faee6a0dbfe626d9717ab76c4802470d3db5b86cd3bc507ba21",
+    "responseSha256": "1deb9103283a9faee6a0dbfe626d9717ab76c4802470d3db5b86cd3bc507ba21",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-query.html",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-scores1-1",
+    "title": "湖南师范大学：2026广西具体专业录取最低分（scores1-1）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/findMajorScoreCompareList?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9",
+    "publisher": "湖南师范大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:06:52.250296+00:00",
+    "sha256": "09ea1e6535f39cfe5837cd06ceda9f73d20cf441e8356a15c9227db70617d78f",
+    "responseSha256": "5c5523256c7be6bb99e59a3c763408101dbd82b43e26a199ce94cd63a8c63e92",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-scores1-1.json",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-scores2-1",
+    "title": "湖南师范大学：2026广西具体专业录取最低分（scores2-1）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/findMajorScoreCompareList?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E6%96%87%E7%90%86&batch=%E6%9C%AC%E7%A7%91%E6%89%B9",
+    "publisher": "湖南师范大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:06:52.250612+00:00",
+    "sha256": "252f4768e801748d9a3c8e42f68d203185b013adf9a8313ddf9cec8eae99ac5a",
+    "responseSha256": "89872dc61601f0b8bdb12f2ce4287e61d7cee1586b617e6286699214e0e25a57",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-scores2-1.json",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-type1",
+    "title": "湖南师范大学：公开分数查询菜单与字段配置（type1）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%90%86%E5%B7%A5%2F%E7%89%A9%E7%90%86%E7%B1%BB",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:05:43.822899+00:00",
+    "sha256": "cd9a13aaf45e6da52f34dd23524e41b052379b13181585732fc498c204ba274e",
+    "responseSha256": "3f6fd819b0c0d55066743b82580ea8b9a5ab720b9dcf0b045d397562a553dfc3",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-type1.json",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10542-type2",
+    "title": "湖南师范大学：公开分数查询菜单与字段配置（type2）",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=NJBCYO&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E6%96%87%E5%8F%B2%2F%E5%8E%86%E5%8F%B2%E7%B1%BB",
+    "publisher": "湖南师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:05:43.823473+00:00",
+    "sha256": "67b27b10db7ce1d0c8223d2fa98b51a37afe7cc590ccef8c066f14f9a31a9ada",
+    "responseSha256": "53b7e9e2d5318aa3f3b6114b6ac3f9b06a1c91a412dce4064440accc5e931e48",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10542-type2.json",
+    "notes": [
+      "沿官网链接进入NJBCYO专业查询；逐层读取2026广西两科类、普通文理、本科批及完整专业菜单。物理23项、历史14项与findMajorScoreCompareList结果名称及行数全部对应，共37条；物理结果超过20条，未出现默认截断，无额外分页。未知专业组、广西专业代号、人数、位次、轮次不推定；结论限当前菜单两个普通类组合。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10572-entry",
+    "title": "广州中医药大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://www.gzucm.edu.cn/zsxxw/lnfs.htm",
+    "publisher": "广州中医药大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.784649+00:00",
+    "sha256": "eceb056ccfce47c8560d32b0d172a60f7daa5d75248a0c042fdb2071f5b5b630",
+    "responseSha256": "eceb056ccfce47c8560d32b0d172a60f7daa5d75248a0c042fdb2071f5b5b630",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10572-entry.html",
+    "notes": [
+      "实际读取广州中医药大学官网历年分数目录，最新文章题为2025年各省专业录取分数线、发布于2026年6月2日，链接官方微信；其他目录项为2024及以前。本轮未把2026发布日期改成2026录取数据，旧年微信正文未作为新分数采集。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10589-charter",
+    "title": "海南大学：招生章程与专业录取分数口径（charter）",
+    "url": "https://bkzs.hainanu.edu.cn/info/1003/5647.htm",
+    "publisher": "海南大学",
+    "year": 2026,
+    "publishedAt": "2026-05-22",
+    "accessedAt": "2026-09-12T14:08:14.098702+00:00",
+    "sha256": "667938cbfc46e56f94302ae4b2258f3fb4066eeb4705e58061387b4196d8d25b",
+    "responseSha256": "667938cbfc46e56f94302ae4b2258f3fb4066eeb4705e58061387b4196d8d25b",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10589-charter.html",
+    "notes": [
+      "按海南大学真实ajax_lnfs_param菜单覆盖2026广西全部5个组合：物理普通43、中外合作1、软件工程NIIT 1；历史普通16、中外合作4，共65条实际专业分。最低分、最低分排名、人数、选考科目字段逐项对照官网表头。化生組等原组名不等于广西3位组码，完整选科逻辑保留待核；中外合作和NIIT保留独立类别，轮次及精确批次未明示时不推定。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10589-entry",
+    "title": "海南大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://bkzs.hainanu.edu.cn/home.htm",
+    "publisher": "海南大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:04.143515+00:00",
+    "sha256": "8120700db38b58e48dd331b4b3f0c5d9115705bb7d45cc8389d11717d7cc7001",
+    "responseSha256": "8120700db38b58e48dd331b4b3f0c5d9115705bb7d45cc8389d11717d7cc7001",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10589-entry.html",
+    "notes": [
+      "按海南大学真实ajax_lnfs_param菜单覆盖2026广西全部5个组合：物理普通43、中外合作1、软件工程NIIT 1；历史普通16、中外合作4，共65条实际专业分。最低分、最低分排名、人数、选考科目字段逐项对照官网表头。化生組等原组名不等于广西3位组码，完整选科逻辑保留待核；中外合作和NIIT保留独立类别，轮次及精确批次未明示时不推定。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10589-param",
+    "title": "海南大学：公开分数查询菜单与字段配置（param）",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs_param",
+    "publisher": "海南大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:06.207061+00:00",
+    "sha256": "c7b9e75d88c325ea3f143959b2ddb4515bc1e23d6af1294a5548f62d1b1d09f9",
+    "responseSha256": "884d0cbab500d2438b1a48c33358de2ccd97819cd0b0f748e582ec6f10e92626",
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10589-param.json",
+    "notes": [
+      "按海南大学真实ajax_lnfs_param菜单覆盖2026广西全部5个组合：物理普通43、中外合作1、软件工程NIIT 1；历史普通16、中外合作4，共65条实际专业分。最低分、最低分排名、人数、选考科目字段逐项对照官网表头。化生組等原组名不等于广西3位组码，完整选科逻辑保留待核；中外合作和NIIT保留独立类别，轮次及精确批次未明示时不推定。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10589-query",
+    "title": "海南大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://zsfw.hainanu.edu.cn/static/front/hainanu/basic/html_web/lnfs.html",
+    "publisher": "海南大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:23.150002+00:00",
+    "sha256": "d6214be9b80dcc1a6ff72da798ebc94ff5763607d96d8684a8c42abcaed5d001",
+    "responseSha256": "d6214be9b80dcc1a6ff72da798ebc94ff5763607d96d8684a8c42abcaed5d001",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10589-query.html",
+    "notes": [
+      "按海南大学真实ajax_lnfs_param菜单覆盖2026广西全部5个组合：物理普通43、中外合作1、软件工程NIIT 1；历史普通16、中外合作4，共65条实际专业分。最低分、最低分排名、人数、选考科目字段逐项对照官网表头。化生組等原组名不等于广西3位组码，完整选科逻辑保留待核；中外合作和NIIT保留独立类别，轮次及精确批次未明示时不推定。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10589-scores-1",
+    "title": "海南大学：2026广西具体专业录取最低分（scores-1）",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs",
+    "publisher": "海南大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:21.696768+00:00",
+    "sha256": "d318767297a04417a1b10b967676f00f0518ee5e3f8ca1dbe21635ff12c6793f",
+    "responseSha256": "54a4a833bd4fe449631830743be4e6bfa24491478ebd5010ed1ce0b0e14f4cca",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "本科普通批",
+      "sex": "",
+      "campus": ""
+    },
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "10589-scores-1.json",
+    "notes": [
+      "按海南大学真实ajax_lnfs_param菜单覆盖2026广西全部5个组合：物理普通43、中外合作1、软件工程NIIT 1；历史普通16、中外合作4，共65条实际专业分。最低分、最低分排名、人数、选考科目字段逐项对照官网表头。化生組等原组名不等于广西3位组码，完整选科逻辑保留待核；中外合作和NIIT保留独立类别，轮次及精确批次未明示时不推定。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10589-scores-2",
+    "title": "海南大学：2026广西具体专业录取最低分（scores-2）",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs",
+    "publisher": "海南大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:21.862789+00:00",
+    "sha256": "9179a84b0f9afd204fb4ea82851b0de6d48e26c4174f630a62128e1fc3f392c6",
+    "responseSha256": "955894406de776a3de1194e705b557672b9e9e38466dd1d690c6df0223131fe7",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "中外合作办学批",
+      "sex": "",
+      "campus": ""
+    },
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "10589-scores-2.json",
+    "notes": [
+      "按海南大学真实ajax_lnfs_param菜单覆盖2026广西全部5个组合：物理普通43、中外合作1、软件工程NIIT 1；历史普通16、中外合作4，共65条实际专业分。最低分、最低分排名、人数、选考科目字段逐项对照官网表头。化生組等原组名不等于广西3位组码，完整选科逻辑保留待核；中外合作和NIIT保留独立类别，轮次及精确批次未明示时不推定。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10589-scores-3",
+    "title": "海南大学：2026广西具体专业录取最低分（scores-3）",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs",
+    "publisher": "海南大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:22.036585+00:00",
+    "sha256": "39615223960d6a8ba78ce2253b6c3ce4a3706aa9ce6ae4d2542aca4a5298d48f",
+    "responseSha256": "f99da9fc693fc95f812214cedac78510d48342ac3b7ed1881f5c3559d73a0bf8",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "软件工程（NIIT)",
+      "sex": "",
+      "campus": ""
+    },
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "10589-scores-3.json",
+    "notes": [
+      "按海南大学真实ajax_lnfs_param菜单覆盖2026广西全部5个组合：物理普通43、中外合作1、软件工程NIIT 1；历史普通16、中外合作4，共65条实际专业分。最低分、最低分排名、人数、选考科目字段逐项对照官网表头。化生組等原组名不等于广西3位组码，完整选科逻辑保留待核；中外合作和NIIT保留独立类别，轮次及精确批次未明示时不推定。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10589-scores-4",
+    "title": "海南大学：2026广西具体专业录取最低分（scores-4）",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs",
+    "publisher": "海南大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:22.213253+00:00",
+    "sha256": "fc8e67a296eb1d3df33838767475a4e7da8a5a8b9f2c4a253a0eeea8f7fdc8c5",
+    "responseSha256": "dd0ea8ed0e8e0b4be7dcb520cef8255c13cd8260ea45aef421b975ad3e568fd8",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "本科普通批",
+      "sex": "",
+      "campus": ""
+    },
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "10589-scores-4.json",
+    "notes": [
+      "按海南大学真实ajax_lnfs_param菜单覆盖2026广西全部5个组合：物理普通43、中外合作1、软件工程NIIT 1；历史普通16、中外合作4，共65条实际专业分。最低分、最低分排名、人数、选考科目字段逐项对照官网表头。化生組等原组名不等于广西3位组码，完整选科逻辑保留待核；中外合作和NIIT保留独立类别，轮次及精确批次未明示时不推定。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10589-scores-5",
+    "title": "海南大学：2026广西具体专业录取最低分（scores-5）",
+    "url": "https://zsfw.hainanu.edu.cn/f/ajax_lnfs",
+    "publisher": "海南大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:22.376810+00:00",
+    "sha256": "0f66a1f795d077d5cae514fd25af22211890c69501c729091825a6bb29794437",
+    "responseSha256": "75de1525a6357901711be45ede9dc2b86554f5d6ffcf3301e12900cf57d51d2f",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "中外合作办学批",
+      "sex": "",
+      "campus": ""
+    },
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "10589-scores-5.json",
+    "notes": [
+      "按海南大学真实ajax_lnfs_param菜单覆盖2026广西全部5个组合：物理普通43、中外合作1、软件工程NIIT 1；历史普通16、中外合作4，共65条实际专业分。最低分、最低分排名、人数、选考科目字段逐项对照官网表头。化生組等原组名不等于广西3位组码，完整选科逻辑保留待核；中外合作和NIIT保留独立类别，轮次及精确批次未明示时不推定。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10651-app",
+    "title": "西南财经大学：公开查询前端字段（app）",
+    "url": "https://zsdata.swufe.edu.cn/zsdata/lqxx/js/app.94da896d.js",
+    "publisher": "西南财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:04.925746+00:00",
+    "sha256": "802b9bae702865c39b5185bd7d1a418b441a17bfcb793ed3a044c23808e2ac29",
+    "responseSha256": "802b9bae702865c39b5185bd7d1a418b441a17bfcb793ed3a044c23808e2ac29",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10651-app.js",
+    "notes": [
+      "沿官网进入zsdata历年分数查询，读取实际前端、getType菜单和表头配置。广西菜单最高2025，含各科类普通与专项类别；未提供2026。仅确认所读公开接口的当前年份范围，未把发布时间当作招生统计年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10651-entry",
+    "title": "西南财经大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zb.swufe.edu.cn/index.htm",
+    "publisher": "西南财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:02.979962+00:00",
+    "sha256": "9626c6568bdccdd205da8b9dd9adce1a24420514ae2b0b901efaab061099665e",
+    "responseSha256": "9626c6568bdccdd205da8b9dd9adce1a24420514ae2b0b901efaab061099665e",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10651-entry.html",
+    "notes": [
+      "沿官网进入zsdata历年分数查询，读取实际前端、getType菜单和表头配置。广西菜单最高2025，含各科类普通与专项类别；未提供2026。仅确认所读公开接口的当前年份范围，未把发布时间当作招生统计年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10651-getFzcxpzList",
+    "title": "西南财经大学：招生官网栏目与公开资料核查（getFzcxpzList）",
+    "url": "https://zsdata.swufe.edu.cn/lqxx/s/api/front/lqxx2/getFzcxpzList",
+    "publisher": "西南财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:25.595691+00:00",
+    "sha256": "7561a485a5d8e85aafec789de7c5b41dec1766c14ce223ae7291e73f66a1d708",
+    "responseSha256": "0a4f88ffc10eddb7cca13b7085a64a924cba88e975a75b6493c0c8865d099642",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10651-getFzcxpzList.json",
+    "notes": [
+      "沿官网进入zsdata历年分数查询，读取实际前端、getType菜单和表头配置。广西菜单最高2025，含各科类普通与专项类别；未提供2026。仅确认所读公开接口的当前年份范围，未把发布时间当作招生统计年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10651-getType",
+    "title": "西南财经大学：公开分数查询菜单与字段配置（getType）",
+    "url": "https://zsdata.swufe.edu.cn/lqxx/s/api/front/lqxx2/getType",
+    "publisher": "西南财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:25.595446+00:00",
+    "sha256": "297cc901ec997ac0f41ba2922178189c229de579d22b6adaac6ce1ee80e9fdc5",
+    "responseSha256": "3370be32745c661c7a79937123ba5b83c51d8f405ecfa2cc668c7707555d8b35",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10651-getType.json",
+    "notes": [
+      "沿官网进入zsdata历年分数查询，读取实际前端、getType菜单和表头配置。广西菜单最高2025，含各科类普通与专项类别；未提供2026。仅确认所读公开接口的当前年份范围，未把发布时间当作招生统计年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10651-global",
+    "title": "西南财经大学：招生官网栏目与公开资料核查（global）",
+    "url": "https://zsdata.swufe.edu.cn/lqxx/s/api/front/infoconfig/getGlobalCfg",
+    "publisher": "西南财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:25.595890+00:00",
+    "sha256": "21d8178897269f7eddc52a275780310f2a7144f3644488c5b4753cbb9b3f0c69",
+    "responseSha256": "7ae4e1524d4cded73dc62e1deabc5bcb81c6a5fc70d80aa9692ce9554b38e51d",
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10651-global.json",
+    "notes": [
+      "沿官网进入zsdata历年分数查询，读取实际前端、getType菜单和表头配置。广西菜单最高2025，含各科类普通与专项类别；未提供2026。仅确认所读公开接口的当前年份范围，未把发布时间当作招生统计年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10651-headers",
+    "title": "西南财经大学：公开分数查询菜单与字段配置（headers）",
+    "url": "https://zsdata.swufe.edu.cn/lqxx/s/api/front/infoconfig/getlqxsgz",
+    "publisher": "西南财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:25.595795+00:00",
+    "sha256": "46128e141374b57487feff1221a3fe4291602d63e0c5061d976e28ddf3a18572",
+    "responseSha256": "560ef7e3027e016852cb42ce287d0d519c3a54991555c6014df72a089c67cd99",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10651-headers.json",
+    "notes": [
+      "沿官网进入zsdata历年分数查询，读取实际前端、getType菜单和表头配置。广西菜单最高2025，含各科类普通与专项类别；未提供2026。仅确认所读公开接口的当前年份范围，未把发布时间当作招生统计年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10651-lnfsjs",
+    "title": "西南财经大学：公开查询前端字段（lnfsjs）",
+    "url": "https://zsdata.swufe.edu.cn/zsdata/lqxx/js/lqcxjg.cb49b323.js",
+    "publisher": "西南财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:04.925875+00:00",
+    "sha256": "60eafb62a87b8a23dbfd058e8f618f3ebc784100404b0e105079c71214f53075",
+    "responseSha256": "60eafb62a87b8a23dbfd058e8f618f3ebc784100404b0e105079c71214f53075",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10651-lnfsjs.js",
+    "notes": [
+      "沿官网进入zsdata历年分数查询，读取实际前端、getType菜单和表头配置。广西菜单最高2025，含各科类普通与专项类别；未提供2026。仅确认所读公开接口的当前年份范围，未把发布时间当作招生统计年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10651-query",
+    "title": "西南财经大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://zsdata.swufe.edu.cn/zsdata/lqxx/",
+    "publisher": "西南财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.613595+00:00",
+    "sha256": "1a71e1d000094914afd006ddc6411f57044e34a8e50847f45ac152fd7b6d39f7",
+    "responseSha256": "1a71e1d000094914afd006ddc6411f57044e34a8e50847f45ac152fd7b6d39f7",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10651-query.html",
+    "notes": [
+      "沿官网进入zsdata历年分数查询，读取实际前端、getType菜单和表头配置。广西菜单最高2025，含各科类普通与专项类别；未提供2026。仅确认所读公开接口的当前年份范围，未把发布时间当作招生统计年。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10673-2025",
+    "title": "云南大学：招生官网栏目与公开资料核查（2025）",
+    "url": "https://zsb.ynu.edu.cn/info/1050/3432.htm",
+    "publisher": "云南大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:23.367564+00:00",
+    "sha256": "b112a27421b5a069bc899f509c8160ce3085a1cbfeb0e36b2f72f2a34fda7d95",
+    "responseSha256": "b112a27421b5a069bc899f509c8160ce3085a1cbfeb0e36b2f72f2a34fda7d95",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10673-2025.html",
+    "notes": [
+      "实际读取云南大学往年招生目录及当前最新分省成绩文章，标题明确2025年各省区录取新生成绩统计表，未取得2026专业数据。只将旧年资料记为可用历史入口，不将目录或附件发布时间当统计年份。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10673-entry",
+    "title": "云南大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zsb.ynu.edu.cn/wnzs.htm",
+    "publisher": "云南大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:04.254919+00:00",
+    "sha256": "576a5651855677932d512e39f05994bb5ecc8716b0ba2105617ab9742a1d50b5",
+    "responseSha256": "576a5651855677932d512e39f05994bb5ecc8716b0ba2105617ab9742a1d50b5",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10673-entry.html",
+    "notes": [
+      "实际读取云南大学往年招生目录及当前最新分省成绩文章，标题明确2025年各省区录取新生成绩统计表，未取得2026专业数据。只将旧年资料记为可用历史入口，不将目录或附件发布时间当统计年份。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10710-app",
+    "title": "长安大学：公开查询前端字段（app）",
+    "url": "https://zsdata.chd.edu.cn/zsdata/lqxx/js/app.c668e400.js",
+    "publisher": "长安大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:04.926012+00:00",
+    "sha256": "42649646ad89d1302008998f35d78515c7c8c60af1ddf796900260a70dd97646",
+    "responseSha256": "42649646ad89d1302008998f35d78515c7c8c60af1ddf796900260a70dd97646",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10710-app.js",
+    "notes": [
+      "沿长安大学官网进入zsdata历年分数，实际读取前端、getType广西菜单与getFzcxpzList字段配置；广西最高2025，普通类、国家/高校专项等类别均属旧年菜单。2026未列在当前查询，未导入旧年分数。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10710-entry",
+    "title": "长安大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zsb.chd.edu.cn/",
+    "publisher": "长安大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:04.181901+00:00",
+    "sha256": "a6fb8aaed33fba11cfff92458661d983dec313179a4df2fbed77558526f1ee40",
+    "responseSha256": "a6fb8aaed33fba11cfff92458661d983dec313179a4df2fbed77558526f1ee40",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10710-entry.html",
+    "notes": [
+      "沿长安大学官网进入zsdata历年分数，实际读取前端、getType广西菜单与getFzcxpzList字段配置；广西最高2025，普通类、国家/高校专项等类别均属旧年菜单。2026未列在当前查询，未导入旧年分数。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10710-getFzcxpzList",
+    "title": "长安大学：招生官网栏目与公开资料核查（getFzcxpzList）",
+    "url": "https://zsdata.chd.edu.cn/lqxx/s/api/front/lqxx2/getFzcxpzList",
+    "publisher": "长安大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:25.596071+00:00",
+    "sha256": "8927255e99112c94e222941c5e2ab141d1a296768771e2648d95f9ae8170564b",
+    "responseSha256": "8bb200396eec85ea2eaa76f5708b372ac8ff9c5297f5fea0dbb3da054ec69047",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10710-getFzcxpzList.json",
+    "notes": [
+      "沿长安大学官网进入zsdata历年分数，实际读取前端、getType广西菜单与getFzcxpzList字段配置；广西最高2025，普通类、国家/高校专项等类别均属旧年菜单。2026未列在当前查询，未导入旧年分数。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10710-getType",
+    "title": "长安大学：公开分数查询菜单与字段配置（getType）",
+    "url": "https://zsdata.chd.edu.cn/lqxx/s/api/front/lqxx2/getType",
+    "publisher": "长安大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:25.595986+00:00",
+    "sha256": "cdcd8373b275bf088d60f0d09e7c6bd1da97a5fa3650d6b75fbaadb2bfb0206e",
+    "responseSha256": "a1f90b9b29da73bafaf19b0b4688624bcdc607aca379510b860db457602a0c0c",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10710-getType.json",
+    "notes": [
+      "沿长安大学官网进入zsdata历年分数，实际读取前端、getType广西菜单与getFzcxpzList字段配置；广西最高2025，普通类、国家/高校专项等类别均属旧年菜单。2026未列在当前查询，未导入旧年分数。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10710-global",
+    "title": "长安大学：招生官网栏目与公开资料核查（global）",
+    "url": "https://zsdata.chd.edu.cn/lqxx/s/api/front/infoconfig/getGlobalCfg",
+    "publisher": "长安大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:25.987911+00:00",
+    "sha256": "69b98382c3016669da0a97f7ed0607c7cf6e87832ea12eb03d707a7450978d29",
+    "responseSha256": "61f61a2b07ad85b1c6984a171eb9c822f2bc2f99d29f3a411f13a2ad90837eee",
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10710-global.json",
+    "notes": [
+      "沿长安大学官网进入zsdata历年分数，实际读取前端、getType广西菜单与getFzcxpzList字段配置；广西最高2025，普通类、国家/高校专项等类别均属旧年菜单。2026未列在当前查询，未导入旧年分数。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10710-headers",
+    "title": "长安大学：公开分数查询菜单与字段配置（headers）",
+    "url": "https://zsdata.chd.edu.cn/lqxx/s/api/front/infoconfig/getlqxsgz",
+    "publisher": "长安大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:25.596159+00:00",
+    "sha256": "62473ce08593a1bc57f0be17f92208ef43a9689b215486e497f35e4076574d42",
+    "responseSha256": "cbb535a651b8b5176b1f84ec1380645b325ec845742ef9cd05bb60cc99e11c8d",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10710-headers.json",
+    "notes": [
+      "沿长安大学官网进入zsdata历年分数，实际读取前端、getType广西菜单与getFzcxpzList字段配置；广西最高2025，普通类、国家/高校专项等类别均属旧年菜单。2026未列在当前查询，未导入旧年分数。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10710-lnfsjs",
+    "title": "长安大学：公开查询前端字段（lnfsjs）",
+    "url": "https://zsdata.chd.edu.cn/zsdata/lqxx/js/lqcxjg.3b723d91.js",
+    "publisher": "长安大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:04.926119+00:00",
+    "sha256": "35ec24ca04ba8897784103f42e011dd9c64ea0b9357c9eb116b6d93469293e16",
+    "responseSha256": "35ec24ca04ba8897784103f42e011dd9c64ea0b9357c9eb116b6d93469293e16",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10710-lnfsjs.js",
+    "notes": [
+      "沿长安大学官网进入zsdata历年分数，实际读取前端、getType广西菜单与getFzcxpzList字段配置；广西最高2025，普通类、国家/高校专项等类别均属旧年菜单。2026未列在当前查询，未导入旧年分数。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10710-query",
+    "title": "长安大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://zsdata.chd.edu.cn/zsdata/lqxx/",
+    "publisher": "长安大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:23.196082+00:00",
+    "sha256": "2c5a7427daab8d9127715e7d4fa6ab258f0c1bc441025c341a01008e6cc5b711",
+    "responseSha256": "2c5a7427daab8d9127715e7d4fa6ab258f0c1bc441025c341a01008e6cc5b711",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10710-query.html",
+    "notes": [
+      "沿长安大学官网进入zsdata历年分数，实际读取前端、getType广西菜单与getFzcxpzList字段配置；广西最高2025，普通类、国家/高校专项等类别均属旧年菜单。2026未列在当前查询，未导入旧年分数。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10726-entry",
+    "title": "西北政法大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://bkzn.nwupl.edu.cn/info/iList.jsp?cat_id=11144",
+    "publisher": "西北政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.545441+00:00",
+    "sha256": "74587a35f52e735d0173466e877075a22436f9fd0ea1a6ad8b782bef3c783e50",
+    "responseSha256": "74587a35f52e735d0173466e877075a22436f9fd0ea1a6ad8b782bef3c783e50",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10726-entry.js",
+    "notes": [
+      "旧lnfs目录最新2022后继续转入enrol.nwupl.edu.cn公开历年分数查询，读取实际select_datas菜单，年份2017至2025，广西最新2025本科批。当前查询未提供2026，恢复新入口后不再沿用旧栏目年份作唯一依据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10726-query",
+    "title": "西北政法大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://enrol.nwupl.edu.cn/zfzs/system/pc/xfd_lv_view.jsp",
+    "publisher": "西北政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:05.941394+00:00",
+    "sha256": "6fcaeb65c72cce2b50a7bb38d63eda31f9926bbf7c53af360408e262b3ea26d8",
+    "responseSha256": "6fcaeb65c72cce2b50a7bb38d63eda31f9926bbf7c53af360408e262b3ea26d8",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10726-query.js",
+    "notes": [
+      "旧lnfs目录最新2022后继续转入enrol.nwupl.edu.cn公开历年分数查询，读取实际select_datas菜单，年份2017至2025，广西最新2025本科批。当前查询未提供2026，恢复新入口后不再沿用旧栏目年份作唯一依据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-10726-querylist",
+    "title": "西北政法大学：招生官网栏目与公开资料核查（querylist）",
+    "url": "https://bkzn.nwupl.edu.cn/info/iList.jsp?cat_id=11812",
+    "publisher": "西北政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:05.901852+00:00",
+    "sha256": "7c370d9536d7d0d6a0f7cd7f9826692acd93e4fb05ba46f7b630b879740343d3",
+    "responseSha256": "7c370d9536d7d0d6a0f7cd7f9826692acd93e4fb05ba46f7b630b879740343d3",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "10726-querylist.js",
+    "notes": [
+      "旧lnfs目录最新2022后继续转入enrol.nwupl.edu.cn公开历年分数查询，读取实际select_datas菜单，年份2017至2025，广西最新2025本科批。当前查询未提供2026，恢复新入口后不再沿用旧栏目年份作唯一依据。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-11414-charter-body-session",
+    "title": "中国石油大学(北京)：招生章程与专业录取分数口径（charter-body-session）",
+    "url": "https://bkzs.cup.edu.cn/f/newsCenter/ajax_article_view",
+    "publisher": "中国石油大学(北京)",
+    "year": 2026,
+    "publishedAt": "2026-05-29",
+    "accessedAt": "2026-09-12T14:10:38.064554+00:00",
+    "sha256": "d64153ed8332e1aa50508314b6b8384b2a5a0cd3f1baa391efe478b95199d9ab",
+    "responseSha256": "7da8f0b2c2cd4ea51b286d92645c56d6dae9314e64dc4837ac0043abb2d98fa7",
+    "requestMethod": "POST",
+    "requestData": {
+      "contentId": "9f76c2aded2d48ce9c9f0c85581e2a87"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "11414-charter-body-session.json",
+    "notes": [
+      "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-11414-charter-body",
+    "title": "中国石油大学(北京)：招生章程与专业录取分数口径（charter-body）",
+    "url": "https://bkzs.cup.edu.cn/f/newsCenter/ajax_article_view",
+    "publisher": "中国石油大学(北京)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:10:12.974542+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "POST",
+    "requestData": {
+      "contentId": "9f76c2aded2d48ce9c9f0c85581e2a87"
+    },
+    "httpStatus": 403,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。"
+    ],
+    "accessFailure": "http-error"
+  },
+  {
+    "id": "major-20260912pilot-c-11414-charter",
+    "title": "中国石油大学(北京)：招生章程与专业录取分数口径（charter）",
+    "url": "https://bkzs.cup.edu.cn/static/front/cup/basic/html_cms/frontViewArticle.html?id=9f76c2aded2d48ce9c9f0c85581e2a87",
+    "publisher": "中国石油大学(北京)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T14:09:38.926756+00:00",
+    "sha256": "2afa904efb1dec716e71693763acd2bc372ce4d1c9aca8ddab4c72b35b1a0c38",
+    "responseSha256": "2afa904efb1dec716e71693763acd2bc372ce4d1c9aca8ddab4c72b35b1a0c38",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "11414-charter.html",
+    "notes": [
+      "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-11414-entry",
+    "title": "中国石油大学(北京)：招生官网栏目与公开资料核查（entry）",
+    "url": "https://bkzs.cup.edu.cn/",
+    "publisher": "中国石油大学(北京)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:03.274448+00:00",
+    "sha256": "d3f5f2eae1f733bfeef13e788c8baf66a7e1cd523941772380a91d40d892309f",
+    "responseSha256": "d3f5f2eae1f733bfeef13e788c8baf66a7e1cd523941772380a91d40d892309f",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "11414-entry.html",
+    "notes": [
+      "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-11414-lnfs",
+    "title": "中国石油大学(北京)：招生官网栏目与公开资料核查（lnfs）",
+    "url": "https://bkzs.cup.edu.cn/static/front/cup/basic/html_web/lnfs.html",
+    "publisher": "中国石油大学(北京)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.879999+00:00",
+    "sha256": "9343c71a3e55ae52be101ef7e63c8ea6885b91215ea44399fb1e9443d7d0fa0e",
+    "responseSha256": "9343c71a3e55ae52be101ef7e63c8ea6885b91215ea44399fb1e9443d7d0fa0e",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "11414-lnfs.html",
+    "notes": [
+      "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-11414-param-session",
+    "title": "中国石油大学(北京)：公开分数查询菜单与字段配置（param-session）",
+    "url": "https://bkzs.cup.edu.cn/f/ajax_lnfs_param",
+    "publisher": "中国石油大学(北京)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:53:30.245642+00:00",
+    "sha256": "06cda27319f84227ed891a61c89ff1ebb8439b16e6e3d237e8da7978e681aa5c",
+    "responseSha256": "21dc518c40919c4449a81001055aa527c1d0d9ea4440e60bd1a3e96600940a3f",
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "11414-param-session.json",
+    "notes": [
+      "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-11414-param",
+    "title": "中国石油大学(北京)：公开分数查询菜单与字段配置（param）",
+    "url": "https://bkzs.cup.edu.cn/f/ajax_lnfs_param",
+    "publisher": "中国石油大学(北京)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:06.158518+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 403,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": null,
+    "notes": [
+      "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。"
+    ],
+    "accessFailure": "http-error"
+  },
+  {
+    "id": "major-20260912pilot-c-11414-scores-1",
+    "title": "中国石油大学(北京)：2026广西具体专业录取最低分（scores-1）",
+    "url": "https://bkzs.cup.edu.cn/f/ajax_lnfs",
+    "publisher": "中国石油大学(北京)",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:20.719888+00:00",
+    "sha256": "b178236309ba12935d436cc0e67b006658a2a59013a3a6b500346d2966d8c594",
+    "responseSha256": "d0e098e6fb1a65cc44c21ece244d41b0c8cd516c8a2c6b3c7cfe0d63b11bf284",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "中外合作办学",
+      "sex": "",
+      "campus": "",
+      "zyz": "物理+化学"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "11414-scores-1.json",
+    "notes": [
+      "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-11414-scores-2",
+    "title": "中国石油大学(北京)：2026广西具体专业录取最低分（scores-2）",
+    "url": "https://bkzs.cup.edu.cn/f/ajax_lnfs",
+    "publisher": "中国石油大学(北京)",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:20.999775+00:00",
+    "sha256": "ff7b6f553e6310f1815bfaa0308801ccf88e961aef080a56ebd5fcd2f8f23add",
+    "responseSha256": "3a69bd7a7a32d11f08d5badd339095e3e16d81e7188ce9e0d2a99b5e34b97410",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通类",
+      "sex": "",
+      "campus": "",
+      "zyz": "物理+化学"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "11414-scores-2.json",
+    "notes": [
+      "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-11414-scores-3",
+    "title": "中国石油大学(北京)：2026广西具体专业录取最低分（scores-3）",
+    "url": "https://bkzs.cup.edu.cn/f/ajax_lnfs",
+    "publisher": "中国石油大学(北京)",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:55:21.266966+00:00",
+    "sha256": "b9836561e0acc0f6237016e0f3cefa45404a0432ba7084561d34e184d5166475",
+    "responseSha256": "066156c839d2fe1afa56686d5a7f7222f3ee574ee0d69b2b9db4c5bc3196abc0",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "国家专项计划",
+      "sex": "",
+      "campus": "",
+      "zyz": "物理"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "evidenceType": "public-response",
+    "archiveFile": "11414-scores-3.json",
+    "notes": [
+      "按真实ajax_lnfs_param菜单覆盖2026广西物理类全部3个类别组合：普通类17条、中外合作2条、国家专项2条，合计21条具体专业实际最低分，未采用学校或组汇总数组。专业组字段为物理/物理+化学等名称，不当作广西3位组码；zydm是全国专业代码，未当作广西填报代号。接口与可见表头直接支持最低分排名。未列轮次保留汇总口径。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-19145-app",
+    "title": "东北大学秦皇岛分校：公开查询前端字段（app）",
+    "url": "https://zslq.neuq.edu.cn/zjzwzhaolu/static/js/2026_07_12_09_43.0d58638056da8919ff86.main.js",
+    "publisher": "东北大学秦皇岛分校",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:52:04.926290+00:00",
+    "sha256": "d4989829d6614598f8bbdf5fc8401e9ba0cf8183f26f1b78ef58331247caab61",
+    "responseSha256": "d4989829d6614598f8bbdf5fc8401e9ba0cf8183f26f1b78ef58331247caab61",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "19145-app.js",
+    "notes": [
+      "沿招生官网历年分数目录进入zslq.neuq.edu.cn公开查询；浏览器真实菜单仅2025、2024、2023。选取2025广西历史类本科批，显示经济学类、工商管理类、外国语言文学类3条专业结果，确认入口可用；未提供2026选项，不据此推定全校未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-19145-browser-observation-1",
+    "title": "东北大学秦皇岛分校：公开页面浏览器核查记录（browser-observation-1）",
+    "url": "https://zslq.neuq.edu.cn/release-page/OverYears?key=r%2BkqhCVU%2FPpgPn8%2FnHJ2",
+    "publisher": "东北大学秦皇岛分校",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12",
+    "sha256": "d77b154d67b8470c9dad87fbe16b5c1b58fafae5dec22c4b4e46e03c89b5d498",
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "evidenceType": "browser-dom-observation",
+    "archiveFile": "19145-browser-observation-1.json",
+    "notes": [
+      "浏览器选择2025广西历史类本科批；年份菜单2025/2024/2023，具体专业结果3条。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-19145-entry",
+    "title": "东北大学秦皇岛分校：招生官网栏目与公开资料核查（entry）",
+    "url": "https://zs.neuq.edu.cn/bkzn/lnfs.htm",
+    "publisher": "东北大学秦皇岛分校",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:02.615315+00:00",
+    "sha256": "93c8600a5ffc17870292fd484021cffc0d837465608b3936435179e27a4b64ed",
+    "responseSha256": "93c8600a5ffc17870292fd484021cffc0d837465608b3936435179e27a4b64ed",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "19145-entry.html",
+    "notes": [
+      "沿招生官网历年分数目录进入zslq.neuq.edu.cn公开查询；浏览器真实菜单仅2025、2024、2023。选取2025广西历史类本科批，显示经济学类、工商管理类、外国语言文学类3条专业结果，确认入口可用；未提供2026选项，不据此推定全校未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-19145-query",
+    "title": "东北大学秦皇岛分校：招生官网栏目与公开资料核查（query）",
+    "url": "https://zslq.neuq.edu.cn/release-page/OverYears?key=r%2BkqhCVU%2FPpgPn8%2FnHJ2",
+    "publisher": "东北大学秦皇岛分校",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.348841+00:00",
+    "sha256": "c077d56933904156c29bab7e69a03d4932aff16ca5cf6c4c4d7c50181c4742a4",
+    "responseSha256": "c077d56933904156c29bab7e69a03d4932aff16ca5cf6c4c4d7c50181c4742a4",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "19145-query.html",
+    "notes": [
+      "沿招生官网历年分数目录进入zslq.neuq.edu.cn公开查询；浏览器真实菜单仅2025、2024、2023。选取2025广西历史类本科批，显示经济学类、工商管理类、外国语言文学类3条专业结果，确认入口可用；未提供2026选项，不据此推定全校未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-19145-scorechunk",
+    "title": "东北大学秦皇岛分校：公开分数查询结果核查（scorechunk）",
+    "url": "https://zslq.neuq.edu.cn/zjzwzhaolu/static/js/2026_07_12_09_43.e31e627a8fb1f54a.7458.chunk.js",
+    "publisher": "东北大学秦皇岛分校",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:57:01.579841+00:00",
+    "sha256": "1a73261df0a70eb571657d1a592b51cb546d0f663ea29a7caad2e6f6f5883ba6",
+    "responseSha256": "1a73261df0a70eb571657d1a592b51cb546d0f663ea29a7caad2e6f6f5883ba6",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "19145-scorechunk.js",
+    "notes": [
+      "沿招生官网历年分数目录进入zslq.neuq.edu.cn公开查询；浏览器真实菜单仅2025、2024、2023。选取2025广西历史类本科批，显示经济学类、工商管理类、外国语言文学类3条专业结果，确认入口可用；未提供2026选项，不据此推定全校未发布。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-92027-entry",
+    "title": "空军军医大学：招生官网栏目与公开资料核查（entry）",
+    "url": "https://www.fmmu.edu.cn/zhaosheng/",
+    "publisher": "空军军医大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:49:02.615397+00:00",
+    "sha256": "8e380ac19e7a54b9d6cde1a19409bac7dd5d4c6fc163c82955bd7fbbbd198200",
+    "responseSha256": "8e380ac19e7a54b9d6cde1a19409bac7dd5d4c6fc163c82955bd7fbbbd198200",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "92027-entry.html",
+    "notes": [
+      "实际读取学校招生主页及new_cxjgsocre.jsp录取分数查询表单，省份菜单含广西，年份菜单为2025至2021，未提供2026。未提交个人录取查询，不把旧年表单当作当前年分数。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-92027-query",
+    "title": "空军军医大学：招生官网栏目与公开资料核查（query）",
+    "url": "https://www.fmmu.edu.cn/zhaosheng/new_cxjgsocre.jsp?urltype=tree.TreeTempUrl&wbtreeid=1111",
+    "publisher": "空军军医大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:50:22.348919+00:00",
+    "sha256": "d797f48546edaac8d79c0a1356ca61f46fd807a1fea522303ed0514acd728bf7",
+    "responseSha256": "d797f48546edaac8d79c0a1356ca61f46fd807a1fea522303ed0514acd728bf7",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "92027-query.js",
+    "notes": [
+      "实际读取学校招生主页及new_cxjgsocre.jsp录取分数查询表单，省份菜单含广西，年份菜单为2025至2021，未提供2026。未提交个人录取查询，不把旧年表单当作当前年分数。"
+    ]
+  },
+  {
+    "id": "major-20260912pilot-c-zhineng-major-js",
+    "title": "中国地质大学(武汉)：公开查询前端字段（g-major-js）",
+    "url": "https://admin.zhinengdayi.com/static/scripts/front/page/majorEnrollForm2.js",
+    "publisher": "中国地质大学(武汉)",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T13:57:21.288573+00:00",
+    "sha256": "8c11158ae6fd5508ea1cd9d07117465c3961d8e2c38e1a6f2192c9664f0f32d5",
+    "responseSha256": "8c11158ae6fd5508ea1cd9d07117465c3961d8e2c38e1a6f2192c9664f0f32d5",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "evidenceType": "public-response",
+    "archiveFile": "zhineng-major-js.js",
+    "notes": [
+      "沿中国地质大学武汉官方页面读取AIGTAZ专业录取查询及真实majorScore表单，广西getMajorSelectChange菜单yearList最高2025，最低2017；当前菜单未提供2026。所读信息页发布日期不作分数年份证据。"
+    ]
+  }
+]

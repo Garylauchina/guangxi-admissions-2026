@@ -1,0 +1,15 @@
+[
+  {
+    "id": "11414-charter-body-session",
+    "schoolCode": "11414",
+    "host": "https://bkzs.cup.edu.cn",
+    "entryUrl": "https://bkzs.cup.edu.cn/static/front/cup/basic/html_cms/frontViewArticle.html?id=9f76c2aded2d48ce9c9f0c85581e2a87",
+    "url": "https://bkzs.cup.edu.cn/f/newsCenter/ajax_article_view",
+    "path": "f/newsCenter/ajax_article_view",
+    "request": {
+      "contentId": "9f76c2aded2d48ce9c9f0c85581e2a87"
+    },
+    "method": "POST",
+    "ext": "json"
+  }
+]

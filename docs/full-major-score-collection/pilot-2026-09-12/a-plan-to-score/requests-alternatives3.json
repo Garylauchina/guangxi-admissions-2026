@@ -1,0 +1,84 @@
+[
+  {
+    "id": "p100a-11548-header",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/www/subWebSites/zsxx/header.html",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-11548-types",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/wwwservice/fetchInfoTypeListAll",
+    "purpose": "alternative-official-source",
+    "request": {
+      "typeid00": "zsxx",
+      "includeAll": true
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-10007-protocol",
+    "schoolCode": "10007",
+    "school": "北京理工大学",
+    "url": "https://admission.bit.edu.cn/static/front/bit/basic/js/tplt.js",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10006-protocol",
+    "schoolCode": "10006",
+    "school": "北京航空航天大学",
+    "url": "https://lqcx.buaa.edu.cn/static/front/buaa/basic/js/tplt.js",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10284-protocol",
+    "schoolCode": "10284",
+    "school": "南京大学",
+    "url": "https://bkzs.nju.edu.cn/static/front/nju/basic/js/tplt.js",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10358-protocol",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "url": "https://zsfw.ustc.edu.cn/static/front/ustc/basic/js/tplt.js",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10002-protocol",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "url": "https://rdzs.ruc.edu.cn/static/front/ruc/basic/js/tplt.js",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10006-admission2026",
+    "schoolCode": "10006",
+    "school": "北京航空航天大学",
+    "url": "https://zs.buaa.edu.cn/info/1047/3600.htm",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10487-admission-index",
+    "schoolCode": "10487",
+    "school": "华中科技大学",
+    "url": "https://zsb.hust.edu.cn/bkzn/lqqk.htm",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10487-news-index",
+    "schoolCode": "10487",
+    "school": "华中科技大学",
+    "url": "https://zsb.hust.edu.cn/bkzn/tzgg.htm",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10358-information-public",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "url": "https://zsb.ustc.edu.cn/xxgk/list.htm",
+    "purpose": "alternative-official-source"
+  }
+]

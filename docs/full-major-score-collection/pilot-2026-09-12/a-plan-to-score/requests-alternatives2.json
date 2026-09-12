@@ -1,0 +1,141 @@
+[
+  {
+    "id": "p100a-11607-scores",
+    "schoolCode": "11607",
+    "school": "北部湾大学",
+    "url": "https://zsw.bbgu.edu.cn/lqxx.htm",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-11607-news",
+    "schoolCode": "11607",
+    "school": "北部湾大学",
+    "url": "https://zsw.bbgu.edu.cn/zsgg.htm",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-11607-downloads",
+    "schoolCode": "11607",
+    "school": "北部湾大学",
+    "url": "https://zsw.bbgu.edu.cn/xzzx.htm",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-11548-common",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/www/subWebSites/zsxx/js/common.js",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-11548-demo01",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/www/subWebSites/zsxx/js/demo01.js",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-14127-recruit-physics",
+    "schoolCode": "14127",
+    "school": "广西工程职业学院",
+    "url": "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-10/9128.html",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-14127-recruit-history",
+    "schoolCode": "14127",
+    "school": "广西工程职业学院",
+    "url": "https://gxgcedu.com/zsjy/zsb/lnfsx/2026-08-10/9127.html",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10248-home",
+    "schoolCode": "10248",
+    "school": "上海交通大学",
+    "url": "https://admissions.sjtu.edu.cn/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10248-score-index",
+    "schoolCode": "10248",
+    "school": "上海交通大学",
+    "url": "https://admissions.sjtu.edu.cn/rnapi/newsList",
+    "purpose": "alternative-official-source",
+    "request": {
+      "subjectsID": 3810062,
+      "pageNum": 1,
+      "pageSize": 100
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-19248-information-public",
+    "schoolCode": "19248",
+    "school": "上海交通大学医学院",
+    "url": "https://www.shsmu.edu.cn/xxgk/xxgklm1/zsxx.htm",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10007-home",
+    "schoolCode": "10007",
+    "school": "北京理工大学",
+    "url": "https://admission.bit.edu.cn/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10006-home",
+    "schoolCode": "10006",
+    "school": "北京航空航天大学",
+    "url": "https://zs.buaa.edu.cn/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10558-home",
+    "schoolCode": "10558",
+    "school": "中山大学",
+    "url": "https://admission.sysu.edu.cn/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10284-home",
+    "schoolCode": "10284",
+    "school": "南京大学",
+    "url": "https://bkzs.nju.edu.cn/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10358-home",
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "url": "https://zsb.ustc.edu.cn/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10487-home",
+    "schoolCode": "10487",
+    "school": "华中科技大学",
+    "url": "https://zsb.hust.edu.cn/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10002-home",
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "url": "https://rdzs.ruc.edu.cn/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10213-home",
+    "schoolCode": "10213",
+    "school": "哈尔滨工业大学",
+    "url": "https://zsb.hit.edu.cn/",
+    "purpose": "alternative-official-source"
+  },
+  {
+    "id": "p100a-10213-score2026",
+    "schoolCode": "10213",
+    "school": "哈尔滨工业大学",
+    "url": "https://zsb.hit.edu.cn/information/score?year=2026&province=%E5%B9%BF%E8%A5%BF",
+    "purpose": "alternative-official-source"
+  }
+]

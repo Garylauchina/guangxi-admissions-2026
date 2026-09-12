@@ -1,0 +1,25 @@
+[
+  {
+    "id": "10491-form",
+    "schoolCode": "10491",
+    "url": "https://admin.zhinengdayi.com/front/info/form/majorScore?sCode=AIGTAZ&showDetailsConfig="
+  },
+  {
+    "id": "10294-gx2026",
+    "schoolCode": "10294",
+    "url": "https://zsw.hhu.edu.cn/api/lsfs/fsList",
+    "data": {
+      "province": "广西",
+      "year": "2026"
+    }
+  },
+  {
+    "id": "10294-gx2025",
+    "schoolCode": "10294",
+    "url": "https://zsw.hhu.edu.cn/api/lsfs/fsList",
+    "data": {
+      "province": "广西",
+      "year": "2025"
+    }
+  }
+]

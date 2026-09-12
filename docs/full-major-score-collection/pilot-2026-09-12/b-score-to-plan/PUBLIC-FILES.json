@@ -1,0 +1,132 @@
+{
+  "frozenAt": "2026-09-12T22:18:26.552654+08:00",
+  "mode": "copy-only-explicit-files",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "e173d339fa078147cb393f3f052583e17c1598c4b5778786b9e90822382bb411",
+      "bytes": 4288
+    },
+    {
+      "path": "build.py",
+      "sha256": "4004da8e002f826d42f428494de34d1e66e68f15f872ed3337bfa440ce0efb07",
+      "bytes": 14421
+    },
+    {
+      "path": "build_reviews.py",
+      "sha256": "761a8034fe574af77b6954468d64cf7a3430480478bb83fd0d385d9b594217ca",
+      "bytes": 11275
+    },
+    {
+      "path": "collect.py",
+      "sha256": "f2bbeddb3e315c2619d9fcc439b546d15adb4eec099d0a68762f027f3dfffa08",
+      "bytes": 2486
+    },
+    {
+      "path": "session_query.py",
+      "sha256": "9f8f030928611a2aad9c2678f0f0dd7784e329385904a79027b4087e7e711027",
+      "bytes": 2388
+    },
+    {
+      "path": "parse_tables.py",
+      "sha256": "785d83d367ac4a223ebb2554eda5337623e9bdd6a75a73ea7d8ec91cfca19c69",
+      "bytes": 2705
+    },
+    {
+      "path": "extract_pdf.py",
+      "sha256": "1b54a929a6b99008dafba141c17077a434741fad9d1b6bb1455f47fbbfda5b9a",
+      "bytes": 388
+    },
+    {
+      "path": "verify.py",
+      "sha256": "b32d2f3520de4b2e26784c60483844ce136be476eea36ee7ee750901e90910a6",
+      "bytes": 5170
+    },
+    {
+      "path": "targets-public.json",
+      "sha256": "1163b2959b82e7aea8077d406d0a7f748ea0d51c125263f455fbc4fa8f196cec",
+      "bytes": 4193
+    },
+    {
+      "path": "summary.json",
+      "sha256": "6849cda90cb3c7b2c02b85fb6b6a5666ca980f1942b459bb142a903c415f5045",
+      "bytes": 3135
+    },
+    {
+      "path": "score-review-summary.json",
+      "sha256": "8405f06fda7f2a677d277c0e88c4829b51a5f942d25b6f7b9c0de21fa3b1169b",
+      "bytes": 117
+    },
+    {
+      "path": "scope-review-observations.json",
+      "sha256": "dbdd723ba7db8903834971591e75b1f0423d71526ff3cf0a85bd317ebec547a7",
+      "bytes": 54223
+    },
+    {
+      "path": "plan-qa.json",
+      "sha256": "224b885b02f0243a8884da7d9e6735a5bbc1ca35048dc0ab005f8360f009e409",
+      "bytes": 6776
+    },
+    {
+      "path": "verification.json",
+      "sha256": "daa0d58c9c1ee5c8bca3ebd1a4499ece3f724405fa0f779a6bff41cb94bf88b6",
+      "bytes": 25103
+    },
+    {
+      "path": "preflight.json",
+      "sha256": "91b77103b041caaca5edbab74d3faacc655cc3fb1f06de188986d81fc35da363",
+      "bytes": 58999
+    },
+    {
+      "path": "score-preflight.json",
+      "sha256": "a3bbb44f2e1cfed42efdceaccde27754817f8eb19eb8d923eae9f82171fd5245",
+      "bytes": 368
+    },
+    {
+      "path": "plan-package/plans-upsert.json",
+      "sha256": "03fb111875bd06a561e50dbcf3c9104a8f8f852da72a38be46d5ca230b450782",
+      "bytes": 680939
+    },
+    {
+      "path": "plan-package/source-catalog.json",
+      "sha256": "e63ab9027a1290f3912d55ed7aeaf5c68a323b53fc748663f4a4a6e9575a22d7",
+      "bytes": 22326
+    },
+    {
+      "path": "plan-package/sources.json",
+      "sha256": "93551b464fea019588f8c6d42d022ff9ecad010321f66111989a020cf8378e14",
+      "bytes": 73983
+    },
+    {
+      "path": "score-package/major-cutoffs-upsert.json",
+      "sha256": "c8d558bf1924560d25a842f05cc52d67b066345b1f9d1450b717ab1be4b59c37",
+      "bytes": 4477
+    },
+    {
+      "path": "score-package/school-audit-notes.json",
+      "sha256": "f50d141db179d8e1ab59ca9b21f8da90765a655fdb4d23e52bc6936e5515673c",
+      "bytes": 20111
+    },
+    {
+      "path": "score-package/sources.json",
+      "sha256": "c5be3fa50e1f41ba5459c9804b3a7b505a7060574b8673a133a7e193f20a8ced",
+      "bytes": 128831
+    }
+  ],
+  "localOnly": [
+    "raw/",
+    "targets.json",
+    "requests-*.json",
+    "sessions*.json",
+    "*.tables.json",
+    "fjbu-tables.json",
+    "*.pdf",
+    "*.png",
+    "*.jpg",
+    "*.txt",
+    "make_requests.py",
+    "links.py",
+    "build-result.json"
+  ],
+  "notes": "This manifest itself may also be public. Archive files, full API responses, PDFs and images are local only."
+}

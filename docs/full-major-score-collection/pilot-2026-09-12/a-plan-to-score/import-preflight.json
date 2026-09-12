@@ -1,0 +1,595 @@
+{
+  "before": 1255,
+  "after": 1372,
+  "added": 117,
+  "updated": 0,
+  "schoolCodes": 38,
+  "pending": 121,
+  "changes": [
+    {
+      "id": "p100a-11548-history-2026-物理类-row1",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row2",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row3",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row4",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row5",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row6",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row7",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row8",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row9",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row10",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row11",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row12",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row13",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row14",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row15",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row16",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row17",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row18",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row19",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row20",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row21",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row22",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row23",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row24",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row25",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row26",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row27",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row28",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row29",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row30",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row31",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row32",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row33",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row34",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row35",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row36",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row37",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row38",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row39",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row40",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row41",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row42",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row43",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row44",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row45",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row46",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row47",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row48",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row49",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row50",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row51",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row52",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row53",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row54",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row55",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row56",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row57",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row58",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row59",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row60",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row61",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row62",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row63",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row64",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row65",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row66",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row67",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row68",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row69",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row70",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-物理类-row71",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row1",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row2",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row3",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row4",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row5",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row6",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row7",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row8",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row9",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row10",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row11",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row12",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row13",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row14",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row15",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row16",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row17",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row18",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row19",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row20",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row21",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row22",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row23",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row24",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row25",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row26",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row27",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row28",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row29",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row30",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row31",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row32",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row33",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row34",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row35",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row36",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row37",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row38",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row39",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row40",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row41",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row42",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row43",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row44",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row45",
+      "school": "广西财经学院",
+      "action": "add"
+    },
+    {
+      "id": "p100a-11548-history-2026-历史类-row46",
+      "school": "广西财经学院",
+      "action": "add"
+    }
+  ]
+}

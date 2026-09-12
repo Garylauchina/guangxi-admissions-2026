@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-09-12T14:36:50.954661+00:00",
+  "stage": "local-release-gates",
+  "status": "passed",
+  "tests": {
+    "total": 30,
+    "passed": 30,
+    "failed": 0
+  },
+  "checks": [
+    "npm test",
+    "npm run check including data validation, queue reproduction and content versions",
+    "git diff --check",
+    "all100 target codes have installed major-score audit notes",
+    "old1255scores/1970plans/1101sources unchanged",
+    "B410plans and C141scores independently checked",
+    "A/D public privacy and source references reviewed",
+    "actual browser now shows2380plans/49schools alongside1394comparableScores/42schools",
+    "real browser14008 physics14plans includes preventive medicine4seats",
+    "pending-only11548 shows0comparable and117pending",
+    "independent136professional filing records are accessible from school details",
+    "desktop screenshots inspected: readable layout and no horizontal overflow"
+  ],
+  "runtimeDataVersion": "984e74f48e5c6af79498665f9dfd7f199f64547ac293c295e70f1ed385059b75",
+  "appVersion": "9f14c29dc685",
+  "deploymentGate": "After commit, require the exact commit GitHub Pages workflow to succeed and18runtime resources to match; deployment evidence is the associated GitHub Actions run and post-deploy verification report, not this pre-deploy local checkpoint."
+}

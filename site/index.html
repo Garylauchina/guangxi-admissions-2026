@@ -59,7 +59,7 @@
     <section id="gaps-view" class="content-view" hidden aria-labelledby="gaps-title">
       <div class="section-heading"><h2 id="gaps-title">逐校查看数据缺口</h2><p>盘点本站已收录资料。没有收录不等于没有招生；有部分记录也不代表该校、该组专业已完整。</p></div>
       <div id="gap-overview" class="notice"></div>
-      <div class="special-controls"><label for="gap-query">院校名称或代码 <input id="gap-query" type="search" placeholder="例如：广西大学、10593"></label><label for="gap-status">查看范围 <select id="gap-status"><option value="all">全部院校</option><option value="collected">已收录计划或专业录取线</option><option value="no-plans">尚未收录专业计划</option><option value="no-majors">尚未收录专业录取线</option><option value="subjects">计划选科要求有缺口</option><option value="major-collected">已有部分专业录取分</option><option value="major-reviewed-gap">已核查仍未取得专业分</option><option value="major-not-reviewed">尚待专业分核查</option><option value="reviewed">有逐校复查记录（含计划）</option></select></label></div>
+      <div class="special-controls"><label for="gap-query">院校名称或代码 <input id="gap-query" type="search" placeholder="例如：广西大学、10593"></label><label for="gap-status">查看范围 <select id="gap-status"><option value="all">全部院校</option><option value="collected">已收录计划或可比较专业分</option><option value="no-plans">尚未收录专业计划</option><option value="no-majors">仍缺可比较专业录取分</option><option value="subjects">计划选科要求有缺口</option><option value="major-collected">已有可比较专业录取分</option><option value="major-reviewed-gap">已核查仍缺可比较专业分</option><option value="major-pending-only">仅有待核专业分</option><option value="major-not-reviewed">尚待专业分核查</option><option value="reviewed">有逐校复查记录（含计划）</option></select></label></div>
       <p id="gap-count" class="muted" aria-live="polite"></p><div id="gap-list" class="gap-grid"></div>
       <div class="pagination"><button type="button" id="gap-prev" class="outline-button">上一页</button><span id="gap-page"></span><button type="button" id="gap-next" class="outline-button">下一页</button></div>
       <p class="help"><a href="./data/school-coverage.json" download>下载逐校数据覆盖台账 ↓</a> · <a href="./data/school-audit-notes.json" download>下载历次复查记录 ↓</a> · <a href="./data/plan-source-catalog.json" download>下载专业计划来源目录 ↓</a> · <a href="./data/supplementary-plans.json" download>另存的征集剩余计划 ↓</a> · <a href="./data/major-filing-cutoffs.json" download>另存的专业投档记录（非实际录取线）↓</a>。首轮无出档分数是官方表中的空值，不能当作零分或缺少采集。</p>
@@ -70,6 +70,6 @@
   <dialog id="detail"><div class="dialog-top"><span>招生数据详情</span><button id="close-detail" type="button" aria-label="关闭详情">×</button></div><div id="detail-content"></div></dialog>
   <div id="toast" class="toast" role="status" hidden></div>
   <noscript><p class="error-box">此筛选网站需要启用 JavaScript。您仍可在公开仓库中下载数据。</p></noscript>
-  <script type="module" src="./app.js?v=ce1c4c5da6b3"></script>
+  <script type="module" src="./app.js?v=9f14c29dc685"></script>
 </body>
 </html>

@@ -1,0 +1,162 @@
+[
+  {
+    "taskId": "2026-gx-major-10269",
+    "schoolCode": "10269",
+    "school": "华东师范大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 32
+  },
+  {
+    "taskId": "2026-gx-major-10036",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 30
+  },
+  {
+    "taskId": "2026-gx-major-10052",
+    "schoolCode": "10052",
+    "school": "中央民族大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 35
+  },
+  {
+    "taskId": "2026-gx-major-10423",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 60
+  },
+  {
+    "taskId": "2026-gx-major-10718",
+    "schoolCode": "10718",
+    "school": "陕西师范大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 2
+  },
+  {
+    "taskId": "2026-gx-major-10025",
+    "schoolCode": "10025",
+    "school": "首都医科大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 6
+  },
+  {
+    "taskId": "2026-gx-major-10043",
+    "schoolCode": "10043",
+    "school": "北京体育大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 11
+  },
+  {
+    "taskId": "2026-gx-major-10633",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 12
+  },
+  {
+    "taskId": "2026-gx-major-10637",
+    "schoolCode": "10637",
+    "school": "重庆师范大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 11
+  },
+  {
+    "taskId": "2026-gx-major-11319",
+    "schoolCode": "11319",
+    "school": "江西水利电力大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 18
+  },
+  {
+    "taskId": "2026-gx-major-16302",
+    "schoolCode": "16302",
+    "school": "西交利物浦大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 3
+  },
+  {
+    "taskId": "2026-gx-major-11552",
+    "schoolCode": "11552",
+    "school": "四川旅游学院",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 5
+  },
+  {
+    "taskId": "2026-gx-major-10120",
+    "schoolCode": "10120",
+    "school": "山西大同大学",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 8
+  },
+  {
+    "taskId": "2026-gx-major-11313",
+    "schoolCode": "11313",
+    "school": "福建商学院",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 63
+  },
+  {
+    "taskId": "2026-gx-major-11765",
+    "schoolCode": "11765",
+    "school": "河南城建学院",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 16
+  },
+  {
+    "taskId": "2026-gx-major-11510",
+    "schoolCode": "11510",
+    "school": "山东交通学院",
+    "ordinaryLevel": "undergraduate",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 24
+  },
+  {
+    "taskId": "2026-gx-major-12789",
+    "schoolCode": "12789",
+    "school": "浙江工商职业技术学院",
+    "ordinaryLevel": "vocational",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 6
+  },
+  {
+    "taskId": "2026-gx-major-12864",
+    "schoolCode": "12864",
+    "school": "浙江经贸职业技术学院",
+    "ordinaryLevel": "vocational",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 12
+  },
+  {
+    "taskId": "2026-gx-major-12758",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "ordinaryLevel": "vocational",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 9
+  },
+  {
+    "taskId": "2026-gx-major-14008",
+    "schoolCode": "14008",
+    "school": "重庆三峡医药高等专科学校",
+    "ordinaryLevel": "vocational",
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 22
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "10290-param-session",
+    "schoolCode": "10290",
+    "host": "https://zs.cumt.edu.cn",
+    "entryUrl": "https://zs.cumt.edu.cn/zsw/lnfs.html",
+    "path": "f/ajax_lnfs_param",
+    "url": "https://zs.cumt.edu.cn/f/ajax_lnfs_param",
+    "request": {},
+    "ext": "json"
+  }
+]

@@ -1,0 +1,707 @@
+{
+  "status": "passed",
+  "planRows": 410,
+  "planSchools": 14,
+  "plannedCount": 1277,
+  "schoolPlanReviews": 20,
+  "schoolScoreReviews": 20,
+  "newMajorScores": 2,
+  "sources": 133,
+  "checkedSourceArchives": 132,
+  "apiExistingMinimumRechecks": [
+    {
+      "schoolCode": "10269",
+      "reviewedCurrentRows": 32,
+      "existingMinimumScoresMatched": 32
+    },
+    {
+      "schoolCode": "10036",
+      "reviewedCurrentRows": 30,
+      "existingMinimumScoresMatched": 30
+    },
+    {
+      "schoolCode": "10423",
+      "reviewedCurrentRows": 60,
+      "existingMinimumScoresMatched": 60
+    }
+  ],
+  "snnuExistingScorePdfRecheck": {
+    "sha256": "6bcca9dbc2b24fa603194c20d24a4a86c6a268a8b86b4a61c38f6d91e056c82e",
+    "matchesPreviouslyPublishedSource": true,
+    "existingScoresPreserved": 2,
+    "nameConflictsPreserved": 1
+  },
+  "visualIndependentQA": [
+    "FJBU 3 pages 63 rows 143 seats by root",
+    "MUC page 2 37 rows 166 seats excluding sports 4 by root",
+    "SXY Guangxi columns 22 rows 80 seats; preventive medicine physics4 correction applied"
+  ],
+  "sourceHashChecks": [
+    {
+      "sourceId": "pilot-b-20260912-10269-zsjh-0-json",
+      "sha256": "b046bff695e8d7a8d0030e645fcda378ba0f949be37b153e9c5960aa8cb1110b",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-zsjh-1-json",
+      "sha256": "86ef407752cd37efa26fcdf144f4199a1c3918947f704eabb937ffdf6af04bd4",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-zsjh-2-json",
+      "sha256": "5598f93bd37c40764a0e46182a212dbb53e506014859f933cbb74c49e645d80f",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-zsjh-3-json",
+      "sha256": "20958c780865e43d0c16111807046642de39fcfcd59824fa4eb2c2eeca23ebcb",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-zsjh-4-json",
+      "sha256": "78895940132ee7d3817a49dffe9677d995d9b112960c2179cef7ac7531f7cb18",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-zsjh-5-json",
+      "sha256": "c52b920b70a22567b8cf04633e316c0771a553cfcd9337ce7aa2413bddd9ade6",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-zsjh-6-json",
+      "sha256": "c0c90c38185893701bc8f6ad1a60fc66851b8277373c957d20ed5a9f69957ba3",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-zsjh-7-json",
+      "sha256": "217d06c8efffc39ba7f22d144d693604cbe2d5d6c072729a5d899e333db3872b",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-zsjh-0-json",
+      "sha256": "1988d1f3f8f95819a674324d70bf99a170bbc171f46ed697c22c88212b3a01e3",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-zsjh-1-json",
+      "sha256": "7cba82e5464a8950abcc737831dd21fc20cdf840313512ff65ff869470a1cd18",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-zsjh-2-json",
+      "sha256": "2ffbadbeced5ca57326732d6e7c379a4f17996f3c6626b4ac3039c660b4ab66f",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-zsjh-3-json",
+      "sha256": "d8c5a529ddba0dbf3af17c3b12845c4656a4a791b5db18cd733e5785a8350aff",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-zsjh-4-json",
+      "sha256": "b80c38311a7f563959a387dd5c38a3ef829cb786b4993695ef6306515049b6c4",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-zsjh-5-json",
+      "sha256": "2bd85110ca458e2691bd4848137c636b31a3aa932d46b52f9d2f554173b91702",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-zsjh-6-json",
+      "sha256": "c71179b16f7abe58bbd532338502fe5b3644378a1be8e1f3cfe53238ab2540eb",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-zsjh-7-json",
+      "sha256": "1a81d8f079dac7c95b73dcb3d2459ba7c24c626fc5d528b0dd258223c84dbb39",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-zsjh-8-json",
+      "sha256": "ce638d5147fba48b82527731b86a6ce9baf3d16e47d3e72c3e0d718cc612ce06",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-zsjh-0-json",
+      "sha256": "a3268f775e496f0aed80b65f9b7c55e3d35c65645fcc532f437246048c3cb47b",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-zsjh-1-json",
+      "sha256": "2ccdfce0a69d1854b73fd5f1355391557ea69f27fa140c5093c90955487a20c3",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-zsjh-2-json",
+      "sha256": "e0eee98dc75203dde3cb38a5e99c222ec0d8f6ceb44814ebd114ec8da18627e7",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-zsjh-3-json",
+      "sha256": "9a1ee2d8149778eb90f92d57605ff3000ed1aa7ea3a83e494ab56bf59e767533",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-zsjh-5-json",
+      "sha256": "5380a9ee6a1d511924db41b8ad41ced91b2228ba7c220159ccac78de0875692b",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-zsjh-6-json",
+      "sha256": "d42391f296db6638021cd3a1fb67edb38471f4150b67ab04dd4c5645df409bbd",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-zsjh-7-json",
+      "sha256": "652a2661fcb35e0f830c4f8e58ee4868fd3f9fc896f9c671d9cec93df26b1a51",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10052-plans-valid-json",
+      "sha256": "efc544068b2552fe979c350fc855ca50106f7d5b57758cfe43e703fbdc0e66b3",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-10-json",
+      "sha256": "929676e0b02caff5ccd3c0757a9541453286c696f041712239625dc25cfbb9c4",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-11-json",
+      "sha256": "281de189a0cb2b8229071524104bcbc64759d7865a12989fb125c0bbf8835c9f",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-12-json",
+      "sha256": "89bd34a214e0b56b694f765f468bc1251efdfb224cd59831d3d33e96296745aa",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-13-json",
+      "sha256": "7f3899a21c31cc56e73292f136a4217a3d3505f13082e358e5213929c40ead37",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-14-json",
+      "sha256": "cd8320a3d672197e1160f7bfe52335994f1b576da19a9ce95dc131b7c0c9ea66",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-15-json",
+      "sha256": "224ae41f421531ebdb60fbaf605a73a5b86b2326cb0eb919466bef5be572362b",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-16-json",
+      "sha256": "5604dfe4fe8055e2c4a437a241d287b9bbdd9f330aded5fc2bc6b337b2bed4d4",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-17-json",
+      "sha256": "fc11e618e1c64a887337bbf8a981f31cb3f137e3869bf8e0c98429bb871feaea",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-18-json",
+      "sha256": "df255168cf581b418625566b61d20540a4b1737601904990a1a9f81d0dd6c647",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-19-json",
+      "sha256": "46f41bb2fab6c0df150f86066add5e1bce32fabebf8fea3bc729398cf42ccbfc",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-7-json",
+      "sha256": "286c9d13cacbc980913927cc66c6e0e54282b4d44795e0bc870a7581073af319",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-8-json",
+      "sha256": "df2725b5dd6de4573932307550bd42a42218e70c4591282d3b614c9b7ff40618",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-zsjh-9-json",
+      "sha256": "9ae773a39adaafccaafeda971106129439d306234f8e2d9cd630e610fe4e3405",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10633-plans-valid-json",
+      "sha256": "f607acf19502f44047c98876df7b2165762fc155fb447ad5d0ac99b66141b803",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10637-plans-html",
+      "sha256": "0360fb8d2c48c74d9105575f48f9b64fdade1c97160b910961b3e930f8cde68f",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10637-plans-p2-html",
+      "sha256": "9e4247fef1785ea418994e792e5e9adf97f705de597a1ace4d09b8852a346d10",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10120-plans-html",
+      "sha256": "eb9c07f297cb86a73ed2ec61c335ef30213650e8ce9879f12b0452cfffb4161b",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11510-planquery-html",
+      "sha256": "4fac3cd0467d55dccb0abf11bb7cd92d4ff33ce5dea86275f1c132db9be26789",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11552-plans-json",
+      "sha256": "c8f379e361fa1332f1d0eda80b964edb0c92a52f3591996911ae2e645016170d",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-12789-plans-html",
+      "sha256": "c3f3dc3232d29a6e69e63c960ce2e12fb41dfde410bdf366d45b614733792d52",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-12864-plans-html",
+      "sha256": "82d0120ba9603ff13df12172e7a942f4ef4c3f6d3fc18ef55d76ddf0e23d93fe",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11313-plans-pdf",
+      "sha256": "bcaa40bcd5a49997ee5747b04d97db964cf6ff2dcfbff954ab6d0d7fa966799d",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-14008-planimage-4-jpg",
+      "sha256": "5f678661a7e71634e103e1a85b7908ba12000891ffe079b274dcf4ac12a4bcfd",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10025-planform-html",
+      "sha256": "625bb647995d49fcb66d0a78bc5a6a62522be8f0b03b53625baae07c08ddbf1e",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10025-plan-js-js",
+      "sha256": "ad4c72165c9370a34da251930839271396a856122795e9d12c5ff3cf7f2a6b20",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10025-plan-dic-city-json",
+      "sha256": "66d10db44032667b104e836fa3e10b55f176c9fcc0544b4e740df67c9b500342",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10025-plans-2026-json",
+      "sha256": "da24cfa966a324126948d93b93992de2ce2454ad72852464973f8d4697412e27",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10025-plans-2025-json",
+      "sha256": "b91c46a5702eefc373e934595c7b8208d7819f53cf7b06fc204e5614f4d16526",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10043-planindex-html",
+      "sha256": "f2df115957d7695dd429f9663cf4cab54f8a0c1ec2b236690a566313dca14981",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10043-planhome-html",
+      "sha256": "39882027d31f3c7617ba855e59f2b5f8d074aca9d68d85e2f3292d04b056dea1",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11319-plan-http-html",
+      "sha256": "12af5057e49cb7abbf52345500a7ac6c61834f0a7ab1174e6e8a50c869f4b5d4",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11319-entry-0-html",
+      "sha256": "67bd5d25edb77e042ee8057a276c4f5c4f425fc779d119a01c8e7f296190d730",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-16302-entry-2-html",
+      "sha256": "d0e9705dd59c1cf01015bdb72ddee8c2a79c19c397d539ff51e5a4776ee08b55",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-16302-entry-1-html",
+      "sha256": "95324bbac5dc2f210fbfa76e2dea55831f2e6e9fd7be104b6aad9d3a411841c0",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11765-plan-3-html",
+      "sha256": "b963f12375b3704f951f378c027bbd52e5889262940a7621bfd95d343eccd92f",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11765-entry-1-html",
+      "sha256": "44e9145522ef9a895e26c631e042395d544ffac92afbd2952559fdf635ca2b46",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-12758-plan-4-html",
+      "sha256": "008aca50f523676b4e1f9e63ae157935b9eec6bbc1d44fe9a261c6731b00b866",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-12758-plan-5-html",
+      "sha256": "c4772a97a2240285348246b17c6dc6f131c0cab07faa61e945b375379c2e3b5e",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10052-plan-0-pdf",
+      "sha256": "2c43a3dadaffec790c58fa8614e7329e92c2a3e64dc553a63477aef2b120b9d7",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10052-planentry-extra-html",
+      "sha256": "95faf3a42a3b1adc0b68474d6ef09a38e201ed452dc6faaf4c0e9534ddb0ca7a",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-plan-types-json",
+      "sha256": "13102f40c4ba532a6c74fa487277a8f7ad621160c2af0b75472a3ced2beb3b2d",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-view-js",
+      "sha256": "5e46f033896ecd29475401bb9247bd703988fa04056344aaa0124656d321777c",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-score-types-json",
+      "sha256": "afa6f82217d3ace221fef9791bf2a1f5e9cf83ba402844621779c31ad60df1d0",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-planentry-5-html",
+      "sha256": "9afcafb7ff05ee9e3761b38bc016e91e3f22e511aeb951b07334f2a289b2aa62",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-session-params-json",
+      "sha256": "fa8b8a6cf8723370dc4f5a16d26228447828695c85a42bf9acb188c028dcb342",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-planentry-1-html",
+      "sha256": "9d8fbbe3ff8d816d0aa9d17581e346470ab22e764971109c0085b96e9932d5a7",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-session-params-json",
+      "sha256": "b7c9662b12bd78a694c6754acd2f934fed50e9633e30da86feb3e435067615b9",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-planentry-6-html",
+      "sha256": "d80b41974cb80e057f800789d72809ab70a51be1e067a9ce4756a4f2f04ba70d",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-params-json",
+      "sha256": "0ab2f37f8997ebfa4f71de89dde84a8f0d769205b764d182e71ed61e6dde3a8b",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10633-planentry-7-html",
+      "sha256": "bd17c363e86c57315a9687584349c2b65b9d3cab2d0d6ee2650e96d79ca287d0",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-14008-plan-16-html",
+      "sha256": "fa4d7280e656b24a84c6780860a70843efc7ac2f6dbde23498b8c15109cbedaa",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-14008-entry-1-html",
+      "sha256": "cf4d40a45d9663828594cf3a8a2c399912a4ff17dc82a42da17f513ae25c36e5",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10052-entry-2-html",
+      "sha256": "1c79295d83946ae8656fea3da829ffbf002809a9ab2992780d8873efe3256256",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10052-scores-current-json",
+      "sha256": "22bf13cc47df07073284bf613ba070233b545884120ec3a9de1fb03b928203bc",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-scores-current-2-json",
+      "sha256": "7866e8b2e03cead9233274304ff403b74750deff7c814787420960e283ab8cbc",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-scores-current-3-json",
+      "sha256": "7866e8b2e03cead9233274304ff403b74750deff7c814787420960e283ab8cbc",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10718-scores-original-pdf",
+      "sha256": "6bcca9dbc2b24fa603194c20d24a4a86c6a268a8b86b4a61c38f6d91e056c82e",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10025-scores-current-json",
+      "sha256": "f3472600bbdd412f7747f09536cb27c0aeb4348b3f6d31ee352f4d2b6b2a7ded",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10043-entry-1-html",
+      "sha256": "6dda0c56c09d5e7535407a6aba2add046ad8f706d599140e26a3169bf3e95b7c",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10043-entry-2-html",
+      "sha256": "cb8368aff9f7a70e5078fa5b71c4812199f61590e62123ce0549e0435aaf71c1",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10633-entry-4-html",
+      "sha256": "98448b4941268f80391f95fdfd0b163acf6bb17bd4191832c57e6b2dbc22415c",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10633-scores-original-png",
+      "sha256": "e509297cee449b2ea395d0b8bd9a13d4756f65113bfea3e7b9556d94b3e4b08d",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10637-entry-1-html",
+      "sha256": "03a8d29544c6d1478f0365e56e7737b8425cc9284f49afec5ab2a71a280a8401",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11319-entry-1-html",
+      "sha256": "f3ac15f0b27ee7026c709f1485b3ecb64dd76cfef75015bdf3738bab62a1a25d",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11319-entry-3-html",
+      "sha256": "9c417c6261143219d383af71d37dc58346948f8158ad03d78e63f0b7a1abe798",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11552-entry-2-html",
+      "sha256": "61f27ef06636bc67651a642da8f61b6f112fd94aa7b54ccc7600fd9f9bdf0674",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10120-entry-1-html",
+      "sha256": "07163bcce12aebb5a3d68ed08436f82dd312f9010bd2424ebbf41b0bf3ddbf98",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11313-entry-2-html",
+      "sha256": "f7ee6ecd5b53a76d0e08a571de32017569e6694c783f7c3d27e28822be5b710c",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11313-score-original-pdf",
+      "sha256": "04e608ffffe7e69e844c5e005a893283f1b877be9673bf330b83e261e674eb72",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11765-entry-3-html",
+      "sha256": "7481e40d42bfdeba11a71968af39c758deb8e0cbe455e05fb22ed98b22b32b4f",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11510-entry-1-html",
+      "sha256": "a16123a83718d619603127cc10710ed276d6c21e1dd06c038edd8ef2a663b508",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11510-score-early-html",
+      "sha256": "0ba7f7c5a171e4b66b0fa7825f1236082bf70d0d2a0d280ebb9926441b7fd28b",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-11510-charter-html",
+      "sha256": "7ba9dcc32bff993362c5e232d7c8994b9a8a0b701d12d046936c0b2f8ff5cdff",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-12789-entry-2-html",
+      "sha256": "383d9f905e6cb0d93416630eca1bbd2e4cfe7ab358d2822db5020d99d8fced51",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-12864-entry-1-html",
+      "sha256": "81b2b818809675bb5a1549a39675d55d5a43937772016e9e1344d8a07cc2726c",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-12864-score-original-png",
+      "sha256": "89899ba0ada7df5ad4d1f2f0087512fe326b88b2e56e04e72b4e7338af301837",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-12758-entry-2-html",
+      "sha256": "dc1285549233a962d4bb0d63e707cb7da94e0a432d8cded890cd3b52b5de21b7",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-scorecheck-0-json",
+      "sha256": "0e69caaab968764a05c12781bf8f8d0f45a42eed791c4600b75c27342a21681a",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-scorecheck-1-json",
+      "sha256": "0ce5501c2853132c906074eee17750da22712b5004bdaa3952cd2bf93cc40a49",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-scorecheck-2-json",
+      "sha256": "1749dab250f58d3b1a131089c7093c7d9170b2059d6b729cadba688a8cb16a46",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-scorecheck-3-json",
+      "sha256": "ccb30519c858dbedaa69cf4d2ea4f59b53baa7620ccf04d3e9c61efce3d550c7",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-scorecheck-4-json",
+      "sha256": "a73bd590f9d23278a7f0dc1f37428e966ef3968810b3854d1b0401e1dd8478b1",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-scorecheck-5-json",
+      "sha256": "fcf43b2e72e8b9a7f55c8b1218a1a19f5896c80e234fac575b90f92c47acedcb",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-scorecheck-6-json",
+      "sha256": "378cbe2c5897d14e6e2bfbd8b8a7dcf9b5210f72d629437c090d4372e80f9420",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-scorecheck-7-json",
+      "sha256": "abc5addb9e7a81e3ef0d7fa4f6f4d30094332e0d7e21296d48fdc8a19a276371",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10269-scorecheck-8-json",
+      "sha256": "a5e9cc827112dc095f841a48b2a4def954f02183c7c4a36ea612e66afe8ccae5",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-0-json",
+      "sha256": "f558c0c3fe88abed36f6e42ce1dda3c62903d21c72f9c2faaa25938c120e7ea0",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-1-json",
+      "sha256": "1e685bdf2e5ae10dbb908a88d29627d77f5a75f5203a5d8c320e374e92fa9f8a",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-10-json",
+      "sha256": "ef099eb7a58643c2dee7e17751a4932fffa13967855cb4e865a886b4f4752086",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-11-json",
+      "sha256": "48b1be8fa2896ef4bce956cef241ba0068cc9346535ec27ffe3ad1a9217396cb",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-2-json",
+      "sha256": "9df33d385478139934afca3b5c3684a6d3720860d3c76be3591a05d913f67803",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-3-json",
+      "sha256": "f7ba2ca90215e89773a5f6d8e204e9aae71e542cdecc8bb3a011c865905f477e",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-4-json",
+      "sha256": "aad1b28200aa361f053c257ba78925d9eb1e2a95d8be30dc467c1c8f67394f09",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-5-json",
+      "sha256": "c8fc0e6505431dd9b01a0a138e72826242dc6dcfbf53fb863c007fdd8907c244",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-6-json",
+      "sha256": "5ff18398745511f3d5564e76a9b5d004e2004997ab3af8f66a593cb56ccf6376",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-7-json",
+      "sha256": "0403e3dd87d346fbf267ef8f98507d11691c8c94076626381c33cfe256631a72",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-8-json",
+      "sha256": "b68d31bbe71b680367c6ad3937518e921da8327b74ff37e245cc78a2aee4f92c",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10036-scorecheck-9-json",
+      "sha256": "dfd260e29d95f5ff013f51e051e7184bc0bbc5caf9f9045a4559e0ad6737e84a",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-scorecheck-valid-0-json",
+      "sha256": "5c6d195219c76bfcb6b4882659cbcdad6f7e5c766d47029f9ddbdb384e8b0d27",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-scorecheck-valid-1-json",
+      "sha256": "a6d13b6585963d47749d6dc80e11667770ce40fd68594e1277141842da7b78df",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-scorecheck-valid-2-json",
+      "sha256": "884f670d11110ca5dd8d4e596da136e62cc94ffa6cb192cb4a875208d67bc8c5",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-scorecheck-valid-3-json",
+      "sha256": "1a08ab936c96ff9382db3ebfa26c3081b2a869f830c3eebe1e9f5e40e65f15a1",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-scorecheck-valid-4-json",
+      "sha256": "24c1fdf1dea500a230118439ab962b0b6eed2990ba2fe7c5c05b424b587a41e7",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-scorecheck-valid-5-json",
+      "sha256": "12989d758cbc969148f9d8d540dacb50b8b704397f74a6acc7c0525fc487db56",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-scorecheck-valid-6-json",
+      "sha256": "d726932c4a5ce6ee72f89c3a8258939a8e83c4d5961c387189b762026ac4fbbd",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-scorecheck-valid-7-json",
+      "sha256": "5b2c38cfbfb13f2e96d78b86fe47aa406b4170c1b2ec969269a0ca89044f61c9",
+      "verified": true
+    },
+    {
+      "sourceId": "pilot-b-20260912-10423-scorecheck-valid-8-json",
+      "sha256": "049f1f0657b38fff450e3deddf6e6c98c8da1d6e8b94772487ea85069e4c1bc1",
+      "verified": true
+    }
+  ],
+  "startedAt": "2026-09-12T21:46:54.622558+08:00",
+  "lastFetchAt": "2026-09-12T22:09:45.124935+08:00",
+  "observedFetchWindowMinutes": 22.84,
+  "requestAttempts": 283,
+  "requestsWithResponses": 281,
+  "scopeBoundary": "Timing is this mixed 20-school pilot, including parsing/review and discovery requests; not a nationwide throughput guarantee."
+}

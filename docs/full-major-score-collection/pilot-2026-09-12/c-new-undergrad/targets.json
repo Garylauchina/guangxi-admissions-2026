@@ -1,0 +1,722 @@
+[
+  {
+    "taskId": "2026-gx-major-10459",
+    "schoolCode": "10459",
+    "school": "郑州大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 606,
+        "maximumFirstRoundGeneralGroupScore": 606,
+        "knownScoreGroups": 8
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 597,
+        "maximumFirstRoundGeneralGroupScore": 597,
+        "knownScoreGroups": 2
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10112",
+    "schoolCode": "10112",
+    "school": "太原理工大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 605,
+        "maximumFirstRoundGeneralGroupScore": 605,
+        "knownScoreGroups": 9
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10520",
+    "schoolCode": "10520",
+    "school": "中南财经政法大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 605,
+        "maximumFirstRoundGeneralGroupScore": 605,
+        "knownScoreGroups": 8
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 604,
+        "maximumFirstRoundGeneralGroupScore": 604,
+        "knownScoreGroups": 6
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-19145",
+    "schoolCode": "19145",
+    "school": "东北大学秦皇岛分校",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 605,
+        "maximumFirstRoundGeneralGroupScore": 605,
+        "knownScoreGroups": 2
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 585,
+        "maximumFirstRoundGeneralGroupScore": 585,
+        "knownScoreGroups": 2
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-92027",
+    "schoolCode": "92027",
+    "school": "空军军医大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 605,
+        "maximumFirstRoundGeneralGroupScore": 605,
+        "knownScoreGroups": 2
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10294",
+    "schoolCode": "10294",
+    "school": "河海大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 604,
+        "maximumFirstRoundGeneralGroupScore": 604,
+        "knownScoreGroups": 4
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 594,
+        "maximumFirstRoundGeneralGroupScore": 594,
+        "knownScoreGroups": 2
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10336",
+    "schoolCode": "10336",
+    "school": "杭州电子科技大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 609,
+        "maximumFirstRoundGeneralGroupScore": 604,
+        "knownScoreGroups": 4
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 558,
+        "maximumFirstRoundGeneralGroupScore": 558,
+        "knownScoreGroups": 1
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10386",
+    "schoolCode": "10386",
+    "school": "福州大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 604,
+        "maximumFirstRoundGeneralGroupScore": 604,
+        "knownScoreGroups": 4
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 588,
+        "maximumFirstRoundGeneralGroupScore": 588,
+        "knownScoreGroups": 1
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10511",
+    "schoolCode": "10511",
+    "school": "华中师范大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 604,
+        "maximumFirstRoundGeneralGroupScore": 604,
+        "knownScoreGroups": 8
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 598,
+        "maximumFirstRoundGeneralGroupScore": 598,
+        "knownScoreGroups": 5
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10651",
+    "schoolCode": "10651",
+    "school": "西南财经大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 605,
+        "maximumFirstRoundGeneralGroupScore": 604,
+        "knownScoreGroups": 5
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 600,
+        "maximumFirstRoundGeneralGroupScore": 600,
+        "knownScoreGroups": 3
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10080",
+    "schoolCode": "10080",
+    "school": "河北工业大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 603,
+        "maximumFirstRoundGeneralGroupScore": 603,
+        "knownScoreGroups": 8
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10159",
+    "schoolCode": "10159",
+    "school": "中国医科大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 602,
+        "maximumFirstRoundGeneralGroupScore": 602,
+        "knownScoreGroups": 6
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10188",
+    "schoolCode": "10188",
+    "school": "东北电力大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 602,
+        "maximumFirstRoundGeneralGroupScore": 602,
+        "knownScoreGroups": 5
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10366",
+    "schoolCode": "10366",
+    "school": "安徽医科大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 602,
+        "maximumFirstRoundGeneralGroupScore": 602,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10504",
+    "schoolCode": "10504",
+    "school": "华中农业大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 602,
+        "maximumFirstRoundGeneralGroupScore": 602,
+        "knownScoreGroups": 12
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 578,
+        "maximumFirstRoundGeneralGroupScore": 578,
+        "knownScoreGroups": 2
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-11414",
+    "schoolCode": "11414",
+    "school": "中国石油大学(北京)",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 602,
+        "maximumFirstRoundGeneralGroupScore": 602,
+        "knownScoreGroups": 3
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10290",
+    "schoolCode": "10290",
+    "school": "中国矿业大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 601,
+        "maximumFirstRoundGeneralGroupScore": 601,
+        "knownScoreGroups": 5
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 583,
+        "maximumFirstRoundGeneralGroupScore": 583,
+        "knownScoreGroups": 1
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10357",
+    "schoolCode": "10357",
+    "school": "安徽大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 601,
+        "maximumFirstRoundGeneralGroupScore": 601,
+        "knownScoreGroups": 2
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 573,
+        "maximumFirstRoundGeneralGroupScore": 573,
+        "knownScoreGroups": 1
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10491",
+    "schoolCode": "10491",
+    "school": "中国地质大学(武汉)",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 601,
+        "maximumFirstRoundGeneralGroupScore": 601,
+        "knownScoreGroups": 12
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 588,
+        "maximumFirstRoundGeneralGroupScore": 588,
+        "knownScoreGroups": 2
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10022",
+    "schoolCode": "10022",
+    "school": "北京林业大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 600,
+        "maximumFirstRoundGeneralGroupScore": 600,
+        "knownScoreGroups": 13
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 596,
+        "maximumFirstRoundGeneralGroupScore": 596,
+        "knownScoreGroups": 4
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10726",
+    "schoolCode": "10726",
+    "school": "西北政法大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 606,
+        "maximumFirstRoundGeneralGroupScore": 606,
+        "knownScoreGroups": 3
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10030",
+    "schoolCode": "10030",
+    "school": "北京外国语大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 599,
+        "maximumFirstRoundGeneralGroupScore": 595,
+        "knownScoreGroups": 4
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 601,
+        "maximumFirstRoundGeneralGroupScore": 601,
+        "knownScoreGroups": 5
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10572",
+    "schoolCode": "10572",
+    "school": "广州中医药大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 595,
+        "maximumFirstRoundGeneralGroupScore": 595,
+        "knownScoreGroups": 4
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 598,
+        "maximumFirstRoundGeneralGroupScore": 598,
+        "knownScoreGroups": 3
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10200",
+    "schoolCode": "10200",
+    "school": "东北师范大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 582,
+        "maximumFirstRoundGeneralGroupScore": 582,
+        "knownScoreGroups": 4
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 592,
+        "maximumFirstRoundGeneralGroupScore": 592,
+        "knownScoreGroups": 6
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10542",
+    "schoolCode": "10542",
+    "school": "湖南师范大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 591,
+        "maximumFirstRoundGeneralGroupScore": 591,
+        "knownScoreGroups": 4
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 592,
+        "maximumFirstRoundGeneralGroupScore": 592,
+        "knownScoreGroups": 2
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10589",
+    "schoolCode": "10589",
+    "school": "海南大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 587,
+        "maximumFirstRoundGeneralGroupScore": 587,
+        "knownScoreGroups": 5
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 591,
+        "maximumFirstRoundGeneralGroupScore": 591,
+        "knownScoreGroups": 6
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10710",
+    "schoolCode": "10710",
+    "school": "长安大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 599,
+        "maximumFirstRoundGeneralGroupScore": 599,
+        "knownScoreGroups": 7
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 587,
+        "maximumFirstRoundGeneralGroupScore": 587,
+        "knownScoreGroups": 2
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10276",
+    "schoolCode": "10276",
+    "school": "华东政法大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 585,
+        "maximumFirstRoundGeneralGroupScore": 585,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 586,
+        "maximumFirstRoundGeneralGroupScore": 586,
+        "knownScoreGroups": 1
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10673",
+    "schoolCode": "10673",
+    "school": "云南大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 595,
+        "maximumFirstRoundGeneralGroupScore": 595,
+        "knownScoreGroups": 10
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 588,
+        "maximumFirstRoundGeneralGroupScore": 586,
+        "knownScoreGroups": 5
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  },
+  {
+    "taskId": "2026-gx-major-10414",
+    "schoolCode": "10414",
+    "school": "江西师范大学",
+    "ordinaryLevel": "undergraduate",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 563,
+        "maximumFirstRoundGeneralGroupScore": 563,
+        "knownScoreGroups": 8
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 584,
+        "maximumFirstRoundGeneralGroupScore": 584,
+        "knownScoreGroups": 8
+      }
+    },
+    "baselinePlanRows": 0,
+    "baselineMajorScoreRows": 0,
+    "baselineScoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "existingAudits": [],
+    "planSourceCatalog": []
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "p100a-11548-complete2026",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/www/myweb/informationShow.html?informationid=1712250&typeid=www0106&typeid0=www01",
+    "purpose": "alternative-official-score-source"
+  },
+  {
+    "id": "p100a-11548-complete2026-data",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://www.gxufe.edu.cn/wwwservice/fetchInformationBy",
+    "purpose": "alternative-official-score-source",
+    "request": {
+      "informationid": "1712250",
+      "tempCode": null
+    },
+    "requestEncoding": "json"
+  },
+  {
+    "id": "p100a-11548-overyears",
+    "schoolCode": "11548",
+    "school": "广西财经学院",
+    "url": "https://zhaolu.zjzw.cn/release-page/overyears?key=6b8efc49fe05cd3b4bcd9800",
+    "purpose": "alternative-official-score-source"
+  }
+]

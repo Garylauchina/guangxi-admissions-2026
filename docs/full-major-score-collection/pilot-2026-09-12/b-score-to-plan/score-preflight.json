@@ -1,0 +1,20 @@
+{
+  "before": 1372,
+  "after": 1374,
+  "added": 2,
+  "updated": 0,
+  "schoolCodes": 38,
+  "pending": 121,
+  "changes": [
+    {
+      "id": "major-2026-pilot-b-sdjtu-early-2",
+      "school": "山东交通学院",
+      "action": "add"
+    },
+    {
+      "id": "major-2026-pilot-b-sdjtu-early-3",
+      "school": "山东交通学院",
+      "action": "add"
+    }
+  ]
+}

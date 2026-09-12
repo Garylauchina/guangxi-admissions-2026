@@ -1,0 +1,59 @@
+[
+  {
+    "id": "11414-scores-1",
+    "schoolCode": "11414",
+    "host": "https://bkzs.cup.edu.cn",
+    "entryUrl": "https://bkzs.cup.edu.cn/static/front/cup/basic/html_web/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://bkzs.cup.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "中外合作办学",
+      "sex": "",
+      "campus": "",
+      "zyz": "物理+化学"
+    },
+    "ext": "json",
+    "csrf": true
+  },
+  {
+    "id": "11414-scores-2",
+    "schoolCode": "11414",
+    "host": "https://bkzs.cup.edu.cn",
+    "entryUrl": "https://bkzs.cup.edu.cn/static/front/cup/basic/html_web/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://bkzs.cup.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通类",
+      "sex": "",
+      "campus": "",
+      "zyz": "物理+化学"
+    },
+    "ext": "json",
+    "csrf": true
+  },
+  {
+    "id": "11414-scores-3",
+    "schoolCode": "11414",
+    "host": "https://bkzs.cup.edu.cn",
+    "entryUrl": "https://bkzs.cup.edu.cn/static/front/cup/basic/html_web/lnfs.html",
+    "path": "f/ajax_lnfs",
+    "url": "https://bkzs.cup.edu.cn/f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "国家专项计划",
+      "sex": "",
+      "campus": "",
+      "zyz": "物理"
+    },
+    "ext": "json",
+    "csrf": true
+  }
+]
