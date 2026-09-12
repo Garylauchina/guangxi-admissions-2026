@@ -1,0 +1,1445 @@
+[
+  {
+    "taskId": "2026-gx-special-strong-2026-pku",
+    "id": "strong-2026-pku",
+    "school": "北京大学",
+    "type": "strong-foundation",
+    "name": "北京大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10001"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10001",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-pku-brochure",
+      "audit-special-source-2026-pku-result-index",
+      "special-source-2026-pku",
+      "special-source-pku-major-list"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-thu",
+    "id": "strong-2026-thu",
+    "school": "清华大学",
+    "type": "strong-foundation",
+    "name": "清华大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10003"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10003",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-thu-result",
+      "audit-special-source-2026-thu-scope",
+      "special-source-2026-thu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-ruc",
+    "id": "strong-2026-ruc",
+    "school": "中国人民大学",
+    "type": "strong-foundation",
+    "name": "中国人民大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10002"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10002",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-ruc"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-buaa",
+    "id": "strong-2026-buaa",
+    "school": "北京航空航天大学",
+    "type": "strong-foundation",
+    "name": "北京航空航天大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10006"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10006",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-buaa-brochure",
+      "audit-special-source-2026-buaa-result",
+      "special-source-2026-buaa"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-bit",
+    "id": "strong-2026-bit",
+    "school": "北京理工大学",
+    "type": "strong-foundation",
+    "name": "北京理工大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10007"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10007",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-bit"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-cau",
+    "id": "strong-2026-cau",
+    "school": "中国农业大学",
+    "type": "strong-foundation",
+    "name": "中国农业大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10019"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10019",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 3,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-score-source-2026-cau-admit",
+      "special-score-source-2026-cau-entry",
+      "special-source-2026-cau"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-bnu",
+    "id": "strong-2026-bnu",
+    "school": "北京师范大学",
+    "type": "strong-foundation",
+    "name": "北京师范大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10027"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10027",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-bnu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-muc",
+    "id": "strong-2026-muc",
+    "school": "中央民族大学",
+    "type": "strong-foundation",
+    "name": "中央民族大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10052"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10052",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "excluded",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "retain-exclusion-and-verify-2026-program-scope",
+      "label": "保留当前不适用广西的证据，复核2026项目范围；不把其他省份分数纳入广西筛选。"
+    },
+    "sourceRefs": [
+      "special-source-2026-muc"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-nankai",
+    "id": "strong-2026-nankai",
+    "school": "南开大学",
+    "type": "strong-foundation",
+    "name": "南开大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10055"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10055",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-nankai-entry",
+      "special-source-2026-nankai"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-tju",
+    "id": "strong-2026-tju",
+    "school": "天津大学",
+    "type": "strong-foundation",
+    "name": "天津大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10056"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10056",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 1,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-tju-brochure",
+      "audit-special-source-2026-tju-scope",
+      "special-source-2026-tju"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-dlut",
+    "id": "strong-2026-dlut",
+    "school": "大连理工大学",
+    "type": "strong-foundation",
+    "name": "大连理工大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10141"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10141",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-dlut"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-neu",
+    "id": "strong-2026-neu",
+    "school": "东北大学",
+    "type": "strong-foundation",
+    "name": "东北大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10145"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10145",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-neu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-jlu",
+    "id": "strong-2026-jlu",
+    "school": "吉林大学",
+    "type": "strong-foundation",
+    "name": "吉林大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10183"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10183",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-jlu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-hit",
+    "id": "strong-2026-hit",
+    "school": "哈尔滨工业大学",
+    "type": "strong-foundation",
+    "name": "哈尔滨工业大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10213"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10213",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 10,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-score-source-2026-hit-admit",
+      "special-score-source-2026-hit-entry",
+      "special-source-2026-hit"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-fudan",
+    "id": "strong-2026-fudan",
+    "school": "复旦大学",
+    "type": "strong-foundation",
+    "name": "复旦大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10246"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10246",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-fudan-scope",
+      "special-source-2026-fudan"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-tongji",
+    "id": "strong-2026-tongji",
+    "school": "同济大学",
+    "type": "strong-foundation",
+    "name": "同济大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10247"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10247",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-tongji"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-sjtu",
+    "id": "strong-2026-sjtu",
+    "school": "上海交通大学",
+    "type": "strong-foundation",
+    "name": "上海交通大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10248"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10248",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-sjtu-result-index",
+      "special-source-2026-sjtu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-ecnu",
+    "id": "strong-2026-ecnu",
+    "school": "华东师范大学",
+    "type": "strong-foundation",
+    "name": "华东师范大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10269"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10269",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-ecnu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-nju",
+    "id": "strong-2026-nju",
+    "school": "南京大学",
+    "type": "strong-foundation",
+    "name": "南京大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10284"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10284",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-nju"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-seu",
+    "id": "strong-2026-seu",
+    "school": "东南大学",
+    "type": "strong-foundation",
+    "name": "东南大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10286"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10286",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "excluded",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "retain-exclusion-and-verify-2026-program-scope",
+      "label": "保留当前不适用广西的证据，复核2026项目范围；不把其他省份分数纳入广西筛选。"
+    },
+    "sourceRefs": [
+      "special-source-2026-seu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-zju",
+    "id": "strong-2026-zju",
+    "school": "浙江大学",
+    "type": "strong-foundation",
+    "name": "浙江大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10335"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10335",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-zju"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-ustc",
+    "id": "strong-2026-ustc",
+    "school": "中国科学技术大学",
+    "type": "strong-foundation",
+    "name": "中国科学技术大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10358"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10358",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 3,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-ustc-formula",
+      "special-score-source-2026-ustc-admit",
+      "special-source-2026-ustc"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-xmu",
+    "id": "strong-2026-xmu",
+    "school": "厦门大学",
+    "type": "strong-foundation",
+    "name": "厦门大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10384"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10384",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 1,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-score-source-2026-xmu-admit",
+      "special-source-2026-xmu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-sdu",
+    "id": "strong-2026-sdu",
+    "school": "山东大学",
+    "type": "strong-foundation",
+    "name": "山东大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10422"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10422",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-sdu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-ouc",
+    "id": "strong-2026-ouc",
+    "school": "中国海洋大学",
+    "type": "strong-foundation",
+    "name": "中国海洋大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10423"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10423",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-ouc"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-whu",
+    "id": "strong-2026-whu",
+    "school": "武汉大学",
+    "type": "strong-foundation",
+    "name": "武汉大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10486"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10486",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-whu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-hust",
+    "id": "strong-2026-hust",
+    "school": "华中科技大学",
+    "type": "strong-foundation",
+    "name": "华中科技大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10487"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10487",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 6,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-hust-brochure",
+      "audit-special-source-2026-hust-entry",
+      "audit-special-source-2026-hust-scope",
+      "special-source-2026-hust"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-hnu",
+    "id": "strong-2026-hnu",
+    "school": "湖南大学",
+    "type": "strong-foundation",
+    "name": "湖南大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10532"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10532",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 1,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-hnu-brochure",
+      "audit-special-source-2026-hnu-scope",
+      "special-source-2026-hnu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-csu",
+    "id": "strong-2026-csu",
+    "school": "中南大学",
+    "type": "strong-foundation",
+    "name": "中南大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10533"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10533",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 4,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-csu-brochure",
+      "audit-special-source-2026-csu-entry",
+      "special-score-source-2026-csu-admit",
+      "special-source-2026-csu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-sysu",
+    "id": "strong-2026-sysu",
+    "school": "中山大学",
+    "type": "strong-foundation",
+    "name": "中山大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10558"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10558",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-sysu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-scut",
+    "id": "strong-2026-scut",
+    "school": "华南理工大学",
+    "type": "strong-foundation",
+    "name": "华南理工大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10561"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10561",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-scut"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-scu",
+    "id": "strong-2026-scu",
+    "school": "四川大学",
+    "type": "strong-foundation",
+    "name": "四川大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10610"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10610",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-scu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-cqu",
+    "id": "strong-2026-cqu",
+    "school": "重庆大学",
+    "type": "strong-foundation",
+    "name": "重庆大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10611"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10611",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 2,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-cqu-brochure",
+      "special-score-source-2026-cqu-entry",
+      "special-source-2026-cqu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-uestc",
+    "id": "strong-2026-uestc",
+    "school": "电子科技大学",
+    "type": "strong-foundation",
+    "name": "电子科技大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10614"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10614",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "excluded",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "retain-exclusion-and-verify-2026-program-scope",
+      "label": "保留当前不适用广西的证据，复核2026项目范围；不把其他省份分数纳入广西筛选。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-uestc-brochure",
+      "special-source-2026-uestc"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-xjtu",
+    "id": "strong-2026-xjtu",
+    "school": "西安交通大学",
+    "type": "strong-foundation",
+    "name": "西安交通大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10698"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10698",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-xjtu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-nwpu",
+    "id": "strong-2026-nwpu",
+    "school": "西北工业大学",
+    "type": "strong-foundation",
+    "name": "西北工业大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10699"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10699",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-nwpu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-nwafu",
+    "id": "strong-2026-nwafu",
+    "school": "西北农林科技大学",
+    "type": "strong-foundation",
+    "name": "西北农林科技大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10712"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10712",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-2026-nwafu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-lzu",
+    "id": "strong-2026-lzu",
+    "school": "兰州大学",
+    "type": "strong-foundation",
+    "name": "兰州大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10730"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10730",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 3,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-score-source-2026-lzu-entry",
+      "special-source-2026-lzu"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-strong-2026-nudt",
+    "id": "strong-2026-nudt",
+    "school": "国防科技大学",
+    "type": "strong-foundation",
+    "name": "国防科技大学2026年强基计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [],
+    "identityCandidates": [],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "excluded",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "retain-exclusion-and-verify-2026-program-scope",
+      "label": "保留当前不适用广西的证据，复核2026项目范围；不把其他省份分数纳入广西筛选。"
+    },
+    "sourceRefs": [
+      "audit-special-source-2026-nudt-brochure",
+      "special-source-2026-nudt"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-special-2026-pku-math",
+    "id": "special-2026-pku-math",
+    "school": "北京大学",
+    "type": "math-talent",
+    "name": "北京大学2026年数学英才班",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10001"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10001",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-youth-pku-math"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-special-2026-pku-physics",
+    "id": "special-2026-pku-physics",
+    "school": "北京大学",
+    "type": "physics-talent",
+    "name": "北京大学2026年物理学科卓越人才培养计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10001"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10001",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-youth-pku-physics"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-special-2026-thu-math-leader",
+    "id": "special-2026-thu-math-leader",
+    "school": "清华大学",
+    "type": "math-talent",
+    "name": "清华大学2026年丘成桐数学科学领军人才培养计划",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10003"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10003",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "confirmed",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-youth-thu-math"
+    ]
+  },
+  {
+    "taskId": "2026-gx-special-special-2026-ustc-youth",
+    "id": "special-2026-ustc-youth",
+    "school": "中国科学技术大学",
+    "type": "youth-class",
+    "name": "中国科学技术大学2026年少年班及创新试点班",
+    "year": 2026,
+    "schoolCode": null,
+    "schoolCodeStatus": "unknown; requires explicit identity evidence",
+    "schoolCodeInDataset": null,
+    "exactNameOrdinaryCodeCandidates": [
+      "10358"
+    ],
+    "identityCandidates": [
+      {
+        "schoolCode": "10358",
+        "matchBasis": "exact school name only",
+        "status": "pending-verification"
+      }
+    ],
+    "identityMappingEstablished": false,
+    "guangxiStatus": "unknown",
+    "scoreRecordsCount": 0,
+    "schoolCompleteness": "not-established",
+    "sourceCompleteness": "not-established",
+    "nextAction": {
+      "code": "verify-identity-and-guangxi-program-score-scope",
+      "label": "核实学校身份和2026广西项目范围，分别核对入围、校测及录取分口径；已有数字不证明全项目完整。"
+    },
+    "sourceRefs": [
+      "special-source-youth-ustc"
+    ]
+  }
+]

@@ -15,6 +15,8 @@
 
 ## 覆盖与缺口
 
+全量补全工作已取消 20 校上限：[执行计划与验收标准](docs/full-major-score-collection/README.md) · [全量任务清单](docs/full-major-score-collection/inventory.json) · [当前汇总](docs/full-major-score-collection/summary.json)。首阶段覆盖本站 1,961 个普通招生院校代码：37 校已有部分专业分、109 校查过仍无实际专业分、1,815 校尚无独立专业分核查记录；另为 43 项强基/少年英才目录建独立任务。已建档和已有部分记录均不代表学校专业分已采全。专业分页面重置保留全部轮次，既有汇总记录不会因此隐藏。
+
 2026-09-12 第三批专业录取分续查已发布：[27校核查与缺口](docs/major-scores-2026-09-12-b3/README.md)。新增中国海洋大学60条、牡丹江师范学院22条、咸阳师范学院19条、宝鸡文理学院14条、成都中医药大学12条、首都医科大学6条、陕西师范大学2条，共135条；全站现为37校、1,255条，其中4条原文冲突待核，不参与分数比较。20个优先目标均已核查，仍未取得数据的院校逐校保留证据和缺口说明。
 
 2026-09-12 第二批专业录取分续查已发布：[24校核查与缺口](docs/major-scores-2026-09-12-b2/README.md)。新增对外经济贸易大学30条、渭南师范学院21条、重庆城市管理职业大学9条、铜陵学院2条，共62条；该批完成后为30校、1,120条专业录取分。对外经贸30条专业最低分排名直接取高校原表；原有3条分数冲突仍不参与比较。优先20校均已核查，其中19校尚未取得符合口径的专业分；连同另查的浙江农林大学暨阳学院，20校分别保留旧年、汇总、有效空表或访问失败说明。
@@ -67,6 +69,7 @@ npm start
 - `python3 scripts/integrate-audit.py <audit-directory>` 合并已审阅的三个研究包；`python3 scripts/build-school-audit-notes.py <audit-directory>` 生成复查台账；`node scripts/build-coverage.mjs` 重建逐校缺口。完整流程见本轮报告，不要用旧采集结果覆盖新审计结论。
 - `node scripts/import-plan-batch.mjs <batch-directory>` 预览增量差异，审阅后加 `--apply` 合并；不删除既有记录，不接收征集余额。`scripts/collectors/plan-batches-2026-09-10/` 保存分批复现程序，`node scripts/report-plan-batches.mjs` 生成对比报告。
 - `node scripts/import-major-score-batch.mjs <batch-directory>` 预览专业实际录取分增量，审阅后加 `--apply`；分数来源与冲突检查通过后才写入，不删除旧记录。最新复现包见 `docs/major-scores-2026-09-12-b3/`。
+- `node scripts/build-major-score-queue.mjs --as-of YYYY-MM-DD` 从所有普通学校数据与核查记录重建全量任务清单；新增或更正数据后运行。`npm run queue:check` 检查清单与当前输入一致，已纳入 `npm run check`，避免发布过期进度。
 - `node scripts/validate-data.mjs --write-report` 写入检查报告。投档表记录数变化需要人工审阅，不能直接修改校验基线绕过检查。
 
 新增专业计划必须提供官方来源、实际年份、科类、批次和计划人数。不得猜测未知专业组、选科、分数与广西强基招生范围；不得将录取人数作为计划人数或用学校最低线给专业赋分。重新采集后应先核对差异、运行测试，再发布。

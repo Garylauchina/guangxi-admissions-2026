@@ -1,0 +1,18 @@
+{
+  "scope": "Full-collection phase 0 public artifacts; full source documents and login form remain local.",
+  "files": [
+    "docs/full-major-score-collection/PUBLIC-FILES.json",
+    "docs/full-major-score-collection/README.md",
+    "docs/full-major-score-collection/acceptance.md",
+    "docs/full-major-score-collection/architecture.md",
+    "docs/full-major-score-collection/display-plan.md",
+    "docs/full-major-score-collection/inventory.json",
+    "docs/full-major-score-collection/province-plan-entry-check.json",
+    "docs/full-major-score-collection/source-families.json",
+    "docs/full-major-score-collection/special-inventory.json",
+    "docs/full-major-score-collection/summary.json",
+    "docs/full-major-score-collection/validation.json",
+    "scripts/build-major-score-queue.mjs",
+    "tests/major-score-queue.test.mjs"
+  ]
+}

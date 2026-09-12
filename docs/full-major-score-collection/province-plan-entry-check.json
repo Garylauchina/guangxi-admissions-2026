@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-09-12",
+  "requestedUrl": "https://zyfz.gxeea.cn/Main/Jihua/JH_Chaxun_New.aspx",
+  "finalUrl": "https://zyfz.gxeea.cn/Login.aspx",
+  "httpStatus": 200,
+  "sha256": "3dd32a48f45ba557ee43fafcd822a241ce11c44ee00d9a91c75896f4d044229c",
+  "isLoginRedirect": true,
+  "byteLength": 11402,
+  "scope": "Anonymous request to the official plan query entry. Redirected to Login.aspx. Does not establish availability after login or prove no public complete plan exists elsewhere.",
+  "rawArchive": "Local only; login form state is not republished."
+}

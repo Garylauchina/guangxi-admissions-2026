@@ -20,7 +20,13 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   const $=id=>document.getElementById(id);
   const input=(id,value)=>{$(id).value=value;$(id).dispatchEvent(new window.Event('input',{bubbles:true}));};
   assert.ok(document.querySelectorAll('.result-card').length>0);
-  assert.match($('coverage-strip').textContent,/8,155/);
+  assert.match($('coverage-strip').textContent,/1,961个目标院校代码/);
+  assert.match($('coverage-strip').textContent,/37个已有部分专业分/);
+  assert.match($('coverage-strip').textContent,/109个已核查仍无专业分/);
+  assert.match($('coverage-strip').textContent,/1,815个待核查专业分/);
+  assert.match($('major-review-note').textContent,/已核查 146 个院校代码/);
+  assert.match($('major-review-note').textContent,/已核查不代表已取得全部专业分/);
+  assert.match($('coverage-detail').textContent,/8,155/);
   input('query','广西大学');input('kind','all');input('batch','all');
   document.querySelector('[data-detail]').click();
   assert.match($('detail-content').textContent,/该校专业计划来源/);
@@ -81,6 +87,12 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   const checks=[...document.querySelectorAll('[name=subject]')];for(const check of checks.slice(0,3)){check.checked=true;check.dispatchEvent(new window.Event('input',{bubbles:true}));}assert.equal(document.querySelectorAll('[name=subject]:checked').length,2);
   document.querySelector('[data-view="majorCutoffs"]').click();assert.equal($('result-title').textContent,'专业实际录取分数');
   assert.equal($('round').value,'all','专业线入口不能默认隐藏高校汇总数据');
+  $('reset').click();
+  assert.equal($('round').value,'all','专业分重置仍须保留全部录取轮次');
+  const resetMajorCount=$('result-count').textContent;
+  input('round','首轮');$('reset').click();
+  assert.equal($('round').value,'all');assert.equal($('result-count').textContent,resetMajorCount);
+  input('kind','all');
   input('query','玉林');input('batch','all');input('round','首轮');assert.ok(document.querySelectorAll('.result-card').length>0);assert.equal($('round-field').hidden,false);
   input('query','齐齐哈尔');input('round','录取汇总（含征集）');assert.ok(document.querySelectorAll('.result-card').length>0);assert.match($('results-list').textContent,/录取汇总（含征集）/);
   document.querySelector('[data-view="cutoffs"]').click();$('reset').click();
@@ -182,6 +194,22 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   assert.ok(document.querySelectorAll('#sources-list a').length>=18);
   document.querySelector('[data-view="gaps"]').click();assert.equal($('gaps-view').hidden,false);assert.equal($('query-layout').hidden,true);
   assert.match($('gap-overview').textContent,/1,961/);
+  assert.match($('gap-overview').textContent,/37 个已有部分专业分/);
+  assert.match($('gap-overview').textContent,/109 个已核查仍未取得专业分/);
+  assert.match($('gap-overview').textContent,/1,815 个尚待专业分核查/);
+  $('gap-status').value='major-collected';$('gap-status').dispatchEvent(new window.Event('change',{bubbles:true}));
+  assert.match($('gap-count').textContent,/37 个院校条目/);
+  input('gap-query','10043');
+  assert.equal(document.querySelectorAll('.gap-card').length,1);
+  assert.match($('gap-list').textContent,/复查日期：2026-09-10 · 已收录部分专业分/,'早期 collected 分数审计不能被误认作计划审计');
+  $('gap-status').value='major-reviewed-gap';$('gap-status').dispatchEvent(new window.Event('change',{bubbles:true}));
+  input('gap-query','');assert.match($('gap-count').textContent,/109 个院校条目/);
+  input('gap-query','10595');assert.equal(document.querySelectorAll('.gap-card').length,1,'早期 gap 分数审计计入已查缺口');
+  assert.match($('gap-list').textContent,/本次核查未取得专业分/);
+  $('gap-status').value='major-not-reviewed';$('gap-status').dispatchEvent(new window.Event('change',{bubbles:true}));
+  input('gap-query','');assert.match($('gap-count').textContent,/1,815 个院校条目/);
+  input('gap-query','14684');assert.equal(document.querySelectorAll('.gap-card').length,1,'只有计划审计的学校仍待专业分核查');
+  $('gap-status').value='all';$('gap-status').dispatchEvent(new window.Event('change',{bubbles:true}));
   input('gap-query','广西大学');assert.match($('gap-list').textContent,/专业组代码/);assert.equal(document.querySelectorAll('.gap-card').length,1);
   document.querySelector('[data-school-query][data-destination="plans"]').click();assert.equal($('query').value,'10593');assert.equal($('query-layout').hidden,false);assert.equal($('kind').value,'all');
   assert.ok(document.querySelectorAll('.result-card').length>0);document.querySelector('[data-detail]').click();assert.match($('detail-content').textContent,/本专业尚待核实或关联/);$('close-detail').click();
@@ -190,6 +218,24 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   assert.ok([...document.querySelectorAll('.score.empty')].some(e=>e.textContent==='原文待核'));
   $('unknown').checked=false;$('unknown').dispatchEvent(new window.Event('input',{bubbles:true}));assert.equal(document.querySelectorAll('.score.empty').length,0);
   assert.equal(document.querySelectorAll('a[href^="javascript:"]').length,0);
+  dom.window.close();
+});
+
+test('全量专业分核查范围包括仅在征集投档出现的院校', async()=>{
+  const html=await readFile(new URL('../site/index.html',import.meta.url),'utf8');
+  const dom=new JSDOM(html,{url:'https://example.test/'});
+  globalThis.document=dom.window.document;globalThis.window=dom.window;globalThis.localStorage=dom.window.localStorage;
+  globalThis.fetch=async url=>({ok:true,status:200,json:async()=>{
+    const rows=JSON.parse(await readFile(url,'utf8'));
+    if(new URL(url).pathname.endsWith('/cutoffs.json'))rows.push({...rows[0],id:'supplementary-only-test',schoolCode:'99999',school:'仅征集测试院校',round:'第一次征集'});
+    return rows;
+  }});
+  await import('../site/app.js?supplementary-scope-test');
+  for(let i=0;i<200&&document.documentElement.dataset.ready===undefined;i++)await new Promise(resolve=>setTimeout(resolve,10));
+  assert.equal(document.documentElement.dataset.ready,'true');
+  assert.match(document.getElementById('coverage-strip').textContent,/1,962个目标院校代码/);
+  assert.match(document.getElementById('coverage-strip').textContent,/1,816个待核查专业分/);
+  assert.match(document.getElementById('major-review-note').textContent,/已核查 146 个院校代码/);
   dom.window.close();
 });
 

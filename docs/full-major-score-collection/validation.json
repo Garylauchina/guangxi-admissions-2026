@@ -1,0 +1,93 @@
+{
+  "checkedAt": "2026-09-12",
+  "stage": "0-inventory-and-display",
+  "baselineCommit": "1e8e991acb3a41f37ca1693703195de494bc7360",
+  "newMajorScoreRecords": 0,
+  "newSchoolScoreAudits": 0,
+  "testsPassed": 23,
+  "validation": [
+    "npm test",
+    "npm run check",
+    "queue --check",
+    "git diff --check",
+    "independent scope reconciliation",
+    "real browser reset and coverage filters"
+  ],
+  "runtimeDataFiles": [
+    {
+      "path": "site/data/cutoffs.json",
+      "sha256": "d1766a2c8cece80db3c6a2d8548149e3ce255f87083cc95e981149f809b0d0a3",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/major-cutoffs.json",
+      "sha256": "ea64e027a7e97101e313c4793070f743ff4a0021c3e46b3ea88bae89e00d73f3",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/major-filing-cutoffs.json",
+      "sha256": "8544539e7e48f80fcd33838d8130199130b48b20be653b663bf57f4f7cc2829a",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/plan-source-catalog.json",
+      "sha256": "52212e98c0ecb5ff9eecc5c377b513fc901cd49db80425cf86f96716b3f4731f",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/plans.json",
+      "sha256": "420360a7eb6d1604d132d1f462fde668ea8faf97d8e69ad4bb6b3efb413d316c",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/policies.json",
+      "sha256": "612490a108b0e78983fcca17cc1b81309667008ac0c099109af3503dd96af830",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/ranks.json",
+      "sha256": "5443c315a0a247763d8fbdee018066eeccf7b6d4a696148c2187d0baa09f2cea",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/school-audit-notes.json",
+      "sha256": "ddc0d0427b1eabd5d557758189d10cee7385af69e42635dab1d773a4105202aa",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/school-coverage.json",
+      "sha256": "4c879ebf38ecf53d86fa60164a3233844dd2ec2f8746e091663c0917b017454f",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/sources.json",
+      "sha256": "27c761c52f325b77e9cfd7abc0ac797c8f0000e410b04c4ee257b3c717eb6da8",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/special-programs.json",
+      "sha256": "1999c07cdbdc4db44795a8e023e404d95155239f76ed9072909591788d28cd58",
+      "unchanged": true
+    },
+    {
+      "path": "site/data/supplementary-plans.json",
+      "sha256": "36a11aa3b17d27da8f3c141591318a7ca5400241ab705af9e534c2a7a15139aa",
+      "unchanged": true
+    }
+  ],
+  "browser": {
+    "majorResetCountBefore": 462,
+    "majorResetCountAfter": 462,
+    "majorResetRound": "all",
+    "gapCounts": [
+      37,
+      109,
+      1815
+    ]
+  },
+  "limits": [
+    "This phase creates the full queue and collection plan; full collection has not been completed.",
+    "The 100-school source pilot is the next milestone, not executed in this release.",
+    "All original admission records and sources remain unchanged."
+  ]
+}

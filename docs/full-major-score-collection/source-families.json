@@ -1,0 +1,582 @@
+{
+  "schemaVersion": 1,
+  "inventoryDate": "2026-09-12",
+  "repository": "Garylauchina/guangxi-admissions-2026",
+  "repositoryCommit": "1e8e991acb3a41f37ca1693703195de494bc7360",
+  "inspectionScope": "Read-only targeted inspection of existing public batch docs, collectors, manifests, importer and current JSON. No network requests or new score collection.",
+  "sampleLimits": "These are observed examples, not an exhaustive school-to-family inventory or a measured percentage of all schools that each adapter can collect.",
+  "evidencePathsRelativeTo": "repository root",
+  "snapshot": {
+    "majorRows": 1255,
+    "majorSchoolCodes": 37,
+    "sources": 1101,
+    "auditNotes": 207,
+    "distinctLegacyStatusValues": 24,
+    "explicitlyTypedMajorAuditNotes": 129,
+    "legacyCompatibleMajorAuditNotes": 154,
+    "majorAuditSchoolCodes": 146,
+    "majorAuditClassificationRule": "auditKind == major-scores OR id starts review-major-gap- OR review-major-collected-"
+  },
+  "families": [
+    {
+      "id": "ajax-lnfs",
+      "name": "ajax_lnfs 公开成绩系统",
+      "fingerprints": [
+        "/f/ajax_lnfs_param",
+        "/f/ajax_lnfs",
+        "/f/ajax_get_csrfToken",
+        "sszygradeList",
+        "ssmc_nf_klmc_sex_campus_zslx_list"
+      ],
+      "transport": "按官方前端：匿名 Cookie + 公开 CSRF 交换 + 表单 POST；同会话串行。",
+      "reusableFiles": [
+        "docs/major-scores-2026-09-12-b3/batch-root/session_query.py",
+        "docs/major-scores-2026-09-12-b3/batch-a/collector.py",
+        "docs/major-scores-2026-09-12-b3/batch-b/session_query.py"
+      ],
+      "schoolConfiguration": [
+        "真实入口与 base URL",
+        "省名/年份/科类/类别/校区/性别/专业组等实际筛选字段",
+        "菜单 list 或 Map 结构",
+        "showField 专业表头映射",
+        "首次投档或实际录取的口径"
+      ],
+      "observedExamples": [
+        {
+          "schoolCode": "10423",
+          "school": "中国海洋大学",
+          "observation": "current-major-rows",
+          "detail": "2026 广西 9 类组合，60 条专业实际分；另 2 条预科汇总排除。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-b/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10036",
+          "school": "对外经济贸易大学",
+          "observation": "current-major-rows",
+          "detail": "30 条专业/正式大类实际分；专业位次取直接公布字段。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b2/batch-root/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10271",
+          "school": "上海外国语大学",
+          "observation": "successful-empty",
+          "detail": "沿新入口查询 2026 两科普通类成功空表；菜单最高 2025，旧年正对照 6/5 条。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-root/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10359",
+          "school": "合肥工业大学",
+          "observation": "current-menu-missing-and-filing-scope",
+          "detail": "2026 广西请求为空且菜单最高 2025；配置明确所有分数为第一次投档数据，即使返回本年行也不能直接进实际录取库。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-a/README.md"
+          ]
+        }
+      ],
+      "adapterWork": "抽出会话公共层、每校菜单字段映射、业务成功判定与专业/汇总表选择；以正例、空表、口径排除各建冻结夹具。",
+      "limits": [
+        "不能把旧年类别 ID 当作本年类别已经存在。",
+        "同名模板各校表头不同；专业表与省/类别汇总数组分开。"
+      ]
+    },
+    {
+      "id": "zsdata-vue-json",
+      "name": "zsdata Vue 成绩 API",
+      "fingerprints": [
+        "/api/front/lqxx/getType",
+        "/api/front/lqxx/getList",
+        "typeMap",
+        "lqcxjg.*.js"
+      ],
+      "transport": "从当前 app.js 的 baseURL 与查询组件读取真实 JSON POST 字段。",
+      "reusableFiles": [
+        "docs/major-scores-2026-09-12-b3/batch-a/collector.py",
+        "docs/major-scores-2026-09-12-b3/batch-root/collect.py",
+        "docs/major-scores-2026-09-12-b3/batch-root/requests-4.json",
+        "docs/major-scores-2026-09-12-b3/batch-root/requests-5.json"
+      ],
+      "schoolConfiguration": [
+        "API baseURL",
+        "type/sf/nf/klmc/zslb 与可选校区/选科/批次字段",
+        "真实中文科类字面量",
+        "业务 code/success 与专业数组字段"
+      ],
+      "observedExamples": [
+        {
+          "schoolCode": "10712",
+          "school": "西北农林科技大学",
+          "observation": "successful-empty",
+          "detail": "5 个本年组合成功空数组；2025 两科普通类正对照 44/6 条；首次未带 JSON 的 500 不是空表。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-a/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10251",
+          "school": "华东理工大学",
+          "observation": "successful-empty",
+          "detail": "2026 两科成功空专业表；2025 对照 25/2 条，历史 2 条属民族班。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-b/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10718",
+          "school": "陕西师范大学",
+          "observation": "query-empty-but-other-source-positive",
+          "detail": "专业查询本年两科为空，静态本年 PDF 有 2 个明确专业。单一接口空表不能终结学校调查。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/README.md",
+            "docs/major-scores-2026-09-12-b3/batch-root/README.md"
+          ]
+        }
+      ],
+      "adapterWork": "分离 discovery、类型字典、逐组合查询和结果解析；保留每校业务响应结构配置。",
+      "limits": [
+        "当前目录/脚本可更换路径和字段，不能沿用旧 URL 后即认定不可访问。",
+        "本样本未用于推断整个来源族没有本年正例。"
+      ]
+    },
+    {
+      "id": "zhinengdayi",
+      "name": "zhinengdayi 委托招生网站及专业录取表单",
+      "fingerprints": [
+        "/page/detail/",
+        "/front/info/form/majorScore",
+        "/front/enroll/getMajorSelectChange",
+        "/front/enroll/findMajorScoreCompareList",
+        "majorEnrollForm2.js"
+      ],
+      "transport": "学校主页证明委托入口，表单公开 GET 查询；真实 sCode 来自当前链接链。",
+      "reusableFiles": [
+        "docs/major-scores-2026-09-12-b3/batch-root/collect.py",
+        "docs/major-scores-2026-09-12-b3/batch-root/source-manifest.json",
+        "docs/major-scores-2026-09-12-b3/batch-root/requests-7.json",
+        "docs/major-scores-2026-09-12-b3/batch-root/requests-9.json",
+        "docs/major-scores-2026-09-12-b3/batch-root/requests-12.json"
+      ],
+      "schoolConfiguration": [
+        "sCode 及官方学校身份链",
+        "year/cityName/scienceClass/type/batch 等联动字段",
+        "前端显示表头与 JSON 字段映射",
+        "专业菜单数量与实际表行数"
+      ],
+      "observedExamples": [
+        {
+          "schoolCode": "10025",
+          "school": "首都医科大学",
+          "observation": "current-major-rows",
+          "detail": "本年广西唯一组合，专业菜单 6 项与结果 6 行相符；xkkm 页面含义是年制。旧 zs 域名失败不能替代 zhsh 当前入口结论。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-root/README.md",
+            "docs/major-scores-2026-09-12-b3/batch-root/source-manifest.json"
+          ]
+        }
+      ],
+      "adapterWork": "将菜单逐级联动、授权官方域链和字段别名映射做成配置；不能使用页面别处图片目录猜测 sCode。",
+      "limits": [
+        "第三方托管域只有在学校官网链接支持时视为官方委托来源。",
+        "同字段名可能代表不同语义；分数表单不能与个人录取查询混用。"
+      ]
+    },
+    {
+      "id": "fineui-webforms",
+      "name": "FineUI / ASP.NET 公开筛选表单",
+      "fingerprints": [
+        "scores.aspx",
+        "__VIEWSTATE",
+        "F_STATE",
+        "X-FineUI-Ajax",
+        "RecordCount"
+      ],
+      "transport": "新建匿名会话，提取当前隐藏控件状态，按前端正常 POST；会话值只在内存。",
+      "reusableFiles": [
+        "docs/major-scores-2026-09-12-b3/batch-b/shu_query.py"
+      ],
+      "schoolConfiguration": [
+        "表单 URL",
+        "控件 IDs 与筛选值",
+        "Grid 行结构和总数",
+        "分页状态",
+        "响应未回显参数时的请求联结"
+      ],
+      "observedExamples": [
+        {
+          "schoolCode": "10280",
+          "school": "上海大学",
+          "observation": "successful-empty",
+          "detail": "2026 广西 4 个类别 RecordCount=0；2025 一本正对照 6 条正式大类。菜单本年尚未配置，不能当全面无数据证明。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-b/README.md",
+            "docs/major-scores-2026-09-12-b3/batch-b/shu_query.py"
+          ]
+        }
+      ],
+      "adapterWork": "保留每站控件层薄适配，不试图把 UI 状态硬编码为全族通用；补分页/总行数和状态失效夹具。",
+      "limits": [
+        "HTTP 200 的状态脚本或验证页不是表数据。",
+        "不可公开 __VIEWSTATE、Cookie、F_STATE 或复用冻结会话。"
+      ]
+    },
+    {
+      "id": "webber-formquery",
+      "name": "Webber 公开 formquery 表单",
+      "fingerprints": [
+        "/aop_component/",
+        "/webber/formquery/query/front/items/get"
+      ],
+      "transport": "按页面公开配置、请求头与字段请求；明确区分 HTTP 状态和业务码。",
+      "reusableFiles": [
+        "docs/major-scores-2026-09-12-b3/batch-a/collector.py",
+        "docs/major-scores-2026-09-12-b3/batch-a/public-fetch-manifest.json",
+        "docs/major-scores-2026-09-12-b3/batch-a/query-evidence.json"
+      ],
+      "schoolConfiguration": [
+        "表单配置身份",
+        "匿名公开头",
+        "查询字段及编码",
+        "page/size/total",
+        "业务成功码与无匹配码"
+      ],
+      "observedExamples": [
+        {
+          "schoolCode": "11078",
+          "school": "广州大学",
+          "observation": "explicit-no-match",
+          "detail": "2026 广西 3 请求 HTTP200/code9999 明示未查询到数据；2025 正对照完整 17 条，total=17。不能把 code9999 算成功空数组。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-a/README.md",
+            "docs/major-scores-2026-09-12-b3/batch-a/query-evidence.json"
+          ]
+        }
+      ],
+      "adapterWork": "提取通用请求/分页器，每校单列公开配置和业务码映射。",
+      "limits": [
+        "配置更新时间不能用作分数统计年份。",
+        "访问失败重试与有效业务无匹配分开。"
+      ]
+    },
+    {
+      "id": "public-rsa-csrf",
+      "name": "前端公开 RSA-CSRF 的定制查询",
+      "fingerprints": [
+        "/pc/historyScore/nonArt",
+        "csrf",
+        "public app.js RSA helper"
+      ],
+      "transport": "只重放官网公开前端正常请求逻辑，公钥来自当前脚本；没有账号会话。",
+      "reusableFiles": [
+        "docs/major-scores-2026-09-12-b2/batch-b/jnu_query.py",
+        "docs/major-scores-2026-09-12-b2/batch-b/collect.py"
+      ],
+      "schoolConfiguration": [
+        "当前公开前端 helper 指纹",
+        "API 路径/请求编码",
+        "省份/科类/类别 ID 字典",
+        "业务码和结果数组"
+      ],
+      "observedExamples": [
+        {
+          "schoolCode": "10295",
+          "school": "江南大学",
+          "observation": "successful-empty",
+          "detail": "2026 省份和科类菜单空；使用已核实旧年 ID 的 6 个诊断组合成功空表，2025 两科 9/1 条。参数配置年明确为 2025。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b2/batch-b/README.md",
+            "docs/major-scores-2026-09-12-b2/negative-review/README.md"
+          ]
+        }
+      ],
+      "adapterWork": "当前只作为单站插件，前端 helper 变化就停止并转重新检查；不据单个成功站点推成通用验证处理器。",
+      "limits": [
+        "不得绕过验证码或登录保护。",
+        "初次编码/CSRF 业务错误不能被压成空结果。"
+      ]
+    },
+    {
+      "id": "51gzb-public-score",
+      "name": "51gzb 学校委托公开成绩字典与查询",
+      "fingerprints": [
+        "/api/zb/score/year.json",
+        "/api/zb/score/province.json",
+        "/api/zb/score/type.json",
+        "/api/zb/score/list.json"
+      ],
+      "transport": "官网委托页面给出固定学校 sid，按公开字典查 province/type/levelType。",
+      "reusableFiles": [
+        "docs/major-scores-2026-09-12/batch-root/collect.py",
+        "docs/major-scores-2026-09-12/batch-root/requests-4.json",
+        "docs/major-scores-2026-09-12/batch-root/requests-5.json",
+        "docs/major-scores-2026-09-12/batch-root/requests-6.json"
+      ],
+      "schoolConfiguration": [
+        "官方委托链和固定学校 sid",
+        "成绩年份字典",
+        "真实地区数字 ID",
+        "科类与层次 ID",
+        "success/list 的语义"
+      ],
+      "observedExamples": [
+        {
+          "schoolCode": "10026",
+          "school": "北京中医药大学",
+          "observation": "mixed-empty-business-failure-transport-failure",
+          "detail": "本年省份/科类菜单空；历史成绩 success=false/list=null，物理传输中断；2025 两科正对照 4/22 条。不得称本年两科成功空表。",
+          "evidence": [
+            "docs/major-scores-2026-09-12/batch-root/README.md"
+          ]
+        }
+      ],
+      "adapterWork": "字典 API 与结果 API 分开记状态，固定学校 ID 与会话 ID 区分；年、省、科类联动由字典真实结果驱动。",
+      "limits": [
+        "planYear 不能替换 score year。",
+        "传省名而接口需要数字 ID 的 400 是无效请求，不计覆盖。"
+      ]
+    },
+    {
+      "id": "static-json-dataset",
+      "name": "官网静态 JSON / 分年分省数据文件",
+      "fingerprints": [
+        "major_bd_json.json",
+        "aii_bd_json.json",
+        "frontend-derived province filename"
+      ],
+      "transport": "沿当前前端读取静态数据文件，不凭省份拼音猜文件名。",
+      "reusableFiles": [
+        "docs/major-scores-2026-09-12-b3/batch-a/collector.py",
+        "docs/major-scores-2026-09-12-b3/batch-a/query-evidence.json",
+        "docs/major-scores-2026-09-12/batch-root/collect.py"
+      ],
+      "schoolConfiguration": [
+        "校区/学校代码与文件关系",
+        "统计年份列或文件标题",
+        "前端地区映射",
+        "完整数据行数",
+        "专业与汇总文件区别"
+      ],
+      "observedExamples": [
+        {
+          "schoolCode": "10079",
+          "school": "华北电力大学(保定)",
+          "observation": "old-year-only",
+          "detail": "完整专业 JSON 1,166 条均 2025，广西 41 条；保定文件独立，不合并北京 10054。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-a/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10613",
+          "school": "西南交通大学",
+          "observation": "current-file-missing-with-old-positive-control",
+          "detail": "按实际前端广西映射取本年文件 404，旧年同格式存在具体专业；不能把默认安徽当广西。",
+          "evidence": [
+            "docs/major-scores-2026-09-12/batch-root/README.md"
+          ]
+        }
+      ],
+      "adapterWork": "对全文件做年省范围统计，记录行数和每个过滤理由；文件 404 与空数组分开。",
+      "limits": [
+        "文件发布时间或获取年份不能替代内部 year。",
+        "独立校区数据文件和不同省份默认数据必须保留身份。"
+      ]
+    },
+    {
+      "id": "static-documents",
+      "name": "官方静态 HTML / Excel / PDF / 图片",
+      "fingerprints": [
+        "录取快讯",
+        "分专业录取分数",
+        "附件",
+        "HTML table",
+        "PDF",
+        "xlsx",
+        "image"
+      ],
+      "transport": "沿官方正文与附件链接获取；正文和附件互相支持标题、年份、类别与发布日。",
+      "reusableFiles": [
+        "docs/major-scores-2026-09-12-b3/batch-c/collect.py",
+        "docs/major-scores-2026-09-12-b3/batch-c/build.py",
+        "docs/major-scores-2026-09-12-b3/batch-root/collect.py",
+        "docs/major-scores-2026-09-12-b3/batch-root/build.py",
+        "docs/major-scores-2026-09-12-b2/batch-c/build.py"
+      ],
+      "schoolConfiguration": [
+        "广西页面/工作表/区块",
+        "原表多级表头与单位",
+        "跨页续表",
+        "专业/类别汇总判别",
+        "图表脚注、轮次与综合分口径"
+      ],
+      "observedExamples": [
+        {
+          "schoolCode": "12758",
+          "school": "重庆城市管理职业大学",
+          "observation": "current-major-rows",
+          "detail": "完整 HTML 表 9 条具体专业，原文实际录取 20 人。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b2/batch-c/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10633",
+          "school": "成都中医药大学",
+          "observation": "current-major-rows",
+          "detail": "完整原图 12 专业；正文 43 人未拆成逐专业人数。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-c/README.md",
+            "docs/major-scores-2026-09-12-b3/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10718",
+          "school": "陕西师范大学",
+          "observation": "current-major-and-aggregate-mixed",
+          "detail": "11 页 PDF 第 2 页只有 2 个明确专业，其余类别汇总排除；1 个专业名称矛盾待核。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-root/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10312",
+          "school": "南京医科大学",
+          "observation": "old-year-only",
+          "detail": "2026-05-12 发布的 PDF 实际为 2021–2025 分数；不能按发布日期填 2026。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10315",
+          "school": "南京中医药大学",
+          "observation": "old-year-and-filing-only",
+          "detail": "广西附件 14 行为 2025 专业平行志愿投档线，年份及口径均不符合本年实际分。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/README.md"
+          ]
+        },
+        {
+          "schoolCode": "10293",
+          "school": "南京邮电大学",
+          "observation": "old-year-only",
+          "detail": "Excel 广西工作表标题明确 2025，旧年位次不能移入本年。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-b/README.md"
+          ]
+        }
+      ],
+      "adapterWork": "HTML/Excel 优先结构化；PDF 检测文字层后按页定位；图片/OCR 只产候选并逐行人审。保留原文混合措辞和排除项。",
+      "limits": [
+        "完整某张表不等于全校全年完整。",
+        "实际人数和计划人数分别保存；不得由人数差推断征集。",
+        "原图/附件全量正文留本地，公开统计事实与来源定位。"
+      ]
+    },
+    {
+      "id": "custom-html-form",
+      "name": "其他公开 HTML 联动/定制接口",
+      "fingerprints": [
+        "province/year linked select",
+        "server-rendered score result",
+        "unrecognized official form"
+      ],
+      "transport": "从实际页面和前端脚本发现公开查询字段，优先小型站点插件；不能盲猜接口。",
+      "reusableFiles": [
+        "docs/major-scores-2026-09-12-b3/batch-b/collect.py",
+        "docs/major-scores-2026-09-12-b3/batch-b/README.md",
+        "docs/major-scores-2026-09-12-b2/batch-root/collect.py"
+      ],
+      "schoolConfiguration": [
+        "真实 query method/encoding",
+        "中文参数和回显",
+        "省份/年份联动",
+        "结果表范围",
+        "默认省份/年份"
+      ],
+      "observedExamples": [
+        {
+          "schoolCode": "14655",
+          "school": "深圳技术大学",
+          "observation": "explicit-no-match",
+          "detail": "本年省份联动为空，广西查询显示该省份今年无录取信息；2025 同路径 14 条专业，响应未回显查询年省。另本年长图只有省汇总。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b3/batch-b/README.md"
+          ]
+        },
+        {
+          "schoolCode": "19422",
+          "school": "山东大学威海分校",
+          "observation": "corrected-request-empty",
+          "detail": "正确编码 GET 取代中文乱码 POST，2026 四组无数据、2025 正对照正常；错误旧请求不计有效空表。",
+          "evidence": [
+            "docs/major-scores-2026-09-12-b2/root-review/README.md"
+          ]
+        }
+      ],
+      "adapterWork": "将单站例外限制在 discover/query/parse 钩子，公用证据、限制、校验和导入；超出自动适配预算转人工队列。",
+      "limits": [
+        "不是所有学校都能套前述 9 族。",
+        "先验证默认选项和编码，不能以 HTTP200 或动态标题证明有效本年结果。"
+      ]
+    }
+  ],
+  "sharedControls": [
+    "Resolve school code and official delegated source identity before extraction.",
+    "Enumerate actual 2026 Guangxi menu combinations; distinguish old-year diagnostic values.",
+    "Persist request context, HTTP state, business state, payload type and result count separately.",
+    "Check positive old-year controls when supporting bounded negative conclusions.",
+    "Never substitute group filing or category aggregate minima for actual major admission minima.",
+    "Private raw evidence; public allowlisted statistical facts and source metadata only.",
+    "Independent factual review before transactional import and exact-commit deployment verification."
+  ],
+  "restrictedExamples": [
+    {
+      "schoolCode": "10635",
+      "school": "西南大学",
+      "observation": "access-challenge",
+      "detail": "新历年入口 HTTP/HTTPS 412；没有菜单或有效空表。",
+      "evidence": [
+        "docs/major-scores-2026-09-12-b3/batch-a/README.md"
+      ]
+    },
+    {
+      "schoolCode": "10319",
+      "school": "南京师范大学",
+      "observation": "access-challenge",
+      "detail": "本科招生入口 412，未取得真实菜单。",
+      "evidence": [
+        "docs/major-scores-2026-09-12-b3/batch-b/README.md"
+      ]
+    },
+    {
+      "schoolCode": "10161",
+      "school": "大连医科大学",
+      "observation": "attachment-challenge",
+      "detail": "旧年附件链接返回验证码 HTML，不能称读到 PDF 表体。",
+      "evidence": [
+        "docs/major-scores-2026-09-12-b3/batch-a/README.md"
+      ]
+    },
+    {
+      "schoolCode": "10272",
+      "school": "上海财经大学",
+      "observation": "captcha-required",
+      "detail": "可见本年字段不代表已取得成绩；前端提交需验证码，未提交不算空表。",
+      "evidence": [
+        "docs/major-scores-2026-09-12-b2/negative-review/README.md"
+      ]
+    }
+  ],
+  "nextEngineeringTasks": [
+    "Create complete school-code task inventory and normalize legacy observations without rewriting historical audit notes.",
+    "Implement common evidence contract and domain-aware queue, then lift ajax_lnfs and zsdata scaffolds into tested adapters.",
+    "Add zhinengdayi menu/row matching and static-table parsers; keep FineUI and custom systems as explicit per-school plugins.",
+    "Benchmark a mixed-source 60-100 school discovery sample before estimating full remaining effort.",
+    "Publish independently verified increments while continuing discovery and exceptions; retain explicit scope and gaps."
+  ]
+}

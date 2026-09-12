@@ -7,11 +7,13 @@ const YEAR = 2026;
 const planSourceLabels = {collected:'已采集部分计划', 'source-found':'已找到本年计划资料，尚待采集核对', 'entry-only':'已找到查询入口，尚未取得本年计划', unavailable:'本轮未取得可读计划'};
 const scoreAuditLabels = {'collected-with-source-conflict':'已收录，含原文冲突', 'current-year-query-empty':'本年查询返回空列表', 'entry-only-year-gap':'已找到入口，本年专业分仍待核', 'not-found-current-major':'本轮未取得本年专业分', 'empty-current-response':'本年查询返回空列表', 'collected-partial':'已收录部分专业分', collected:'已收录部分专业分', unavailable:'本轮未取得本年专业分', 'source-conflict':'原文冲突待核', 'access-restricted':'官方入口访问受限', 'current-year-not-listed':'查询目录未列本年专业分', 'no-current-year-records':'本轮未取得本年专业分', 'group-only':'仅有学校或专业组汇总分'};
 Object.assign(scoreAuditLabels, {'no-current-records-message':'本年查询提示暂无匹配数据', 'previous-year-only':'仅取得往年专业分', 'access-limited':'官方入口访问受限', 'source-found':'已找到来源，暂无可入库专业分', 'entry-only':'已找到入口，正文仍待核'});
-const auditStatusLabel = note => (note.auditKind === 'major-scores' ? scoreAuditLabels : planSourceLabels)[note.status] || '详见核查记录';
+Object.assign(scoreAuditLabels, {partial:'已收录部分专业分', 'old-year-material-only':'仅取得往年专业分', '仍有缺口':'本次核查未取得专业分', '部分资料已核实':'已收录部分专业分'});
+const isMajorScoreAudit = note => note.auditKind === 'major-scores' || /^review-major-(?:gap|collected)-/.test(note.id || '');
+const auditStatusLabel = note => (isMajorScoreAudit(note) ? scoreAuditLabels : planSourceLabels)[note.status] || '详见核查记录';
 const programType = value => ({'strong-foundation':'强基计划','competition':'学科竞赛','recommendation':'保送生','olympiad-recommendation':'奥赛保送','olympiad':'学科竞赛','young-talent':'少年 / 英才项目','youth-program':'少年 / 英才项目','math-talent':'数学英才计划','physics-talent':'物理英才计划','youth-class':'少年班'}[value] || (/[a-z]/i.test(value || '')?'特殊招生通道':value || '强基计划'));
 const PAGE_SIZE = 25;
 const STORE = 'guangxi-admissions-2026-shortlist-v1';
-let data, sourceMap, allRows, groupIndex, planIndex, supplementaryPlanIndex, filtered = [], page = 1, view = 'cutoffs', reference = {score:null};
+let data, sourceMap, allRows, groupIndex, planIndex, supplementaryPlanIndex, schoolAuditIndex, majorReviewStats, filtered = [], page = 1, view = 'cutoffs', reference = {score:null};
 let saved = new Set();
 let gapPage = 1;
 try { const ids = JSON.parse(localStorage.getItem(STORE) || '[]'); if (Array.isArray(ids)) saved = new Set(ids.filter(x => typeof x === 'string')); } catch { /* Browser storage may be disabled. */ }
@@ -22,6 +24,8 @@ function sourceLink(id, label = '官方来源 ↗') {
   return s ? `<a href="${h(safeUrl(s.url))}" target="_blank" rel="noopener noreferrer">${h(label)}</a>` : '<span class="muted">来源待核实</span>';
 }
 const sourceIds = recordSourceIds;
+const schoolAuditNotes = row => schoolAuditIndex.get(String(row.schoolCode || row.school)) || [];
+const hasMajorScoreReview = row => schoolAuditNotes(row).some(isMajorScoreAudit);
 function sourceLinks(row) { return sourceIds(row).map(id => sourceLink(id)).join(' · '); }
 function schoolPlanSources(row) {
   const catalog = data.planSources.find(s => String(s.schoolCode) === String(row.schoolCode));
@@ -32,11 +36,28 @@ function schoolPlanSources(row) {
 function schoolMajorScores(row) {
   const records = data.majorCutoffs.filter(r => String(r.schoolCode) === String(row.schoolCode) && r.track === row.track);
   const pending = records.filter(r => r.scoreComparable === false).length;
-  const reviews = data.auditNotes.filter(n => n.auditKind === 'major-scores' && String(n.schoolCode) === String(row.schoolCode));
-  return `<section class="plan-source-panel"><h3>该校专业录取分数</h3><p>${records.length ? `本站已收录该校${h(row.track)}类 ${records.length} 条专业分，含不同批次、招生类别和录取轮次；不代表本组已全部匹配。${pending ? `其中 ${pending} 条原文待核，不参与分数比较。` : ''}` : `尚未收录该校${h(row.track)}类的专业实际录取分，不能用本组投档线代替。`}</p>${records.length ? `<p><button type="button" data-school-query="${h(row.schoolCode)}" data-destination="majorCutoffs" data-track="${h(row.track)}">查看该校已收录专业分</button></p>` : ''}${reviews.length ? `<details><summary>查看专业分核查结果与来源</summary>${reviews.map(n=>`<p>${h(n.note)}</p><p class="tiny muted">核查：${h(reviewDate(n.checkedAt))} · ${h(auditStatusLabel(n))}</p><p>${(n.sourceIds || []).map(id=>sourceLink(id,sourceMap.get(id)?.title || '复查来源 ↗')).join('<br>')}</p>`).join('')}</details>` : '<p class="tiny muted">本轮尚无该校独立分数来源复查记录，不能据此判断学校是否已公布。</p>'}</section>`;
+  const reviews = schoolAuditNotes(row).filter(isMajorScoreAudit);
+  return `<section class="plan-source-panel"><h3>该校专业录取分数</h3><p>${records.length ? `本站已收录该校${h(row.track)}类 ${records.length} 条专业分，含不同批次、招生类别和录取轮次；不代表本组已全部匹配。${pending ? `其中 ${pending} 条原文待核，不参与分数比较。` : ''}` : `尚未收录该校${h(row.track)}类的专业实际录取分，不能用本组投档线代替。`}</p>${records.length ? `<p><button type="button" data-school-query="${h(row.schoolCode)}" data-destination="majorCutoffs" data-track="${h(row.track)}">查看该校已收录专业分</button></p>` : ''}${reviews.length ? `<details><summary>查看专业分核查结果与来源</summary>${reviews.map(n=>`<p>${h(n.note)}</p><p class="tiny muted">核查：${h(reviewDate(n.checkedAt))} · ${h(auditStatusLabel(n))}</p><p>${(n.sourceIds || []).map(id=>sourceLink(id,sourceMap.get(id)?.title || '复查来源 ↗')).join('<br>')}</p>`).join('')}</details>` : '<p class="tiny muted">尚无该校独立分数来源复查记录，不能据此判断学校是否已公布。</p>'}</section>`;
 }
 function initialize() {
   sourceMap = new Map(data.sources.map(s => [s.id, s]));
+  const schoolCodesByName = new Map(data.coverage.flatMap(row => row.names.map(name => [name, String(row.schoolCode || row.school)])));
+  schoolAuditIndex = new Map();
+  for (const note of data.auditNotes) {
+    const key = String(note.schoolCode || schoolCodesByName.get(note.school) || note.school);
+    if (!schoolAuditIndex.has(key)) schoolAuditIndex.set(key, []);
+    schoolAuditIndex.get(key).push(note);
+  }
+  const reviewSchools = [...new Map([...data.cutoffs, ...data.plans, ...data.majorCutoffs].map(row => [String(row.schoolCode || row.school), row])).values()];
+  const majorSchools = new Set(data.majorCutoffs.map(row => String(row.schoolCode || row.school)));
+  const hasMajorRecords = row => majorSchools.has(String(row.schoolCode || row.school));
+  majorReviewStats = {
+    total: reviewSchools.length,
+    collected: reviewSchools.filter(hasMajorRecords).length,
+    reviewed: reviewSchools.filter(hasMajorScoreReview).length,
+    reviewedWithoutRecords: reviewSchools.filter(row => !hasMajorRecords(row) && hasMajorScoreReview(row)).length,
+    notReviewed: reviewSchools.filter(row => !hasMajorRecords(row) && !hasMajorScoreReview(row)).length,
+  };
   groupIndex = firstRoundIndex(data.cutoffs);
   if (data.plans.some(r => r.firstRoundMatchAllowed===false || r.initialPlanEligible===false || /征集/.test(`${r.round || ''} ${r.evidenceRound || ''}`) || r.plannedCountScope==='remaining-supplementary-plan')) throw new Error('初始计划与征集计划混用，请核对数据文件。');
   planIndex = new Map();
@@ -174,25 +195,26 @@ function exportSaved() {
 }
 function renderCoverage() {
   const first=data.cutoffs.filter(r=>r.round==='首轮'), schools=new Set(first.map(r=>r.schoolCode)).size, planSchools=new Set(data.plans.map(r=>r.school)).size, majorSchools=new Set(data.majorCutoffs.map(r=>r.school)).size;
-  $('coverage-strip').innerHTML=`<span><strong>${fmt(schools)}</strong>个首轮院校代码</span><span><strong>${fmt(first.length)}</strong>条首次投档记录</span><span><strong>${fmt(data.plans.length)}</strong>条专业计划</span><span class="gap">计划与专业录取线：部分覆盖</span>`;
+  $('coverage-strip').innerHTML=`<span><strong>${fmt(majorReviewStats.total)}</strong>个目标院校代码</span><span><strong>${fmt(majorReviewStats.collected)}</strong>个已有部分专业分</span><span><strong>${fmt(majorReviewStats.reviewedWithoutRecords)}</strong>个已核查仍无专业分</span><span><strong>${fmt(majorReviewStats.notReviewed)}</strong>个待核查专业分</span>`;
+  $('major-review-note').textContent=`专业录取分已核查 ${fmt(majorReviewStats.reviewed)} 个院校代码。已收录 ${fmt(data.majorCutoffs.length)} 条专业分，仍为部分覆盖；已核查不代表已取得全部专业分。`;
   $('coverage-detail').innerHTML=`<div class="notice"><strong>覆盖边界：</strong>普通批投档表按已列官方原表完整采集；分专业计划、专业实际录取线及特殊通道广西证据仍有缺口，本站不是全专业完整数据库。</div><table class="coverage-table"><thead><tr><th>资料</th><th>已收录</th><th>范围</th></tr></thead><tbody><tr><td>普通批首次投档</td><td>${fmt(first.length)} 条 / ${fmt(schools)} 个院校代码</td><td>本科、高职高专；物理、历史</td></tr><tr><td>普通批征集投档</td><td>${fmt(data.cutoffs.length-first.length)} 条</td><td>按轮次分开，空分保持空值</td></tr><tr><td>分专业招生计划</td><td>${fmt(data.plans.length)} 条 / ${planSchools} 校</td><td><strong>部分覆盖</strong>，不是全区完整招生计划</td></tr><tr><td>征集剩余专业计划</td><td>${fmt(data.supplementaryPlans.length)} 条</td><td>部分覆盖，仅在相同轮次专业组详情中展示</td></tr><tr><td>专业实际录取分</td><td>${fmt(data.majorCutoffs.length)} 条 / ${majorSchools} 校</td><td><strong>部分覆盖</strong>，以高校公布的口径为准</td></tr><tr><td>一分一档</td><td>${fmt(data.ranks.length)} 个分数档</td><td>物理、历史；全国性加分口径</td></tr><tr><td>强基与竞赛通道</td><td>${data.special.filter(p=>p.type==='strong-foundation').length} 校强基 + ${data.special.filter(p=>p.type!=='strong-foundation').length} 个其他项目</td><td>全国目录与广西可报状态分开标注</td></tr></tbody></table><p class="help">最近补采或核查：${h([...data.auditNotes.map(n=>reviewDate(n.checkedAt)),...data.sources.map(s=>reviewDate(s.accessedAt))].filter(Boolean).sort().at(-1))}（北京时间）。各条记录的来源日期见详情；本次日期不代表全库已重查。计划已收录学校：${h([...new Set(data.plans.map(r=>r.school))].sort((a,b)=>a.localeCompare(b,'zh-CN')).join('、') || '正在整理')}。</p>`;
 }
 function renderGaps() {
   if (!data) return;
   const query=$('gap-query').value.trim().toLowerCase(), status=$('gap-status').value;
-  const notesFor=r=>data.auditNotes.filter(n=>n.schoolCode ? String(n.schoolCode)===String(r.schoolCode) : r.names.includes(n.school));
+  const notesFor=schoolAuditNotes;
   const rows=data.coverage.filter(r=>{
     if(query && ![r.schoolCode,...r.names].join(' ').toLowerCase().includes(query))return false;
-    return status==='all'||(status==='collected'&&(r.plans||r.majorCutoffs))||(status==='no-plans'&&!r.plans)||(status==='no-majors'&&!r.majorCutoffs)||(status==='subjects'&&r.planGaps.subjects)||(status==='reviewed'&&notesFor(r).length);
+    return status==='all'||(status==='collected'&&(r.plans||r.majorCutoffs))||(status==='no-plans'&&!r.plans)||(status==='no-majors'&&!r.majorCutoffs)||(status==='major-collected'&&r.majorCutoffs)||(status==='major-reviewed-gap'&&!r.majorCutoffs&&hasMajorScoreReview(r))||(status==='major-not-reviewed'&&!r.majorCutoffs&&!hasMajorScoreReview(r))||(status==='subjects'&&r.planGaps.subjects)||(status==='reviewed'&&notesFor(r).length);
   }).sort((a,b)=>(b.plans+b.majorCutoffs)-(a.plans+a.majorCutoffs)||a.school.localeCompare(b.school,'zh-CN'));
   const pages=Math.max(1,Math.ceil(rows.length/20));gapPage=Math.max(1,Math.min(gapPage,pages));
   const noPlans=data.coverage.filter(r=>!r.plans).length, noMajors=data.coverage.filter(r=>!r.majorCutoffs).length;
-  $('gap-overview').textContent=`已盘点 ${fmt(data.coverage.length)} 个院校代码：${fmt(noPlans)} 个尚未收录分专业计划，${fmt(noMajors)} 个尚未收录专业录取线。本轮另有 ${new Set(data.auditNotes.map(n=>n.schoolCode || n.school)).size} 校复查记录，列明实际查过的官网及结果。`;
+  $('gap-overview').textContent=`全量核查范围 ${fmt(majorReviewStats.total)} 个院校代码：${fmt(majorReviewStats.collected)} 个已有部分专业分，${fmt(majorReviewStats.reviewedWithoutRecords)} 个已核查仍未取得专业分，${fmt(majorReviewStats.notReviewed)} 个尚待专业分核查。已有专业分核查记录 ${fmt(majorReviewStats.reviewed)} 个，不代表专业已完整覆盖。另有 ${fmt(noPlans)} 个尚未收录分专业计划、${fmt(noMajors)} 个尚未收录专业录取线。`;
   $('gap-count').textContent=`找到 ${fmt(rows.length)} 个院校条目 · 所有资料均为 2026 年，仍是部分覆盖`;
   $('gap-list').innerHTML=rows.slice((gapPage-1)*20,gapPage*20).map(r=>{
     const notes=notesFor(r);
     const fields=Object.entries(r.planGaps).filter(([,n])=>n>0).map(([key,n])=>`${PLAN_GAPS[key]} ${n} 条`);
-    return `<article class="gap-card"><h3>${h(r.school)} <span class="group-tag">${h(r.schoolCode || '代码待核')}</span></h3><p class="record-meta">${h(r.tracks.map(t=>t+'类').join(' / '))} · 数据仍为部分覆盖</p><dl class="gap-metrics"><div><dt>首轮专业组</dt><dd>${r.firstRoundGroups} 条</dd></div><div><dt>已收录专业计划</dt><dd>${r.plans ? r.plans+' 条' : '未收录'}</dd></div><div><dt>专业实际录取分</dt><dd>${r.majorCutoffs ? r.majorCutoffs+' 条' : '未收录'}</dd></div></dl><p class="tiny">${r.groupsWithPlans} 个首轮组已有部分计划匹配；${r.groupsWithoutCollectedPlans} 个组尚无计划匹配。${r.groupsWithNoFiling ? '另有 '+r.groupsWithNoFiling+' 条首轮记录原表无出档分数。' : ''}</p>${r.plans ? `<p class="gap-warning">计划字段缺口：${h(fields.join('；') || '上述字段均有记录，仍需核对计划完整性')}。</p>` : '<p class="gap-warning">尚缺该校分专业招生人数、选科、学费、学制等计划资料。</p>'}${r.majorScoresPending ? `<p class="gap-warning">其中 ${r.majorScoresPending} 条分数存在原文冲突，暂不参与分数比较。</p>` : ''}${r.majorCutoffs ? `<p class="tiny">专业线口径：${h(r.majorRounds.join('、'))}。记录数含不同科类与轮次，不能当作独立专业总数。</p>` : '<p class="gap-warning">尚未收录该校的专业实际录取最低分，不能以专业组线代替。</p>'}<details><summary>${notes.length ? `本轮复查记录（${notes.length} 项）` : '数据来源与后续核查'}</summary>${notes.length ? notes.map(n=>`<div class="detail-plan"><strong>${h(n.title || '官方资料复查')}</strong><p>${h(n.note)}</p><p class="tiny">复查日期：${h(reviewDate(n.checkedAt) || '未标')} · ${h(auditStatusLabel(n))}</p><p>${(n.sourceIds || []).map(id=>sourceLink(id,'复查来源 ↗')).join(' · ')} ${(n.checkedUrls || []).map(url=>`<a href="${h(safeUrl(url))}" target="_blank" rel="noopener noreferrer">核查页面 ↗</a>`).join(' · ')}</p></div>`).join('') : '<p class="tiny">本轮未留下该校独立官网复查记录，不能断言学校没有公开更多资料。请继续核对官方分省计划、招生章程和录取公告。</p>'}<p class="tiny">已收录数据来源：${r.sourceIds.map(id=>sourceLink(id,sourceMap.get(id)?.title || '官方来源')).join(' · ')}</p><p><a href="https://zyfz.gxeea.cn/" target="_blank" rel="noopener noreferrer">广西官方计划查询 ↗</a>（完整查询需登录）</p></details><div class="record-actions"><button type="button" data-school-query="${h(r.schoolCode || r.school)}" data-destination="cutoffs">查看专业组</button>${r.plans ? `<button type="button" data-school-query="${h(r.schoolCode || r.school)}" data-destination="plans">查看专业计划</button>` : ''}${r.majorCutoffs ? `<button type="button" data-school-query="${h(r.schoolCode || r.school)}" data-destination="majorCutoffs">查看专业录取分</button>` : ''}</div></article>`;
+    return `<article class="gap-card"><h3>${h(r.school)} <span class="group-tag">${h(r.schoolCode || '代码待核')}</span></h3><p class="record-meta">${h(r.tracks.map(t=>t+'类').join(' / '))} · 数据仍为部分覆盖</p><dl class="gap-metrics"><div><dt>首轮专业组</dt><dd>${r.firstRoundGroups} 条</dd></div><div><dt>已收录专业计划</dt><dd>${r.plans ? r.plans+' 条' : '未收录'}</dd></div><div><dt>专业实际录取分</dt><dd>${r.majorCutoffs ? r.majorCutoffs+' 条' : '未收录'}</dd></div></dl><p class="tiny">${r.groupsWithPlans} 个首轮组已有部分计划匹配；${r.groupsWithoutCollectedPlans} 个组尚无计划匹配。${r.groupsWithNoFiling ? '另有 '+r.groupsWithNoFiling+' 条首轮记录原表无出档分数。' : ''}</p>${r.plans ? `<p class="gap-warning">计划字段缺口：${h(fields.join('；') || '上述字段均有记录，仍需核对计划完整性')}。</p>` : '<p class="gap-warning">尚缺该校分专业招生人数、选科、学费、学制等计划资料。</p>'}${r.majorScoresPending ? `<p class="gap-warning">其中 ${r.majorScoresPending} 条分数存在原文冲突，暂不参与分数比较。</p>` : ''}${r.majorCutoffs ? `<p class="tiny">专业线口径：${h(r.majorRounds.join('、'))}。记录数含不同科类与轮次，不能当作独立专业总数。</p>` : '<p class="gap-warning">尚未收录该校的专业实际录取最低分，不能以专业组线代替。</p>'}<details><summary>${notes.length ? `历次复查记录（${notes.length} 项）` : '数据来源与后续核查'}</summary>${notes.length ? notes.map(n=>`<div class="detail-plan"><strong>${h(n.title || '官方资料复查')}</strong><p>${h(n.note)}</p><p class="tiny">复查日期：${h(reviewDate(n.checkedAt) || '未标')} · ${h(auditStatusLabel(n))}</p><p>${(n.sourceIds || []).map(id=>sourceLink(id,'复查来源 ↗')).join(' · ')} ${(n.checkedUrls || []).map(url=>`<a href="${h(safeUrl(url))}" target="_blank" rel="noopener noreferrer">核查页面 ↗</a>`).join(' · ')}</p></div>`).join('') : '<p class="tiny">尚未留下该校独立官网复查记录，不能断言学校没有公开更多资料。请继续核对官方分省计划、招生章程和录取公告。</p>'}<p class="tiny">已收录数据来源：${r.sourceIds.map(id=>sourceLink(id,sourceMap.get(id)?.title || '官方来源')).join(' · ')}</p><p><a href="https://zyfz.gxeea.cn/" target="_blank" rel="noopener noreferrer">广西官方计划查询 ↗</a>（完整查询需登录）</p></details><div class="record-actions"><button type="button" data-school-query="${h(r.schoolCode || r.school)}" data-destination="cutoffs">查看专业组</button>${r.plans ? `<button type="button" data-school-query="${h(r.schoolCode || r.school)}" data-destination="plans">查看专业计划</button>` : ''}${r.majorCutoffs ? `<button type="button" data-school-query="${h(r.schoolCode || r.school)}" data-destination="majorCutoffs">查看专业录取分</button>` : ''}</div></article>`;
   }).join('') || '<p class="empty-state">没有匹配院校，请调整名称或范围。</p>';
   $('gap-prev').disabled=gapPage===1;$('gap-next').disabled=gapPage===pages;$('gap-page').textContent=`${gapPage} / ${pages} 页`;
 }
@@ -230,7 +252,7 @@ $('filters').addEventListener('input',e=>{
 $('mode').addEventListener('change',()=>{$('value').value='';page=1;render();});
 $('query').addEventListener('input',()=>{page=1;render();});
 $('sort').addEventListener('change',()=>{page=1;render();});
-$('reset').addEventListener('click',()=>{$('filters').reset();$('query').value='';$('sort').value='distance';page=1;render();});
+$('reset').addEventListener('click',()=>{$('filters').reset();if(view==='majorCutoffs')$('round').value='all';$('query').value='';$('sort').value='distance';page=1;render();});
 $('prev').addEventListener('click',()=>{page--;render();$('results').scrollIntoView({block:'start'});});
 $('next').addEventListener('click',()=>{page++;render();$('results').scrollIntoView({block:'start'});});
 $('results-list').addEventListener('click',e=>{const detail=e.target.closest('[data-detail]'),save=e.target.closest('[data-save]');if(detail)openDetail(detail.dataset.detail);if(save)saveRow(save.dataset.save);if(e.target.closest('[data-search-plans]'))changeView('plans');});
