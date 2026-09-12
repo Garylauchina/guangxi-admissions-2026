@@ -156,7 +156,8 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   assert.match($('detail-content').textContent,/专业最低分排名（学校公布）/);
   assert.match($('detail-content').textContent,/710/);
   assert.match($('detail-content').textContent,/不等于获得双学士/);
-  assert.match($('detail-content').textContent,/广西填报专业代号待核/);$('close-detail').click();
+  assert.match($('detail-content').textContent,/广西填报专业代号待核/);
+  assert.equal(($('detail-content').textContent.match(/原表数据行/g)||[]).length,1,'专业分行号只能标在该条主来源，不能套用到章程或补充来源');$('close-detail').click();
   const uibeCoop=[...document.querySelectorAll('.result-card')].find(r=>r.textContent.includes('保险学'));
   assert.ok(uibeCoop);uibeCoop.querySelector('[data-detail]').click();
   assert.match($('detail-content').textContent,/100000/);
