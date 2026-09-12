@@ -1,0 +1,1150 @@
+{
+  "status": "PASS",
+  "checkedAt": "2026-09-12",
+  "recordCount": 67,
+  "schoolCount": 4,
+  "recordsBySchool": {
+    "10233": 22,
+    "10722": 19,
+    "10721": 14,
+    "10633": 12
+  },
+  "actualAdmissionsWithPerMajorCounts": 156,
+  "missingPerMajorCounts": 12,
+  "sourceArchivesChecked": 16,
+  "sourceTableNotes": {
+    "mdj": "Nested HTML content table #3",
+    "xync": "#4 Guangxi table in issue16; issue19 #1 is explicit solicited admission",
+    "bjwl": "#1 rowspan-expanded Guangxi rows7–20",
+    "cdutcm": "image rows2–13, read visually; year/province from enclosing official2026GX page"
+  },
+  "imageVisualReview": {
+    "file": "raw/cdutcm-image.png",
+    "rows": 12,
+    "yearProvinceVerifiedFrom": "cdutcm-score official page containing exact linked image",
+    "header": "录取专业/最高分/最低分/类别",
+    "status": "人工目视转录完成；外部独审另报"
+  },
+  "checks": [
+    {
+      "check": "牡丹江表头",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行2",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行3",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行4",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行5",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行6",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行7",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行8",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行9",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行10",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行11",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行12",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行13",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行14",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行15",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行16",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行17",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行18",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行19",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行20",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行21",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行22",
+      "passed": true
+    },
+    {
+      "check": "牡丹江线差行23",
+      "passed": true
+    },
+    {
+      "check": "xync-10981广西上下文",
+      "passed": true
+    },
+    {
+      "check": "xync-11021广西上下文",
+      "passed": true
+    },
+    {
+      "check": "宝鸡表头含录取人数",
+      "passed": true
+    },
+    {
+      "check": "成中医计划查询成功完整14行",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一2",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一3",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一4",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一5",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一6",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一7",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一8",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一9",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一10",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一11",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一12",
+      "passed": true
+    },
+    {
+      "check": "成中医计划名称类别一对一13",
+      "passed": true
+    },
+    {
+      "check": "总数67/4校",
+      "passed": true
+    },
+    {
+      "check": "基线无覆盖交叉",
+      "passed": true
+    },
+    {
+      "check": "目标无交叉",
+      "passed": true
+    },
+    {
+      "check": "牡丹江实际61",
+      "passed": true
+    },
+    {
+      "check": "咸阳前表实际66",
+      "passed": true
+    },
+    {
+      "check": "咸阳征集1",
+      "passed": true
+    },
+    {
+      "check": "宝鸡实际28",
+      "passed": true
+    },
+    {
+      "check": "成都不推实际人数",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-2上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-2来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-2非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-3上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-3来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-3非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-4上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-4来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-4非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-5上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-5来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-5非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-6上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-6来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-6非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-7上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-7来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-7非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-8上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-8来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-8非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-9上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-9来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-9非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-10上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-10来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-10非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-11上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-11来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-11非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-12上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-12来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-12非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-13上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-13来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-13非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-14上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-14来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-14非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-15上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-15来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-15非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-16上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-16来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-16非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-17上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-17来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-17非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-18上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-18来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-18非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-19上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-19来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-19非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-20上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-20来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-20非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-21上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-21来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-21非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-22上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-22来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-22非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-23上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-23来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10233-mdj-score-23非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-2上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-2来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-2非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-3上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-3来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-3非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-4上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-4来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-4非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-5上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-5来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-5非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-6上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-6来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-6非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-7上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-7来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-7非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-8上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-8来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-8非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-9上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-9来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-9非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-10上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-10来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-10非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-11上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-11来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-11非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-12上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-12来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-12非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-13上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-13来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-13非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-14上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-14来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-14非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-15上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-15来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-15非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-16上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-16来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-16非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-17上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-17来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-17非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-18上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-18来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-18非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-19上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-19来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-10981-19非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-11021-2上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-11021-2来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10722-xync-11021-2非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-7上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-7来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-7均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-7非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-8上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-8来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-8均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-8非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-9上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-9来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-9均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-9非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-10上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-10来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-10均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-10非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-11上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-11来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-11均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-11非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-12上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-12来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-12均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-12非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-13上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-13来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-13均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-13非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-14上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-14来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-14均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-14非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-15上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-15来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-15均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-15非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-16上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-16来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-16均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-16非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-17上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-17来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-17均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-17非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-18上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-18来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-18均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-18非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-19上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-19来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-19均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-19非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-20上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-20来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-20均值区间",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10721-bjwl-1383-20非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-2上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-2来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-2非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-3上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-3来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-3非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-4上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-4来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-4非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-5上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-5来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-5非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-6上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-6来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-6非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-7上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-7来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-7非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-8上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-8来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-8非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-9上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-9来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-9非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-10上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-10来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-10非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-11上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-11来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-11非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-12上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-12来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-12非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-13上下界",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-13来源闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-c-10633-cdutcm-image-13非伪位次与组码",
+      "passed": true
+    },
+    {
+      "check": "稳定id不重复",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-mdj-score",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-mdj-charter",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-xync-10981",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-xync-11021",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-xync-charter",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-bjwl-1383",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-bjwl-charter",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-cdutcm-score",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-cdutcm-image",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-cdutcm-charter",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-cdutcm-plan-entry",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-cdutcm-plan-gx",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-kmmc-score",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-zafu-score",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-gxust-home",
+      "passed": true
+    },
+    {
+      "check": "原档哈希 major-20260912b3-c-gxust-wechat",
+      "passed": true
+    }
+  ],
+  "passed": 279,
+  "failed": 0,
+  "recordSha256": "2fa83371e87e139700009692a9196936e6143734dd07c9c1be1f49965bd2408e",
+  "scope": "冻结于2026-09-12；原始全文/图和会话不公开，仅PUBLIC-FILES白名单可公开。"
+}

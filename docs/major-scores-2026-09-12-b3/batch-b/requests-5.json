@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ecust-new-params",
+    "url": "https://bkzsdata.ecust.edu.cn/lqxx/s/api/front/lqxx2/getType",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "ecust-fields",
+    "url": "https://bkzsdata.ecust.edu.cn/lqxx/s/api/front/lqxx2/getFzcxpzList",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "ecust-global",
+    "url": "https://bkzsdata.ecust.edu.cn/lqxx/s/api/front/infoconfig/getGlobalCfg",
+    "data": {},
+    "encoding": "json"
+  },
+  {
+    "id": "sztu-gx-2025",
+    "url": "https://zs.sztu.edu.cn/lnlqcxjgy_new.jsp?wbtreeid=1015&nf=2025&sf=%E5%B9%BF%E8%A5%BF"
+  },
+  {
+    "id": "sztu-gx-2026",
+    "url": "https://zs.sztu.edu.cn/lnlqcxjgy_new.jsp?wbtreeid=1015&nf=2026&sf=%E5%B9%BF%E8%A5%BF"
+  }
+]

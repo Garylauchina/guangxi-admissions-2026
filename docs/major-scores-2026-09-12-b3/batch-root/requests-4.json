@@ -1,0 +1,14 @@
+[
+  {
+    "name": "snnu-types.json",
+    "url": "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "name": "snnu-current.pdf",
+    "url": "https://zsb.snnu.edu.cn/__local/D/77/EC/3BC9816EE6C19D71501E9A049A2_6DB30892_1377E.pdf"
+  }
+]

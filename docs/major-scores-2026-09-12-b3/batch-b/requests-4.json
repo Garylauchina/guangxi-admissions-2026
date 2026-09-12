@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ecust-chunk",
+    "url": "https://bkzsdata.ecust.edu.cn/zsdata/lqxx/js/lqcxjg.56804213.js"
+  },
+  {
+    "id": "ecust-params",
+    "url": "https://bkzsdata.ecust.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "data": {
+      "type": "lnfs"
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "sztu-provinces-2025",
+    "url": "https://zs.sztu.edu.cn/system/resource/importdata/getData.jsp",
+    "data": {
+      "parentCode": "nf",
+      "parentValue": "2025",
+      "code_root_dm": "sf",
+      "siteName": "1639900542",
+      "templateid": "3",
+      "sf": ""
+    }
+  },
+  {
+    "id": "sztu-provinces-2026",
+    "url": "https://zs.sztu.edu.cn/system/resource/importdata/getData.jsp",
+    "data": {
+      "parentCode": "nf",
+      "parentValue": "2026",
+      "code_root_dm": "sf",
+      "siteName": "1639900542",
+      "templateid": "3",
+      "sf": ""
+    }
+  },
+  {
+    "id": "dhu-gx-2025",
+    "url": "https://zs.dhu.edu.cn/2026/0227/c25199a371750/page.htm"
+  }
+]

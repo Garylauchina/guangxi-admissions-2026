@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "reviewDate": "2026-09-12",
+  "reviewScope": "Six gap schools excluding Ocean University of China; independent read-only review of raw responses, original tables/workbook, query fields and FineUI script. No fresh network requests.",
+  "inputSha256": {
+    "sources.json": "842f5ababc645a0aa4946f76009777258a039df9470ccfa10896af699b795f0a",
+    "school-audit-notes.json": "5a1a9ee0da1ee878b8a7379f205b2d31ae20b4119c264b5de0cce934f615f26f"
+  },
+  "schoolCodes": [
+    "10251",
+    "10280",
+    "14655",
+    "10255",
+    "10293",
+    "10319"
+  ],
+  "sourceReferencesChecked": 43,
+  "archiveHashesChecked": 38,
+  "unarchivedAccessEvidence": [
+    {
+      "sourceId": "major-20260912b3-b-nnu-home",
+      "httpStatus": 412
+    },
+    {
+      "sourceId": "major-20260912b3-b-nnu-https",
+      "httpStatus": 412
+    },
+    {
+      "sourceId": "major-20260912b3-b-nnu-official-entry-reference",
+      "httpStatus": 412
+    },
+    {
+      "sourceId": "major-20260912b3-b-shu-2026-aggregate",
+      "httpStatus": 403
+    },
+    {
+      "sourceId": "major-20260912b3-b-shu-home",
+      "httpStatus": 403
+    }
+  ],
+  "materialIssues": [],
+  "limits": [
+    "Shanghai University 2026 is outside the configured menu; empty FineUI grids do not echo year/province and cannot prove backend acceptance of that year. Existing note preserves the limitation.",
+    "Shanghai aggregate candidate returned 403 with no raw body; content claim not independently confirmed in this review.",
+    "Nanjing Normal University 412 evidence is request metadata without archived error bodies; no independent live retry.",
+    "Scope does not establish non-publication across all official channels."
+  ]
+}

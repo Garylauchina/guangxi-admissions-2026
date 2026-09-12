@@ -1,0 +1,546 @@
+{
+  "scopeYear": 2026,
+  "recordCount": 0,
+  "schools": {
+    "10403": {
+      "availableGuangxiYears": [
+        "2024",
+        "2025"
+      ],
+      "menuOptions": [
+        {
+          "广西_2025_历史类_sex_campus": [
+            "普通类"
+          ]
+        },
+        {
+          "广西_2025_物理类_sex_campus": [
+            "普通类",
+            "中外合作办学"
+          ]
+        },
+        {
+          "广西_2024_历史类_sex_campus": [
+            "普通类"
+          ]
+        },
+        {
+          "广西_2024_物理类_sex_campus": [
+            "普通类",
+            "中外合作办学"
+          ]
+        },
+        {
+          "广西_2024_艺术(历史类)_sex_campus": [
+            "艺术类专业"
+          ]
+        }
+      ],
+      "queries": [
+        {
+          "sourceId": "major-20260912b3-a-ncu-gx-2026-1",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "普通类",
+            "sex": "",
+            "campus": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        },
+        {
+          "sourceId": "major-20260912b3-a-ncu-gx-2026-2",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "历史类",
+            "zslx": "普通类",
+            "sex": "",
+            "campus": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        },
+        {
+          "sourceId": "major-20260912b3-a-ncu-gx-2026-3",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "中外合作办学",
+            "sex": "",
+            "campus": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        }
+      ],
+      "oldYearControls": [
+        {
+          "sourceId": "major-20260912b3-a-ncu-gx-2025-4",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2025",
+            "klmc": "物理类",
+            "zslx": "普通类",
+            "sex": "",
+            "campus": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 30
+        },
+        {
+          "sourceId": "major-20260912b3-a-ncu-gx-2025-5",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2025",
+            "klmc": "历史类",
+            "zslx": "普通类",
+            "sex": "",
+            "campus": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 8
+        }
+      ]
+    },
+    "10359": {
+      "availableGuangxiYears": [
+        "2024",
+        "2025"
+      ],
+      "menuOptions": [
+        {
+          "广西_2025_物理类_sex_合肥校区": [
+            "普通批",
+            "国家专项"
+          ]
+        },
+        {
+          "广西_2025_物理类_sex_宣城校区": [
+            "普通批",
+            "国家专项"
+          ]
+        },
+        {
+          "广西_2025_历史类_sex_合肥校区": [
+            "普通批"
+          ]
+        },
+        {
+          "广西_2025_历史类_sex_宣城校区": [
+            "普通批"
+          ]
+        },
+        {
+          "广西_2024_物理类_sex_合肥校区": [
+            "普通批",
+            "国家专项"
+          ]
+        },
+        {
+          "广西_2024_物理类_sex_宣城校区": [
+            "普通批",
+            "国家专项"
+          ]
+        },
+        {
+          "广西_2024_历史类_sex_合肥校区": [
+            "普通批"
+          ]
+        },
+        {
+          "广西_2024_历史类_sex_宣城校区": [
+            "普通批"
+          ]
+        }
+      ],
+      "queries": [
+        {
+          "sourceId": "major-20260912b3-a-hfut-gx-2026-1",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "普通批",
+            "sex": "",
+            "campus": "合肥校区"
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        },
+        {
+          "sourceId": "major-20260912b3-a-hfut-gx-2026-2",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "历史类",
+            "zslx": "普通批",
+            "sex": "",
+            "campus": "合肥校区"
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        },
+        {
+          "sourceId": "major-20260912b3-a-hfut-gx-2026-3",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "国家专项",
+            "sex": "",
+            "campus": "合肥校区"
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        }
+      ],
+      "oldYearControls": [
+        {
+          "sourceId": "major-20260912b3-a-hfut-gx-2025-4",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2025",
+            "klmc": "物理类",
+            "zslx": "普通批",
+            "sex": "",
+            "campus": "合肥校区"
+          },
+          "applicationSuccess": true,
+          "majorRows": 27
+        },
+        {
+          "sourceId": "major-20260912b3-a-hfut-gx-2025-5",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2025",
+            "klmc": "历史类",
+            "zslx": "普通批",
+            "sex": "",
+            "campus": "合肥校区"
+          },
+          "applicationSuccess": true,
+          "majorRows": 3
+        }
+      ],
+      "sourceScopeWarning": "所有分数均为第一次投档数据",
+      "campus": "合肥校区"
+    },
+    "10712": {
+      "availableGuangxiYears": [
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "menuOptions": {
+        "广西_2025_全部_": [
+          "全部",
+          "普通类",
+          "国家专项",
+          "高校专项",
+          "中外合作办学",
+          "少数民族预科班"
+        ],
+        "广西_2025_物理类_": [
+          "全部",
+          "普通类",
+          "国家专项",
+          "高校专项",
+          "中外合作办学",
+          "少数民族预科班"
+        ],
+        "广西_2025_历史类_": [
+          "全部",
+          "普通类",
+          "少数民族预科班"
+        ],
+        "广西_2024_全部_": [
+          "全部",
+          "普通类",
+          "国家专项",
+          "高校专项",
+          "中外合作办学",
+          "少数民族预科班"
+        ],
+        "广西_2024_物理类_": [
+          "全部",
+          "普通类",
+          "国家专项",
+          "高校专项",
+          "中外合作办学",
+          "少数民族预科班"
+        ],
+        "广西_2024_历史类_": [
+          "全部",
+          "普通类",
+          "少数民族预科班"
+        ],
+        "广西_2023_全部_": [
+          "全部",
+          "普通类",
+          "国家专项",
+          "高校专项",
+          "中外合作办学"
+        ],
+        "广西_2023_理工_": [
+          "全部",
+          "普通类",
+          "国家专项",
+          "高校专项",
+          "中外合作办学"
+        ],
+        "广西_2023_文史_": [
+          "全部",
+          "普通类"
+        ],
+        "广西_2022_全部_": [
+          "全部",
+          "普通类",
+          "国家专项",
+          "高校专项",
+          "中外合作办学",
+          "预科班"
+        ],
+        "广西_2022_理工_": [
+          "全部",
+          "普通类",
+          "国家专项",
+          "高校专项",
+          "中外合作办学"
+        ],
+        "广西_2022_文史_": [
+          "全部",
+          "普通类",
+          "预科班"
+        ]
+      },
+      "queries": [
+        {
+          "sourceId": "major-20260912b3-a-nwafu-gx-2026-1",
+          "parameters": {
+            "type": "lnfs",
+            "sf": "广西",
+            "nf": "2026",
+            "zslb": "普通类",
+            "klmc": "物理类",
+            "xqmc": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        },
+        {
+          "sourceId": "major-20260912b3-a-nwafu-gx-2026-2",
+          "parameters": {
+            "type": "lnfs",
+            "sf": "广西",
+            "nf": "2026",
+            "zslb": "普通类",
+            "klmc": "历史类",
+            "xqmc": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        },
+        {
+          "sourceId": "major-20260912b3-a-nwafu-gx-2026-3",
+          "parameters": {
+            "type": "lnfs",
+            "sf": "广西",
+            "nf": "2026",
+            "zslb": "国家专项",
+            "klmc": "物理类",
+            "xqmc": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        },
+        {
+          "sourceId": "major-20260912b3-a-nwafu-gx-2026-4",
+          "parameters": {
+            "type": "lnfs",
+            "sf": "广西",
+            "nf": "2026",
+            "zslb": "高校专项",
+            "klmc": "物理类",
+            "xqmc": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        },
+        {
+          "sourceId": "major-20260912b3-a-nwafu-gx-2026-5",
+          "parameters": {
+            "type": "lnfs",
+            "sf": "广西",
+            "nf": "2026",
+            "zslb": "中外合作办学",
+            "klmc": "物理类",
+            "xqmc": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 0
+        }
+      ],
+      "oldYearControls": [
+        {
+          "sourceId": "major-20260912b3-a-nwafu-gx-2025-6",
+          "parameters": {
+            "type": "lnfs",
+            "sf": "广西",
+            "nf": "2025",
+            "zslb": "普通类",
+            "klmc": "物理类",
+            "xqmc": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 44
+        },
+        {
+          "sourceId": "major-20260912b3-a-nwafu-gx-2025-7",
+          "parameters": {
+            "type": "lnfs",
+            "sf": "广西",
+            "nf": "2025",
+            "zslb": "普通类",
+            "klmc": "历史类",
+            "xqmc": ""
+          },
+          "applicationSuccess": true,
+          "majorRows": 6
+        }
+      ]
+    },
+    "11078": {
+      "needLogin": false,
+      "requiresCaptcha": false,
+      "currentQueries": [
+        {
+          "sourceId": "major-20260912b3-a-gzhu-gx-2026-all",
+          "parameters": {
+            "owner": "1438330108",
+            "randomCode": "",
+            "randomKey": "",
+            "datas": {
+              "Item-1746001468596-3612": "广西",
+              "Item-1746001468596-3907": "2026",
+              "Item-1746001468596-6833": "",
+              "Item-1746001468596-5295": ""
+            },
+            "templateCode": "Form-1746001468578-9846",
+            "current": 1,
+            "size": 100,
+            "pageCode": "",
+            "ifRandomCode": true
+          },
+          "applicationCode": "9999",
+          "message": "未查询到相关数据",
+          "successfulArrayResponse": false
+        },
+        {
+          "sourceId": "major-20260912b3-a-gzhu-gx-2026-1",
+          "parameters": {
+            "owner": "1438330108",
+            "randomCode": "",
+            "randomKey": "",
+            "datas": {
+              "Item-1746001468596-3612": "广西",
+              "Item-1746001468596-3907": "2026",
+              "Item-1746001468596-6833": "物理类",
+              "Item-1746001468596-5295": "普通文理"
+            },
+            "templateCode": "Form-1746001468578-9846",
+            "current": 1,
+            "size": 100,
+            "pageCode": "",
+            "ifRandomCode": true
+          },
+          "applicationCode": "9999",
+          "message": "未查询到相关数据",
+          "successfulArrayResponse": false
+        },
+        {
+          "sourceId": "major-20260912b3-a-gzhu-gx-2026-2",
+          "parameters": {
+            "owner": "1438330108",
+            "randomCode": "",
+            "randomKey": "",
+            "datas": {
+              "Item-1746001468596-3612": "广西",
+              "Item-1746001468596-3907": "2026",
+              "Item-1746001468596-6833": "历史类",
+              "Item-1746001468596-5295": "普通文理"
+            },
+            "templateCode": "Form-1746001468578-9846",
+            "current": 1,
+            "size": 100,
+            "pageCode": "",
+            "ifRandomCode": true
+          },
+          "applicationCode": "9999",
+          "message": "未查询到相关数据",
+          "successfulArrayResponse": false
+        }
+      ],
+      "oldYearControl": {
+        "sourceId": "major-20260912b3-a-gzhu-gx-2025-control",
+        "year": 2025,
+        "province": "广西",
+        "totalRows": 17,
+        "receivedRows": 17,
+        "tracks": {
+          "物理类": 10,
+          "历史类": 4,
+          "艺术(历史类)": 3
+        },
+        "categories": [
+          "普通文理",
+          "艺术统考"
+        ]
+      },
+      "initialOldRequestFailed": true
+    },
+    "10079": {
+      "sourceId": "major-20260912b3-a-ncepu-major-data",
+      "tableYears": [
+        2025
+      ],
+      "fullRows": 1166,
+      "guangxiRows": 41,
+      "tracks": {
+        "物理类": 37,
+        "历史类": 4
+      },
+      "categories": [
+        "国家专项计划",
+        "普通类",
+        "高校专项计划"
+      ],
+      "campusEvidence": "保定官网页尾及major_bd_json.json独立前端路径",
+      "currentActualRows": 0
+    },
+    "10635": {
+      "sourceIds": [
+        "major-20260912b3-a-swu-home",
+        "major-20260912b3-a-swu-entry",
+        "major-20260912b3-a-swu-entry-https"
+      ],
+      "accessStatus": 412,
+      "actualScoreQueriesRun": false
+    },
+    "10161": {
+      "sourceIds": [
+        "major-20260912b3-a-dmu-directory",
+        "major-20260912b3-a-dmu-old",
+        "major-20260912b3-a-dmu-old-pdf"
+      ],
+      "latestListedScoreYear": 2025,
+      "attachmentAccess": "captcha-html",
+      "attachmentBodyVerified": false,
+      "actualScoreQueriesRun": false
+    }
+  }
+}

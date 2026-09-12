@@ -1,0 +1,4849 @@
+{
+  "status": "PASS",
+  "reviewedAt": "2026-09-12",
+  "scope": "独立只读核查B3中国海洋大学60条实际专业分、9组合请求、2预科排除、配套章程/合作要求及白名单；未复核B其他6校负面结论。",
+  "records": 60,
+  "numericFieldsCompared": 180,
+  "sourceFieldsCompared": 360,
+  "sourceArchivesCompared": 21,
+  "sourceArchiveHashes": [
+    {
+      "id": "major-20260912b3-b-gx-code-source",
+      "archiveSha256": "aa242aab97ac4eb8d37e86217dec82b065eb791b9c9da788b70735083e44ba8a"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-charter",
+      "archiveSha256": "d2fbc4818946d3fcd13722d7317a5f2cdf5e3c6ee0534df41b3c77d9d46b0bcb"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-common",
+      "archiveSha256": "5472e2c321bad4880ccca0506031f7cd530285cbfe5097f615cc3d92fde6d715"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-cooperation",
+      "archiveSha256": "9e6e030dd22006f87d30eb5c0ec06731088d6729ba5b7907fd78db6b1cf8d114"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2025-history",
+      "archiveSha256": "e814806bf5c6ab7dffff6ce750f281faeef6b64273bb51fc02626d46303d57b8"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2025-physics",
+      "archiveSha256": "b4c896fd3e4173e92db047da15aa24425e3245f3d55451bc41a3adadcc9fd87a"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2026-1",
+      "archiveSha256": "5c6d195219c76bfcb6b4882659cbcdad6f7e5c766d47029f9ddbdb384e8b0d27"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2026-2",
+      "archiveSha256": "a6d13b6585963d47749d6dc80e11667770ce40fd68594e1277141842da7b78df"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2026-3",
+      "archiveSha256": "884f670d11110ca5dd8d4e596da136e62cc94ffa6cb192cb4a875208d67bc8c5"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2026-4",
+      "archiveSha256": "1a08ab936c96ff9382db3ebfa26c3081b2a869f830c3eebe1e9f5e40e65f15a1"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2026-5",
+      "archiveSha256": "24c1fdf1dea500a230118439ab962b0b6eed2990ba2fe7c5c05b424b587a41e7"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2026-6",
+      "archiveSha256": "12989d758cbc969148f9d8d540dacb50b8b704397f74a6acc7c0525fc487db56"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2026-7",
+      "archiveSha256": "d726932c4a5ce6ee72f89c3a8258939a8e83c4d5961c387189b762026ac4fbbd"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2026-8",
+      "archiveSha256": "5b2c38cfbfb13f2e96d78b86fe47aa406b4170c1b2ec969269a0ca89044f61c9"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-gx-2026-9",
+      "archiveSha256": "049f1f0657b38fff450e3deddf6e6c98c8da1d6e8b94772487ea85069e4c1bc1"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-home",
+      "archiveSha256": "84ab5a3dd43b50643653823e0e4e4c3054f343c5f13e3108158f1417c940edcb"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-init",
+      "archiveSha256": "ed7827d8dbb0752281692aadedef75fd2db45ca7b121cbb67843d62a93e2c049"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-params",
+      "archiveSha256": "31adae28f38284449e60f690385d4d29aa7577566776786e035d17bdfa41b286"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-scores",
+      "archiveSha256": "095ab23b57c496306cb8a6606a37a7f1357f4fcdce70ba496ca6777e215b2622"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-tplt",
+      "archiveSha256": "61e17c8e70df0300d7d91fbaabecfde7ce16f6dcc097ce8640477441b24c6caf"
+    },
+    {
+      "id": "major-20260912b3-b-ouc-util",
+      "archiveSha256": "86a0357278cf1d94e887ef0104f41c7c1d199a4080fa7bc1400b18cc631a7259"
+    }
+  ],
+  "queryCoverage": [
+    {
+      "key": "ouc-gx-2026-1",
+      "track": "物理类",
+      "category": "普通类-提前批",
+      "rawMajorRows": 1,
+      "includedMajorRows": 1,
+      "requestParams": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "普通类-提前批"
+      },
+      "archiveSha256": "5c6d195219c76bfcb6b4882659cbcdad6f7e5c766d47029f9ddbdb384e8b0d27"
+    },
+    {
+      "key": "ouc-gx-2026-2",
+      "track": "物理类",
+      "category": "普通类",
+      "rawMajorRows": 34,
+      "includedMajorRows": 34,
+      "requestParams": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "普通类"
+      },
+      "archiveSha256": "a6d13b6585963d47749d6dc80e11667770ce40fd68594e1277141842da7b78df"
+    },
+    {
+      "key": "ouc-gx-2026-3",
+      "track": "物理类",
+      "category": "高校专项计划",
+      "rawMajorRows": 1,
+      "includedMajorRows": 1,
+      "requestParams": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "高校专项计划"
+      },
+      "archiveSha256": "884f670d11110ca5dd8d4e596da136e62cc94ffa6cb192cb4a875208d67bc8c5"
+    },
+    {
+      "key": "ouc-gx-2026-4",
+      "track": "物理类",
+      "category": "国家专项计划",
+      "rawMajorRows": 7,
+      "includedMajorRows": 7,
+      "requestParams": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "国家专项计划"
+      },
+      "archiveSha256": "1a08ab936c96ff9382db3ebfa26c3081b2a869f830c3eebe1e9f5e40e65f15a1"
+    },
+    {
+      "key": "ouc-gx-2026-5",
+      "track": "物理类",
+      "category": "少数民族预科班",
+      "rawMajorRows": 1,
+      "includedMajorRows": 0,
+      "requestParams": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "少数民族预科班"
+      },
+      "archiveSha256": "24c1fdf1dea500a230118439ab962b0b6eed2990ba2fe7c5c05b424b587a41e7"
+    },
+    {
+      "key": "ouc-gx-2026-6",
+      "track": "物理类",
+      "category": "中外合作办学",
+      "rawMajorRows": 3,
+      "includedMajorRows": 3,
+      "requestParams": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "中外合作办学"
+      },
+      "archiveSha256": "12989d758cbc969148f9d8d540dacb50b8b704397f74a6acc7c0525fc487db56"
+    },
+    {
+      "key": "ouc-gx-2026-7",
+      "track": "历史类",
+      "category": "普通类",
+      "rawMajorRows": 13,
+      "includedMajorRows": 13,
+      "requestParams": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "sex": "",
+        "campus": "",
+        "zslx": "普通类"
+      },
+      "archiveSha256": "d726932c4a5ce6ee72f89c3a8258939a8e83c4d5961c387189b762026ac4fbbd"
+    },
+    {
+      "key": "ouc-gx-2026-8",
+      "track": "历史类",
+      "category": "高校专项计划",
+      "rawMajorRows": 1,
+      "includedMajorRows": 1,
+      "requestParams": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "sex": "",
+        "campus": "",
+        "zslx": "高校专项计划"
+      },
+      "archiveSha256": "5b2c38cfbfb13f2e96d78b86fe47aa406b4170c1b2ec969269a0ca89044f61c9"
+    },
+    {
+      "key": "ouc-gx-2026-9",
+      "track": "历史类",
+      "category": "少数民族预科班",
+      "rawMajorRows": 1,
+      "includedMajorRows": 0,
+      "requestParams": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "sex": "",
+        "campus": "",
+        "zslx": "少数民族预科班"
+      },
+      "archiveSha256": "049f1f0657b38fff450e3deddf6e6c98c8da1d6e8b94772487ea85069e4c1bc1"
+    }
+  ],
+  "excluded": [
+    {
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-5",
+      "sourceRow": 1,
+      "major": "少数民族预科班"
+    },
+    {
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-9",
+      "sourceRow": 1,
+      "major": "少数民族预科班"
+    }
+  ],
+  "publicFilesChecked": 27,
+  "inputHashes": {
+    "major-cutoffs-upsert.json": "0cd12fe2067cb324914da6c8e8d06a1102a77c1bdac02b9a468cce88dcb61aa7",
+    "sources.json": "842f5ababc645a0aa4946f76009777258a039df9470ccfa10896af699b795f0a",
+    "school-audit-notes.json": "5a1a9ee0da1ee878b8a7379f205b2d31ae20b4119c264b5de0cce934f615f26f"
+  },
+  "checked": 1146,
+  "passed": 1146,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "当年广西前端配置业务成功",
+      "passed": true
+    },
+    {
+      "check": "广西本年公开组合9项",
+      "passed": true
+    },
+    {
+      "check": "school-code direct official row",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-1请求年份省份",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-1组合来自本年配置",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-1HTTP和业务成功",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-1请求来源元信息一致",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-1数组明确专业表",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-1行1省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-1行1类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-1 source aggregate extrema",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-1完整范围导入",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2请求年份省份",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2组合来自本年配置",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2HTTP和业务成功",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2请求来源元信息一致",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2数组明确专业表",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行1省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行1类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行2省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行2类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行3省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行3类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行4省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行4类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行5省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行5类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行6省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行6类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行7省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行7类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行8省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行8类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行9省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行9类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行10省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行10类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行11省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行11类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行12省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行12类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行13省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行13类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行14省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行14类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行15省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行15类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行16省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行16类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行17省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行17类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行18省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行18类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行19省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行19类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行20省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行20类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行21省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行21类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行22省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行22类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行23省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行23类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行24省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行24类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行25省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行25类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行26省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行26类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行27省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行27类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行28省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行28类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行29省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行29类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行30省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行30类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行31省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行31类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行32省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行32类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行33省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行33类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行34省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2行34类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2 source aggregate extrema",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-2完整范围导入",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-3请求年份省份",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-3组合来自本年配置",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-3HTTP和业务成功",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-3请求来源元信息一致",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-3数组明确专业表",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-3行1省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-3行1类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-3 source aggregate extrema",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-3完整范围导入",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4请求年份省份",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4组合来自本年配置",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4HTTP和业务成功",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4请求来源元信息一致",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4数组明确专业表",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行1省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行1类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行2省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行2类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行3省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行3类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行4省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行4类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行5省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行5类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行6省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行6类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行7省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4行7类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4 source aggregate extrema",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-4完整范围导入",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-5请求年份省份",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-5组合来自本年配置",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-5HTTP和业务成功",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-5请求来源元信息一致",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-5数组明确专业表",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-5行1省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-5行1类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-5 source aggregate extrema",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-5完整范围导入",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6请求年份省份",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6组合来自本年配置",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6HTTP和业务成功",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6请求来源元信息一致",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6数组明确专业表",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6行1省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6行1类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6行2省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6行2类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6行3省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6行3类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6 source aggregate extrema",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-6完整范围导入",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7请求年份省份",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7组合来自本年配置",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7HTTP和业务成功",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7请求来源元信息一致",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7数组明确专业表",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行1省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行1类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行2省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行2类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行3省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行3类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行4省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行4类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行5省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行5类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行6省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行6类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行7省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行7类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行8省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行8类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行9省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行9类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行10省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行10类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行11省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行11类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行12省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行12类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行13省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7行13类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7 source aggregate extrema",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-7完整范围导入",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-8请求年份省份",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-8组合来自本年配置",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-8HTTP和业务成功",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-8请求来源元信息一致",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-8数组明确专业表",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-8行1省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-8行1类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-8 source aggregate extrema",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-8完整范围导入",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-9请求年份省份",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-9组合来自本年配置",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-9HTTP和业务成功",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-9请求来源元信息一致",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-9数组明确专业表",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-9行1省年科类",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-9行1类别",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-9 source aggregate extrema",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2026-9完整范围导入",
+      "passed": true
+    },
+    {
+      "check": "源60条与导入60条一一对应",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-1-1提前类别",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-1招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-2招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-3招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-4招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-5招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-6招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-7招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-8招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-9招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-10招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-11招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-12招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-13招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-14招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-15招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-16招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-17招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-18招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-19招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-20招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-21招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-22招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-23招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-24招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-25招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-26招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-27招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-28招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-29招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-30招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-31招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-32招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-33招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-2-34招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-3-1专项资格说明",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-1专项资格说明",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-2专项资格说明",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-3专项资格说明",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-4专项资格说明",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-5专项资格说明",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-6专项资格说明",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-4-7专项资格说明",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1合作独立资格与英语建议",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1合作直接选科",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1合作学费与专业模式",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-1第四年英国必修",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2合作独立资格与英语建议",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2合作直接选科",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-2合作学费与专业模式",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3合作独立资格与英语建议",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3合作直接选科",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3合作学费与专业模式",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-6-3第四年英国必修",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-1招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-2招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-3招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-4招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-5招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-6招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-7招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-8招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-9招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-10招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-11招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-12招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-7-13招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1-major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1-score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1-sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1-sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1-sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1-sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1schema年份省份学校",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1科类准确",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1无原表不存在人数位次组",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1精确批次与轮次未知",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1分数范围和均值",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1原始实际分可比",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1来源字段闭合",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1招生类别保留",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-b-10423-8-1专项资格说明",
+      "passed": true
+    },
+    {
+      "check": "两条预科均排除",
+      "passed": true
+    },
+    {
+      "check": "科类46物理14历史",
+      "passed": true
+    },
+    {
+      "check": "类别47普通1提前7国家2高校3合作",
+      "passed": true
+    },
+    {
+      "check": "专业表字段绑定 minScore",
+      "passed": true
+    },
+    {
+      "check": "专业表字段绑定 avgScore",
+      "passed": true
+    },
+    {
+      "check": "专业表字段绑定 maxScore",
+      "passed": true
+    },
+    {
+      "check": "专业表字段绑定 zymc",
+      "passed": true
+    },
+    {
+      "check": "专业表字段绑定 nf",
+      "passed": true
+    },
+    {
+      "check": "专业表字段绑定 klmc",
+      "passed": true
+    },
+    {
+      "check": "专业表字段绑定 zylx",
+      "passed": true
+    },
+    {
+      "check": "专业表列名 最低分",
+      "passed": true
+    },
+    {
+      "check": "专业表列名 平均分",
+      "passed": true
+    },
+    {
+      "check": "专业表列名 最高分",
+      "passed": true
+    },
+    {
+      "check": "章程关键证据 2026年本科招生章程",
+      "passed": true
+    },
+    {
+      "check": "章程关键证据 不得超过20分",
+      "passed": true
+    },
+    {
+      "check": "章程关键证据 含政策性加分",
+      "passed": true
+    },
+    {
+      "check": "章程关键证据 其他语种",
+      "passed": true
+    },
+    {
+      "check": "章程关键证据 不能调整至非中外合作",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-gx-code-source",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-charter",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-common",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-cooperation",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2025-history",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2025-physics",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2026-1",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2026-2",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2026-3",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2026-4",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2026-5",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2026-6",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2026-7",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2026-8",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-gx-2026-9",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-home",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-init",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-params",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-scores",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-tplt",
+      "passed": true
+    },
+    {
+      "check": "原档hash major-20260912b3-b-ouc-util",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2025-physics旧年对照未入当年",
+      "passed": true
+    },
+    {
+      "check": "ouc-gx-2025-history旧年对照未入当年",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 major-cutoffs-upsert.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 major-cutoffs-upsert.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 sources.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 sources.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 school-audit-notes.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 school-audit-notes.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 QA.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 QA.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 verification.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 verification.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 README.md",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 README.md",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 audit-context.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 audit-context.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 replay-check.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 replay-check.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 importer-preflight.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 importer-preflight.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 build.py",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 build.py",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 verify.py",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 verify.py",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 collect.py",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 collect.py",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 session_query.py",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 session_query.py",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 shu_query.py",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 shu_query.py",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 requests.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 requests.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 requests-2.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 requests-2.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 requests-3.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 requests-3.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 requests-4.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 requests-4.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 requests-5.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 requests-5.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 requests-6.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 requests-6.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 requests-7.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 requests-7.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 requests-8.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 requests-8.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 requests-9.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 requests-9.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 requests-10.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 requests-10.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 session-requests.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 session-requests.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 session-requests-2.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 session-requests-2.json",
+      "passed": true
+    },
+    {
+      "check": "白名单文件路径安全 PUBLIC-FILES.json",
+      "passed": true
+    },
+    {
+      "check": "白名单无会话常量 PUBLIC-FILES.json",
+      "passed": true
+    }
+  ],
+  "manualReview": "已完整阅读本轮归档招生章程与合作项目介绍；保留英语建议、原则上不录取的色觉条件、专项资格、合作三专业学费/培养模式/第四年赴英条件，不将建议改成硬禁。公开表数字字段为专业最低/平均/最高，省级汇总另表未拆。"
+}

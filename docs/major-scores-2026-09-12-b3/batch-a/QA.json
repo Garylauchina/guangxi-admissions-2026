@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "checkedAt": "2026-09-12T16:37:45.022480+08:00",
+  "reviewDate": "2026-09-12",
+  "summary": {
+    "schoolsChecked": 7,
+    "newMajorRows": 0,
+    "sources": 51,
+    "schoolNotes": 7,
+    "successfulCurrentEmptyQueries": 11,
+    "explicitNoMatchMessages": 3,
+    "oldYearPositiveControls": 7,
+    "oldYearPositiveRows": 135,
+    "priorYearFullDatasetRows": 1166,
+    "priorYearFullDatasetGuangxiRows": 41
+  },
+  "checks": [
+    "51份原归档SHA与来源元信息逐一相符，原响应与脱敏归档hash分别保留",
+    "南昌3、西北农林5、合工大合肥3个本年空数组请求有效，中文参数来自前端",
+    "7个旧年正对照135条，年省科类与合肥校区表体吻合",
+    "广州3个code9999无匹配提示和有效空数组分别统计，17条旧年正对照无漏页",
+    "合工大第一次投档口径明确排除，不作为专业实际录取汇总",
+    "保定JSON全1166条只有2025，广西41条且校区独立",
+    "西南412、大连旧附件验证码HTML、初次无效请求/超时均不当成功空表",
+    "公开包不含原HTML/JS/JSON、个人名单、会话值和私有路径",
+    "审核日期冻结2026-09-12，不随离线重建时间漂移"
+  ],
+  "limitations": [
+    "缺口结论仅覆盖实际检查的入口、菜单、字段及参数，不能证明所有官方渠道均未发布",
+    "没有新增行，因此不补猜组码、位次、批次、人数或轮次；旧年及首次投档数据均不进入本年专业录取集合",
+    "大连医科旧附件表体未通过验证码读取；西南大学未完成两科及类别查询"
+  ]
+}

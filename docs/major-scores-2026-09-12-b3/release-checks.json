@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "reviewDate": "2026-09-12",
+  "tests": {
+    "passed": 17,
+    "failed": 0,
+    "command": "npm test"
+  },
+  "dataValidation": "npm run check passed: 1255 major records / 37 schools /4 noncomparable",
+  "scopeProtection": "1120 old major records,916 old sources and8 other data files unchanged",
+  "uiChange": "New school audit status labels translated to Chinese; unknown labels display a readable fallback. Entry script cache version updated.",
+  "deployment": "Exact commit Actions and live file checks are recorded separately after publication.",
+  "localBrowser": {
+    "passed": true,
+    "checks": [
+      "Professional-score mode shows the newly imported Capital Medical rows",
+      "SNNU search shows2 records:physics517 and electronic major marked原文待核",
+      "Conflict detail shows original563, programme-name discrepancy and overseas cooperative conditions",
+      "Unknown group, subject requirements and round remain visible"
+    ]
+  },
+  "publicFiles": 118,
+  "privacyScan": "passed",
+  "relativeReportLinks": "passed",
+  "independentReview": "All135 positive records cross-reviewed; bounded source outcomes retained for27schools. Negative-source reviews have their own explicitly limited scopes. Final note refinements preserve all numeric fields."
+}

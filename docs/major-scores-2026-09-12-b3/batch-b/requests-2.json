@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ecust-scores",
+    "url": "https://bkzsdata.ecust.edu.cn/zsdata/lqxx/#/lnfs"
+  },
+  {
+    "id": "ouc-scores",
+    "url": "https://lqcx.ouc.edu.cn/static/front/ouc/basic/html_web/lnfs.html"
+  },
+  {
+    "id": "sztu-scores",
+    "url": "https://zs.sztu.edu.cn/bkzn/lnlq1.htm"
+  },
+  {
+    "id": "sztu-current",
+    "url": "https://zs.sztu.edu.cn/info/1030/4977.htm"
+  },
+  {
+    "id": "dhu-scores",
+    "url": "https://zs.dhu.edu.cn/9564/list.htm"
+  },
+  {
+    "id": "dhu-2025",
+    "url": "https://zs.dhu.edu.cn/2025ngslqfscx/list.htm"
+  },
+  {
+    "id": "dhu-special",
+    "url": "https://zs.dhu.edu.cn/gxzxjhlnfscx/list.htm"
+  },
+  {
+    "id": "njupt-scores",
+    "url": "https://zs.njupt.edu.cn/2564/listm.htm"
+  },
+  {
+    "id": "njupt-2025",
+    "url": "https://zs.njupt.edu.cn/_upload/article/files/e8/e0/65c9f09941bb9a3086417b138570/9e680ed7-3cee-49cc-b69b-54177ec31881.xlsx"
+  },
+  {
+    "id": "nnu-home",
+    "url": "http://bkzs.njnu.edu.cn"
+  }
+]

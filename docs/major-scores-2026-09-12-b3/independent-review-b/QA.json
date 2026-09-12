@@ -1,0 +1,1824 @@
+{
+  "status": "passed",
+  "reviewedAt": "2026-09-12",
+  "reviewer": "independent batch-b agent",
+  "scope": "Root B3 eight actual-major records and six school source reviews; read-only original JSON/HTML/PDF and rendered PDF pages. No new network requests.",
+  "recordCount": 8,
+  "comparableRecords": 7,
+  "conflictRecords": 1,
+  "directAndBoundaryFieldComparisons": 186,
+  "originalArchivesVerified": 53,
+  "reusedSourceReferences": 1,
+  "failedAccessRecords": 1,
+  "publicFilesReviewed": 29,
+  "visualReview": [
+    "snnu-current.pdf page2 Guangxi merged cells and named majors",
+    "snnu-current.pdf page10 sports exclusions",
+    "njmu-old.pdf page19 Guangxi 2025 header",
+    "njucm-gx-2025.pdf page1 2025 filing header",
+    "bjut-old.pdf pages1-2 2025 header and Guangxi continuation"
+  ],
+  "queryReview": [
+    {
+      "query": "sisu-gx-2026-物理类.json",
+      "year": 2026,
+      "count": 0,
+      "state": "success-empty"
+    },
+    {
+      "query": "sisu-gx-2025-物理类.json",
+      "year": 2025,
+      "count": 6,
+      "state": "positive-control"
+    },
+    {
+      "query": "sisu-gx-2026-历史类.json",
+      "year": 2026,
+      "count": 0,
+      "state": "success-empty"
+    },
+    {
+      "query": "sisu-gx-2025-历史类.json",
+      "year": 2025,
+      "count": 5,
+      "state": "positive-control"
+    },
+    {
+      "query": "snnu-gx-2026-理工.json",
+      "year": 2026,
+      "count": 0,
+      "state": "success-empty"
+    },
+    {
+      "query": "snnu-gx-2025-理工.json",
+      "year": 2025,
+      "count": 11,
+      "state": "positive-control"
+    },
+    {
+      "query": "snnu-gx-2026-文史.json",
+      "year": 2026,
+      "count": 0,
+      "state": "success-empty"
+    },
+    {
+      "query": "snnu-gx-2025-文史.json",
+      "year": 2025,
+      "count": 7,
+      "state": "positive-control"
+    }
+  ],
+  "frozenHashes": {
+    "major-cutoffs-upsert.json": "88cc9745881defd4ce8f770835eca519d803919d646164ae384cd1dbc8e54530",
+    "sources.json": "2d26eebd9e35a8600ff748190a63cb2cfaa28c036ac0faed1489205c8cc3393a",
+    "school-audit-notes.json": "bc4c25a539e1e3174be66128cbbdb0fb75d969861282e8ab5d93d66311a67df8",
+    "QA.json": "227b93addbcea061ff7fdccbe1a0766dafa6cfd015254d9dc9cbaa4a60d1216e"
+  },
+  "sourceValueSamples": [
+    {
+      "major": "临床医学(5+3一体化)",
+      "score": 632.0,
+      "sourceMaximumScore": 637.0,
+      "sourceAverageScore": 635.0,
+      "scoreComparable": true
+    },
+    {
+      "major": "临床医学",
+      "score": 606.0,
+      "sourceMaximumScore": 613.0,
+      "sourceAverageScore": 610.0,
+      "scoreComparable": true
+    },
+    {
+      "major": "儿科学",
+      "score": 620.0,
+      "sourceMaximumScore": 620.0,
+      "sourceAverageScore": 620.0,
+      "scoreComparable": true
+    },
+    {
+      "major": "中医学",
+      "score": 580.0,
+      "sourceMaximumScore": 585.0,
+      "sourceAverageScore": 583.0,
+      "scoreComparable": true
+    },
+    {
+      "major": "临床药学",
+      "score": 582.0,
+      "sourceMaximumScore": 590.0,
+      "sourceAverageScore": 586.0,
+      "scoreComparable": true
+    },
+    {
+      "major": "药学",
+      "score": 588.0,
+      "sourceMaximumScore": 595.0,
+      "sourceAverageScore": 592.0,
+      "scoreComparable": true
+    },
+    {
+      "major": "电子信息技术（中外合作办学）",
+      "score": 563,
+      "sourceMaximumScore": null,
+      "sourceAverageScore": null,
+      "scoreComparable": false
+    },
+    {
+      "major": "物理学（中外合作办学）",
+      "score": 517,
+      "sourceMaximumScore": null,
+      "sourceAverageScore": null,
+      "scoreComparable": true
+    }
+  ],
+  "blockingFindings": [],
+  "checksPassed": 421,
+  "checksTotal": 421,
+  "checks": [
+    {
+      "check": "8 unique records, 6 school reviews, 55 unique sources",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: track",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: majorCode",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: round",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: scoreType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: scoreScaleMaximum",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: requiredSubjects",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: subjectRule",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: no invented counts",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: valid source references",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: critical field provenance",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: score range",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: track",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: majorCode",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: round",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: scoreType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: scoreScaleMaximum",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: requiredSubjects",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: subjectRule",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: no invented counts",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: valid source references",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: critical field provenance",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: score range",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: track",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: majorCode",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: round",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: scoreType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: scoreScaleMaximum",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: requiredSubjects",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: subjectRule",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: no invented counts",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: valid source references",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: critical field provenance",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: score range",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: track",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: majorCode",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: round",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: scoreType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: scoreScaleMaximum",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: requiredSubjects",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: subjectRule",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: no invented counts",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: valid source references",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: critical field provenance",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: score range",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: track",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: majorCode",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: round",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: scoreType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: scoreScaleMaximum",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: requiredSubjects",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: subjectRule",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: no invented counts",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: valid source references",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: critical field provenance",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: score range",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: track",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: majorCode",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: round",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: scoreType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: scoreScaleMaximum",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: requiredSubjects",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: subjectRule",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: no invented counts",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: valid source references",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: critical field provenance",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: score range",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: track",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: majorCode",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: round",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: scoreType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: scoreScaleMaximum",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: requiredSubjects",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: subjectRule",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: no invented counts",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: valid source references",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: critical field provenance",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: score range",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: track",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: majorCode",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: round",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: scoreType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: scoreScaleMaximum",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: requiredSubjects",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: subjectRule",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: no invented counts",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: valid source references",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: critical field provenance",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: score range",
+      "passed": true
+    },
+    {
+      "check": "CCMU exactly six original rows and complete menu",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original batch",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original admissionType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: original rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: source row locator",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: source null count",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: source score interval",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: verified raw-exam score basis",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-1: unknown reselected subjects independent of xkkm",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original batch",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original admissionType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: original rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: source row locator",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: source null count",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: source score interval",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: verified raw-exam score basis",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-2: unknown reselected subjects independent of xkkm",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original batch",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original admissionType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: original rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: source row locator",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: source null count",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: source score interval",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: verified raw-exam score basis",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-3: unknown reselected subjects independent of xkkm",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original batch",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original admissionType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: original rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: source row locator",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: source null count",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: source score interval",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: verified raw-exam score basis",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-4: unknown reselected subjects independent of xkkm",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original batch",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original admissionType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: original rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: source row locator",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: source null count",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: source score interval",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: verified raw-exam score basis",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-5: unknown reselected subjects independent of xkkm",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original year",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original province",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original batch",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original admissionType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original group",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: original rank",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: source row locator",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: source null count",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: source score interval",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: verified raw-exam score basis",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10025-6: unknown reselected subjects independent of xkkm",
+      "passed": true
+    },
+    {
+      "check": "CCMU exact live GET parameters",
+      "passed": true
+    },
+    {
+      "check": "CCMU current province menu exposes physics only",
+      "passed": true
+    },
+    {
+      "check": "CCMU type and batch menus exact",
+      "passed": true
+    },
+    {
+      "check": "CCMU original HTML binds xkkm to duration caption",
+      "passed": true
+    },
+    {
+      "check": "CCMU original JS exposes both used API routes",
+      "passed": true
+    },
+    {
+      "check": "CCMU official link chain",
+      "passed": true
+    },
+    {
+      "check": "CCMU charter professional raw-exam basis and bonus tie-break",
+      "passed": true
+    },
+    {
+      "check": "CCMU charter language and health requirements",
+      "passed": true
+    },
+    {
+      "check": "SNNU original PDF 2026 ordinary score header",
+      "passed": true
+    },
+    {
+      "check": "SNNU Guangxi merged cells contain 14 records",
+      "passed": true
+    },
+    {
+      "check": "SNNU only two named majors, other 12 aggregates excluded",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: original PDF sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: original PDF major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: original PDF score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: original PDF admissionType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: original PDF sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: original PDF batch",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: original PDF sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: original PDF sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: original PDF sourcePage",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-13: PDF row locator",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: original PDF sourceTrack",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: original PDF major",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: original PDF score",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: original PDF admissionType",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: original PDF sourceCategory",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: original PDF batch",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: original PDF sourceMaximumScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: original PDF sourceAverageScore",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: original PDF sourcePage",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-root-10718-14: PDF row locator",
+      "passed": true
+    },
+    {
+      "check": "SNNU charter distinct professional name",
+      "passed": true
+    },
+    {
+      "check": "SNNU naming conflict retained and excluded",
+      "passed": true
+    },
+    {
+      "check": "SNNU physical major comparable",
+      "passed": true
+    },
+    {
+      "check": "SNNU charter score and cooperation requirements",
+      "passed": true
+    },
+    {
+      "check": "SNNU sports table excluded",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-物理类.json: business success and expected count",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-物理类.json: exact province and year request",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-物理类.json: business success and expected count",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-物理类.json: exact province and year request",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-物理类.json: raw positive response year province class",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-历史类.json: business success and expected count",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-历史类.json: exact province and year request",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-历史类.json: business success and expected count",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-历史类.json: exact province and year request",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-历史类.json: raw positive response year province class",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-理工.json: business success and expected count",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-理工.json: exact province and year request",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-理工.json: business success and expected count",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-理工.json: exact province and year request",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-理工.json: raw positive response year province class",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-文史.json: business success and expected count",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-文史.json: exact province and year request",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-文史.json: business success and expected count",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-文史.json: exact province and year request",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-文史.json: raw positive response year province class",
+      "passed": true
+    },
+    {
+      "check": "SISU current menu latest Guangxi year 2025",
+      "passed": true
+    },
+    {
+      "check": "SNNU current menu latest Guangxi year 2025",
+      "passed": true
+    },
+    {
+      "check": "SISU actual front endpoint chain",
+      "passed": true
+    },
+    {
+      "check": "SNNU actual front API",
+      "passed": true
+    },
+    {
+      "check": "NJMU old PDF 33 pages, Guangxi 2025 on page19",
+      "passed": true
+    },
+    {
+      "check": "NJUCM source is 2025 filing, 14 Guangxi rows",
+      "passed": true
+    },
+    {
+      "check": "BJUT source is 2025 ordinary professional PDF",
+      "passed": true
+    },
+    {
+      "check": "Old-year-only schools have no imported rows",
+      "passed": true
+    },
+    {
+      "check": "10271: review identity and source references",
+      "passed": true
+    },
+    {
+      "check": "10271: accurate partial count and limitation",
+      "passed": true
+    },
+    {
+      "check": "10312: review identity and source references",
+      "passed": true
+    },
+    {
+      "check": "10312: accurate partial count and limitation",
+      "passed": true
+    },
+    {
+      "check": "10315: review identity and source references",
+      "passed": true
+    },
+    {
+      "check": "10315: accurate partial count and limitation",
+      "passed": true
+    },
+    {
+      "check": "10718: review identity and source references",
+      "passed": true
+    },
+    {
+      "check": "10718: accurate partial count and limitation",
+      "passed": true
+    },
+    {
+      "check": "10005: review identity and source references",
+      "passed": true
+    },
+    {
+      "check": "10005: accurate partial count and limitation",
+      "passed": true
+    },
+    {
+      "check": "10025: review identity and source references",
+      "passed": true
+    },
+    {
+      "check": "10025: accurate partial count and limitation",
+      "passed": true
+    },
+    {
+      "check": "bjut-home.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "bjut-old.pdf: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "bjut-scores.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-admissions.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-charter.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-current.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-gx-2026-0.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-home.html: failed response distinguished",
+      "passed": true
+    },
+    {
+      "check": "ccmu-main.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-major-form.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-major.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-major.js: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-2025.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-2026.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-all.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-batches.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-majors.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-types.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "ccmu-scores.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "njmu-entry.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "njmu-home.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "njmu-old.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "njmu-old.pdf: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "njucm-gx-2025.pdf: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "njucm-home.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "njucm-latest.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "njucm-scores.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-common.js: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-历史类.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-物理类.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-历史类.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-物理类.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-home.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-info.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-init.js: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-news.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-old-stats.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-params.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-query.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-scores.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "sisu-tplt.js: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-app.js: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-charter.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-cooperation.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-current.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-current.pdf: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-entry.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-文史.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-理工.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-文史.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-理工.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-home.html: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-query.js: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "snnu-types.json: original archive SHA",
+      "passed": true
+    },
+    {
+      "check": "existing filing reference not treated as new raw",
+      "passed": true
+    },
+    {
+      "check": "PUBLIC-FILES.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "PUBLIC-FILES.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "README.md: safe public path",
+      "passed": true
+    },
+    {
+      "check": "README.md: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "collect.py: safe public path",
+      "passed": true
+    },
+    {
+      "check": "collect.py: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "session_query.py: safe public path",
+      "passed": true
+    },
+    {
+      "check": "session_query.py: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "freeze.py: safe public path",
+      "passed": true
+    },
+    {
+      "check": "freeze.py: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "build.py: safe public path",
+      "passed": true
+    },
+    {
+      "check": "build.py: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "source-manifest.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "source-manifest.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "evidence-rows.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "evidence-rows.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "review-evidence.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "review-evidence.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "code-sources.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "code-sources.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "sources.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "sources.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "major-cutoffs-upsert.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "major-cutoffs-upsert.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "school-audit-notes.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "school-audit-notes.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "QA.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "QA.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-1.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-1.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-2.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-2.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-3.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-3.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-4.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-4.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-5.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-5.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-6.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-6.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-7.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-7.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-8.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-8.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-9.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-9.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-10.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-10.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-11.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-11.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-12.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-12.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "requests-13.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "requests-13.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "session-requests-1.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "session-requests-1.json: no stored secret or private path",
+      "passed": true
+    },
+    {
+      "check": "session-requests-2.json: safe public path",
+      "passed": true
+    },
+    {
+      "check": "session-requests-2.json: no stored secret or private path",
+      "passed": true
+    }
+  ]
+}

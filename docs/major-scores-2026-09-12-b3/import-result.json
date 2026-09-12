@@ -1,0 +1,685 @@
+{
+  "before": 1120,
+  "after": 1255,
+  "added": 135,
+  "updated": 0,
+  "schoolCodes": 37,
+  "pending": 4,
+  "changes": [
+    {
+      "id": "major-20260912b3-b-10423-1-1",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-1",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-2",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-3",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-4",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-5",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-6",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-7",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-8",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-9",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-10",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-11",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-12",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-13",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-14",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-15",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-16",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-17",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-18",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-19",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-20",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-21",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-22",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-23",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-24",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-25",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-26",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-27",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-28",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-29",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-30",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-31",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-32",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-33",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-34",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-3-1",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-1",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-2",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-3",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-4",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-5",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-6",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-7",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-6-1",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-6-2",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-6-3",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-1",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-2",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-3",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-4",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-5",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-6",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-7",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-8",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-9",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-10",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-11",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-12",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-13",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-b-10423-8-1",
+      "school": "中国海洋大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-2",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-3",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-4",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-5",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-6",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-7",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-8",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-9",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-10",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-11",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-12",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-13",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-14",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-15",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-16",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-17",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-18",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-19",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-20",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-21",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-22",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10233-mdj-score-23",
+      "school": "牡丹江师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-2",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-3",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-4",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-5",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-6",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-7",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-8",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-9",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-10",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-11",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-12",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-13",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-14",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-15",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-16",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-17",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-18",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-10981-19",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10722-xync-11021-2",
+      "school": "咸阳师范学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-7",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-8",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-9",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-10",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-11",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-12",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-13",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-14",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-15",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-16",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-17",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-18",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-19",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10721-bjwl-1383-20",
+      "school": "宝鸡文理学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-2",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-3",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-4",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-5",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-6",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-7",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-8",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-9",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-10",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-11",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-12",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-c-10633-cdutcm-image-13",
+      "school": "成都中医药大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-root-10025-1",
+      "school": "首都医科大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-root-10025-2",
+      "school": "首都医科大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-root-10025-3",
+      "school": "首都医科大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-root-10025-4",
+      "school": "首都医科大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-root-10025-5",
+      "school": "首都医科大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-root-10025-6",
+      "school": "首都医科大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-root-10718-13",
+      "school": "陕西师范大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260912b3-root-10718-14",
+      "school": "陕西师范大学",
+      "action": "add"
+    }
+  ]
+}

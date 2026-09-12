@@ -1,0 +1,6135 @@
+[
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "物理学",
+    "score": 421,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 2,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 437,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "地理科学",
+    "score": 421,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 3,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 424,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。地理科学不录取色盲考生。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "生物科学",
+    "score": 422,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 4,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 428,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 5,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "计算机科学与技术",
+    "score": 426,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 5,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 431,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。不能准确在显示器上识别红、黄、绿、蓝、紫任何一种颜色的数码、字母者不予录取；非英语语种考生谨慎报考计算机类。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "软件工程",
+    "score": 425,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 6,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 426,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。不能准确在显示器上识别红、黄、绿、蓝、紫任何一种颜色的数码、字母者不予录取；非英语语种考生谨慎报考计算机类。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "数据科学与大数据技术",
+    "score": 423,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 7,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 425,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。不能准确在显示器上识别红、黄、绿、蓝、紫任何一种颜色的数码、字母者不予录取；非英语语种考生谨慎报考计算机类。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "经济学",
+    "score": 419,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 8,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 426,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-9",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "法学",
+    "score": 422,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 9,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 434,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-10",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "知识产权",
+    "score": 418,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 10,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 418,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-11",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "英语",
+    "score": 420,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 11,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 427,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。英语、商务英语专业只招英语语种考生。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-12",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "英语（师范）",
+    "score": 443,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 12,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 461,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。英语、商务英语专业只招英语语种考生。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-13",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "商务英语",
+    "score": 419,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 13,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 422,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。英语、商务英语专业只招英语语种考生。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-14",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "工商管理",
+    "score": 418,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 14,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 419,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-15",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "旅游管理",
+    "score": 418,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 15,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 419,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 4,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-16",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "学前教育",
+    "score": 441,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 16,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 443,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-17",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "小学教育",
+    "score": 445,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 17,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 446,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-18",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "汉语言文学",
+    "score": 447,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 18,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 453,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-19",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "汉语言",
+    "score": 443,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 19,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 444,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-20",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "秘书学",
+    "score": 440,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 20,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 444,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-21",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "英语（师范）",
+    "score": 441,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 21,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 479,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。英语、商务英语专业只招英语语种考生。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-22",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "商务英语",
+    "score": 442,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 22,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 447,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。英语、商务英语专业只招英语语种考生。"
+  },
+  {
+    "id": "major-20260912b3-c-10233-mdj-score-23",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "普通类本科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "历史学",
+    "score": 446,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-mdj-score",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 3,
+    "sourceRow": 23,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 452,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "province": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "track": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "major": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "score": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "batch": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "round": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-mdj-score"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-mdj-score",
+        "major-20260912b3-c-mdj-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-mdj-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程按国家招生体检指导意见审核；师范类及体检意见列出的不宜就读情形建议慎报。"
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "数学与应用数学",
+    "score": 439,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 2,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 458,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 7,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。",
+    "sourceTieBreakOrder": 5
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "地理科学",
+    "score": 445,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 3,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 448,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。本专业不录取色盲考生。",
+    "sourceTieBreakOrder": 13
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "生物科学",
+    "score": 441,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 4,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 454,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 7,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。本专业不录取色弱、色盲考生。",
+    "sourceTieBreakOrder": 5
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "数据科学",
+    "score": 441,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 5,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 441,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。",
+    "sourceTieBreakOrder": 21
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "材料化学",
+    "score": 441,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 6,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 441,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。本专业不录取色弱、色盲考生。",
+    "sourceTieBreakOrder": 22
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "电气工程及其自动化",
+    "score": 462,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 7,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 467,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。",
+    "sourceTieBreakOrder": 12
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "机器人工程",
+    "score": 447,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 8,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 450,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。不能准确在显示器上识别红、黄、绿、蓝、紫任何一种颜色的数码、字母者不予录取（章程对应专业项写“智能科学技术”）。",
+    "sourceTieBreakOrder": 1
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-9",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "计算机科学与技术",
+    "score": 447,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 9,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 466,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 4,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。不能准确在显示器上识别红、黄、绿、蓝、紫任何一种颜色的数码、字母者不予录取（章程对应专业项写“智能科学技术”）。",
+    "sourceTieBreakOrder": 14
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-10",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "智能科学与技术",
+    "score": 442,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 10,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 454,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。不能准确在显示器上识别红、黄、绿、蓝、紫任何一种颜色的数码、字母者不予录取（章程对应专业项写“智能科学技术”）。",
+    "sourceTieBreakOrder": 4
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-11",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "化学工程与工艺",
+    "score": 440,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 11,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 441,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceWithdrawnCount": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。本专业不录取色弱、色盲考生。本表该专业计划3人、实际录取2人、退档1人、缺额1人；另一公告的征集录取单列，未合并覆盖。",
+    "sourceTieBreakOrder": 4,
+    "sourceWithdrawnCount": 1
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-12",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "地理信息科学",
+    "score": 431,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 12,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 470,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。",
+    "sourceTieBreakOrder": 1
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-13",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "特殊教育",
+    "score": 437,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 13,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 441,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 2,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。本专业不录取色弱、色盲考生。",
+    "sourceTieBreakOrder": 1
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-14",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "财务管理",
+    "score": 418,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 14,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 420,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 3,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。不能准确识别红、黄、绿、蓝、紫任何一种颜色的导线、按键、信号灯、几何图形者不予录取。",
+    "sourceTieBreakOrder": 1
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-15",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "思想政治教育",
+    "score": 471,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 15,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 481,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 4,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。",
+    "sourceTieBreakOrder": 6
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-16",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "汉语国际教育",
+    "score": 455,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 16,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 458,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 4,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。",
+    "sourceTieBreakOrder": 7
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-17",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "英语",
+    "score": 456,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 17,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 469,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 5,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。",
+    "sourceTieBreakOrder": 2
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-18",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "历史学",
+    "score": 458,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 18,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 476,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 6,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。",
+    "sourceTieBreakOrder": 5
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-10981-19",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "旅游管理",
+    "score": 455,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-10981",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 4,
+    "sourceRow": 19,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 458,
+    "sourceScoreHeader": "投档录取 最低分",
+    "admittedCount": 4,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-10981"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-10981",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-10981"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。",
+    "sourceTieBreakOrder": 3
+  },
+  {
+    "id": "major-20260912b3-c-10722-xync-11021-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "征集（次数未分）",
+    "group": null,
+    "major": "化学工程与工艺",
+    "score": 487,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-xync-11021",
+    "sourceIds": [
+      "major-20260912b3-c-xync-11021",
+      "major-20260912b3-c-xync-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 487,
+    "sourceScoreHeader": "投档录取最低分",
+    "admittedCount": 1,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "province": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "track": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "major": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "score": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "batch": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "round": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-xync-11021"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-xync-11021",
+        "major-20260912b3-c-xync-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-xync-charter"
+      ],
+      "sourceTieBreakOrder": [
+        "major-20260912b3-c-xync-11021"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原字段为“投档录取最低分”，结合普通类专业录取栏目及实际录取人数采作专业录取分；“录取最低分同分排位”仅同分序号，省位次保持未知。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。本条为原文明确的普通类征集录取，未推断第几次征集。组码未列不推断；实际录取人数不作为招生计划。章程所有专业不限制应试语种、无需口试；入学后公共外语原则上为英语。体检按国家指导意见及章程第十条。本专业不录取色弱、色盲考生。",
+    "sourceTieBreakOrder": 1
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "历史",
+    "sourceTrack": "历史",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "哲学",
+    "score": 457,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 474,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 465.5,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "历史",
+    "sourceTrack": "历史",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "学前教育",
+    "score": 456,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 457,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 456.5,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。本专业不录取色弱、色盲考生。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-9",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "历史",
+    "sourceTrack": "历史",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "英语",
+    "score": 457,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 461,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 459.0,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-10",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "历史",
+    "sourceTrack": "历史",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "新闻学",
+    "score": 463,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 10,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 468,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 465.5,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-11",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "历史",
+    "sourceTrack": "历史",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "人力资源管理",
+    "score": 459,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 11,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 463,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 461.0,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。不能准确识别红、黄、绿、蓝、紫任何一种颜色的导线、按键、信号灯、几何图形者不予录取。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-12",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "历史",
+    "sourceTrack": "历史",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "旅游管理",
+    "score": 454,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 12,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 460,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 457.0,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。不能准确识别红、黄、绿、蓝、紫任何一种颜色的导线、按键、信号灯、几何图形者不予录取。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-13",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "物理",
+    "sourceTrack": "物理+化学",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "化学",
+    "score": 456,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 13,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "sourceMaximumScore": 463,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 459.5,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-c-bjwl-1383"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。本专业不录取色弱、色盲考生。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-14",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "物理",
+    "sourceTrack": "物理+化学",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "统计学",
+    "score": 456,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 14,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "sourceMaximumScore": 456,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 456.0,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-c-bjwl-1383"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-15",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "物理",
+    "sourceTrack": "物理+化学",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "化学工程与工艺",
+    "score": 457,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 15,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "sourceMaximumScore": 462,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 459.5,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-c-bjwl-1383"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。本专业不录取色弱、色盲考生。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-16",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "物理",
+    "sourceTrack": "物理+化学",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "环境工程",
+    "score": 456,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 16,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "sourceMaximumScore": 460,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 458.0,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-c-bjwl-1383"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。本专业不录取色弱、色盲考生。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-17",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "物理",
+    "sourceTrack": "物理+化学",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "机械设计制造及其自动化",
+    "score": 475,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 17,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "sourceMaximumScore": 476,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 475.5,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-c-bjwl-1383"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-18",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "物理",
+    "sourceTrack": "物理+化学",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "电气工程及其自动化",
+    "score": 478,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 18,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "sourceMaximumScore": 478,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 478.0,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-c-bjwl-1383"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-19",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "物理",
+    "sourceTrack": "物理+化学",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "电子科学与技术",
+    "score": 462,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 19,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "sourceMaximumScore": 478,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 470.0,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-c-bjwl-1383"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。"
+  },
+  {
+    "id": "major-20260912b3-c-10721-bjwl-1383-20",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "track": "物理",
+    "sourceTrack": "物理+化学",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "人工智能",
+    "score": 460,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-bjwl-1383",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter",
+      "gxeea-2026-33106"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 20,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "sourceMaximumScore": 461,
+    "sourceScoreHeader": "最低分",
+    "admittedCount": 2,
+    "sourceAverageScore": 460.5,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "province": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "track": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "major": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "score": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "batch": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "round": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "admittedCount": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-c-bjwl-1383"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-bjwl-1383",
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-bjwl-charter"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-c-bjwl-1383"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。本科层次由2026章程确认，快讯未明示广西精确批次，批次待核。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程公共外语及相关专业课程全部采用英语教学，非英语语种考生慎报；体检按国家指导意见及章程第十九条。"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "中医学",
+    "score": 594,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 601,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "中医学"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "针灸推拿学",
+    "score": 590,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 591,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "针灸推拿学"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "中医骨伤科学",
+    "score": 587,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 587,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。成绩图原名称“中医骨伤学”，同期广西官方计划为“中医骨伤科学”，保留sourceMajor原词，并按唯一对应计划正式名称展示。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "中医骨伤学"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "预防医学",
+    "score": 545,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 554,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "预防医学"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "药学",
+    "score": 550,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 562,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。本条在2026广西计划查询中明确为普通类，未带中高计划或中外合作后缀；未将全国章程中的同名合作项目条件混入。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "药学"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "中药学",
+    "score": 545,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 569,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "中药学"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "中药资源与开发",
+    "score": 547,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 549,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "中药资源与开发"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-9",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "康复治疗学",
+    "score": 563,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 567,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。本条在2026广西计划查询中明确为普通类，未带中高计划或中外合作后缀；未将全国章程中的同名合作项目条件混入。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "康复治疗学"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-10",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "智能医学工程",
+    "score": 556,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 10,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 564,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。本条在2026广西计划查询中明确为普通类，未带中高计划或中外合作后缀；未将全国章程中的同名合作项目条件混入。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "智能医学工程"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-11",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "护理学",
+    "score": 525,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 11,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "sourceMaximumScore": 546,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。护理学建议女生身高不低于1.58米、男生不低于1.62米，属于建议。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "护理学"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-12",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "中医学",
+    "score": 588,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 12,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 637,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "中医学"
+  },
+  {
+    "id": "major-20260912b3-c-10633-cdutcm-image-13",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "针灸推拿学",
+    "score": 581,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b3-c-cdutcm-image",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "gxeea-2026-33106",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 13,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "sourceMaximumScore": 585,
+    "sourceScoreHeader": "最低分",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "province": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "track": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "major": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "score": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "batch": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "round": [
+        "major-20260912b3-c-cdutcm-score"
+      ],
+      "admissionType": [
+        "major-20260912b3-c-cdutcm-plan-entry",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "sourceScoreHeader": [
+        "major-20260912b3-c-cdutcm-image"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "note": [
+        "major-20260912b3-c-cdutcm-image",
+        "major-20260912b3-c-cdutcm-charter",
+        "major-20260912b3-c-cdutcm-plan-gx"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-c-cdutcm-charter"
+      ],
+      "sourceMajor": [
+        "major-20260912b3-c-cdutcm-image"
+      ]
+    },
+    "note": "原表为2026广西具体专业录取结果；学校以认可政策加分后的投档成绩录取及安排专业，原表未拆分加分值。原公告未明示首次或具体征集轮次，保留录取汇总。组码未列不推断；实际录取人数不作为招生计划。章程列明本专业不招色盲、色弱考生；大学英语为必修课，非英语语种考生慎报，须适应汉语教学及答卷。医学类还须结合章程第四部分及体检指导意见核查；肝功能异常、肢体功能障碍等为慎报建议，不改成绝对禁报。正文只给本科普通批合计43人（物理39、历史4），图中未给各专业实际人数，逐专业admittedCount不填；未由计划人数推定。",
+    "sourceMajor": "针灸推拿学"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "shu-scores",
+    "url": "https://bks.shu.edu.cn/pub/scores.aspx"
+  },
+  {
+    "id": "nnu-https",
+    "url": "https://bkzs.njnu.edu.cn/"
+  },
+  {
+    "id": "dhu-2025-page2",
+    "url": "https://zs.dhu.edu.cn/2025ngslqfscx/list2.htm"
+  },
+  {
+    "id": "dhu-national",
+    "url": "https://zs.dhu.edu.cn/gjpkzxjhzslnfscx/list.htm"
+  },
+  {
+    "id": "ecust-js-1",
+    "url": "https://bkzsdata.ecust.edu.cn/zsdata/lqxx/js/chunk-vendors.124e7f9a.js"
+  },
+  {
+    "id": "ecust-js-2",
+    "url": "https://bkzsdata.ecust.edu.cn/zsdata/lqxx/js/app.ad4dec77.js"
+  },
+  {
+    "id": "ouc-init",
+    "url": "https://lqcx.ouc.edu.cn/static/front/ouc/basic/js/init.js"
+  },
+  {
+    "id": "ouc-util",
+    "url": "https://lqcx.ouc.edu.cn/static/front/ouc/basic/js/util.js"
+  },
+  {
+    "id": "ouc-tplt",
+    "url": "https://lqcx.ouc.edu.cn/static/front/ouc/basic/js/tplt.js"
+  },
+  {
+    "id": "ouc-common",
+    "url": "https://lqcx.ouc.edu.cn/static/front/ouc/basic/js/common.js"
+  }
+]

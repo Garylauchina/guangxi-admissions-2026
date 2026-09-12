@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ccmu-scores.html",
+    "url": "https://zhsh.ccmu.edu.cn/page/list/DEWVJI/1653_5_1"
+  },
+  {
+    "name": "snnu-charter.html",
+    "url": "https://zsb.snnu.edu.cn/info/1235/5172.htm"
+  },
+  {
+    "name": "snnu-cooperation.html",
+    "url": "https://zsb.snnu.edu.cn/info/1393/5262.htm"
+  },
+  {
+    "name": "snnu-gx-2026-理工.json",
+    "url": "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "理工\\物理类"
+    }
+  },
+  {
+    "name": "snnu-gx-2026-文史.json",
+    "url": "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "文史\\历史类"
+    }
+  },
+  {
+    "name": "snnu-gx-2025-理工.json",
+    "url": "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "普通类",
+      "klmc": "理工\\物理类"
+    }
+  },
+  {
+    "name": "snnu-gx-2025-文史.json",
+    "url": "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "encoding": "json",
+    "data": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "普通类",
+      "klmc": "文史\\历史类"
+    }
+  }
+]

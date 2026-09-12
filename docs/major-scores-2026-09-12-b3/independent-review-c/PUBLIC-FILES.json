@@ -1,0 +1,9 @@
+{
+  "files": [
+    "README.md",
+    "QA.json",
+    "audit.py",
+    "PUBLIC-FILES.json"
+  ],
+  "note": "独立复核事实/哈希/相对路径脚本；不复制被审包raw。"
+}

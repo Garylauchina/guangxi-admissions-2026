@@ -1,0 +1,152 @@
+[
+  {
+    "id": "major-audit-20260912b3-c-10233",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10233",
+    "school": "牡丹江师范学院",
+    "checkedAt": "2026-09-12",
+    "status": "collected",
+    "recordCount": 22,
+    "note": "完整普通类本科公告22行，历史8、物理14，实际61人；英语语种和体检限制已逐项备注。",
+    "scope": "仅列明2026广西官方公告及配套章程；完整公告不代表全部招生通道。未列组码/位次/精确轮次保持未知。",
+    "sourceIds": [
+      "major-20260912b3-c-mdj-score",
+      "major-20260912b3-c-mdj-charter"
+    ],
+    "checkedUrls": [
+      "https://zs.mdjnu.cn/info/1015/1923.htm",
+      "https://zs.mdjnu.cn/info/1013/1876.htm"
+    ]
+  },
+  {
+    "id": "major-audit-20260912b3-c-10722",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10722",
+    "school": "咸阳师范学院",
+    "checkedAt": "2026-09-12",
+    "status": "collected",
+    "recordCount": 19,
+    "note": "普通类专业表18行、实际66人，征集另1行1人；原“投档录取最低分”和同分排位保留。精确本科批次未在快讯明示，不推首轮；征集未指明次数。",
+    "scope": "仅列明2026广西官方公告及配套章程；完整公告不代表全部招生通道。未列组码/位次/精确轮次保持未知。",
+    "sourceIds": [
+      "major-20260912b3-c-xync-10981",
+      "major-20260912b3-c-xync-charter",
+      "major-20260912b3-c-xync-11021"
+    ],
+    "checkedUrls": [
+      "https://zsb.xync.edu.cn/info/1002/10981.htm",
+      "https://zsb.xync.edu.cn/info/1002/11021.htm",
+      "https://zsb.xync.edu.cn/info/1003/10721.htm"
+    ]
+  },
+  {
+    "id": "major-audit-20260912b3-c-10721",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10721",
+    "school": "宝鸡文理学院",
+    "checkedAt": "2026-09-12",
+    "status": "collected",
+    "recordCount": 14,
+    "note": "第九期快讯广西完整14行、实际28人；化学再选由原表直接保留，其他省5行排除。精确本科批次及首次轮次未明示。",
+    "scope": "仅列明2026广西官方公告及配套章程；完整公告不代表全部招生通道。未列组码/位次/精确轮次保持未知。",
+    "sourceIds": [
+      "major-20260912b3-c-bjwl-1383",
+      "major-20260912b3-c-bjwl-charter"
+    ],
+    "checkedUrls": [
+      "https://ein.bjwlxy.cn/info/1002/1383.htm",
+      "https://ein.bjwlxy.cn/info/1003/1354.htm"
+    ]
+  },
+  {
+    "id": "major-audit-20260912b3-c-10633",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10633",
+    "school": "成都中医药大学",
+    "checkedAt": "2026-09-12",
+    "status": "collected",
+    "recordCount": 12,
+    "note": "广西普通本科批完整原图12行，正文总录取43人但各专业人数未公开；同期计划核对为普通类，不把人数当实际录取。中医骨伤学按同年同省唯一计划名称中医骨伤科学规范并保留原词。",
+    "scope": "仅列明2026广西官方公告及配套章程；完整公告不代表全部招生通道。未列组码/位次/精确轮次保持未知。",
+    "sourceIds": [
+      "major-20260912b3-c-cdutcm-image",
+      "major-20260912b3-c-cdutcm-charter",
+      "major-20260912b3-c-cdutcm-score",
+      "major-20260912b3-c-cdutcm-plan-entry",
+      "major-20260912b3-c-cdutcm-plan-gx"
+    ],
+    "checkedUrls": [
+      "https://zs.cdutcm.edu.cn/Homecdutcm/Detail/1926",
+      "https://platst.cdutcm.edu.cn/V1/NetWork/TinImageFile/1017/5a006ee3532f4d1988731b347633ead3.png",
+      "https://zs.cdutcm.edu.cn/Homecdutcm/Detail?id=1902",
+      "https://zs.cdutcm.edu.cn/Homecdutcm/SList_ZSJH",
+      "https://zs.cdutcm.edu.cn/Homecdutcm/PageList_ZSJH"
+    ]
+  },
+  {
+    "id": "major-audit-20260912b3-c-10678",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10678",
+    "school": "昆明医科大学",
+    "checkedAt": "2026-09-12",
+    "status": "source-found",
+    "recordCount": 0,
+    "note": "2026广西仅学校本科普通批汇总30人及最高587、最低421，无具体专业表。",
+    "scope": "仅列明实际读取页面，不证明该校未发布其他数据或零录取。",
+    "sourceIds": [
+      "major-20260912b3-c-kmmc-score"
+    ],
+    "checkedUrls": [
+      "https://www.kmmc.cn/Pages_1754_60813.aspx"
+    ]
+  },
+  {
+    "id": "major-audit-20260912b3-c-10341",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10341",
+    "school": "浙江农林大学",
+    "checkedAt": "2026-09-12",
+    "status": "source-found",
+    "recordCount": 0,
+    "note": "2026广西仅物理/历史/国家专项科类投档汇总，不据计划拆专业。",
+    "scope": "仅列明实际读取页面，不证明该校未发布其他数据或零录取。",
+    "sourceIds": [
+      "major-20260912b3-c-zafu-score"
+    ],
+    "checkedUrls": [
+      "https://zs.zafu.edu.cn/info/1040/5106.htm"
+    ]
+  },
+  {
+    "id": "major-audit-20260912b3-c-10594",
+    "auditKind": "major-scores",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10594",
+    "school": "广西科技大学",
+    "checkedAt": "2026-09-12",
+    "status": "entry-only",
+    "recordCount": 0,
+    "note": "官方招生主页链接2026数据微信页；HTTP200响应为访问环境验证，正文未读取，不能声称成功空数据。",
+    "scope": "仅列明实际读取页面，不证明该校未发布其他数据或零录取。",
+    "sourceIds": [
+      "major-20260912b3-c-gxust-wechat",
+      "major-20260912b3-c-gxust-home"
+    ],
+    "checkedUrls": [
+      "https://mp.weixin.qq.com/s/VxGe3yftS_-qU75jhefN0g"
+    ]
+  }
+]

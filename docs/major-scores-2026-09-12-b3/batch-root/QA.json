@@ -1,0 +1,356 @@
+{
+  "status": "passed",
+  "reviewedAt": "2026-09-12",
+  "newScoreRecords": 8,
+  "comparableRecords": 7,
+  "nameConflictRecords": 1,
+  "reviewedSchools": 6,
+  "sources": 55,
+  "checks": [
+    {
+      "check": "CCMU six majors equal complete selected menu",
+      "passed": true
+    },
+    {
+      "check": "CCMU row1 identity and range",
+      "passed": true
+    },
+    {
+      "check": "CCMU row2 identity and range",
+      "passed": true
+    },
+    {
+      "check": "CCMU row3 identity and range",
+      "passed": true
+    },
+    {
+      "check": "CCMU row4 identity and range",
+      "passed": true
+    },
+    {
+      "check": "CCMU row5 identity and range",
+      "passed": true
+    },
+    {
+      "check": "CCMU row6 identity and range",
+      "passed": true
+    },
+    {
+      "check": "CCMU official actual score admission basis",
+      "passed": true
+    },
+    {
+      "check": "SNNU current PDF year and Guangxi",
+      "passed": true
+    },
+    {
+      "check": "SNNU two literal programme minima",
+      "passed": true
+    },
+    {
+      "check": "SNNU charter has different electronic major label",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-物理类.json success and expected empty/positive",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-物理类.json correct province/year request",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-物理类.json success and expected empty/positive",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-物理类.json correct province/year request",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-历史类.json success and expected empty/positive",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-历史类.json correct province/year request",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-历史类.json success and expected empty/positive",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-历史类.json correct province/year request",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-理工.json success and expected empty/positive",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-理工.json correct province/year request",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-理工.json success and expected empty/positive",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-理工.json correct province/year request",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-文史.json success and expected empty/positive",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-文史.json correct province/year request",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-文史.json success and expected empty/positive",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-文史.json correct province/year request",
+      "passed": true
+    },
+    {
+      "check": "njmu-old.pdf old year and Guangxi",
+      "passed": true
+    },
+    {
+      "check": "njucm-gx-2025.pdf old year and Guangxi",
+      "passed": true
+    },
+    {
+      "check": "bjut-old.pdf old year and Guangxi",
+      "passed": true
+    },
+    {
+      "check": "bjut-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "bjut-old.pdf archive hash",
+      "passed": true
+    },
+    {
+      "check": "bjut-scores.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-admissions.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-charter.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-current.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-gx-2026-0.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-main.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-major-form.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-major.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-major.js archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-2025.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-2026.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-all.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-batches.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-majors.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-params-types.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "ccmu-scores.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "njmu-entry.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "njmu-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "njmu-old.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "njmu-old.pdf archive hash",
+      "passed": true
+    },
+    {
+      "check": "njucm-gx-2025.pdf archive hash",
+      "passed": true
+    },
+    {
+      "check": "njucm-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "njucm-latest.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "njucm-scores.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-common.js archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-历史类.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2025-物理类.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-历史类.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-gx-2026-物理类.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-info.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-init.js archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-news.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-old-stats.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-params.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-query.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-scores.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "sisu-tplt.js archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-app.js archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-charter.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-cooperation.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-current.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-current.pdf archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-entry.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-文史.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2025-理工.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-文史.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-gx-2026-理工.json archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-home.html archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-query.js archive hash",
+      "passed": true
+    },
+    {
+      "check": "snnu-types.json archive hash",
+      "passed": true
+    }
+  ],
+  "manualReview": [
+    "SNNU PDF page2 rendered: Guangxi physical cooperative electronic 563 and physics 517; programme-name discrepancy retained.",
+    "NJMU PDF page19 rendered: Guangxi starts at2025.",
+    "NJUCM PDF page1 rendered: 2025 professional filing minima, excluded.",
+    "BJUT PDF pages1–2 extracted: Guangxi 2025 only."
+  ],
+  "limits": [
+    "陕师电子专业名冲突退出比较",
+    "其余科类汇总、体育和旧年资料不入库",
+    "原表未列人数及位次",
+    "首医年制字段不当选科",
+    "批次/轮次/组码未知时不推定"
+  ]
+}

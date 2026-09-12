@@ -1,0 +1,148 @@
+[
+  {
+    "file": "ccmu-gx-2026-0.json",
+    "sourceRow": 1,
+    "fields": {
+      "majorName": "临床医学(5+3一体化)",
+      "year": 2026,
+      "cityName": "广西",
+      "scienceClass": "物理类",
+      "type": "普通类",
+      "batch": "本科普通批",
+      "lowScore": 632.0,
+      "avgScore": 635.0,
+      "hightScore": 637.0,
+      "enrollNum": null,
+      "lowScoreRank": null,
+      "majorGroup": null,
+      "xkkm": "5+3",
+      "remark": null
+    }
+  },
+  {
+    "file": "ccmu-gx-2026-0.json",
+    "sourceRow": 2,
+    "fields": {
+      "majorName": "临床医学",
+      "year": 2026,
+      "cityName": "广西",
+      "scienceClass": "物理类",
+      "type": "普通类",
+      "batch": "本科普通批",
+      "lowScore": 606.0,
+      "avgScore": 610.0,
+      "hightScore": 613.0,
+      "enrollNum": null,
+      "lowScoreRank": null,
+      "majorGroup": null,
+      "xkkm": "五年",
+      "remark": null
+    }
+  },
+  {
+    "file": "ccmu-gx-2026-0.json",
+    "sourceRow": 3,
+    "fields": {
+      "majorName": "儿科学",
+      "year": 2026,
+      "cityName": "广西",
+      "scienceClass": "物理类",
+      "type": "普通类",
+      "batch": "本科普通批",
+      "lowScore": 620.0,
+      "avgScore": 620.0,
+      "hightScore": 620.0,
+      "enrollNum": null,
+      "lowScoreRank": null,
+      "majorGroup": null,
+      "xkkm": "五年",
+      "remark": null
+    }
+  },
+  {
+    "file": "ccmu-gx-2026-0.json",
+    "sourceRow": 4,
+    "fields": {
+      "majorName": "中医学",
+      "year": 2026,
+      "cityName": "广西",
+      "scienceClass": "物理类",
+      "type": "普通类",
+      "batch": "本科普通批",
+      "lowScore": 580.0,
+      "avgScore": 583.0,
+      "hightScore": 585.0,
+      "enrollNum": null,
+      "lowScoreRank": null,
+      "majorGroup": null,
+      "xkkm": "五年",
+      "remark": null
+    }
+  },
+  {
+    "file": "ccmu-gx-2026-0.json",
+    "sourceRow": 5,
+    "fields": {
+      "majorName": "临床药学",
+      "year": 2026,
+      "cityName": "广西",
+      "scienceClass": "物理类",
+      "type": "普通类",
+      "batch": "本科普通批",
+      "lowScore": 582.0,
+      "avgScore": 586.0,
+      "hightScore": 590.0,
+      "enrollNum": null,
+      "lowScoreRank": null,
+      "majorGroup": null,
+      "xkkm": "五年",
+      "remark": null
+    }
+  },
+  {
+    "file": "ccmu-gx-2026-0.json",
+    "sourceRow": 6,
+    "fields": {
+      "majorName": "药学",
+      "year": 2026,
+      "cityName": "广西",
+      "scienceClass": "物理类",
+      "type": "普通类",
+      "batch": "本科普通批",
+      "lowScore": 588.0,
+      "avgScore": 592.0,
+      "hightScore": 595.0,
+      "enrollNum": null,
+      "lowScoreRank": null,
+      "majorGroup": null,
+      "xkkm": "四年",
+      "remark": null
+    }
+  },
+  {
+    "file": "snnu-current.pdf",
+    "page": 2,
+    "sourceRow": 13,
+    "fields": {
+      "majorName": "电子信息技术（中外合作办学）",
+      "lowScore": 563,
+      "year": 2026,
+      "cityName": "广西",
+      "scienceClass": "物理类",
+      "type": "中外合作办学"
+    }
+  },
+  {
+    "file": "snnu-current.pdf",
+    "page": 2,
+    "sourceRow": 14,
+    "fields": {
+      "majorName": "物理学（中外合作办学）",
+      "lowScore": 517,
+      "year": 2026,
+      "cityName": "广西",
+      "scienceClass": "物理类",
+      "type": "中外合作办学"
+    }
+  }
+]

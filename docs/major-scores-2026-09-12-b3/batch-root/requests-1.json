@@ -1,0 +1,38 @@
+[
+  {
+    "name": "sisu-home.html",
+    "url": "https://admissions.shisu.edu.cn/"
+  },
+  {
+    "name": "sisu-scores.html",
+    "url": "https://admissions.shisu.edu.cn/633/list.htm"
+  },
+  {
+    "name": "sisu-info.html",
+    "url": "https://info.shisu.edu.cn/81/list.psp"
+  },
+  {
+    "name": "sisu-news.html",
+    "url": "https://admissions.shisu.edu.cn/631/list.htm"
+  },
+  {
+    "name": "njmu-home.html",
+    "url": "https://zs.njmu.edu.cn/"
+  },
+  {
+    "name": "njucm-home.html",
+    "url": "https://zs.njucm.edu.cn/"
+  },
+  {
+    "name": "snnu-home.html",
+    "url": "https://zsb.snnu.edu.cn/"
+  },
+  {
+    "name": "bjut-home.html",
+    "url": "https://admissions.bjut.edu.cn/"
+  },
+  {
+    "name": "ccmu-home.html",
+    "url": "https://zs.ccmu.edu.cn/"
+  }
+]

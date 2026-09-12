@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "reviewDate": "2026-09-12",
+  "inputSha256": {
+    "major-cutoffs-upsert.json": "2fa83371e87e139700009692a9196936e6143734dd07c9c1be1f49965bd2408e",
+    "sources.json": "0484e3705bcf944c32910f17ab0ec42e6a8b4c05cab48ff6c203634a60029be7",
+    "school-audit-notes.json": "713180dc59e298b63d4c00b05441d4cc4478d272293c2dad169fe9bc11adc63b"
+  },
+  "reviewedRows": 67,
+  "independentSourceFieldComparisons": 356,
+  "localArchiveHashesChecked": 16,
+  "imagesVisuallyReviewed": 1,
+  "imageRowsIndependentlyTranscribed": 12,
+  "countsBySchool": {
+    "10233": 22,
+    "10722": 19,
+    "10721": 14,
+    "10633": 12
+  },
+  "recordAdmittedCounts": 156,
+  "admittedCountsMissing": 12,
+  "schoolTotalAdditional": 43,
+  "materialIssues": [],
+  "scope": "All 67 positive rows checked against raw HTML or independently transcribed original image; not an audit of all negative school conclusions or all official channels."
+}

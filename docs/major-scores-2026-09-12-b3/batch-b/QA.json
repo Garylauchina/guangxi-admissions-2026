@@ -1,0 +1,912 @@
+{
+  "status": "PASS",
+  "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+  "summary": {
+    "actualMajorRecords": 60,
+    "actualSchools": 1,
+    "schoolNotes": 7,
+    "sources": 64,
+    "archivedSources": 59,
+    "failedAccessAttempts": 5,
+    "numericFieldsChecked": 180,
+    "checks": 217,
+    "passedChecks": 217,
+    "currentSuccessfulEmptyApiOrGridQueries": 6,
+    "currentExplicitNoRecordQueries": 1,
+    "groupKnownRows": 0,
+    "rankKnownRows": 0,
+    "admittedCountKnownRows": 0
+  },
+  "excluded": [
+    {
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-5",
+      "sourceRow": 1,
+      "major": "少数民族预科班",
+      "reason": "少数民族预科班汇总，不是具体专业实际录取分"
+    },
+    {
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-9",
+      "sourceRow": 1,
+      "major": "少数民族预科班",
+      "reason": "少数民族预科班汇总，不是具体专业实际录取分"
+    }
+  ],
+  "checks": [
+    {
+      "name": "Archive SHA dhu-2025-page2",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA dhu-2025",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA dhu-gx-2025",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA dhu-home",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA dhu-national",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA dhu-scores",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA dhu-special",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-chunk",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-fields",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-global",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-gx-2025-history",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-gx-2025-physics",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-gx-2026-history",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-gx-2026-physics",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-home",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-js-1",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-js-2",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-new-params",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-params",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ecust-scores",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA gx-code-source",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA njupt-2025",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA njupt-home",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA njupt-scores",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-charter",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-common",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-cooperation",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2025-history",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2025-physics",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2026-1",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2026-2",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2026-3",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2026-4",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2026-5",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2026-6",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2026-7",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2026-8",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-gx-2026-9",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-home",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-init",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-params",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-scores",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-tplt",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA ouc-util",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA shu-fineui",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA shu-gx-2025-normal",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA shu-gx-2026-coop",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA shu-gx-2026-national",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA shu-gx-2026-normal",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA shu-gx-2026-special",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA shu-scores",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA sztu-current-image",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA sztu-current",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA sztu-gx-2025",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA sztu-gx-2026",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA sztu-home",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA sztu-provinces-2025",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA sztu-provinces-2026",
+      "passed": true
+    },
+    {
+      "name": "Archive SHA sztu-scores",
+      "passed": true
+    },
+    {
+      "name": "OUC actual menu has nine 2026 Guangxi combinations",
+      "passed": true
+    },
+    {
+      "name": "Professional table maps direct minimum/average/maximum fields",
+      "passed": true
+    },
+    {
+      "name": "2026 charter permits policy bonus in actual professional allocation",
+      "passed": true
+    },
+    {
+      "name": "Code 10423 independently identified in official Guangxi source",
+      "passed": true
+    },
+    {
+      "name": "OUC query state and actual params 1",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-1-1",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-1-1",
+      "passed": true
+    },
+    {
+      "name": "OUC query state and actual params 2",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-1",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-1",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-2",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-2",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-3",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-3",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-4",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-4",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-5",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-5",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-6",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-6",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-7",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-7",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-8",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-8",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-9",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-9",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-10",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-10",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-11",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-11",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-12",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-12",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-13",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-13",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-14",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-14",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-15",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-15",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-16",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-16",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-17",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-17",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-18",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-18",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-19",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-19",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-20",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-20",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-21",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-21",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-22",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-22",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-23",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-23",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-24",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-24",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-25",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-25",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-26",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-26",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-27",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-27",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-28",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-28",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-29",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-29",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-30",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-30",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-31",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-31",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-32",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-32",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-33",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-33",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-2-34",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-2-34",
+      "passed": true
+    },
+    {
+      "name": "OUC query state and actual params 3",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-3-1",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-3-1",
+      "passed": true
+    },
+    {
+      "name": "OUC query state and actual params 4",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-4-1",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-4-1",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-4-2",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-4-2",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-4-3",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-4-3",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-4-4",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-4-4",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-4-5",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-4-5",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-4-6",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-4-6",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-4-7",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-4-7",
+      "passed": true
+    },
+    {
+      "name": "OUC query state and actual params 5",
+      "passed": true
+    },
+    {
+      "name": "OUC query state and actual params 6",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-6-1",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-6-1",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-6-2",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-6-2",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-6-3",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-6-3",
+      "passed": true
+    },
+    {
+      "name": "OUC query state and actual params 7",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-1",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-1",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-2",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-2",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-3",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-3",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-4",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-4",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-5",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-5",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-6",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-6",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-7",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-7",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-8",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-8",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-9",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-9",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-10",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-10",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-11",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-11",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-12",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-12",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-7-13",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-7-13",
+      "passed": true
+    },
+    {
+      "name": "OUC query state and actual params 8",
+      "passed": true
+    },
+    {
+      "name": "Year/province/category ouc-gx-2026-8-1",
+      "passed": true
+    },
+    {
+      "name": "Numeric order ouc-gx-2026-8-1",
+      "passed": true
+    },
+    {
+      "name": "OUC query state and actual params 9",
+      "passed": true
+    },
+    {
+      "name": "Configured queries fully represented",
+      "passed": true
+    },
+    {
+      "name": "Only 60 actual rows; 2 prep summaries excluded",
+      "passed": true
+    },
+    {
+      "name": "Expected track/category coverage",
+      "passed": true
+    },
+    {
+      "name": "No fabricated group/code/rank/count",
+      "passed": true
+    },
+    {
+      "name": "Unique actual identities",
+      "passed": true
+    },
+    {
+      "name": "ECUST valid query 2025 physics",
+      "passed": true
+    },
+    {
+      "name": "ECUST valid query 2025 history",
+      "passed": true
+    },
+    {
+      "name": "ECUST valid query 2026 physics",
+      "passed": true
+    },
+    {
+      "name": "ECUST valid query 2026 history",
+      "passed": true
+    },
+    {
+      "name": "ECUST old positives and current empty",
+      "passed": true
+    },
+    {
+      "name": "SHU successful FineUI grid 2025 normal",
+      "passed": true
+    },
+    {
+      "name": "SHU successful FineUI grid 2026 normal",
+      "passed": true
+    },
+    {
+      "name": "SHU successful FineUI grid 2026 coop",
+      "passed": true
+    },
+    {
+      "name": "SHU successful FineUI grid 2026 national",
+      "passed": true
+    },
+    {
+      "name": "SHU successful FineUI grid 2026 special",
+      "passed": true
+    },
+    {
+      "name": "SHU old positive and current empty",
+      "passed": true
+    },
+    {
+      "name": "SZTU 2026 province menu empty",
+      "passed": true
+    },
+    {
+      "name": "SZTU selected-province 2026 no-record message",
+      "passed": true
+    },
+    {
+      "name": "SZTU 2025 Guangxi directly identified",
+      "passed": true
+    },
+    {
+      "name": "DHU original title is 2025 Guangxi",
+      "passed": true
+    },
+    {
+      "name": "NJUPT directory links 2025 workbook",
+      "passed": true
+    },
+    {
+      "name": "NNU actual HTTP and HTTPS both failed 412",
+      "passed": true
+    },
+    {
+      "name": "All row/note field source references resolve",
+      "passed": true
+    },
+    {
+      "name": "Seven assigned school notes",
+      "passed": true
+    },
+    {
+      "name": "No private path in public output",
+      "passed": true
+    }
+  ],
+  "visualReview": {
+    "sztuNews": "2026 full long infographic and province-score section inspected; school/province aggregates, no Guangxi single-major cutoff imported."
+  },
+  "outputHashes": {
+    "major-cutoffs-upsert.json": "0cd12fe2067cb324914da6c8e8d06a1102a77c1bdac02b9a468cce88dcb61aa7",
+    "sources.json": "842f5ababc645a0aa4946f76009777258a039df9470ccfa10896af699b795f0a",
+    "school-audit-notes.json": "f4d0919589c1d8402e939d4064f9c4d0c865278a939697affe534e3c52cc24b2"
+  }
+}

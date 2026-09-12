@@ -1,0 +1,25 @@
+{
+  "files": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "evidence-rows.json",
+    "excluded-records.json",
+    "QA.json",
+    "README.md",
+    "PUBLIC-FILES.json",
+    "collect.py",
+    "build.py",
+    "parse_tables.py",
+    "requests.json",
+    "image-transcription.tsv",
+    "baseline-context.json",
+    "code-sources.json",
+    "importer-preflight.json"
+  ],
+  "excluded": [
+    "raw/",
+    "__pycache__/"
+  ],
+  "note": "仅这些事实、核验结果和相对路径复现脚本可公开；不上传原始全文/图片/接口回应。"
+}

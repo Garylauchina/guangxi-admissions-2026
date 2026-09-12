@@ -1,0 +1,37 @@
+{
+  "publicFiles": [
+    "PUBLIC-FILES.json",
+    "README.md",
+    "collect.py",
+    "session_query.py",
+    "freeze.py",
+    "build.py",
+    "source-manifest.json",
+    "evidence-rows.json",
+    "review-evidence.json",
+    "code-sources.json",
+    "sources.json",
+    "major-cutoffs-upsert.json",
+    "school-audit-notes.json",
+    "QA.json",
+    "requests-1.json",
+    "requests-2.json",
+    "requests-3.json",
+    "requests-4.json",
+    "requests-5.json",
+    "requests-6.json",
+    "requests-7.json",
+    "requests-8.json",
+    "requests-9.json",
+    "requests-10.json",
+    "requests-11.json",
+    "requests-12.json",
+    "requests-13.json",
+    "session-requests-1.json",
+    "session-requests-2.json"
+  ],
+  "excluded": [
+    "raw/**",
+    "__pycache__/**"
+  ]
+}

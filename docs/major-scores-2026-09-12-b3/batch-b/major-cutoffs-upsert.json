@@ -1,0 +1,5441 @@
+[
+  {
+    "id": "major-20260912b3-b-10423-1-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科提前批（具体批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "轮机工程",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 608.0,
+    "sourceMaximumScore": 613.0,
+    "sourceAverageScore": 611.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类-提前批",
+    "admissionType": "普通类（提前批）",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-1",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-1",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-1",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-1",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-1",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-1",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-1",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-1",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-1",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-1",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 1,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "机械设计制造及其自动化",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 619.0,
+    "sourceMaximumScore": 622.0,
+    "sourceAverageScore": 621.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 1,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "自动化",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 619.0,
+    "sourceMaximumScore": 624.0,
+    "sourceAverageScore": 621.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 2,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "海洋技术",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 618.0,
+    "sourceMaximumScore": 627.0,
+    "sourceAverageScore": 622.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 3,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "海洋科学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 618.0,
+    "sourceMaximumScore": 621.0,
+    "sourceAverageScore": 620.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 4,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "计算机类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 617.0,
+    "sourceMaximumScore": 620.0,
+    "sourceAverageScore": 618.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 5,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程规定不能准确在显示器上识别红、黄、绿、蓝、紫任一种颜色数码或字母者原则上不予录取计算机类。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "电子信息类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 616.0,
+    "sourceMaximumScore": 623.0,
+    "sourceAverageScore": 620.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 6,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "声学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 616.0,
+    "sourceMaximumScore": 617.0,
+    "sourceAverageScore": 617.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 7,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "船舶与海洋工程",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 615.0,
+    "sourceMaximumScore": 623.0,
+    "sourceAverageScore": 617.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 8,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-9",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "港口航道与海岸工程",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 613.0,
+    "sourceMaximumScore": 618.0,
+    "sourceAverageScore": 616.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 9,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-10",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "光电信息科学与工程",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 613.0,
+    "sourceMaximumScore": 613.0,
+    "sourceAverageScore": 613.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 10,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-11",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "物理学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 612.0,
+    "sourceMaximumScore": 616.0,
+    "sourceAverageScore": 614.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 11,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-12",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "材料类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 612.0,
+    "sourceMaximumScore": 614.0,
+    "sourceAverageScore": 613.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 12,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-13",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "环境科学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 612.0,
+    "sourceMaximumScore": 618.0,
+    "sourceAverageScore": 614.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 13,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-14",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "环境工程",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 611.0,
+    "sourceMaximumScore": 617.0,
+    "sourceAverageScore": 614.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 14,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-15",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "工业设计",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 611.0,
+    "sourceMaximumScore": 612.0,
+    "sourceAverageScore": 612.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 15,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-16",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "海洋资源与环境",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 610.0,
+    "sourceMaximumScore": 612.0,
+    "sourceAverageScore": 611.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 16,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-17",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "地球信息科学与技术",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 610.0,
+    "sourceMaximumScore": 613.0,
+    "sourceAverageScore": 611.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 17,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-18",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "大气科学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 610.0,
+    "sourceMaximumScore": 612.0,
+    "sourceAverageScore": 611.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 18,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-19",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "数学类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 609.0,
+    "sourceMaximumScore": 610.0,
+    "sourceAverageScore": 609.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 19,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-20",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "化学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 609.0,
+    "sourceMaximumScore": 615.0,
+    "sourceAverageScore": 611.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 20,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-21",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "生物科学类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 608.0,
+    "sourceMaximumScore": 619.0,
+    "sourceAverageScore": 613.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 21,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-22",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "海洋资源开发技术",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 608.0,
+    "sourceMaximumScore": 615.0,
+    "sourceAverageScore": 612.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 22,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-23",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "食品科学与工程类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 606.0,
+    "sourceMaximumScore": 616.0,
+    "sourceAverageScore": 609.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 23,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-24",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "水产养殖学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 606.0,
+    "sourceMaximumScore": 614.0,
+    "sourceAverageScore": 610.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 24,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-25",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "地质学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 605.0,
+    "sourceMaximumScore": 607.0,
+    "sourceAverageScore": 606.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 25,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-26",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "药学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 604.0,
+    "sourceMaximumScore": 608.0,
+    "sourceAverageScore": 606.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 26,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-27",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "生物育种科学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 604.0,
+    "sourceMaximumScore": 607.0,
+    "sourceAverageScore": 606.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 27,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-28",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "化学工程与工艺",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 604.0,
+    "sourceMaximumScore": 615.0,
+    "sourceAverageScore": 608.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 28,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-29",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "勘查技术与工程",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 604.0,
+    "sourceMaximumScore": 605.0,
+    "sourceAverageScore": 605.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 29,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-30",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "物流管理",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 601.0,
+    "sourceMaximumScore": 610.0,
+    "sourceAverageScore": 606.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 30,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-31",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "金融学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 597.0,
+    "sourceMaximumScore": 611.0,
+    "sourceAverageScore": 606.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 31,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-32",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "经济学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 594.0,
+    "sourceMaximumScore": 596.0,
+    "sourceAverageScore": 595.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 32,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程规定不能准确识别红、黄、绿、蓝、紫任一种颜色导线、按键、信号灯、几何图形者原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-33",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "国际经济与贸易",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 594.0,
+    "sourceMaximumScore": 596.0,
+    "sourceAverageScore": 595.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 33,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-2-34",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "市场营销（数智营销管理）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 594.0,
+    "sourceMaximumScore": 603.0,
+    "sourceAverageScore": 599.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-2",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-2",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 34,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程规定不能准确识别红、黄、绿、蓝、紫任一种颜色导线、按键、信号灯、几何图形者原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-3-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "大气科学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 607.0,
+    "sourceMaximumScore": 607.0,
+    "sourceAverageScore": 607.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "高校专项计划",
+    "admissionType": "高校专项计划",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-3",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-3",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-3",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-3",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-3",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-3",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-3",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-3",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-3",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-3",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 1,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业色盲原则上不予录取。须符合高校专项计划资格；章程要求投档成绩达到生源省特殊类型招生控制分数线，并按当地规定在相应批次填报。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-4-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "电子信息类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 607.0,
+    "sourceMaximumScore": 613.0,
+    "sourceAverageScore": 610.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "国家专项计划",
+    "admissionType": "国家专项计划",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-4",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 1,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。国家专项计划按教育部有关规定和学校招生要求录取，须核实相应资格。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-4-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "海洋技术",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 592.0,
+    "sourceMaximumScore": 595.0,
+    "sourceAverageScore": 594.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "国家专项计划",
+    "admissionType": "国家专项计划",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-4",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 2,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。国家专项计划按教育部有关规定和学校招生要求录取，须核实相应资格。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-4-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "环境工程",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 588.0,
+    "sourceMaximumScore": 588.0,
+    "sourceAverageScore": 588.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "国家专项计划",
+    "admissionType": "国家专项计划",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-4",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 3,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。国家专项计划按教育部有关规定和学校招生要求录取，须核实相应资格。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-4-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "海洋渔业科学与技术",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 587.0,
+    "sourceMaximumScore": 590.0,
+    "sourceAverageScore": 589.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "国家专项计划",
+    "admissionType": "国家专项计划",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-4",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 4,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。国家专项计划按教育部有关规定和学校招生要求录取，须核实相应资格。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-4-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "食品科学与工程类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 586.0,
+    "sourceMaximumScore": 594.0,
+    "sourceAverageScore": 590.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "国家专项计划",
+    "admissionType": "国家专项计划",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-4",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 5,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。国家专项计划按教育部有关规定和学校招生要求录取，须核实相应资格。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-4-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "生物科学类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 583.0,
+    "sourceMaximumScore": 601.0,
+    "sourceAverageScore": 591.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "国家专项计划",
+    "admissionType": "国家专项计划",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-4",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 6,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。国家专项计划按教育部有关规定和学校招生要求录取，须核实相应资格。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-4-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "水产养殖学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 580.0,
+    "sourceMaximumScore": 584.0,
+    "sourceAverageScore": 582.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "国家专项计划",
+    "admissionType": "国家专项计划",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-4",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-4",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 7,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。国家专项计划按教育部有关规定和学校招生要求录取，须核实相应资格。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-6-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "计算机科学与技术（中外合作办学）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 605.0,
+    "sourceMaximumScore": 608.0,
+    "sourceAverageScore": 607.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "中外合作办学",
+    "admissionType": "中外合作办学",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-6",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-6",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source",
+      "major-20260912b3-b-ouc-cooperation"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter",
+        "major-20260912b3-b-ouc-cooperation"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-b-ouc-cooperation"
+      ],
+      "subjectRule": [
+        "major-20260912b3-b-ouc-cooperation"
+      ],
+      "requirementText": [
+        "major-20260912b3-b-ouc-cooperation"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 1,
+    "sourceNote": "",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "同时选考物理、化学方可报考。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程规定不能准确在显示器上识别红、黄、绿、蓝、紫任一种颜色数码或字母者原则上不予录取计算机类。中外合作办学在校期间不能调整至非中外合作专业，建议非英语语种考生谨慎填报。3+1培养，前三年国内学费70000元/年，第四年须赴英国赫瑞-瓦特大学学习并按当年标准缴学费，同时向海大缴注册费；核心课程全英文授课。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-6-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "海洋科学（中外合作办学）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 599.0,
+    "sourceMaximumScore": 606.0,
+    "sourceAverageScore": 603.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "中外合作办学",
+    "admissionType": "中外合作办学",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-6",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-6",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source",
+      "major-20260912b3-b-ouc-cooperation"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter",
+        "major-20260912b3-b-ouc-cooperation"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-b-ouc-cooperation"
+      ],
+      "subjectRule": [
+        "major-20260912b3-b-ouc-cooperation"
+      ],
+      "requirementText": [
+        "major-20260912b3-b-ouc-cooperation"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 2,
+    "sourceNote": "",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "同时选考物理、化学方可报考。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程列明本专业轻度色觉异常（色弱）或色盲原则上不予录取。中外合作办学在校期间不能调整至非中外合作专业，建议非英语语种考生谨慎填报。国内学费52000元/年，可选择4+0、2+2或3+2培养模式，境外费用依当年合作校标准。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-6-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "物理学（中外合作办学）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 582.0,
+    "sourceMaximumScore": 599.0,
+    "sourceAverageScore": 591.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "中外合作办学",
+    "admissionType": "中外合作办学",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-6",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-6",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source",
+      "major-20260912b3-b-ouc-cooperation"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-6",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter",
+        "major-20260912b3-b-ouc-cooperation"
+      ],
+      "requiredSubjects": [
+        "major-20260912b3-b-ouc-cooperation"
+      ],
+      "subjectRule": [
+        "major-20260912b3-b-ouc-cooperation"
+      ],
+      "requirementText": [
+        "major-20260912b3-b-ouc-cooperation"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 3,
+    "sourceNote": "",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "同时选考物理、化学方可报考。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。中外合作办学在校期间不能调整至非中外合作专业，建议非英语语种考生谨慎填报。3+1培养，前三年国内学费75000元/年，第四年须赴英国赫瑞-瓦特大学学习并按当年标准缴学费，同时向海大缴注册费。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "法学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 602.0,
+    "sourceMaximumScore": 605.0,
+    "sourceAverageScore": 603.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 1,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "会计学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 601.0,
+    "sourceMaximumScore": 602.0,
+    "sourceAverageScore": 602.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 2,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程规定不能准确识别红、黄、绿、蓝、紫任一种颜色导线、按键、信号灯、几何图形者原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "英语",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 601.0,
+    "sourceMaximumScore": 601.0,
+    "sourceAverageScore": 601.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 3,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "汉语言文学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 600.0,
+    "sourceMaximumScore": 601.0,
+    "sourceAverageScore": 600.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 4,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "行政管理",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 598.0,
+    "sourceMaximumScore": 603.0,
+    "sourceAverageScore": 600.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 5,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程规定不能准确识别红、黄、绿、蓝、紫任一种颜色导线、按键、信号灯、几何图形者原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "新闻传播学类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 598.0,
+    "sourceMaximumScore": 598.0,
+    "sourceAverageScore": 598.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 6,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "公共事业管理",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 597.0,
+    "sourceMaximumScore": 601.0,
+    "sourceAverageScore": 599.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 7,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程规定不能准确识别红、黄、绿、蓝、紫任一种颜色导线、按键、信号灯、几何图形者原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "国际经济与贸易",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 596.0,
+    "sourceMaximumScore": 597.0,
+    "sourceAverageScore": 597.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 8,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-9",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "政治学与行政学",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 595.0,
+    "sourceMaximumScore": 599.0,
+    "sourceAverageScore": 597.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 9,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-10",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "工商管理（数字化创新管理）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 593.0,
+    "sourceMaximumScore": 598.0,
+    "sourceAverageScore": 596.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 10,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程规定不能准确识别红、黄、绿、蓝、紫任一种颜色导线、按键、信号灯、几何图形者原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-11",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "市场营销（数智营销管理）",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 592.0,
+    "sourceMaximumScore": 592.0,
+    "sourceAverageScore": 592.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 11,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。章程规定不能准确识别红、黄、绿、蓝、紫任一种颜色导线、按键、信号灯、几何图形者原则上不予录取。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-12",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "物流管理",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 591.0,
+    "sourceMaximumScore": 596.0,
+    "sourceAverageScore": 594.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 12,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-7-13",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "旅游管理",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 590.0,
+    "sourceMaximumScore": 593.0,
+    "sourceAverageScore": 592.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "普通类",
+    "admissionType": "普通类",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-7",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-7",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 13,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  },
+  {
+    "id": "major-20260912b3-b-10423-8-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10423",
+    "school": "中国海洋大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "sourceBatch": null,
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "新闻传播学类",
+    "majorCode": null,
+    "sourceMajorCode": null,
+    "score": 581.0,
+    "sourceMaximumScore": 581.0,
+    "sourceAverageScore": 581.0,
+    "rank": null,
+    "admittedCount": null,
+    "plannedCount": null,
+    "sourceCategory": "高校专项计划",
+    "admissionType": "高校专项计划",
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "学校按高考投档分（含符合规定的政策性加分）安排专业；原成绩表未拆分政策加分。",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "evidenceStatus": "verified",
+    "sourceId": "major-20260912b3-b-ouc-gx-2026-8",
+    "sourceIds": [
+      "major-20260912b3-b-ouc-gx-2026-8",
+      "major-20260912b3-b-ouc-scores",
+      "major-20260912b3-b-ouc-charter",
+      "major-20260912b3-b-gx-code-source"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-b-ouc-gx-2026-8",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "province": [
+        "major-20260912b3-b-ouc-gx-2026-8",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "track": [
+        "major-20260912b3-b-ouc-gx-2026-8",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "major": [
+        "major-20260912b3-b-ouc-gx-2026-8",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "score": [
+        "major-20260912b3-b-ouc-gx-2026-8",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-b-ouc-gx-2026-8",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-b-ouc-gx-2026-8",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "admissionType": [
+        "major-20260912b3-b-ouc-gx-2026-8",
+        "major-20260912b3-b-ouc-scores"
+      ],
+      "schoolCode": [
+        "major-20260912b3-b-gx-code-source"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-b-ouc-charter"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-b-ouc-charter"
+      ]
+    },
+    "sourceTable": "sszygradeList",
+    "sourceRow": 1,
+    "sourceNote": "",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目。",
+    "admissionRequirements": "普通类录取外语语种不作限制，学校建议英语，其他语种考生谨慎报考。须符合高校专项计划资格；章程要求投档成绩达到生源省特殊类型招生控制分数线，并按当地规定在相应批次填报。",
+    "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+    "note": "学校按具体专业或正式招生大类公布的录取结果；最低、平均及最高分均保留原表值。原表未公布录取人数、专业位次、专业组码及分轮次结果，精确批次尚待核实。政策加分未在成绩表中单列。"
+  }
+]

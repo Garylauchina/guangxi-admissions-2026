@@ -1,0 +1,140 @@
+[
+  {
+    "host": "https://lqcx.ouc.edu.cn",
+    "entryUrl": "https://lqcx.ouc.edu.cn/static/front/ouc/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "ouc-gx-2026-1",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类-提前批"
+        }
+      },
+      {
+        "id": "ouc-gx-2026-2",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "id": "ouc-gx-2026-3",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "高校专项计划"
+        }
+      },
+      {
+        "id": "ouc-gx-2026-4",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "国家专项计划"
+        }
+      },
+      {
+        "id": "ouc-gx-2026-5",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "少数民族预科班"
+        }
+      },
+      {
+        "id": "ouc-gx-2026-6",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "中外合作办学"
+        }
+      },
+      {
+        "id": "ouc-gx-2026-7",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "id": "ouc-gx-2026-8",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "高校专项计划"
+        }
+      },
+      {
+        "id": "ouc-gx-2026-9",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "少数民族预科班"
+        }
+      },
+      {
+        "id": "ouc-gx-2025-physics",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "id": "ouc-gx-2025-history",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      }
+    ]
+  }
+]

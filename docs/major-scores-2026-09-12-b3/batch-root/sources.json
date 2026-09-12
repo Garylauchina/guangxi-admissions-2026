@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "major-20260912b3-root-bjut-home-html",
+    "title": "北京工业大学：招生官网入口",
+    "url": "https://admissions.bjut.edu.cn/",
+    "publisher": "北京工业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:30:19.561426+08:00",
+    "sha256": "356636ff4b6286b8eb25a2312da9cf40e37c65db72ecbb24aee61344461917a9",
+    "responseSha256": "356636ff4b6286b8eb25a2312da9cf40e37c65db72ecbb24aee61344461917a9",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "bjut-home.html",
+    "notes": [
+      "当前招生首页与历年分数入口链接2025京外普通类专业录取统计，5页PDF广西位于第1–2页，明确属于2025。所读入口未取得2026广西专业分，不将2026计划当作成绩。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-bjut-old-pdf",
+    "title": "北京工业大学：往年专业分附件",
+    "url": "https://admissions.bjut.edu.cn/dfiles/2025/2025nianbeijinggongyedaxuejingwaishengfenputongleiluqufenshutongji.pdf",
+    "publisher": "北京工业大学",
+    "year": 2025,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:30.740477+08:00",
+    "sha256": "7a3b3c0020d7451ed4a07f48be6e96d1c615f8a2081437c57a9e700af889939e",
+    "responseSha256": "7a3b3c0020d7451ed4a07f48be6e96d1c615f8a2081437c57a9e700af889939e",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "bjut-old.pdf",
+    "notes": [
+      "当前招生首页与历年分数入口链接2025京外普通类专业录取统计，5页PDF广西位于第1–2页，明确属于2025。所读入口未取得2026广西专业分，不将2026计划当作成绩。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-bjut-scores-html",
+    "title": "北京工业大学：历年分数目录",
+    "url": "https://admissions.bjut.edu.cn/zsxx/lnlqfs.htm",
+    "publisher": "北京工业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:30.716174+08:00",
+    "sha256": "0e1c623f596883fb5a7c9167f1f777c3c2687bbec7088a1b149918505eaac180",
+    "responseSha256": "0e1c623f596883fb5a7c9167f1f777c3c2687bbec7088a1b149918505eaac180",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "bjut-scores.html",
+    "notes": [
+      "当前招生首页与历年分数入口链接2025京外普通类专业录取统计，5页PDF广西位于第1–2页，明确属于2025。所读入口未取得2026广西专业分，不将2026计划当作成绩。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-admissions-html",
+    "title": "首都医科大学：admissions",
+    "url": "https://zhsh.ccmu.edu.cn/",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:32:34.736843+08:00",
+    "sha256": "ec4051854d4aa3bf9fef55c5ecf46352c37bec094c4d8335f3820b7882d727cd",
+    "responseSha256": "ec4051854d4aa3bf9fef55c5ecf46352c37bec094c4d8335f3820b7882d727cd",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-admissions.html",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-charter-html",
+    "title": "首都医科大学：2026招生章程",
+    "url": "https://zhsh.ccmu.edu.cn/page/detail/DEWVJI/1697/65749",
+    "publisher": "首都医科大学",
+    "year": 2026,
+    "publishedAt": "2026-05-29",
+    "accessedAt": "2026-09-12T16:42:59.565975+08:00",
+    "sha256": "19c7c874e893e87d789492dc7df11c15ea83b902c4c2a61a4c851869907f6c0c",
+    "responseSha256": "19c7c874e893e87d789492dc7df11c15ea83b902c4c2a61a4c851869907f6c0c",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-charter.html",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-current-html",
+    "title": "首都医科大学：2026录取最低分公告",
+    "url": "https://news.ccmu.edu.cn/syyw_12977/ce789aa71f1f4ae69b5cf4ec5e91d06a.htm",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:31.073812+08:00",
+    "sha256": "802e7a09ab40830f7761933877893d5c9e3cb2e2ac2bf5bde37304174db3c1a3",
+    "responseSha256": "802e7a09ab40830f7761933877893d5c9e3cb2e2ac2bf5bde37304174db3c1a3",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-current.html",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-gx-2026-0-json",
+    "title": "首都医科大学：gx-2026-0",
+    "url": "https://admin.zhinengdayi.com/front/enroll/findMajorScoreCompareList?sCode=DEWVJI&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E7%B1%BB&batch=%E6%9C%AC%E7%A7%91%E6%99%AE%E9%80%9A%E6%89%B9",
+    "publisher": "首都医科大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:42:29.124611+08:00",
+    "sha256": "f3472600bbdd412f7747f09536cb27c0aeb4348b3f6d31ee352f4d2b6b2a7ded",
+    "responseSha256": "70ac75d5dd0a72b06f6f1e46c097833c8118d159ca587b1a6309ad6a7b83262c",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "archiveFile": "ccmu-gx-2026-0.json",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-home-html",
+    "title": "首都医科大学：招生官网入口",
+    "url": "https://zs.ccmu.edu.cn/",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:30:19.602450+08:00",
+    "sha256": null,
+    "responseSha256": null,
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": null,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-home.html",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ],
+    "accessError": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-main-html",
+    "title": "首都医科大学：main",
+    "url": "https://www.ccmu.edu.cn/",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:30.812327+08:00",
+    "sha256": "c70ceb7abee756400c2e3af72aeb932442e9626e1552e69aa4a570b7103e7aba",
+    "responseSha256": "c70ceb7abee756400c2e3af72aeb932442e9626e1552e69aa4a570b7103e7aba",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-main.html",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-major-form-html",
+    "title": "首都医科大学：公开专业统计表单与字段表头",
+    "url": "https://admin.zhinengdayi.com/front/info/form/majorScore?sCode=DEWVJI&showDetailsConfig=2",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:40:56.227495+08:00",
+    "sha256": "92a717c38c7010e217038c608f79409ed0ca57f42bfedbe141bfc8ca15c63d8d",
+    "responseSha256": "92a717c38c7010e217038c608f79409ed0ca57f42bfedbe141bfc8ca15c63d8d",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-major-form.html",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-major-html",
+    "title": "首都医科大学：专业录取信息",
+    "url": "https://zhsh.ccmu.edu.cn/page/detail/DEWVJI/1653/3627",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": "2026-09-02",
+    "accessedAt": "2026-09-12T16:40:24.481490+08:00",
+    "sha256": "96a4dee1916304634dfd00028397278efdefbc373116d9e921143f693c13bf9a",
+    "responseSha256": "96a4dee1916304634dfd00028397278efdefbc373116d9e921143f693c13bf9a",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-major.html",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-major-js",
+    "title": "首都医科大学：专业录取信息",
+    "url": "https://admin.zhinengdayi.com/static/scripts/front/page/majorEnrollForm2.js",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:41:27.052159+08:00",
+    "sha256": "8c11158ae6fd5508ea1cd9d07117465c3961d8e2c38e1a6f2192c9664f0f32d5",
+    "responseSha256": "8c11158ae6fd5508ea1cd9d07117465c3961d8e2c38e1a6f2192c9664f0f32d5",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-major.js",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-params-2025-json",
+    "title": "首都医科大学：params-2025",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=DEWVJI&cityName=%E5%B9%BF%E8%A5%BF&year=2025",
+    "publisher": "首都医科大学",
+    "year": 2025,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:41:46.951108+08:00",
+    "sha256": "0addc578004a6ca10e1a5ae27f4e3161b170a150390d2041d635cc2d79929614",
+    "responseSha256": "0bf7f8b41e08f4ad665f3d1a84f5f93008557c1b0b58cff1bf2cdc48d60a7012",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-params-2025.json",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-params-2026-json",
+    "title": "首都医科大学：params-2026",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=DEWVJI&cityName=%E5%B9%BF%E8%A5%BF&year=2026",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:41:46.950983+08:00",
+    "sha256": "203eed9d08748b02ed7eac7f15edaf8a624dafd5fbe6f969212416951cd9f57c",
+    "responseSha256": "565489d5f4b84e0c89ae5d073dadaa16411a02b306c1a9db8cbc88d7ee44bcb7",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-params-2026.json",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-params-all-json",
+    "title": "首都医科大学：params-all",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=DEWVJI&cityName=%E5%B9%BF%E8%A5%BF",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:41:46.950623+08:00",
+    "sha256": "8396372d0049cbbe2972e0aaddeb929ac95aa031e8f31b560e36164a04462fa6",
+    "responseSha256": "0b5d3a91d59bd3ce9560586fb33ede18151085262df61bcdce770d7ff1dc34b6",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-params-all.json",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-params-batches-json",
+    "title": "首都医科大学：params-batches",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=DEWVJI&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E7%B1%BB",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:42:18.037782+08:00",
+    "sha256": "a03e82ca5145582331b2d85c889f4ccb657fd0cf359e790aaadeac91b7b97a74",
+    "responseSha256": "4fa64e28fb8a48fb365361aaadc65b780d3bf57753e4a2296236cff68f2ceaae",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-params-batches.json",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-params-majors-json",
+    "title": "首都医科大学：2026广西完整专业菜单",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=DEWVJI&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%89%A9%E7%90%86%E7%B1%BB&type=%E6%99%AE%E9%80%9A%E7%B1%BB&batch=%E6%9C%AC%E7%A7%91%E6%99%AE%E9%80%9A%E6%89%B9",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:42:59.565586+08:00",
+    "sha256": "a68b635a239d458751703a02127fb1e987a8a8c852d138c4ef765d23f57e6fef",
+    "responseSha256": "5327c4d57facf0c82c19d84905e59f5fe5f78ceeedd4bad586a76a274c9e188a",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-params-majors.json",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-params-types-json",
+    "title": "首都医科大学：params-types",
+    "url": "https://admin.zhinengdayi.com/front/enroll/getMajorSelectChange?sCode=DEWVJI&cityName=%E5%B9%BF%E8%A5%BF&year=2026&scienceClass=%E7%89%A9%E7%90%86%E7%B1%BB",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:42:04.496737+08:00",
+    "sha256": "ea9dd6538b5a25e37c35c53bcd78933ac08e381a0b87dbbf87ae7dc0c1ee1b60",
+    "responseSha256": "8960020be3649a365f658d3a97b41b5aa41bf00e55a4df7ac75eb21cc079c627",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-params-types.json",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-ccmu-scores-html",
+    "title": "首都医科大学：历年分数目录",
+    "url": "https://zhsh.ccmu.edu.cn/page/list/DEWVJI/1653_5_1",
+    "publisher": "首都医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:49.395125+08:00",
+    "sha256": "8db94cf5ec24c8d87855a71373e71e69693cec6d1f99b0f89ff23fc9250f0b21",
+    "responseSha256": "8db94cf5ec24c8d87855a71373e71e69693cec6d1f99b0f89ff23fc9250f0b21",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "ccmu-scores.html",
+    "notes": [
+      "沿学校主页进入zhsh.ccmu.edu.cn真实招生域名，9月2日专业录取信息页连到公开统计表单及菜单。2026广西仅物理类/普通类/本科普通批组合，专业菜单6项与实际表6行完全一致。最高/最低/平均分直接发布，人数、位次、组码、广西专业代号与轮次未列。表单xkkm字段的页面表头是年制，不能误认再选科目。章程以高考实考分安排专业，政策加分只用于后续同分排序。旧zs域名连接失败不用于判断当前入口是否可用。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-njmu-entry-html",
+    "title": "南京医科大学：entry",
+    "url": "https://zs.njmu.edu.cn/_redirect?siteId=90&columnId=19567&articleId=251580",
+    "publisher": "南京医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:30.094612+08:00",
+    "sha256": "52dee6f6b24f5a851c71b287a0306a3ad09ff87a91bc424bcf7ab75e50e3cd23",
+    "responseSha256": "52dee6f6b24f5a851c71b287a0306a3ad09ff87a91bc424bcf7ab75e50e3cd23",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "njmu-entry.html",
+    "notes": [
+      "往年录取栏目最新江苏省外专业资料发布于2026-05-12，但附件标题为21–25年，33页PDF第19页广西明确从2025开始；读到旧年专业分，不补成2026。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-njmu-home-html",
+    "title": "南京医科大学：招生官网入口",
+    "url": "https://zs.njmu.edu.cn/",
+    "publisher": "南京医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:30:19.245202+08:00",
+    "sha256": "91849368210417edbd312eddb4f5eb8f8c9ea0925ce3a1fd2d7121116345dd91",
+    "responseSha256": "91849368210417edbd312eddb4f5eb8f8c9ea0925ce3a1fd2d7121116345dd91",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "njmu-home.html",
+    "notes": [
+      "往年录取栏目最新江苏省外专业资料发布于2026-05-12，但附件标题为21–25年，33页PDF第19页广西明确从2025开始；读到旧年专业分，不补成2026。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-njmu-old-html",
+    "title": "南京医科大学：往年专业分附件",
+    "url": "https://zs.njmu.edu.cn/2026/0512/c3431a300994/page.htm",
+    "publisher": "南京医科大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:30.094726+08:00",
+    "sha256": "a53e2deec0ddd99b05a49cf5d4b35d454d42d362c2b226ca3dca470a8d4fecd1",
+    "responseSha256": "a53e2deec0ddd99b05a49cf5d4b35d454d42d362c2b226ca3dca470a8d4fecd1",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "njmu-old.html",
+    "notes": [
+      "往年录取栏目最新江苏省外专业资料发布于2026-05-12，但附件标题为21–25年，33页PDF第19页广西明确从2025开始；读到旧年专业分，不补成2026。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-njmu-old-pdf",
+    "title": "南京医科大学：往年专业分附件",
+    "url": "https://zs.njmu.edu.cn/_upload/article/files/07/67/f621dce84448914dd959e8fdf050/28879820-b191-44c0-bfd2-8b716cff17be.pdf",
+    "publisher": "南京医科大学",
+    "year": 2025,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:32:34.362902+08:00",
+    "sha256": "690c87881b10e4af536a67c63becc459dd3e2017ea48f3ec160b05dddfe22575",
+    "responseSha256": "690c87881b10e4af536a67c63becc459dd3e2017ea48f3ec160b05dddfe22575",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "njmu-old.pdf",
+    "notes": [
+      "往年录取栏目最新江苏省外专业资料发布于2026-05-12，但附件标题为21–25年，33页PDF第19页广西明确从2025开始；读到旧年专业分，不补成2026。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-njucm-gx-2025-pdf",
+    "title": "南京中医药大学：gx-2025",
+    "url": "https://zs.njucm.edu.cn/_upload/article/files/24/d1/90d5fe7a486b83f17f0f49f2a167/882f14aa-5fc2-4430-a693-30a11d36b0ca.pdf",
+    "publisher": "南京中医药大学",
+    "year": 2025,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:32:34.667883+08:00",
+    "sha256": "ee8d47f022dff8b78348e5d8d2d057800a79387fb6c99e7a883b8df4e4ec787b",
+    "responseSha256": "ee8d47f022dff8b78348e5d8d2d057800a79387fb6c99e7a883b8df4e4ec787b",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "njucm-gx-2025.pdf",
+    "notes": [
+      "当前专业投档线目录最新为2025；广西14行附件标题明确2025年本科招生专业平行志愿投档线。年份及投档统计口径均不符合本轮实际专业录取分收录条件。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-njucm-home-html",
+    "title": "南京中医药大学：招生官网入口",
+    "url": "https://zs.njucm.edu.cn/",
+    "publisher": "南京中医药大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:30:19.251470+08:00",
+    "sha256": "aee4ee6d4876017345e769aed5e8412ae790ad1edd441822ea2ba47db432f1d2",
+    "responseSha256": "aee4ee6d4876017345e769aed5e8412ae790ad1edd441822ea2ba47db432f1d2",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "njucm-home.html",
+    "notes": [
+      "当前专业投档线目录最新为2025；广西14行附件标题明确2025年本科招生专业平行志愿投档线。年份及投档统计口径均不符合本轮实际专业录取分收录条件。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-njucm-latest-html",
+    "title": "南京中医药大学：latest",
+    "url": "https://zs.njucm.edu.cn/2025/1223/c4377a165008/page.htm",
+    "publisher": "南京中医药大学",
+    "year": 2025,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:30.489284+08:00",
+    "sha256": "71f0147ce03e6e957f5d3be91f687395b56de6c3fbf99d50401ed73c5783fb22",
+    "responseSha256": "71f0147ce03e6e957f5d3be91f687395b56de6c3fbf99d50401ed73c5783fb22",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "njucm-latest.html",
+    "notes": [
+      "当前专业投档线目录最新为2025；广西14行附件标题明确2025年本科招生专业平行志愿投档线。年份及投档统计口径均不符合本轮实际专业录取分收录条件。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-njucm-scores-html",
+    "title": "南京中医药大学：历年分数目录",
+    "url": "https://zs.njucm.edu.cn/4154/list.htm",
+    "publisher": "南京中医药大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:30.331357+08:00",
+    "sha256": "2339a2070964127749306ef5bb6d5d4cd36d21da7f8a676cc105952cb6024a25",
+    "responseSha256": "2339a2070964127749306ef5bb6d5d4cd36d21da7f8a676cc105952cb6024a25",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "njucm-scores.html",
+    "notes": [
+      "当前专业投档线目录最新为2025；广西14行附件标题明确2025年本科招生专业平行志愿投档线。年份及投档统计口径均不符合本轮实际专业录取分收录条件。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-common-js",
+    "title": "上海外国语大学：common",
+    "url": "https://aopress.shisu.edu.cn/static/front/shisu/basic/js/common.js",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:32:34.362776+08:00",
+    "sha256": "4ffe92fb405b7b03823fcbeeed50f91538957e5b4ccd5d5dc9ba36f3447cce54",
+    "responseSha256": "4ffe92fb405b7b03823fcbeeed50f91538957e5b4ccd5d5dc9ba36f3447cce54",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-common.js",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-gx-2025-历史类-json",
+    "title": "上海外国语大学：gx-2025-历史类",
+    "url": "https://aopress.shisu.edu.cn/f/ajax_lnfs",
+    "publisher": "上海外国语大学",
+    "year": 2025,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:50.847001+08:00",
+    "sha256": "7098a919d296fa1685400ade424fdddaac15b6cf35fbf0be0db04802bd2eb049",
+    "responseSha256": "0b37d7e7169dbce224e2acb23ced802f303ec3d2a5710f4149f1b9ab88db949d",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "历史类",
+      "sex": "",
+      "campus": "",
+      "zslx": "普通类"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-gx-2025-历史类.json",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-gx-2025-物理类-json",
+    "title": "上海外国语大学：gx-2025-物理类",
+    "url": "https://aopress.shisu.edu.cn/f/ajax_lnfs",
+    "publisher": "上海外国语大学",
+    "year": 2025,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:50.567206+08:00",
+    "sha256": "c5679ac8c92d22beb01abd2bc846ca85a0ebf6139fd8b037d8f793f1ae823378",
+    "responseSha256": "0c6a8c052c9614c24cbc626687d2a0e5453d048add50e93cbc33e8cb6e8c73a7",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "sex": "",
+      "campus": "",
+      "zslx": "普通类"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-gx-2025-物理类.json",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-gx-2026-历史类-json",
+    "title": "上海外国语大学：gx-2026-历史类",
+    "url": "https://aopress.shisu.edu.cn/f/ajax_lnfs",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:50.284797+08:00",
+    "sha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9",
+    "responseSha256": "1a08a3828711e148dbe7979e2711e6a933c60d4ea638b18249408761d9f94e7a",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "sex": "",
+      "campus": "",
+      "zslx": "普通类"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-gx-2026-历史类.json",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-gx-2026-物理类-json",
+    "title": "上海外国语大学：gx-2026-物理类",
+    "url": "https://aopress.shisu.edu.cn/f/ajax_lnfs",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:49.712716+08:00",
+    "sha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9",
+    "responseSha256": "1a08a3828711e148dbe7979e2711e6a933c60d4ea638b18249408761d9f94e7a",
+    "requestMethod": "POST",
+    "requestData": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "sex": "",
+      "campus": "",
+      "zslx": "普通类"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-gx-2026-物理类.json",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-home-html",
+    "title": "上海外国语大学：招生官网入口",
+    "url": "https://admissions.shisu.edu.cn/",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:30:18.924280+08:00",
+    "sha256": "e1af7b2b759567f35f77b5f7b5fa30231818c26eb4faf17d77eec30f74bd1827",
+    "responseSha256": "e1af7b2b759567f35f77b5f7b5fa30231818c26eb4faf17d77eec30f74bd1827",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-home.html",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-info-html",
+    "title": "上海外国语大学：info",
+    "url": "https://info.shisu.edu.cn/81/list.psp",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:30:18.924859+08:00",
+    "sha256": "8d7e313cc8a20a561a92f57741b19086a725859f082293c585f6e4d701baea3c",
+    "responseSha256": "8d7e313cc8a20a561a92f57741b19086a725859f082293c585f6e4d701baea3c",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-info.html",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-init-js",
+    "title": "上海外国语大学：init",
+    "url": "https://aopress.shisu.edu.cn/static/front/shisu/basic/js/init.js",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:32:34.362222+08:00",
+    "sha256": "772380d30ac6f8246bd4f89e36aebdb9114397236df98921b240ce88b81c5c5d",
+    "responseSha256": "772380d30ac6f8246bd4f89e36aebdb9114397236df98921b240ce88b81c5c5d",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-init.js",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-news-html",
+    "title": "上海外国语大学：news",
+    "url": "https://admissions.shisu.edu.cn/631/list.htm",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:30:18.924982+08:00",
+    "sha256": "b875f9b02603c797f4809ae0f87d642f56bf3749d21aac573f9cfb3cd27d994e",
+    "responseSha256": "b875f9b02603c797f4809ae0f87d642f56bf3749d21aac573f9cfb3cd27d994e",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-news.html",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-old-stats-html",
+    "title": "上海外国语大学：old-stats",
+    "url": "https://info.shisu.edu.cn/a9/80/c86a43392/page.htm",
+    "publisher": "上海外国语大学",
+    "year": 2025,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:30.094459+08:00",
+    "sha256": "cbfbbbe2682cb0653b1a24027df44105851ab0fe602a00ae9d8bc12b153b49bd",
+    "responseSha256": "cbfbbbe2682cb0653b1a24027df44105851ab0fe602a00ae9d8bc12b153b49bd",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-old-stats.html",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-params-json",
+    "title": "上海外国语大学：params",
+    "url": "https://aopress.shisu.edu.cn/f/ajax_lnfs_param",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:33:30.660328+08:00",
+    "sha256": "05ae8cdab1e41fd9fd5c938b7409dbdfcb16432e720f9046e1ca2314ca1f4edb",
+    "responseSha256": "095adace2e9fe00d91128fcd5cc4584ad2df56fac18a50eb6ae8e7601c46f314",
+    "requestMethod": "POST",
+    "requestData": {},
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-params.json",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-query-html",
+    "title": "上海外国语大学：query",
+    "url": "https://aopress.shisu.edu.cn/zsw/lnfs.html",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:30.093990+08:00",
+    "sha256": "0bdf770919a204c891179c1ae8305d1ebb955afcf1d6053cb4761e1b208ca27d",
+    "responseSha256": "0bdf770919a204c891179c1ae8305d1ebb955afcf1d6053cb4761e1b208ca27d",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-query.html",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-scores-html",
+    "title": "上海外国语大学：历年分数目录",
+    "url": "https://admissions.shisu.edu.cn/633/list.htm",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:30:18.924723+08:00",
+    "sha256": "5ea278e79cde3a2c916c4c871bec5b32e7967c5b0aa81605be056ad3a5b1d7cb",
+    "responseSha256": "5ea278e79cde3a2c916c4c871bec5b32e7967c5b0aa81605be056ad3a5b1d7cb",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-scores.html",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-sisu-tplt-js",
+    "title": "上海外国语大学：tplt",
+    "url": "https://aopress.shisu.edu.cn/static/front/shisu/basic/js/tplt.js",
+    "publisher": "上海外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:32:34.362657+08:00",
+    "sha256": "f7b2c519eaa1076d9affd796014205cb028eb7dc1961da64e42f8d7b962d4907",
+    "responseSha256": "f7b2c519eaa1076d9affd796014205cb028eb7dc1961da64e42f8d7b962d4907",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "sisu-tplt.js",
+    "notes": [
+      "沿首页新入口aopress.shisu.edu.cn查询，而非停留在旧633栏目。广西菜单最高2025；按真实字段查询2026物理/历史普通类均state=1且分专业数组为空，2025同口径正对照为6/5条。仅确认这两个组合的缺口，不扩大到所有类别和发布渠道。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-app-js",
+    "title": "陕西师范大学：app",
+    "url": "http://zsdata.snnu.edu.cn/zscx/lqxx/js/app.36c8746a.js",
+    "publisher": "陕西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:32:34.678954+08:00",
+    "sha256": "f156ccaedfa73d14516fa6855fd8bb1aa157de1b9d25b96b14535ee7fd99c15a",
+    "responseSha256": "f156ccaedfa73d14516fa6855fd8bb1aa157de1b9d25b96b14535ee7fd99c15a",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-app.js",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-charter-html",
+    "title": "陕西师范大学：2026招生章程",
+    "url": "https://zsb.snnu.edu.cn/info/1235/5172.htm",
+    "publisher": "陕西师范大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:49.395557+08:00",
+    "sha256": "febc5cc0797b82b9d9ec1c0ea757bdc7b73a218c56013ac2aa7d61c831c6dc00",
+    "responseSha256": "febc5cc0797b82b9d9ec1c0ea757bdc7b73a218c56013ac2aa7d61c831c6dc00",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-charter.html",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-cooperation-html",
+    "title": "陕西师范大学：cooperation",
+    "url": "https://zsb.snnu.edu.cn/info/1393/5262.htm",
+    "publisher": "陕西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:49.395777+08:00",
+    "sha256": "39f2f57841565f30f633102c4fa5bc8609374f11e77f360c291fdc469e9ff4c8",
+    "responseSha256": "39f2f57841565f30f633102c4fa5bc8609374f11e77f360c291fdc469e9ff4c8",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-cooperation.html",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-current-html",
+    "title": "陕西师范大学：2026录取最低分公告",
+    "url": "https://zsb.snnu.edu.cn/info/1192/5432.htm",
+    "publisher": "陕西师范大学",
+    "year": null,
+    "publishedAt": "2026-08-03",
+    "accessedAt": "2026-09-12T16:31:30.513146+08:00",
+    "sha256": "6200c847799e833471efaba05dcdccfa4916a77981c847504fabb2334e67ba44",
+    "responseSha256": "6200c847799e833471efaba05dcdccfa4916a77981c847504fabb2334e67ba44",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-current.html",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-current-pdf",
+    "title": "陕西师范大学：2026录取最低分公告",
+    "url": "https://zsb.snnu.edu.cn/__local/D/77/EC/3BC9816EE6C19D71501E9A049A2_6DB30892_1377E.pdf",
+    "publisher": "陕西师范大学",
+    "year": 2026,
+    "publishedAt": "2026-08-03",
+    "accessedAt": "2026-09-12T16:33:29.862166+08:00",
+    "sha256": "6bcca9dbc2b24fa603194c20d24a4a86c6a268a8b86b4a61c38f6d91e056c82e",
+    "responseSha256": "6bcca9dbc2b24fa603194c20d24a4a86c6a268a8b86b4a61c38f6d91e056c82e",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "actual-major-score-source",
+    "archiveFile": "snnu-current.pdf",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-entry-html",
+    "title": "陕西师范大学：entry",
+    "url": "http://zsdata.snnu.edu.cn/zscx/lqxx/#/lnfs",
+    "publisher": "陕西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:31:30.652401+08:00",
+    "sha256": "c6f4d8fe041664446773a8f3278db3792d56ecdb020b68d5db2099f9acf676b0",
+    "responseSha256": "c6f4d8fe041664446773a8f3278db3792d56ecdb020b68d5db2099f9acf676b0",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-entry.html",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-gx-2025-文史-json",
+    "title": "陕西师范大学：gx-2025-文史",
+    "url": "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "陕西师范大学",
+    "year": 2025,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:49.750916+08:00",
+    "sha256": "f592988aca3493e97fe9d4c80b514f3f2cf71bdd61776bf2d2dd16f8390d3cec",
+    "responseSha256": "98818f77f59f8bca9eba323d88e390d567099f37be2e6206e148a72cc15cf4ff",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "普通类",
+      "klmc": "文史\\历史类"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-gx-2025-文史.json",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-gx-2025-理工-json",
+    "title": "陕西师范大学：gx-2025-理工",
+    "url": "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "陕西师范大学",
+    "year": 2025,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:49.705368+08:00",
+    "sha256": "c8be961b0dc5acf5722c52d8833ecfb547359602c2b879a900cc52c8024b42b3",
+    "responseSha256": "c4541b1f1e8a1f984b659fcf96a3906a51f53ffa54bde1af0d20dcb320c3d0f0",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2025",
+      "zslb": "普通类",
+      "klmc": "理工\\物理类"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-gx-2025-理工.json",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-gx-2026-文史-json",
+    "title": "陕西师范大学：gx-2026-文史",
+    "url": "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "陕西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:49.654889+08:00",
+    "sha256": "7866e8b2e03cead9233274304ff403b74750deff7c814787420960e283ab8cbc",
+    "responseSha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "文史\\历史类"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-gx-2026-文史.json",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-gx-2026-理工-json",
+    "title": "陕西师范大学：gx-2026-理工",
+    "url": "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getList",
+    "publisher": "陕西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:38:49.396052+08:00",
+    "sha256": "7866e8b2e03cead9233274304ff403b74750deff7c814787420960e283ab8cbc",
+    "responseSha256": "e5286d8e970fb07e9c2c8d8f5139db0ea9ef36b6c9c8d7d3994a21ce07204e40",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs",
+      "sf": "广西",
+      "nf": "2026",
+      "zslb": "普通类",
+      "klmc": "理工\\物理类"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-gx-2026-理工.json",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-home-html",
+    "title": "陕西师范大学：招生官网入口",
+    "url": "https://zsb.snnu.edu.cn/",
+    "publisher": "陕西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:30:19.270678+08:00",
+    "sha256": "df9653e065ed83b6e9259f390c2b14ff796ee22d60e0314b9a69de59de2a8710",
+    "responseSha256": "df9653e065ed83b6e9259f390c2b14ff796ee22d60e0314b9a69de59de2a8710",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-home.html",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-query-js",
+    "title": "陕西师范大学：query",
+    "url": "http://zsdata.snnu.edu.cn/zscx/lqxx/js/lqcxjg.ade0e3e9.js",
+    "publisher": "陕西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:32:34.694245+08:00",
+    "sha256": "5e46f033896ecd29475401bb9247bd703988fa04056344aaa0124656d321777c",
+    "responseSha256": "5e46f033896ecd29475401bb9247bd703988fa04056344aaa0124656d321777c",
+    "requestMethod": "GET",
+    "requestData": null,
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-query.js",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "major-20260912b3-root-snnu-types-json",
+    "title": "陕西师范大学：types",
+    "url": "https://zsdata.snnu.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "publisher": "陕西师范大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-12T16:33:29.861827+08:00",
+    "sha256": "2fb48ab09198aace2a831a9f5f57043108b8cb0930b23c8368f117cddcdc5f2e",
+    "responseSha256": "a4fdf0befff51f027c3ffef6a90ccd4b967edbf05464043f4fa24827368d4018",
+    "requestMethod": "POST",
+    "requestData": {
+      "type": "lnfs"
+    },
+    "httpStatus": 200,
+    "evidenceRole": "source-review",
+    "archiveFile": "snnu-types.json",
+    "notes": [
+      "2026-08-03公告的11页PDF第2页广西有12行科类/招生类别汇总，不能拆成专业分；另2行明确中外合作专业：物理学517，电子信息技术563。后一名称与2026章程电子信息科学与技术不一致，按原名保留为待核记录并退出比较，不擅自更名。第10页体育综合分排除。历年专业查询菜单最高2025，2026两科普通类成功空数组，2025正对照正常。"
+    ]
+  },
+  {
+    "id": "gxeea-2026-33107",
+    "title": "2026年本科普通批院校专业组投档最低分数线（首选物理科目组）",
+    "url": "https://www.gxeea.cn/view/content_624_33107.htm",
+    "publisher": "广西招生考试院",
+    "publishedAt": "2026-07-18T19:35:00+08:00",
+    "accessedAt": "2026-09-10T04:44:03.558372+00:00",
+    "sha256": "b7b7f3534ffd33458f46f42c4639d4b9b588d7799741326f113f9566d5560820",
+    "recordCount": 4222,
+    "method": "Official GBK HTML table; standard-library HTMLParser; independently cross-checked against regex extraction of every source cell; no OCR or third-party table used.",
+    "track": "物理",
+    "batch": "本科普通批",
+    "round": "首轮",
+    "notes": [
+      "说明： 1.国家专项计划专业，只投档符合国家专项计划资格的考生；地方专项计划考生，只投档符合地方专项计划资格的考生；高校专项计划专业，只投档符合高校专项计划资格的考生；精准专项计划专业，只投档符合精准专项计划资格的考生。 2.表中空白处表示无出档考生。"
+    ],
+    "scoreSemantics": "院校专业组投档最低分；空白表示无出档考生，保存为 null。不是具体专业录取最低分。",
+    "rankSemantics": "原表未公布投档位次，rank 均为 null；不能把一分一档的分数名次直接宣称为精确投档位次。",
+    "auditAction": "作为既有资格标签佐证引用，本子任务不重复核验16张组线表。"
+  }
+]

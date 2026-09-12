@@ -1,0 +1,13 @@
+[
+  {
+    "host": "https://lqcx.ouc.edu.cn",
+    "entryUrl": "https://lqcx.ouc.edu.cn/static/front/ouc/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "ouc-params",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,726 @@
+[
+  {
+    "id": "major-20260912b3-root-10025-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10025",
+    "school": "首都医科大学",
+    "sourceSchool": "首都医科大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "临床医学(5+3一体化)",
+    "majorCode": null,
+    "score": 632.0,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "sourceId": "major-20260912b3-root-ccmu-gx-2026-0-json",
+    "sourceIds": [
+      "major-20260912b3-root-ccmu-gx-2026-0-json",
+      "major-20260912b3-root-ccmu-charter-html",
+      "gxeea-2026-33107",
+      "major-20260912b3-root-ccmu-major-html",
+      "major-20260912b3-root-ccmu-major-form-html",
+      "major-20260912b3-root-ccmu-params-majors-json"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "list",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考实考分（依学校章程专业录取口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "province": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "track": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "major": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "score": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "admissionType": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "note": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json",
+        "major-20260912b3-root-ccmu-charter-html",
+        "gxeea-2026-33107",
+        "major-20260912b3-root-ccmu-major-html",
+        "major-20260912b3-root-ccmu-major-form-html",
+        "major-20260912b3-root-ccmu-params-majors-json"
+      ],
+      "batch": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ]
+    },
+    "sourceMaximumScore": 637.0,
+    "sourceAverageScore": 635.0,
+    "sourceScoreHeader": "最低分",
+    "admissionRequirements": "非英语语种考生入学后须改学英语。依章程第十二条，须核对视力、色觉、听力、嗅觉、口吃及医学类肝功能等体检限制；原分数表不等于体检合格证明。",
+    "note": "学校直接公布的具体专业最低录取分。专业组码、广西填报专业代号、再选科目、位次和首次/征集轮次未列，保持未知。章程明确进档后按高考实考分安排专业，政策加分仅用于后续同分排序。"
+  },
+  {
+    "id": "major-20260912b3-root-10025-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10025",
+    "school": "首都医科大学",
+    "sourceSchool": "首都医科大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "临床医学",
+    "majorCode": null,
+    "score": 606.0,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "sourceId": "major-20260912b3-root-ccmu-gx-2026-0-json",
+    "sourceIds": [
+      "major-20260912b3-root-ccmu-gx-2026-0-json",
+      "major-20260912b3-root-ccmu-charter-html",
+      "gxeea-2026-33107",
+      "major-20260912b3-root-ccmu-major-html",
+      "major-20260912b3-root-ccmu-major-form-html",
+      "major-20260912b3-root-ccmu-params-majors-json"
+    ],
+    "sourceRow": 2,
+    "sourceTable": "list",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考实考分（依学校章程专业录取口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "province": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "track": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "major": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "score": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "admissionType": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "note": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json",
+        "major-20260912b3-root-ccmu-charter-html",
+        "gxeea-2026-33107",
+        "major-20260912b3-root-ccmu-major-html",
+        "major-20260912b3-root-ccmu-major-form-html",
+        "major-20260912b3-root-ccmu-params-majors-json"
+      ],
+      "batch": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ]
+    },
+    "sourceMaximumScore": 613.0,
+    "sourceAverageScore": 610.0,
+    "sourceScoreHeader": "最低分",
+    "admissionRequirements": "非英语语种考生入学后须改学英语。依章程第十二条，须核对视力、色觉、听力、嗅觉、口吃及医学类肝功能等体检限制；原分数表不等于体检合格证明。",
+    "note": "学校直接公布的具体专业最低录取分。专业组码、广西填报专业代号、再选科目、位次和首次/征集轮次未列，保持未知。章程明确进档后按高考实考分安排专业，政策加分仅用于后续同分排序。"
+  },
+  {
+    "id": "major-20260912b3-root-10025-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10025",
+    "school": "首都医科大学",
+    "sourceSchool": "首都医科大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "儿科学",
+    "majorCode": null,
+    "score": 620.0,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "sourceId": "major-20260912b3-root-ccmu-gx-2026-0-json",
+    "sourceIds": [
+      "major-20260912b3-root-ccmu-gx-2026-0-json",
+      "major-20260912b3-root-ccmu-charter-html",
+      "gxeea-2026-33107",
+      "major-20260912b3-root-ccmu-major-html",
+      "major-20260912b3-root-ccmu-major-form-html",
+      "major-20260912b3-root-ccmu-params-majors-json"
+    ],
+    "sourceRow": 3,
+    "sourceTable": "list",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考实考分（依学校章程专业录取口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "province": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "track": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "major": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "score": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "admissionType": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "note": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json",
+        "major-20260912b3-root-ccmu-charter-html",
+        "gxeea-2026-33107",
+        "major-20260912b3-root-ccmu-major-html",
+        "major-20260912b3-root-ccmu-major-form-html",
+        "major-20260912b3-root-ccmu-params-majors-json"
+      ],
+      "batch": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ]
+    },
+    "sourceMaximumScore": 620.0,
+    "sourceAverageScore": 620.0,
+    "sourceScoreHeader": "最低分",
+    "admissionRequirements": "非英语语种考生入学后须改学英语。依章程第十二条，须核对视力、色觉、听力、嗅觉、口吃及医学类肝功能等体检限制；原分数表不等于体检合格证明。",
+    "note": "学校直接公布的具体专业最低录取分。专业组码、广西填报专业代号、再选科目、位次和首次/征集轮次未列，保持未知。章程明确进档后按高考实考分安排专业，政策加分仅用于后续同分排序。"
+  },
+  {
+    "id": "major-20260912b3-root-10025-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10025",
+    "school": "首都医科大学",
+    "sourceSchool": "首都医科大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "中医学",
+    "majorCode": null,
+    "score": 580.0,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "sourceId": "major-20260912b3-root-ccmu-gx-2026-0-json",
+    "sourceIds": [
+      "major-20260912b3-root-ccmu-gx-2026-0-json",
+      "major-20260912b3-root-ccmu-charter-html",
+      "gxeea-2026-33107",
+      "major-20260912b3-root-ccmu-major-html",
+      "major-20260912b3-root-ccmu-major-form-html",
+      "major-20260912b3-root-ccmu-params-majors-json"
+    ],
+    "sourceRow": 4,
+    "sourceTable": "list",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考实考分（依学校章程专业录取口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "province": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "track": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "major": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "score": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "admissionType": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "note": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json",
+        "major-20260912b3-root-ccmu-charter-html",
+        "gxeea-2026-33107",
+        "major-20260912b3-root-ccmu-major-html",
+        "major-20260912b3-root-ccmu-major-form-html",
+        "major-20260912b3-root-ccmu-params-majors-json"
+      ],
+      "batch": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ]
+    },
+    "sourceMaximumScore": 585.0,
+    "sourceAverageScore": 583.0,
+    "sourceScoreHeader": "最低分",
+    "admissionRequirements": "非英语语种考生入学后须改学英语。依章程第十二条，须核对视力、色觉、听力、嗅觉、口吃及医学类肝功能等体检限制；原分数表不等于体检合格证明。",
+    "note": "学校直接公布的具体专业最低录取分。专业组码、广西填报专业代号、再选科目、位次和首次/征集轮次未列，保持未知。章程明确进档后按高考实考分安排专业，政策加分仅用于后续同分排序。"
+  },
+  {
+    "id": "major-20260912b3-root-10025-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10025",
+    "school": "首都医科大学",
+    "sourceSchool": "首都医科大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "临床药学",
+    "majorCode": null,
+    "score": 582.0,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "sourceId": "major-20260912b3-root-ccmu-gx-2026-0-json",
+    "sourceIds": [
+      "major-20260912b3-root-ccmu-gx-2026-0-json",
+      "major-20260912b3-root-ccmu-charter-html",
+      "gxeea-2026-33107",
+      "major-20260912b3-root-ccmu-major-html",
+      "major-20260912b3-root-ccmu-major-form-html",
+      "major-20260912b3-root-ccmu-params-majors-json"
+    ],
+    "sourceRow": 5,
+    "sourceTable": "list",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考实考分（依学校章程专业录取口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "province": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "track": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "major": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "score": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "admissionType": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "note": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json",
+        "major-20260912b3-root-ccmu-charter-html",
+        "gxeea-2026-33107",
+        "major-20260912b3-root-ccmu-major-html",
+        "major-20260912b3-root-ccmu-major-form-html",
+        "major-20260912b3-root-ccmu-params-majors-json"
+      ],
+      "batch": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ]
+    },
+    "sourceMaximumScore": 590.0,
+    "sourceAverageScore": 586.0,
+    "sourceScoreHeader": "最低分",
+    "admissionRequirements": "非英语语种考生入学后须改学英语。依章程第十二条，须核对视力、色觉、听力、嗅觉、口吃及医学类肝功能等体检限制；原分数表不等于体检合格证明。",
+    "note": "学校直接公布的具体专业最低录取分。专业组码、广西填报专业代号、再选科目、位次和首次/征集轮次未列，保持未知。章程明确进档后按高考实考分安排专业，政策加分仅用于后续同分排序。"
+  },
+  {
+    "id": "major-20260912b3-root-10025-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10025",
+    "school": "首都医科大学",
+    "sourceSchool": "首都医科大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "药学",
+    "majorCode": null,
+    "score": 588.0,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "sourceId": "major-20260912b3-root-ccmu-gx-2026-0-json",
+    "sourceIds": [
+      "major-20260912b3-root-ccmu-gx-2026-0-json",
+      "major-20260912b3-root-ccmu-charter-html",
+      "gxeea-2026-33107",
+      "major-20260912b3-root-ccmu-major-html",
+      "major-20260912b3-root-ccmu-major-form-html",
+      "major-20260912b3-root-ccmu-params-majors-json"
+    ],
+    "sourceRow": 6,
+    "sourceTable": "list",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制高考实考分（依学校章程专业录取口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "province": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "track": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "major": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "score": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "admissionType": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-root-ccmu-charter-html"
+      ],
+      "note": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json",
+        "major-20260912b3-root-ccmu-charter-html",
+        "gxeea-2026-33107",
+        "major-20260912b3-root-ccmu-major-html",
+        "major-20260912b3-root-ccmu-major-form-html",
+        "major-20260912b3-root-ccmu-params-majors-json"
+      ],
+      "batch": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b3-root-ccmu-gx-2026-0-json"
+      ]
+    },
+    "sourceMaximumScore": 595.0,
+    "sourceAverageScore": 592.0,
+    "sourceScoreHeader": "最低分",
+    "admissionRequirements": "非英语语种考生入学后须改学英语。依章程第十二条，须核对视力、色觉、听力、嗅觉、口吃及医学类肝功能等体检限制；原分数表不等于体检合格证明。",
+    "note": "学校直接公布的具体专业最低录取分。专业组码、广西填报专业代号、再选科目、位次和首次/征集轮次未列，保持未知。章程明确进档后按高考实考分安排专业，政策加分仅用于后续同分排序。"
+  },
+  {
+    "id": "major-20260912b3-root-10718-13",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10718",
+    "school": "陕西师范大学",
+    "sourceSchool": "陕西师范大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科批（精确批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "电子信息技术（中外合作办学）",
+    "majorCode": null,
+    "score": 563,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "sourceId": "major-20260912b3-root-snnu-current-pdf",
+    "sourceIds": [
+      "major-20260912b3-root-snnu-current-pdf",
+      "major-20260912b3-root-snnu-charter-html",
+      "gxeea-2026-33107",
+      "major-20260912b3-root-snnu-current-html"
+    ],
+    "sourceRow": 13,
+    "sourceTable": "PDF第2页广西区块，第13–14数据行",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "source-conflict",
+    "scoreComparable": false,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [
+      "分数表专业名称与2026章程不一致，563分对应的正式专业名称待学校确认"
+    ],
+    "conflictFields": [
+      "major"
+    ],
+    "admissionType": "中外合作办学",
+    "sourceCategory": "中外合作办学",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "province": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "track": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "major": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "score": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "admissionType": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-root-snnu-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-root-snnu-charter-html"
+      ],
+      "note": [
+        "major-20260912b3-root-snnu-current-pdf",
+        "major-20260912b3-root-snnu-charter-html",
+        "gxeea-2026-33107",
+        "major-20260912b3-root-snnu-current-html"
+      ],
+      "scoreComparable": [
+        "major-20260912b3-root-snnu-current-pdf",
+        "major-20260912b3-root-snnu-charter-html"
+      ],
+      "conflictFields": [
+        "major-20260912b3-root-snnu-current-pdf",
+        "major-20260912b3-root-snnu-charter-html"
+      ]
+    },
+    "sourceMaximumScore": null,
+    "sourceAverageScore": null,
+    "sourceScoreHeader": "录取最低分",
+    "admissionRequirements": "仅录取有该专业志愿考生；3+1培养，第四学年赴匈牙利塞格德大学；部分课程英语授课，非英语考生谨慎报考；入学后不得申请转专业。学费以2026新生缴费须知为准。",
+    "note": "学校直接公布的具体专业最低录取分。专业组码、广西填报专业代号、再选科目、位次和首次/征集轮次未列，保持未知。依据章程按投档成绩安排专业，认可规定的全国性高考加分。 原表写电子信息技术（中外合作办学），章程写电子信息科学与技术（中外合作办学）；保留原名及分数，不自动认定为同一专业，退出分数比较。",
+    "sourcePage": 2
+  },
+  {
+    "id": "major-20260912b3-root-10718-14",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10718",
+    "school": "陕西师范大学",
+    "sourceSchool": "陕西师范大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科批（精确批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "物理学（中外合作办学）",
+    "majorCode": null,
+    "score": 517,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "sourceId": "major-20260912b3-root-snnu-current-pdf",
+    "sourceIds": [
+      "major-20260912b3-root-snnu-current-pdf",
+      "major-20260912b3-root-snnu-charter-html",
+      "gxeea-2026-33107",
+      "major-20260912b3-root-snnu-current-html"
+    ],
+    "sourceRow": 14,
+    "sourceTable": "PDF第2页广西区块，第13–14数据行",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "中外合作办学",
+    "sourceCategory": "中外合作办学",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "province": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "track": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "major": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "score": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "admissionType": [
+        "major-20260912b3-root-snnu-current-pdf"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "scoreBasis": [
+        "major-20260912b3-root-snnu-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b3-root-snnu-charter-html"
+      ],
+      "note": [
+        "major-20260912b3-root-snnu-current-pdf",
+        "major-20260912b3-root-snnu-charter-html",
+        "gxeea-2026-33107",
+        "major-20260912b3-root-snnu-current-html"
+      ]
+    },
+    "sourceMaximumScore": null,
+    "sourceAverageScore": null,
+    "sourceScoreHeader": "录取最低分",
+    "admissionRequirements": "仅录取有该专业志愿考生；3+1培养，第四学年赴匈牙利塞格德大学；部分课程英语授课，非英语考生谨慎报考；入学后不得申请转专业。学费以2026新生缴费须知为准。",
+    "note": "学校直接公布的具体专业最低录取分。专业组码、广西填报专业代号、再选科目、位次和首次/征集轮次未列，保持未知。依据章程按投档成绩安排专业，认可规定的全国性高考加分。",
+    "sourcePage": 2
+  }
+]

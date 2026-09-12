@@ -1,0 +1,56 @@
+[
+  {
+    "entryUrl": "https://aopress.shisu.edu.cn/zsw/lnfs.html",
+    "baseUrl": "https://aopress.shisu.edu.cn",
+    "queries": [
+      {
+        "name": "sisu-gx-2026-物理类.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "name": "sisu-gx-2026-历史类.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "name": "sisu-gx-2025-物理类.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "name": "sisu-gx-2025-历史类.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      }
+    ]
+  }
+]

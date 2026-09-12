@@ -1,0 +1,316 @@
+{
+  "status": "passed",
+  "reviewedAt": "2026-09-12",
+  "scope": "batch-a seven schools",
+  "checks": [
+    {
+      "check": "major-20260912b3-a-dmu-directory hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-dmu-home hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-dmu-old-pdf hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-dmu-old hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-gzhu-config-public hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-gzhu-config hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-gzhu-entry hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-gzhu-gx-2025-all hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-gzhu-gx-2025-control hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-gzhu-gx-2026-1 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-gzhu-gx-2026-2 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-gzhu-gx-2026-all hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-gzhu-home hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-hfut-entry hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-hfut-gx-2025-4 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-hfut-gx-2025-5 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-hfut-gx-2026-1 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-hfut-gx-2026-2 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-hfut-gx-2026-3 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-hfut-home hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-hfut-nav hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-hfut-params hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncepu-entry hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncepu-home hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncepu-major-data hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncepu-summary-data hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncu-entry hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncu-gx-2025-4 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncu-gx-2025-5 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncu-gx-2026-1 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncu-gx-2026-2 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncu-gx-2026-3 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncu-home hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-ncu-params hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-app hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-component hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-entry hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-gx-2025-6 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-gx-2025-7 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-gx-2026-1 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-gx-2026-2 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-gx-2026-3 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-gx-2026-4 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-gx-2026-5 hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-home hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-old-entry hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-types-valid hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-nwafu-types hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-swu-entry-https hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-swu-entry hash",
+      "passed": true
+    },
+    {
+      "check": "major-20260912b3-a-swu-home hash",
+      "passed": true
+    },
+    {
+      "check": "ncu-gx-2026-1.json real empty",
+      "passed": true
+    },
+    {
+      "check": "ncu-gx-2026-2.json real empty",
+      "passed": true
+    },
+    {
+      "check": "ncu-gx-2026-3.json real empty",
+      "passed": true
+    },
+    {
+      "check": "hfut-gx-2026-1.json real empty",
+      "passed": true
+    },
+    {
+      "check": "hfut-gx-2026-2.json real empty",
+      "passed": true
+    },
+    {
+      "check": "hfut-gx-2026-3.json real empty",
+      "passed": true
+    },
+    {
+      "check": "nwafu-gx-2026-1.json real empty",
+      "passed": true
+    },
+    {
+      "check": "nwafu-gx-2026-2.json real empty",
+      "passed": true
+    },
+    {
+      "check": "nwafu-gx-2026-3.json real empty",
+      "passed": true
+    },
+    {
+      "check": "nwafu-gx-2026-4.json real empty",
+      "passed": true
+    },
+    {
+      "check": "nwafu-gx-2026-5.json real empty",
+      "passed": true
+    },
+    {
+      "check": "ncu4 old positive scope",
+      "passed": true
+    },
+    {
+      "check": "ncu5 old positive scope",
+      "passed": true
+    },
+    {
+      "check": "hfut4 old positive scope",
+      "passed": true
+    },
+    {
+      "check": "hfut5 old positive scope",
+      "passed": true
+    },
+    {
+      "check": "nwafu6 old positive scope",
+      "passed": true
+    },
+    {
+      "check": "nwafu7 old positive scope",
+      "passed": true
+    },
+    {
+      "check": "NCEPU Baoding full prior dataset",
+      "passed": true
+    },
+    {
+      "check": "HFUT first-filing disclaimer",
+      "passed": true
+    },
+    {
+      "check": "GZHU no match all",
+      "passed": true
+    },
+    {
+      "check": "GZHU no match 1",
+      "passed": true
+    },
+    {
+      "check": "GZHU no match 2",
+      "passed": true
+    },
+    {
+      "check": "GZHU positive all seventeen rows",
+      "passed": true
+    },
+    {
+      "check": "DMU attachment not PDF",
+      "passed": true
+    },
+    {
+      "check": "SWU412 sources preserved",
+      "passed": true
+    },
+    {
+      "check": "A excludes all old/filing/failed sources from actual",
+      "passed": true
+    }
+  ],
+  "manualReview": "Cross-read actual response objects, current request parameters, old-year positive controls, source hashes, and access failure notes; no all-channel nonpublication claim."
+}

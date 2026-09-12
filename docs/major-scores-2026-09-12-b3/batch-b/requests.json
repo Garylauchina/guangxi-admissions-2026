@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ecust-home",
+    "url": "https://zsb.ecust.edu.cn/main.htm"
+  },
+  {
+    "id": "shu-home",
+    "url": "https://bkzsw.shu.edu.cn/"
+  },
+  {
+    "id": "shu-2026-aggregate",
+    "url": "https://bkzsw.shu.edu.cn/info/7833/38950.htm"
+  },
+  {
+    "id": "ouc-home",
+    "url": "https://bkzs.ouc.edu.cn/"
+  },
+  {
+    "id": "sztu-home",
+    "url": "https://zs.sztu.edu.cn/"
+  },
+  {
+    "id": "dhu-home",
+    "url": "https://zs.dhu.edu.cn/"
+  },
+  {
+    "id": "njupt-home",
+    "url": "https://zs.njupt.edu.cn/mainm.htm"
+  }
+]

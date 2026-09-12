@@ -1,0 +1,67 @@
+[
+  {
+    "sourceKey": "xync-10981",
+    "sourceTable": 1,
+    "rowCount": 5,
+    "reason": "同公告其他省份，非广西；不导入。"
+  },
+  {
+    "sourceKey": "xync-10981",
+    "sourceTable": 2,
+    "rowCount": 7,
+    "reason": "同公告其他省份，非广西；不导入。"
+  },
+  {
+    "sourceKey": "xync-10981",
+    "sourceTable": 3,
+    "rowCount": 16,
+    "reason": "同公告其他省份，非广西；不导入。"
+  },
+  {
+    "sourceKey": "bjwl-1383",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "province": "广东",
+    "reason": "非广西，不导入。"
+  },
+  {
+    "sourceKey": "bjwl-1383",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "province": "广东",
+    "reason": "非广西，不导入。"
+  },
+  {
+    "sourceKey": "bjwl-1383",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "province": "北京",
+    "reason": "非广西，不导入。"
+  },
+  {
+    "sourceKey": "bjwl-1383",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "province": "上海",
+    "reason": "非广西，不导入。"
+  },
+  {
+    "sourceKey": "bjwl-1383",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "province": "上海",
+    "reason": "非广西，不导入。"
+  },
+  {
+    "sourceKey": "kmmc-score",
+    "reason": "2026广西仅学校本科普通批汇总30人及最高587、最低421，无具体专业表。"
+  },
+  {
+    "sourceKey": "zafu-score",
+    "reason": "2026广西仅物理/历史/国家专项科类投档汇总，不据计划拆专业。"
+  },
+  {
+    "sourceKey": "gxust-wechat",
+    "reason": "官方招生主页链接2026数据微信页；HTTP200响应为访问环境验证，正文未读取，不能声称成功空数据。"
+  }
+]

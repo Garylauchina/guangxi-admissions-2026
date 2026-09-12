@@ -1,0 +1,14 @@
+{
+  "files": [
+    "review-c.md",
+    "review-c.json",
+    "review_c.py",
+    "table_reader.py",
+    "cdutcm-independent-transcription.tsv",
+    "PUBLIC-FILES.json"
+  ],
+  "excluded": [
+    "__pycache__/"
+  ],
+  "note": "独审报告和独立事实转录；原文仅在被审包本地raw保存。"
+}

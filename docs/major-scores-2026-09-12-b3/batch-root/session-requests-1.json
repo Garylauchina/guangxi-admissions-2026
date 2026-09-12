@@ -1,0 +1,13 @@
+[
+  {
+    "entryUrl": "https://aopress.shisu.edu.cn/zsw/lnfs.html",
+    "baseUrl": "https://aopress.shisu.edu.cn",
+    "queries": [
+      {
+        "name": "sisu-params.json",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  }
+]

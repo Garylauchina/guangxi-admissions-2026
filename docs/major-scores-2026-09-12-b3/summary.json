@@ -1,0 +1,178 @@
+{
+  "year": 2026,
+  "checkedAt": "2026-09-12T09:00:38.079Z",
+  "baselineCommit": "89383efda359a0dbf9364e461e0779e6faa41d15",
+  "priorityTargetSchools": 20,
+  "reviewedSchoolCodes": 27,
+  "reviewedSchoolsWithoutNewScores": 20,
+  "sourceRecordsInBatch": 187,
+  "sourceRecordsAdded": 185,
+  "oldSourceRecordsUnchanged": 916,
+  "before": {
+    "records": 1120,
+    "schools": 30,
+    "pending": 3
+  },
+  "after": {
+    "records": 1255,
+    "schools": 37,
+    "pending": 4
+  },
+  "added": {
+    "records": 135,
+    "comparable": 134,
+    "pending": 1,
+    "schools": [
+      {
+        "schoolCode": "10423",
+        "school": "中国海洋大学",
+        "records": 60,
+        "comparable": 60,
+        "pending": 0,
+        "physics": 46,
+        "history": 14,
+        "rounds": [
+          "录取汇总（轮次未分）"
+        ],
+        "unknownGroup": 60,
+        "unknownBatch": 60,
+        "publishedRank": 0
+      },
+      {
+        "schoolCode": "10233",
+        "school": "牡丹江师范学院",
+        "records": 22,
+        "comparable": 22,
+        "pending": 0,
+        "physics": 14,
+        "history": 8,
+        "rounds": [
+          "录取汇总（轮次未分）"
+        ],
+        "unknownGroup": 22,
+        "unknownBatch": 0,
+        "publishedRank": 0
+      },
+      {
+        "schoolCode": "10722",
+        "school": "咸阳师范学院",
+        "records": 19,
+        "comparable": 19,
+        "pending": 0,
+        "physics": 14,
+        "history": 5,
+        "rounds": [
+          "录取汇总（轮次未分）",
+          "征集（次数未分）"
+        ],
+        "unknownGroup": 19,
+        "unknownBatch": 19,
+        "publishedRank": 0
+      },
+      {
+        "schoolCode": "10721",
+        "school": "宝鸡文理学院",
+        "records": 14,
+        "comparable": 14,
+        "pending": 0,
+        "physics": 8,
+        "history": 6,
+        "rounds": [
+          "录取汇总（轮次未分）"
+        ],
+        "unknownGroup": 14,
+        "unknownBatch": 14,
+        "publishedRank": 0
+      },
+      {
+        "schoolCode": "10633",
+        "school": "成都中医药大学",
+        "records": 12,
+        "comparable": 12,
+        "pending": 0,
+        "physics": 10,
+        "history": 2,
+        "rounds": [
+          "录取汇总（轮次未分）"
+        ],
+        "unknownGroup": 12,
+        "unknownBatch": 0,
+        "publishedRank": 0
+      },
+      {
+        "schoolCode": "10025",
+        "school": "首都医科大学",
+        "records": 6,
+        "comparable": 6,
+        "pending": 0,
+        "physics": 6,
+        "history": 0,
+        "rounds": [
+          "录取汇总（轮次未分）"
+        ],
+        "unknownGroup": 6,
+        "unknownBatch": 0,
+        "publishedRank": 0
+      },
+      {
+        "schoolCode": "10718",
+        "school": "陕西师范大学",
+        "records": 2,
+        "comparable": 1,
+        "pending": 1,
+        "physics": 2,
+        "history": 0,
+        "rounds": [
+          "录取汇总（轮次未分）"
+        ],
+        "unknownGroup": 2,
+        "unknownBatch": 2,
+        "publishedRank": 0
+      }
+    ]
+  },
+  "oldMajorRecordsUnchanged": 1120,
+  "preserved": {
+    "cutoffs": {
+      "unchanged": true,
+      "sha256": "d1766a2c8cece80db3c6a2d8548149e3ce255f87083cc95e981149f809b0d0a3"
+    },
+    "plans": {
+      "unchanged": true,
+      "sha256": "420360a7eb6d1604d132d1f462fde668ea8faf97d8e69ad4bb6b3efb413d316c"
+    },
+    "ranks": {
+      "unchanged": true,
+      "sha256": "5443c315a0a247763d8fbdee018066eeccf7b6d4a696148c2187d0baa09f2cea"
+    },
+    "special-programs": {
+      "unchanged": true,
+      "sha256": "1999c07cdbdc4db44795a8e023e404d95155239f76ed9072909591788d28cd58"
+    },
+    "policies": {
+      "unchanged": true,
+      "sha256": "612490a108b0e78983fcca17cc1b81309667008ac0c099109af3503dd96af830"
+    },
+    "supplementary-plans": {
+      "unchanged": true,
+      "sha256": "36a11aa3b17d27da8f3c141591318a7ca5400241ab705af9e534c2a7a15139aa"
+    },
+    "plan-source-catalog": {
+      "unchanged": true,
+      "sha256": "52212e98c0ecb5ff9eecc5c377b513fc901cd49db80425cf86f96716b3f4731f"
+    },
+    "major-filing-cutoffs": {
+      "unchanged": true,
+      "sha256": "8544539e7e48f80fcd33838d8130199130b48b20be653b663bf57f4f7cc2829a"
+    }
+  },
+  "limits": [
+    "部分覆盖，复查未取得不表示学校没有发布",
+    "不以2025数据或专业组投档分填补2026专业分",
+    "来源未区分轮次则保留汇总，不充作首轮",
+    "组码和精确批次未知保持待核",
+    "专业录取数不转换成计划数",
+    "加分处理按高校说明，不一律称为裸分",
+    "优先级分数是该校符合筛选条件的首轮组最高分，不是该校最低分"
+  ]
+}

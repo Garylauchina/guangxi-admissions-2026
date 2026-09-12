@@ -1,0 +1,36 @@
+{
+  "files": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "QA.json",
+    "verification.json",
+    "README.md",
+    "audit-context.json",
+    "replay-check.json",
+    "importer-preflight.json",
+    "build.py",
+    "verify.py",
+    "collect.py",
+    "session_query.py",
+    "shu_query.py",
+    "requests.json",
+    "requests-2.json",
+    "requests-3.json",
+    "requests-4.json",
+    "requests-5.json",
+    "requests-6.json",
+    "requests-7.json",
+    "requests-8.json",
+    "requests-9.json",
+    "requests-10.json",
+    "session-requests.json",
+    "session-requests-2.json",
+    "PUBLIC-FILES.json"
+  ],
+  "excluded": [
+    "raw/",
+    "__pycache__/"
+  ],
+  "note": "仅白名单可公开；原始材料及所有会话值不公开。"
+}

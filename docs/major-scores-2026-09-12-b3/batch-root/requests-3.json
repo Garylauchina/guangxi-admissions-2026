@@ -1,0 +1,34 @@
+[
+  {
+    "name": "sisu-init.js",
+    "url": "https://aopress.shisu.edu.cn/static/front/shisu/basic/js/init.js"
+  },
+  {
+    "name": "sisu-tplt.js",
+    "url": "https://aopress.shisu.edu.cn/static/front/shisu/basic/js/tplt.js"
+  },
+  {
+    "name": "sisu-common.js",
+    "url": "https://aopress.shisu.edu.cn/static/front/shisu/basic/js/common.js"
+  },
+  {
+    "name": "njmu-old.pdf",
+    "url": "https://zs.njmu.edu.cn/_upload/article/files/07/67/f621dce84448914dd959e8fdf050/28879820-b191-44c0-bfd2-8b716cff17be.pdf"
+  },
+  {
+    "name": "njucm-gx-2025.pdf",
+    "url": "https://zs.njucm.edu.cn/_upload/article/files/24/d1/90d5fe7a486b83f17f0f49f2a167/882f14aa-5fc2-4430-a693-30a11d36b0ca.pdf"
+  },
+  {
+    "name": "snnu-app.js",
+    "url": "http://zsdata.snnu.edu.cn/zscx/lqxx/js/app.36c8746a.js"
+  },
+  {
+    "name": "snnu-query.js",
+    "url": "http://zsdata.snnu.edu.cn/zscx/lqxx/js/lqcxjg.ade0e3e9.js"
+  },
+  {
+    "name": "ccmu-admissions.html",
+    "url": "https://zhsh.ccmu.edu.cn/"
+  }
+]

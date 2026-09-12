@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "frozenAuditTime": "2026-09-12T16:40:43.623967+08:00",
+  "description": "Same retained raw and frozen audit context reproduce all four core outputs byte-for-byte.",
+  "before": {
+    "major-cutoffs-upsert.json": "0cd12fe2067cb324914da6c8e8d06a1102a77c1bdac02b9a468cce88dcb61aa7",
+    "sources.json": "842f5ababc645a0aa4946f76009777258a039df9470ccfa10896af699b795f0a",
+    "school-audit-notes.json": "f4d0919589c1d8402e939d4064f9c4d0c865278a939697affe534e3c52cc24b2",
+    "QA.json": "73c7b0c54484bd00b4f23625fb1f93ad8308822943b4290c8d0e126948167bf7"
+  },
+  "after": {
+    "major-cutoffs-upsert.json": "0cd12fe2067cb324914da6c8e8d06a1102a77c1bdac02b9a468cce88dcb61aa7",
+    "sources.json": "842f5ababc645a0aa4946f76009777258a039df9470ccfa10896af699b795f0a",
+    "school-audit-notes.json": "f4d0919589c1d8402e939d4064f9c4d0c865278a939697affe534e3c52cc24b2",
+    "QA.json": "73c7b0c54484bd00b4f23625fb1f93ad8308822943b4290c8d0e126948167bf7"
+  }
+}

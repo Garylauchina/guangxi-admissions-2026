@@ -1,0 +1,7469 @@
+{
+  "status": "PASS",
+  "reviewedAt": "2026-09-12T16:40:43.623967+08:00",
+  "summary": {
+    "rows": 60,
+    "fieldComparisons": 960,
+    "passedFields": 960,
+    "checks": 317,
+    "passedChecks": 317
+  },
+  "checks": [
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-1-1",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-1-1",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-1-1",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-1",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-1",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-1",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-1",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-2",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-2",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-2",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-2",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-3",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-3",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-3",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-3",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-4",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-4",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-4",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-4",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-5",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-5",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-5",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-5",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-6",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-6",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-6",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-6",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-7",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-7",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-7",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-7",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-8",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-8",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-8",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-8",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-9",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-9",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-9",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-9",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-10",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-10",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-10",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-10",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-11",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-11",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-11",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-11",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-12",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-12",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-12",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-12",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-13",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-13",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-13",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-13",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-14",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-14",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-14",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-14",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-15",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-15",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-15",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-15",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-16",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-16",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-16",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-16",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-17",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-17",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-17",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-17",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-18",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-18",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-18",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-18",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-19",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-19",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-19",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-19",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-20",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-20",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-20",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-20",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-21",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-21",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-21",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-21",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-22",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-22",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-22",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-22",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-23",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-23",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-23",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-23",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-24",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-24",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-24",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-24",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-25",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-25",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-25",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-25",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-26",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-26",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-26",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-26",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-27",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-27",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-27",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-27",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-28",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-28",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-28",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-28",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-29",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-29",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-29",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-29",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-30",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-30",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-30",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-30",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-31",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-31",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-31",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-31",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-32",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-32",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-32",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-32",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-33",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-33",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-33",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-33",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-2-34",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-2-34",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-2-34",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-2-34",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-3-1",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-3-1",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-3-1",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-4-1",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-4-1",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-4-1",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-4-2",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-4-2",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-4-2",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-4-3",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-4-3",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-4-3",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-4-4",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-4-4",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-4-4",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-4-5",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-4-5",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-4-5",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-4-6",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-4-6",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-4-6",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-4-7",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-4-7",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-4-7",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-6-1",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-6-1",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-6-1",
+      "passed": true
+    },
+    {
+      "name": "Cooperation subject/transfer conditions major-20260912b3-b-10423-6-1",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-6-2",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-6-2",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-6-2",
+      "passed": true
+    },
+    {
+      "name": "Cooperation subject/transfer conditions major-20260912b3-b-10423-6-2",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-6-3",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-6-3",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-6-3",
+      "passed": true
+    },
+    {
+      "name": "Cooperation subject/transfer conditions major-20260912b3-b-10423-6-3",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-1",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-1",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-1",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-1",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-2",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-2",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-2",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-2",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-3",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-3",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-3",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-3",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-4",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-4",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-4",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-4",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-5",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-5",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-5",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-5",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-6",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-6",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-6",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-6",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-7",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-7",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-7",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-7",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-8",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-8",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-8",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-8",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-9",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-9",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-9",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-9",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-10",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-10",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-10",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-10",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-11",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-11",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-11",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-11",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-12",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-12",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-12",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-12",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-7-13",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-7-13",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-7-13",
+      "passed": true
+    },
+    {
+      "name": "General note has no misleading special-route methods major-20260912b3-b-10423-7-13",
+      "passed": true
+    },
+    {
+      "name": "Row origin/identity major-20260912b3-b-10423-8-1",
+      "passed": true
+    },
+    {
+      "name": "Comparison and score evidence major-20260912b3-b-10423-8-1",
+      "passed": true
+    },
+    {
+      "name": "Unknown field boundary major-20260912b3-b-10423-8-1",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-dhu-2025-page2",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-dhu-2025",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-dhu-gx-2025",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-dhu-home",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-dhu-national",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-dhu-scores",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-dhu-special",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-chunk",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-fields",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-global",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-gx-2025-history",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-gx-2025-physics",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-gx-2026-history",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-gx-2026-physics",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-home",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-js-1",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-js-2",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-new-params",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-params",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ecust-scores",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-gx-code-source",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-njupt-2025",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-njupt-home",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-njupt-scores",
+      "passed": true
+    },
+    {
+      "name": "Failure distinguished major-20260912b3-b-nnu-home",
+      "passed": true
+    },
+    {
+      "name": "Failure distinguished major-20260912b3-b-nnu-https",
+      "passed": true
+    },
+    {
+      "name": "Failure distinguished major-20260912b3-b-nnu-official-entry-reference",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-charter",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-common",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-cooperation",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2025-history",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2025-physics",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2026-1",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2026-2",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2026-3",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2026-4",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2026-5",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2026-6",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2026-7",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2026-8",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-gx-2026-9",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-home",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-init",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-params",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-scores",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-tplt",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-ouc-util",
+      "passed": true
+    },
+    {
+      "name": "Failure distinguished major-20260912b3-b-shu-2026-aggregate",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-shu-fineui",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-shu-gx-2025-normal",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-shu-gx-2026-coop",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-shu-gx-2026-national",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-shu-gx-2026-normal",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-shu-gx-2026-special",
+      "passed": true
+    },
+    {
+      "name": "Failure distinguished major-20260912b3-b-shu-home",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-shu-scores",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-sztu-current-image",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-sztu-current",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-sztu-gx-2025",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-sztu-gx-2026",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-sztu-home",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-sztu-provinces-2025",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-sztu-provinces-2026",
+      "passed": true
+    },
+    {
+      "name": "Archive major-20260912b3-b-sztu-scores",
+      "passed": true
+    },
+    {
+      "name": "QA output fingerprint major-cutoffs-upsert.json",
+      "passed": true
+    },
+    {
+      "name": "QA output fingerprint sources.json",
+      "passed": true
+    },
+    {
+      "name": "QA output fingerprint school-audit-notes.json",
+      "passed": true
+    },
+    {
+      "name": "Notes use frozen same audit time",
+      "passed": true
+    },
+    {
+      "name": "Configured school scope",
+      "passed": true
+    },
+    {
+      "name": "Actual workbook explicitly 2025 Guangxi",
+      "passed": true
+    },
+    {
+      "name": "FineUI session state redacted shu-gx-2026-normal.html",
+      "passed": true
+    },
+    {
+      "name": "FineUI session state redacted shu-gx-2026-national.html",
+      "passed": true
+    },
+    {
+      "name": "FineUI session state redacted shu-gx-2025-normal.html",
+      "passed": true
+    },
+    {
+      "name": "FineUI session state redacted shu-gx-2026-coop.html",
+      "passed": true
+    },
+    {
+      "name": "FineUI session state redacted shu-gx-2026-special.html",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2026-5.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2026-9.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2026-8.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2026-4.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2026-3.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2025-physics.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2026-2.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-params.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2026-1.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2025-history.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2026-7.json",
+      "passed": true
+    },
+    {
+      "name": "JSON session redacted ouc-gx-2026-6.json",
+      "passed": true
+    }
+  ],
+  "rowComparisons": [
+    {
+      "id": "major-20260912b3-b-10423-1-1",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-1",
+      "sourceRow": 1,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "轮机工程",
+          "actual": "轮机工程",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类-提前批",
+          "actual": "普通类-提前批",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 608.0,
+          "actual": 608.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 613.0,
+          "actual": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 611.0,
+          "actual": 611.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-1",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 1,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "机械设计制造及其自动化",
+          "actual": "机械设计制造及其自动化",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 619.0,
+          "actual": 619.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 622.0,
+          "actual": 622.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 621.0,
+          "actual": 621.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-2",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 2,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "自动化",
+          "actual": "自动化",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 619.0,
+          "actual": 619.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 624.0,
+          "actual": 624.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 621.0,
+          "actual": 621.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-3",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 3,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "海洋技术",
+          "actual": "海洋技术",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 618.0,
+          "actual": 618.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 627.0,
+          "actual": 627.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 622.0,
+          "actual": 622.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-4",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 4,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "海洋科学",
+          "actual": "海洋科学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 618.0,
+          "actual": 618.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 621.0,
+          "actual": 621.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 620.0,
+          "actual": 620.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-5",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 5,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "计算机类",
+          "actual": "计算机类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 617.0,
+          "actual": 617.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 620.0,
+          "actual": 620.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 618.0,
+          "actual": 618.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-6",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 6,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "电子信息类",
+          "actual": "电子信息类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 616.0,
+          "actual": 616.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 623.0,
+          "actual": 623.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 620.0,
+          "actual": 620.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-7",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 7,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "声学",
+          "actual": "声学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 616.0,
+          "actual": 616.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 617.0,
+          "actual": 617.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 617.0,
+          "actual": 617.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-8",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 8,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "船舶与海洋工程",
+          "actual": "船舶与海洋工程",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 615.0,
+          "actual": 615.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 623.0,
+          "actual": 623.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 617.0,
+          "actual": 617.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-9",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 9,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "港口航道与海岸工程",
+          "actual": "港口航道与海岸工程",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 613.0,
+          "actual": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 618.0,
+          "actual": 618.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 616.0,
+          "actual": 616.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-10",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 10,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "光电信息科学与工程",
+          "actual": "光电信息科学与工程",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 613.0,
+          "actual": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 613.0,
+          "actual": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 613.0,
+          "actual": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-11",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 11,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "物理学",
+          "actual": "物理学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 612.0,
+          "actual": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 616.0,
+          "actual": 616.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 614.0,
+          "actual": 614.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-12",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 12,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "材料类",
+          "actual": "材料类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 612.0,
+          "actual": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 614.0,
+          "actual": 614.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 613.0,
+          "actual": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-13",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 13,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "环境科学",
+          "actual": "环境科学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 612.0,
+          "actual": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 618.0,
+          "actual": 618.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 614.0,
+          "actual": 614.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-14",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 14,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "环境工程",
+          "actual": "环境工程",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 611.0,
+          "actual": 611.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 617.0,
+          "actual": 617.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 614.0,
+          "actual": 614.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-15",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 15,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "工业设计",
+          "actual": "工业设计",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 611.0,
+          "actual": 611.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 612.0,
+          "actual": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 612.0,
+          "actual": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-16",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 16,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "海洋资源与环境",
+          "actual": "海洋资源与环境",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 610.0,
+          "actual": 610.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 612.0,
+          "actual": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 611.0,
+          "actual": 611.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-17",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 17,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "地球信息科学与技术",
+          "actual": "地球信息科学与技术",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 610.0,
+          "actual": 610.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 613.0,
+          "actual": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 611.0,
+          "actual": 611.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-18",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 18,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "大气科学",
+          "actual": "大气科学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 610.0,
+          "actual": 610.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 612.0,
+          "actual": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 611.0,
+          "actual": 611.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-19",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 19,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "数学类",
+          "actual": "数学类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 609.0,
+          "actual": 609.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 610.0,
+          "actual": 610.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 609.0,
+          "actual": 609.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-20",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 20,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "化学",
+          "actual": "化学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 609.0,
+          "actual": 609.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 615.0,
+          "actual": 615.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 611.0,
+          "actual": 611.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-21",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 21,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "生物科学类",
+          "actual": "生物科学类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 608.0,
+          "actual": 608.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 619.0,
+          "actual": 619.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 613.0,
+          "actual": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-22",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 22,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "海洋资源开发技术",
+          "actual": "海洋资源开发技术",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 608.0,
+          "actual": 608.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 615.0,
+          "actual": 615.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 612.0,
+          "actual": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-23",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 23,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "食品科学与工程类",
+          "actual": "食品科学与工程类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 606.0,
+          "actual": 606.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 616.0,
+          "actual": 616.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 609.0,
+          "actual": 609.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-24",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 24,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "水产养殖学",
+          "actual": "水产养殖学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 606.0,
+          "actual": 606.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 614.0,
+          "actual": 614.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 610.0,
+          "actual": 610.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-25",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 25,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "地质学",
+          "actual": "地质学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 605.0,
+          "actual": 605.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 607.0,
+          "actual": 607.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 606.0,
+          "actual": 606.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-26",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 26,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "药学",
+          "actual": "药学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 604.0,
+          "actual": 604.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 608.0,
+          "actual": 608.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 606.0,
+          "actual": 606.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-27",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 27,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "生物育种科学",
+          "actual": "生物育种科学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 604.0,
+          "actual": 604.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 607.0,
+          "actual": 607.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 606.0,
+          "actual": 606.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-28",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 28,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "化学工程与工艺",
+          "actual": "化学工程与工艺",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 604.0,
+          "actual": 604.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 615.0,
+          "actual": 615.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 608.0,
+          "actual": 608.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-29",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 29,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "勘查技术与工程",
+          "actual": "勘查技术与工程",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 604.0,
+          "actual": 604.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 605.0,
+          "actual": 605.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 605.0,
+          "actual": 605.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-30",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 30,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "物流管理",
+          "actual": "物流管理",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 601.0,
+          "actual": 601.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 610.0,
+          "actual": 610.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 606.0,
+          "actual": 606.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-31",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 31,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "金融学",
+          "actual": "金融学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 597.0,
+          "actual": 597.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 611.0,
+          "actual": 611.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 606.0,
+          "actual": 606.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-32",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 32,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "经济学",
+          "actual": "经济学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 594.0,
+          "actual": 594.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 596.0,
+          "actual": 596.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 595.0,
+          "actual": 595.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-33",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 33,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "国际经济与贸易",
+          "actual": "国际经济与贸易",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 594.0,
+          "actual": 594.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 596.0,
+          "actual": 596.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 595.0,
+          "actual": 595.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-2-34",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-2",
+      "sourceRow": 34,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "市场营销（数智营销管理）",
+          "actual": "市场营销（数智营销管理）",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 594.0,
+          "actual": 594.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 603.0,
+          "actual": 603.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 599.0,
+          "actual": 599.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-3-1",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-3",
+      "sourceRow": 1,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "大气科学",
+          "actual": "大气科学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "高校专项计划",
+          "actual": "高校专项计划",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 607.0,
+          "actual": 607.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 607.0,
+          "actual": 607.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 607.0,
+          "actual": 607.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-1",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+      "sourceRow": 1,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "电子信息类",
+          "actual": "电子信息类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "国家专项计划",
+          "actual": "国家专项计划",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 607.0,
+          "actual": 607.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 613.0,
+          "actual": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 610.0,
+          "actual": 610.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-2",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+      "sourceRow": 2,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "海洋技术",
+          "actual": "海洋技术",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "国家专项计划",
+          "actual": "国家专项计划",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 592.0,
+          "actual": 592.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 595.0,
+          "actual": 595.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 594.0,
+          "actual": 594.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-3",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+      "sourceRow": 3,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "环境工程",
+          "actual": "环境工程",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "国家专项计划",
+          "actual": "国家专项计划",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 588.0,
+          "actual": 588.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 588.0,
+          "actual": 588.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 588.0,
+          "actual": 588.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-4",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+      "sourceRow": 4,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "海洋渔业科学与技术",
+          "actual": "海洋渔业科学与技术",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "国家专项计划",
+          "actual": "国家专项计划",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 587.0,
+          "actual": 587.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 590.0,
+          "actual": 590.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 589.0,
+          "actual": 589.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-5",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+      "sourceRow": 5,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "食品科学与工程类",
+          "actual": "食品科学与工程类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "国家专项计划",
+          "actual": "国家专项计划",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 586.0,
+          "actual": 586.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 594.0,
+          "actual": 594.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 590.0,
+          "actual": 590.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-6",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+      "sourceRow": 6,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "生物科学类",
+          "actual": "生物科学类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "国家专项计划",
+          "actual": "国家专项计划",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 583.0,
+          "actual": 583.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 601.0,
+          "actual": 601.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 591.0,
+          "actual": 591.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-4-7",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-4",
+      "sourceRow": 7,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "水产养殖学",
+          "actual": "水产养殖学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "国家专项计划",
+          "actual": "国家专项计划",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 580.0,
+          "actual": 580.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 584.0,
+          "actual": 584.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 582.0,
+          "actual": 582.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-6-1",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-6",
+      "sourceRow": 1,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "计算机科学与技术（中外合作办学）",
+          "actual": "计算机科学与技术（中外合作办学）",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "中外合作办学",
+          "actual": "中外合作办学",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 605.0,
+          "actual": 605.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 608.0,
+          "actual": 608.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 607.0,
+          "actual": 607.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-6-2",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-6",
+      "sourceRow": 2,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "海洋科学（中外合作办学）",
+          "actual": "海洋科学（中外合作办学）",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "中外合作办学",
+          "actual": "中外合作办学",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 599.0,
+          "actual": 599.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 606.0,
+          "actual": 606.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 603.0,
+          "actual": 603.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-6-3",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-6",
+      "sourceRow": 3,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "物理",
+          "actual": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "物理类",
+          "actual": "物理类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "物理学（中外合作办学）",
+          "actual": "物理学（中外合作办学）",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "中外合作办学",
+          "actual": "中外合作办学",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 582.0,
+          "actual": 582.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 599.0,
+          "actual": 599.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 591.0,
+          "actual": 591.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-1",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 1,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "法学",
+          "actual": "法学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 602.0,
+          "actual": 602.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 605.0,
+          "actual": 605.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 603.0,
+          "actual": 603.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-2",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 2,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "会计学",
+          "actual": "会计学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 601.0,
+          "actual": 601.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 602.0,
+          "actual": 602.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 602.0,
+          "actual": 602.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-3",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 3,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "英语",
+          "actual": "英语",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 601.0,
+          "actual": 601.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 601.0,
+          "actual": 601.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 601.0,
+          "actual": 601.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-4",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 4,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "汉语言文学",
+          "actual": "汉语言文学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 600.0,
+          "actual": 600.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 601.0,
+          "actual": 601.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 600.0,
+          "actual": 600.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-5",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 5,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "行政管理",
+          "actual": "行政管理",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 598.0,
+          "actual": 598.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 603.0,
+          "actual": 603.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 600.0,
+          "actual": 600.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-6",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 6,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "新闻传播学类",
+          "actual": "新闻传播学类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 598.0,
+          "actual": 598.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 598.0,
+          "actual": 598.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 598.0,
+          "actual": 598.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-7",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 7,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "公共事业管理",
+          "actual": "公共事业管理",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 597.0,
+          "actual": 597.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 601.0,
+          "actual": 601.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 599.0,
+          "actual": 599.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-8",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 8,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "国际经济与贸易",
+          "actual": "国际经济与贸易",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 596.0,
+          "actual": 596.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 597.0,
+          "actual": 597.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 597.0,
+          "actual": 597.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-9",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 9,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "政治学与行政学",
+          "actual": "政治学与行政学",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 595.0,
+          "actual": 595.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 599.0,
+          "actual": 599.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 597.0,
+          "actual": 597.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-10",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 10,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "工商管理（数字化创新管理）",
+          "actual": "工商管理（数字化创新管理）",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 593.0,
+          "actual": 593.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 598.0,
+          "actual": 598.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 596.0,
+          "actual": 596.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-11",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 11,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "市场营销（数智营销管理）",
+          "actual": "市场营销（数智营销管理）",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 592.0,
+          "actual": 592.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 592.0,
+          "actual": 592.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 592.0,
+          "actual": 592.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-12",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 12,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "物流管理",
+          "actual": "物流管理",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 591.0,
+          "actual": 591.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 596.0,
+          "actual": 596.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 594.0,
+          "actual": 594.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-7-13",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-7",
+      "sourceRow": 13,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "旅游管理",
+          "actual": "旅游管理",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "普通类",
+          "actual": "普通类",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 590.0,
+          "actual": 590.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 593.0,
+          "actual": 593.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 592.0,
+          "actual": 592.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "major-20260912b3-b-10423-8-1",
+      "sourceId": "major-20260912b3-b-ouc-gx-2026-8",
+      "sourceRow": 1,
+      "fields": [
+        {
+          "field": "year",
+          "expected": 2026,
+          "actual": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "expected": "广西",
+          "actual": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "expected": "历史",
+          "actual": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "expected": "历史类",
+          "actual": "历史类",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "expected": "新闻传播学类",
+          "actual": "新闻传播学类",
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "expected": "高校专项计划",
+          "actual": "高校专项计划",
+          "passed": true
+        },
+        {
+          "field": "score",
+          "expected": 581.0,
+          "actual": 581.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "expected": 581.0,
+          "actual": 581.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "expected": 581.0,
+          "actual": 581.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "group",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        },
+        {
+          "field": "round",
+          "expected": "录取汇总（轮次未分）",
+          "actual": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "sourceBatch",
+          "expected": null,
+          "actual": null,
+          "passed": true
+        }
+      ]
+    }
+  ],
+  "inputHashes": {
+    "major-cutoffs-upsert.json": "0cd12fe2067cb324914da6c8e8d06a1102a77c1bdac02b9a468cce88dcb61aa7",
+    "sources.json": "842f5ababc645a0aa4946f76009777258a039df9470ccfa10896af699b795f0a",
+    "school-audit-notes.json": "f4d0919589c1d8402e939d4064f9c4d0c865278a939697affe534e3c52cc24b2",
+    "QA.json": "73c7b0c54484bd00b4f23625fb1f93ad8308822943b4290c8d0e126948167bf7"
+  }
+}

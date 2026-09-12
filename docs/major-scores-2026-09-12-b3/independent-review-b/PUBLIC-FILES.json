@@ -1,0 +1,5 @@
+{
+  "publicFiles": ["README.md", "QA.json", "review.py", "PUBLIC-FILES.json"],
+  "excluded": ["raw/**", "__pycache__/**"],
+  "note": "仅审阅结论及相对路径检查脚本；不公开原始材料或会话值。"
+}

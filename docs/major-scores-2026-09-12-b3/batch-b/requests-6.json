@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ouc-charter",
+    "url": "https://bkzs.ouc.edu.cn/2026/0526/c7210a531292/page.htm"
+  },
+  {
+    "id": "ouc-cooperation",
+    "url": "https://bkzs.ouc.edu.cn/2021/0520/c7210a531608/page.htm"
+  },
+  {
+    "id": "ecust-gx-2025-physics",
+    "url": "https://bkzsdata.ecust.edu.cn/lqxx/s/api/front/lqxx2/getList?type=lnfs",
+    "data": [
+      {
+        "field": "sf",
+        "value": "广西"
+      },
+      {
+        "field": "nf",
+        "value": "2025"
+      },
+      {
+        "field": "klmc",
+        "value": "理工类/物理类"
+      },
+      {
+        "field": "zslb",
+        "value": "全部"
+      },
+      {
+        "field": "xkyq",
+        "value": "全部"
+      },
+      {
+        "field": "pcmc",
+        "value": "全部"
+      }
+    ],
+    "encoding": "json"
+  },
+  {
+    "id": "ecust-gx-2025-history",
+    "url": "https://bkzsdata.ecust.edu.cn/lqxx/s/api/front/lqxx2/getList?type=lnfs",
+    "data": [
+      {
+        "field": "sf",
+        "value": "广西"
+      },
+      {
+        "field": "nf",
+        "value": "2025"
+      },
+      {
+        "field": "klmc",
+        "value": "文史类/历史类"
+      },
+      {
+        "field": "zslb",
+        "value": "全部"
+      },
+      {
+        "field": "xkyq",
+        "value": "全部"
+      },
+      {
+        "field": "pcmc",
+        "value": "全部"
+      }
+    ],
+    "encoding": "json"
+  },
+  {
+    "id": "ecust-gx-2026-physics",
+    "url": "https://bkzsdata.ecust.edu.cn/lqxx/s/api/front/lqxx2/getList?type=lnfs",
+    "data": [
+      {
+        "field": "sf",
+        "value": "广西"
+      },
+      {
+        "field": "nf",
+        "value": "2026"
+      },
+      {
+        "field": "klmc",
+        "value": "理工类/物理类"
+      },
+      {
+        "field": "zslb",
+        "value": "全部"
+      },
+      {
+        "field": "xkyq",
+        "value": "全部"
+      },
+      {
+        "field": "pcmc",
+        "value": "全部"
+      }
+    ],
+    "encoding": "json"
+  },
+  {
+    "id": "ecust-gx-2026-history",
+    "url": "https://bkzsdata.ecust.edu.cn/lqxx/s/api/front/lqxx2/getList?type=lnfs",
+    "data": [
+      {
+        "field": "sf",
+        "value": "广西"
+      },
+      {
+        "field": "nf",
+        "value": "2026"
+      },
+      {
+        "field": "klmc",
+        "value": "文史类/历史类"
+      },
+      {
+        "field": "zslb",
+        "value": "全部"
+      },
+      {
+        "field": "xkyq",
+        "value": "全部"
+      },
+      {
+        "field": "pcmc",
+        "value": "全部"
+      }
+    ],
+    "encoding": "json"
+  }
+]
