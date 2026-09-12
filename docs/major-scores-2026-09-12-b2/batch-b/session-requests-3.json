@@ -1,0 +1,24 @@
+[
+  {
+    "host": "https://zs.cufe.edu.cn",
+    "entryUrl": "https://zs.cufe.edu.cn/static/front/cufe/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "cufe-param",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  },
+  {
+    "host": "https://goto.buct.edu.cn",
+    "entryUrl": "https://goto.buct.edu.cn/static/front/buct/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "buct-param",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  }
+]

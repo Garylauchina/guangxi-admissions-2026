@@ -1,0 +1,533 @@
+{
+  "checkedAt": "2026-09-12T09:31:28.912240+08:00",
+  "status": "PASS",
+  "baseline": {
+    "commit": "5e742e9296767c0abec242531549f5c884cdb4b9",
+    "actualRecords": 1058,
+    "schools": 26,
+    "sources": 709,
+    "notes": 156
+  },
+  "summary": {
+    "schoolsChecked": 7,
+    "newMajorRows": 0,
+    "successfulCurrentEmptySchoolQueries": 4,
+    "oldYearMaterialOnlySchools": 2,
+    "scoreEntryAccessLimitedSchools": 1,
+    "sources": 73,
+    "sourceArchivesHashChecked": 69,
+    "checks": 108,
+    "passedChecks": 108
+  },
+  "schoolQuerySummaries": {
+    "cuc": {
+      "configurationYearsGuangxi": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019
+      ],
+      "currentSuccessfulEmptyScoreQueries": 4,
+      "positiveControl2025MajorRows": {
+        "物理类": 15
+      }
+    },
+    "buct": {
+      "configurationYearsGuangxi": [
+        2025,
+        2024,
+        2023
+      ],
+      "currentSuccessfulEmptyScoreQueries": 2,
+      "positiveControl2025MajorRows": {
+        "物理类": 16,
+        "历史类": 2
+      }
+    },
+    "cufe": {
+      "configurationYearsGuangxi": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017
+      ],
+      "currentSuccessfulEmptyScoreQueries": 4,
+      "positiveControl2025MajorRows": {
+        "物理类": 13,
+        "历史类": 8
+      }
+    },
+    "jnu": {
+      "configurationYears": [
+        2025,
+        2024,
+        2023
+      ],
+      "currentSuccessfulEmptyScoreQueries": 6,
+      "positiveControl2025MajorRows": {
+        "物理类": 9,
+        "历史类": 1
+      },
+      "parameterUse": "2026菜单为空；广西/科类/类别ID从2025菜单明确读取，再发送年份2026作有边界空结果检验。"
+    }
+  },
+  "imageReview": {
+    "file": "raw/gzhmu-external-image.jpg",
+    "titleYear": 2025,
+    "guangxiRows": 2,
+    "track": "物理类",
+    "rowsRead": [
+      {
+        "major": "临床医学",
+        "minimum": 614
+      },
+      {
+        "major": "临床药学",
+        "minimum": 596
+      }
+    ],
+    "disposition": "Old-year positive material only; zero rows imported"
+  },
+  "checks": [
+    {
+      "name": "archive hash buct-common",
+      "passed": true
+    },
+    {
+      "name": "archive hash buct-entry",
+      "passed": true
+    },
+    {
+      "name": "archive hash buct-gx-2025-历史类",
+      "passed": true
+    },
+    {
+      "name": "archive hash buct-gx-2025-物理类",
+      "passed": true
+    },
+    {
+      "name": "archive hash buct-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "name": "archive hash buct-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "name": "archive hash buct-home",
+      "passed": true
+    },
+    {
+      "name": "archive hash buct-navigation",
+      "passed": true
+    },
+    {
+      "name": "archive hash buct-param",
+      "passed": true
+    },
+    {
+      "name": "archive hash buct-tplt",
+      "passed": true
+    },
+    {
+      "name": "archive hash citydg-charter",
+      "passed": true
+    },
+    {
+      "name": "archive hash citydg-faq",
+      "passed": true
+    },
+    {
+      "name": "archive hash citydg-home",
+      "passed": true
+    },
+    {
+      "name": "archive hash citydg-js",
+      "passed": true
+    },
+    {
+      "name": "archive hash citydg-main",
+      "passed": true
+    },
+    {
+      "name": "archive hash citydg-news",
+      "passed": true
+    },
+    {
+      "name": "archive hash citydg-policy",
+      "passed": true
+    },
+    {
+      "name": "archive hash citydg-public",
+      "passed": true
+    },
+    {
+      "name": "archive hash citydg-uga",
+      "passed": true
+    },
+    {
+      "name": "archive hash cuc-entry",
+      "passed": true
+    },
+    {
+      "name": "archive hash cuc-gx-2025-物理类",
+      "passed": true
+    },
+    {
+      "name": "archive hash cuc-gx-2026-历史类-all",
+      "passed": true
+    },
+    {
+      "name": "archive hash cuc-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "name": "archive hash cuc-gx-2026-物理类-all",
+      "passed": true
+    },
+    {
+      "name": "archive hash cuc-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "name": "archive hash cuc-home",
+      "passed": true
+    },
+    {
+      "name": "archive hash cuc-param",
+      "passed": true
+    },
+    {
+      "name": "archive hash cuc-tplt",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-common",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-entry",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-gx-2025-历史类",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-gx-2025-物理类",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-gx-2026-历史类-all",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-gx-2026-物理类-all",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-home",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-navigation",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-param",
+      "passed": true
+    },
+    {
+      "name": "archive hash cufe-tplt",
+      "passed": true
+    },
+    {
+      "name": "archive hash gzhmu-external-image",
+      "passed": true
+    },
+    {
+      "name": "archive hash gzhmu-external",
+      "passed": true
+    },
+    {
+      "name": "archive hash gzhmu-home",
+      "passed": true
+    },
+    {
+      "name": "archive hash gzhmu-news",
+      "passed": true
+    },
+    {
+      "name": "archive hash gzhmu-score",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-app",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-categories-2-2025",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-categories-3-2025",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-entry",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-gx-2025-2-1",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-gx-2025-3-1",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-gx-2026-2-1",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-gx-2026-2-4",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-gx-2026-3-1",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-gx-2026-3-4",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-gx-2026-3-6",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-gx-2026-3-7",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-home",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-provinces-2025",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-provinces-2026",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-score-js",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-subjects-2025",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-subjects-2026",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-subjects-json-2025",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-subjects-json-2026",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-years-csrf",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-years-post",
+      "passed": true
+    },
+    {
+      "name": "archive hash jnu-years",
+      "passed": true
+    },
+    {
+      "name": "archive hash lzu-home",
+      "passed": true
+    },
+    {
+      "name": "cuc current menu latest year",
+      "passed": true
+    },
+    {
+      "name": "cuc empty current cuc-gx-2026-历史类-all",
+      "passed": true
+    },
+    {
+      "name": "cuc empty current cuc-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "name": "cuc empty current cuc-gx-2026-物理类-all",
+      "passed": true
+    },
+    {
+      "name": "cuc empty current cuc-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "name": "cuc positive old 物理类",
+      "passed": true
+    },
+    {
+      "name": "buct current menu latest year",
+      "passed": true
+    },
+    {
+      "name": "buct empty current buct-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "name": "buct empty current buct-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "name": "buct positive old 物理类",
+      "passed": true
+    },
+    {
+      "name": "buct positive old 历史类",
+      "passed": true
+    },
+    {
+      "name": "cufe current menu latest year",
+      "passed": true
+    },
+    {
+      "name": "cufe empty current cufe-gx-2026-历史类-all",
+      "passed": true
+    },
+    {
+      "name": "cufe empty current cufe-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "name": "cufe empty current cufe-gx-2026-物理类-all",
+      "passed": true
+    },
+    {
+      "name": "cufe empty current cufe-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "name": "cufe positive old 物理类",
+      "passed": true
+    },
+    {
+      "name": "cufe positive old 历史类",
+      "passed": true
+    },
+    {
+      "name": "JNU public request header logic read",
+      "passed": true
+    },
+    {
+      "name": "JNU menu latest 2025",
+      "passed": true
+    },
+    {
+      "name": "JNU 2026 empty province list",
+      "passed": true
+    },
+    {
+      "name": "JNU direct Guangxi ID",
+      "passed": true
+    },
+    {
+      "name": "JNU 2026 empty subject list",
+      "passed": true
+    },
+    {
+      "name": "JNU actual query empty jnu-gx-2026-2-1",
+      "passed": true
+    },
+    {
+      "name": "JNU actual query empty jnu-gx-2026-2-4",
+      "passed": true
+    },
+    {
+      "name": "JNU actual query empty jnu-gx-2026-3-1",
+      "passed": true
+    },
+    {
+      "name": "JNU actual query empty jnu-gx-2026-3-4",
+      "passed": true
+    },
+    {
+      "name": "JNU actual query empty jnu-gx-2026-3-6",
+      "passed": true
+    },
+    {
+      "name": "JNU actual query empty jnu-gx-2026-3-7",
+      "passed": true
+    },
+    {
+      "name": "JNU positive 物理类",
+      "passed": true
+    },
+    {
+      "name": "JNU positive 历史类",
+      "passed": true
+    },
+    {
+      "name": "GZHMU external menu title 2025",
+      "passed": true
+    },
+    {
+      "name": "CityDG independent school code",
+      "passed": true
+    },
+    {
+      "name": "CityDG FAQ old achievement year",
+      "passed": true
+    },
+    {
+      "name": "LZU successful official home still points to failed score entry",
+      "passed": true
+    },
+    {
+      "name": "7 exact target school notes",
+      "passed": true
+    },
+    {
+      "name": "All note sources resolve",
+      "passed": true
+    },
+    {
+      "name": "Frozen local audit date",
+      "passed": true
+    },
+    {
+      "name": "Source IDs unique",
+      "passed": true
+    }
+  ]
+}

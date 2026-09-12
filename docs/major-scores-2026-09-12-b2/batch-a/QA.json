@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "checkedAt": "2026-09-12T09:29:52.144787+08:00",
+  "reviewDate": "2026-09-12",
+  "summary": {
+    "schoolsChecked": 7,
+    "newMajorRows": 0,
+    "sources": 60,
+    "schoolNotes": 7,
+    "successfulCurrentEmptyQueries": 15,
+    "oldYearPositiveControls": 4,
+    "accessRestrictedSchools": 3,
+    "previousYearOnlySchools": 2,
+    "currentEmptyResponseSchools": 2
+  },
+  "scope": "7校公开入口有界核查完成；没有新增满足2026广西单专业实际录取分口径的记录。",
+  "checks": [
+    "60份归档hash与来源元信息一致",
+    "山东9组和农大6组2026查询均HTTP200/state1/sszygradeList为空",
+    "4个2025正对照共62条专业行，年省科类明确，未导入",
+    "山东本部与威海、农大本部查询与烟台研究院类别分开",
+    "2026录取类别/组汇总不转为专业分",
+    "深圳/暨南表体旧年与发布时间分开",
+    "上财仅本年入口且验证码必填，未冒称查询已完成",
+    "访问失败与成功空响应分开保存",
+    "审核日期来自冻结采集元信息，不依赖运行当天",
+    "公开文件仅含最小来源元信息、查询条件、汇总证据和本包脚本"
+  ],
+  "limitations": [
+    "上海中医药、西南政法因访问失败未读分数菜单；上海财经未通过验证码提交查询",
+    "缺口结论只覆盖已列入口、字段与参数，不等于所有官方渠道均未发布",
+    "旧年分数、类别/组汇总和第一次投档口径不纳入本轮实际专业数据"
+  ]
+}

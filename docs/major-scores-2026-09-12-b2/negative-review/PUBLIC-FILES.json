@@ -1,0 +1,5 @@
+{
+  "publicFiles": ["README.md", "QA.json", "audit.py", "PUBLIC-FILES.json"],
+  "excluded": ["raw/**", "__pycache__/**"],
+  "note": "Only bounded review facts, hashes, query parameters and read-only verification code; no raw pages, images or session values."
+}

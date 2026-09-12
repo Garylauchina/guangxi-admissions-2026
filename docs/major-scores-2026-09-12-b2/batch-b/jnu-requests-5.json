@@ -1,0 +1,22 @@
+[
+  {
+    "id": "jnu-categories-3-2025",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/recruitmentPlan/getQueryByYearAndProvinceIdWithOutArt",
+    "data": {
+      "year": 2025,
+      "provinceId": 20,
+      "subjectId": 3
+    },
+    "encoding": "json"
+  },
+  {
+    "id": "jnu-categories-2-2025",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/recruitmentPlan/getQueryByYearAndProvinceIdWithOutArt",
+    "data": {
+      "year": 2025,
+      "provinceId": 20,
+      "subjectId": 2
+    },
+    "encoding": "json"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-09-12",
+  "newActualMajorRecords": 62,
+  "reviewedSchoolCodes": 24,
+  "independentlyReviewedNewRecords": 62,
+  "fullTestSuite": {
+    "passed": 17,
+    "failed": 0
+  },
+  "actualScores": 1120,
+  "actualScoreSchools": 30,
+  "existingSourceConflicts": 3,
+  "oldActualRecordsPreserved": 1058,
+  "oldSourcesPreserved": 709,
+  "otherDataFilesUnchanged": 8,
+  "publicPackageFilesChecked": 116,
+  "sourceBodyPublication": false,
+  "allNewRecordsHaveUnknownGroup": true,
+  "newRowsWithDirectProfessionalRank": 30,
+  "limits": [
+    "部分覆盖",
+    "原文未分首次及征集轮次",
+    "20校本轮仍未取得符合口径的专业分"
+  ]
+}

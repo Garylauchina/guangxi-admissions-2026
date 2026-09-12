@@ -1,0 +1,44 @@
+[
+  {
+    "host": "https://zszx.cuc.edu.cn",
+    "entryUrl": "https://zszx.cuc.edu.cn/static/front/cuc/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "cuc-gx-2026-物理类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "id": "cuc-gx-2026-历史类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "id": "cuc-gx-2025-物理类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      }
+    ]
+  }
+]

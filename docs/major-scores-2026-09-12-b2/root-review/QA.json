@@ -1,0 +1,5877 @@
+{
+  "status": "PASS",
+  "reviewedAt": "2026-09-12",
+  "summary": {
+    "rows": 30,
+    "admitted": 83,
+    "fieldComparisons": 750,
+    "passedFieldComparisons": 750,
+    "checks": 265,
+    "passedChecks": 265,
+    "sourceArchiveHashes": 56,
+    "reviewedSchoolNotes": 6
+  },
+  "findings": [
+    {
+      "id": "uibe-major-code-semantics",
+      "status": "closed",
+      "description": "Original zydm is retained as sourceMajorCode; it does not establish the Guangxi application major code."
+    }
+  ],
+  "visualReview": {
+    "gdut": "Full Guangxi image checked; its own image has no year, upstream official page is 2025.",
+    "scnu": "PDF first-page title 2025 read directly; page7 image Guangxi rows visually distinct from preceding Hunan; 6 history plus7 physics actual major rows, totals excluded."
+  },
+  "checks": [
+    {
+      "name": "UIBE eleven actual 2026 Guangxi combinations",
+      "passed": true
+    },
+    {
+      "name": "Professional minimum-rank and count column semantics",
+      "passed": true
+    },
+    {
+      "name": "Professional table binds fields from actual menu",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 1",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 1",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 1-1",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-1-1",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-1-1",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-1-1",
+      "passed": true
+    },
+    {
+      "name": "Foreign language eligibility major-20260912b2-root-10036-1-1",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 1-2",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-1-2",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-1-2",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-1-2",
+      "passed": true
+    },
+    {
+      "name": "Foreign language eligibility major-20260912b2-root-10036-1-2",
+      "passed": true
+    },
+    {
+      "name": "Selection is not automatic admission major-20260912b2-root-10036-1-2",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 1-3",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-1-3",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-1-3",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-1-3",
+      "passed": true
+    },
+    {
+      "name": "Foreign language eligibility major-20260912b2-root-10036-1-3",
+      "passed": true
+    },
+    {
+      "name": "Selection is not automatic admission major-20260912b2-root-10036-1-3",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 1-4",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-1-4",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-1-4",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-1-4",
+      "passed": true
+    },
+    {
+      "name": "Foreign language eligibility major-20260912b2-root-10036-1-4",
+      "passed": true
+    },
+    {
+      "name": "Selection is not automatic admission major-20260912b2-root-10036-1-4",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 2",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 2",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 2-1",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-2-1",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-2-1",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-2-1",
+      "passed": true
+    },
+    {
+      "name": "Selection is not automatic admission major-20260912b2-root-10036-2-1",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 2-2",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-2-2",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-2-2",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-2-2",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 2-3",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-2-3",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-2-3",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-2-3",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 2-4",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-2-4",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-2-4",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-2-4",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 2-5",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-2-5",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-2-5",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-2-5",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 2-6",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-2-6",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-2-6",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-2-6",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 2-7",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-2-7",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-2-7",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-2-7",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 3",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 3",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 3-1",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-3-1",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-3-1",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-3-1",
+      "passed": true
+    },
+    {
+      "name": "Cooperation eligibility major-20260912b2-root-10036-3-1",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 4",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 4",
+      "passed": true
+    },
+    {
+      "name": "No preparatory aggregate imported 4",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 5",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 5",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 5-1",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-5-1",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-5-1",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-5-1",
+      "passed": true
+    },
+    {
+      "name": "National special eligibility major-20260912b2-root-10036-5-1",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 5-2",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-5-2",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-5-2",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-5-2",
+      "passed": true
+    },
+    {
+      "name": "National special eligibility major-20260912b2-root-10036-5-2",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 5-3",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-5-3",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-5-3",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-5-3",
+      "passed": true
+    },
+    {
+      "name": "National special eligibility major-20260912b2-root-10036-5-3",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 6",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 6",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 6-1",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-6-1",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-6-1",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-6-1",
+      "passed": true
+    },
+    {
+      "name": "Special eligibility major-20260912b2-root-10036-6-1",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 7",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 7",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-1",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-1",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-1",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-1",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-2",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-2",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-2",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-2",
+      "passed": true
+    },
+    {
+      "name": "Selection is not automatic admission major-20260912b2-root-10036-7-2",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-3",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-3",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-3",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-3",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-4",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-4",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-4",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-4",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-5",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-5",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-5",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-5",
+      "passed": true
+    },
+    {
+      "name": "Selection is not automatic admission major-20260912b2-root-10036-7-5",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-6",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-6",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-6",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-6",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-7",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-7",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-7",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-7",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-8",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-8",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-8",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-8",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-9",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-9",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-9",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-9",
+      "passed": true
+    },
+    {
+      "name": "Selection is not automatic admission major-20260912b2-root-10036-7-9",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-10",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-10",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-10",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-10",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 7-11",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-7-11",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-7-11",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-7-11",
+      "passed": true
+    },
+    {
+      "name": "Selection is not automatic admission major-20260912b2-root-10036-7-11",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 8",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 8",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 8-1",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-8-1",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-8-1",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-8-1",
+      "passed": true
+    },
+    {
+      "name": "Cooperation eligibility major-20260912b2-root-10036-8-1",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 9",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 9",
+      "passed": true
+    },
+    {
+      "name": "No preparatory aggregate imported 9",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 10",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 10",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 10-1",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-10-1",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-10-1",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-10-1",
+      "passed": true
+    },
+    {
+      "name": "National special eligibility major-20260912b2-root-10036-10-1",
+      "passed": true
+    },
+    {
+      "name": "Selection is not automatic admission major-20260912b2-root-10036-10-1",
+      "passed": true
+    },
+    {
+      "name": "Current successful actual query 11",
+      "passed": true
+    },
+    {
+      "name": "Per-category admitted counts sum 11",
+      "passed": true
+    },
+    {
+      "name": "One-to-one raw record 11-1",
+      "passed": true
+    },
+    {
+      "name": "Numerical consistency major-20260912b2-root-10036-11-1",
+      "passed": true
+    },
+    {
+      "name": "Rank evidence includes raw and actual header major-20260912b2-root-10036-11-1",
+      "passed": true
+    },
+    {
+      "name": "Source major code only major-20260912b2-root-10036-11-1",
+      "passed": true
+    },
+    {
+      "name": "Special eligibility major-20260912b2-root-10036-11-1",
+      "passed": true
+    },
+    {
+      "name": "All configured categories queried",
+      "passed": true
+    },
+    {
+      "name": "Two prep rows excluded",
+      "passed": true
+    },
+    {
+      "name": "30 actual rows and 83 admitted",
+      "passed": true
+    },
+    {
+      "name": "Track totals",
+      "passed": true
+    },
+    {
+      "name": "Category totals",
+      "passed": true
+    },
+    {
+      "name": "No group-reference score mixed in",
+      "passed": true
+    },
+    {
+      "name": "All source references resolve",
+      "passed": true
+    },
+    {
+      "name": "2026 charter actual score basis",
+      "passed": true
+    },
+    {
+      "name": "Charter eligibility and cooperation fee",
+      "passed": true
+    },
+    {
+      "name": "Charter special admission policy",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-gdut-gx-2025-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-gdut-gx-2025-png",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-gdut-home-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-gdut-scores-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-scnu-current-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-scnu-home-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-scnu-notice-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-scnu-plan-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-scnu-prior-scores-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-scnu-prior-scores-pdf",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-scnu-years-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-get-2025-history-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-get-2025-physics-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-get-2026-history-national-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-get-2026-history-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-get-2026-physics-national-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-get-2026-physics-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-guide-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-gx-2025-history-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-gx-2025-physics-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-gx-2026-history-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-gx-2026-physics-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-home-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-query-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-sduwh-scores-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-suda-gx-2025-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-suda-gx-2026-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-suda-home-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-suda-scores-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-admissions-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-charter-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-common-js",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-guide-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2025-history-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2025-physics-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-1-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-10-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-11-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-2-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-3-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-4-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-5-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-6-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-7-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-8-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-gx-2026-9-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-home-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-init-js",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-params-json",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-public-query-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-scores-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-tplt-js",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-uibe-util-js",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-zju-home-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-zju-latest-html",
+      "passed": true
+    },
+    {
+      "name": "Source hash major-20260912b2-root-zju-scores-html",
+      "passed": true
+    },
+    {
+      "name": "Six reviewed school notes",
+      "passed": true
+    },
+    {
+      "name": "Note references 10574",
+      "passed": true
+    },
+    {
+      "name": "Local date and audit kind 10574",
+      "passed": true
+    },
+    {
+      "name": "Note references 11845",
+      "passed": true
+    },
+    {
+      "name": "Local date and audit kind 11845",
+      "passed": true
+    },
+    {
+      "name": "Note references 19422",
+      "passed": true
+    },
+    {
+      "name": "Local date and audit kind 19422",
+      "passed": true
+    },
+    {
+      "name": "Note references 19335",
+      "passed": true
+    },
+    {
+      "name": "Local date and audit kind 19335",
+      "passed": true
+    },
+    {
+      "name": "Note references 10285",
+      "passed": true
+    },
+    {
+      "name": "Local date and audit kind 10285",
+      "passed": true
+    },
+    {
+      "name": "Note references 10036",
+      "passed": true
+    },
+    {
+      "name": "Local date and audit kind 10036",
+      "passed": true
+    },
+    {
+      "name": "SDUWH valid Chinese parameters physics",
+      "passed": true
+    },
+    {
+      "name": "SDUWH valid empty response physics",
+      "passed": true
+    },
+    {
+      "name": "SDUWH valid Chinese parameters physics-national",
+      "passed": true
+    },
+    {
+      "name": "SDUWH valid empty response physics-national",
+      "passed": true
+    },
+    {
+      "name": "SDUWH valid positive physics",
+      "passed": true
+    },
+    {
+      "name": "SDUWH valid Chinese parameters history",
+      "passed": true
+    },
+    {
+      "name": "SDUWH valid empty response history",
+      "passed": true
+    },
+    {
+      "name": "SDUWH valid Chinese parameters history-national",
+      "passed": true
+    },
+    {
+      "name": "SDUWH valid empty response history-national",
+      "passed": true
+    },
+    {
+      "name": "SDUWH valid positive history",
+      "passed": true
+    },
+    {
+      "name": "SUDA no current table; generated title alone not evidence",
+      "passed": true
+    },
+    {
+      "name": "SUDA 38 old positive rows",
+      "passed": true
+    },
+    {
+      "name": "SUDA current query exact aid and year",
+      "passed": true
+    },
+    {
+      "name": "ZJU medical shared latest page is 2025 filing data",
+      "passed": true
+    },
+    {
+      "name": "GDUT upstream page establishes 2025",
+      "passed": true
+    },
+    {
+      "name": "SCNU article year is 2025 despite release in 2026",
+      "passed": true
+    },
+    {
+      "name": "SCNU PDF first page title year and length",
+      "passed": true
+    },
+    {
+      "name": "SCNU PDF Guangxi page distinct from Hunan",
+      "passed": true
+    }
+  ],
+  "rows": [
+    {
+      "id": "major-20260912b2-root-10036-1-1",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-1.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "波斯语",
+          "sourceValue": "波斯语",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "050208",
+          "sourceValue": "050208",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科提前批其他一类",
+          "sourceValue": "本科提前批其他一类",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 595.0,
+          "sourceValue": 595.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 597.0,
+          "sourceValue": 597.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 596.0,
+          "sourceValue": 596.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 1739,
+          "sourceValue": 1739,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "提前批",
+          "sourceValue": "提前批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类（提前批）",
+          "sourceValue": "普通类（提前批）",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-1-2",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-1.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "意大利语（选拔进入国贸双学士学位项目）",
+          "sourceValue": "意大利语（选拔进入国贸双学士学位项目）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "050238",
+          "sourceValue": "050238",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科提前批其他一类",
+          "sourceValue": "本科提前批其他一类",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 611.0,
+          "sourceValue": 611.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 611.0,
+          "sourceValue": 611.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 611.0,
+          "sourceValue": 611.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 947,
+          "sourceValue": 947,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "提前批",
+          "sourceValue": "提前批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类（提前批）",
+          "sourceValue": "普通类（提前批）",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-1-3",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-1.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "法语（选拔进入国贸双学士学位项目）",
+          "sourceValue": "法语（选拔进入国贸双学士学位项目）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "050204",
+          "sourceValue": "050204",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科提前批其他一类",
+          "sourceValue": "本科提前批其他一类",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 616.0,
+          "sourceValue": 616.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 623.0,
+          "sourceValue": 623.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 619.5,
+          "sourceValue": 619.5,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 744,
+          "sourceValue": 744,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "提前批",
+          "sourceValue": "提前批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类（提前批）",
+          "sourceValue": "普通类（提前批）",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-1-4",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-1.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "西班牙语（选拔进入国贸双学士学位项目）",
+          "sourceValue": "西班牙语（选拔进入国贸双学士学位项目）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "050205",
+          "sourceValue": "050205",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科提前批其他一类",
+          "sourceValue": "本科提前批其他一类",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 626.0,
+          "sourceValue": 626.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 626.0,
+          "sourceValue": 626.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 626.0,
+          "sourceValue": 626.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 444,
+          "sourceValue": 444,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 1,
+          "sourceValue": 1,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "提前批",
+          "sourceValue": "提前批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类（提前批）",
+          "sourceValue": "普通类（提前批）",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-2-1",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-2.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "工商管理类（项目选拔进入，分流时专业任选）",
+          "sourceValue": "工商管理类（项目选拔进入，分流时专业任选）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "1202",
+          "sourceValue": "1202",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 617.0,
+          "sourceValue": 617.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 633.0,
+          "sourceValue": 633.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 620.78,
+          "sourceValue": 620.78,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 710,
+          "sourceValue": 710,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 9,
+          "sourceValue": 9,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-2-2",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-2.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "金融学类",
+          "sourceValue": "金融学类",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "0203",
+          "sourceValue": "0203",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 618.0,
+          "sourceValue": 618.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 622.0,
+          "sourceValue": 622.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 619.33,
+          "sourceValue": 619.33,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 681,
+          "sourceValue": 681,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 6,
+          "sourceValue": 6,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-2-3",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-2.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "经济学类（分流时专业任选）",
+          "sourceValue": "经济学类（分流时专业任选）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "0201",
+          "sourceValue": "0201",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 618.0,
+          "sourceValue": 618.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 621.0,
+          "sourceValue": 621.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 619.25,
+          "sourceValue": 619.25,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 681,
+          "sourceValue": 681,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 4,
+          "sourceValue": 4,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-2-4",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-2.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "外国语言文学类",
+          "sourceValue": "外国语言文学类",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "0502",
+          "sourceValue": "0502",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 618.0,
+          "sourceValue": 618.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 618.0,
+          "sourceValue": 618.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 618.0,
+          "sourceValue": 618.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 681,
+          "sourceValue": 681,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 1,
+          "sourceValue": 1,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-2-5",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-2.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "国际经济与贸易（国际组织人才基地班）",
+          "sourceValue": "国际经济与贸易（国际组织人才基地班）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "020401",
+          "sourceValue": "020401",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 620.0,
+          "sourceValue": 620.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 638.0,
+          "sourceValue": 638.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 629.0,
+          "sourceValue": 629.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 615,
+          "sourceValue": 615,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-2-6",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-2.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "法学类",
+          "sourceValue": "法学类",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "0301",
+          "sourceValue": "0301",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 622.0,
+          "sourceValue": 622.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 629.0,
+          "sourceValue": 629.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 625.33,
+          "sourceValue": 625.33,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 556,
+          "sourceValue": 556,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 3,
+          "sourceValue": 3,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-2-7",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-2.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "海关管理（海关与大数据应用拔尖人才实验班）",
+          "sourceValue": "海关管理（海关与大数据应用拔尖人才实验班）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "120406",
+          "sourceValue": "120406",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 626.0,
+          "sourceValue": 626.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 626.0,
+          "sourceValue": 626.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 626.0,
+          "sourceValue": 626.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 444,
+          "sourceValue": 444,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 1,
+          "sourceValue": 1,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-3-1",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-3.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "保险学(中外合作办学)",
+          "sourceValue": "保险学(中外合作办学)",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "020303H",
+          "sourceValue": "020303H",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 581.0,
+          "sourceValue": 581.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 595.0,
+          "sourceValue": 595.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 588.0,
+          "sourceValue": 588.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 2785,
+          "sourceValue": 2785,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "中外合作办学",
+          "sourceValue": "中外合作办学",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "中外合作办学",
+          "sourceValue": "中外合作办学",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-5-1",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-5.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "政治学类",
+          "sourceValue": "政治学类",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "0302",
+          "sourceValue": "0302",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 576.0,
+          "sourceValue": 576.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 576.0,
+          "sourceValue": 576.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 576.0,
+          "sourceValue": 576.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 3242,
+          "sourceValue": 3242,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "国家专项",
+          "sourceValue": "国家专项",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "国家专项",
+          "sourceValue": "国家专项",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-5-2",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-5.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "公共管理类",
+          "sourceValue": "公共管理类",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "1204",
+          "sourceValue": "1204",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 578.0,
+          "sourceValue": 578.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 580.0,
+          "sourceValue": 580.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 579.0,
+          "sourceValue": 579.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 3040,
+          "sourceValue": 3040,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "国家专项",
+          "sourceValue": "国家专项",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "国家专项",
+          "sourceValue": "国家专项",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-5-3",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-5.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "外国语言文学类",
+          "sourceValue": "外国语言文学类",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "0502",
+          "sourceValue": "0502",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 581.0,
+          "sourceValue": 581.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 586.0,
+          "sourceValue": 586.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 583.5,
+          "sourceValue": 583.5,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 2785,
+          "sourceValue": 2785,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "国家专项",
+          "sourceValue": "国家专项",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "国家专项",
+          "sourceValue": "国家专项",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-6-1",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-6.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "历史",
+          "sourceValue": "历史",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "历史类",
+          "sourceValue": "历史类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "外国语言文学类",
+          "sourceValue": "外国语言文学类",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "0502",
+          "sourceValue": "0502",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 595.0,
+          "sourceValue": 595.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 595.0,
+          "sourceValue": 595.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 595.0,
+          "sourceValue": 595.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 1739,
+          "sourceValue": 1739,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 1,
+          "sourceValue": 1,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "高校专项",
+          "sourceValue": "高校专项",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "高校专项",
+          "sourceValue": "高校专项",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-1",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "法学类",
+          "sourceValue": "法学类",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "0301",
+          "sourceValue": "0301",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 612.0,
+          "sourceValue": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 617.0,
+          "sourceValue": 617.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 614.5,
+          "sourceValue": 614.5,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 7229,
+          "sourceValue": 7229,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-2",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "精算学（选拔进入双学士学位项目或实验班）",
+          "sourceValue": "精算学（选拔进入双学士学位项目或实验班）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "020308",
+          "sourceValue": "020308",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 612.0,
+          "sourceValue": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 615.0,
+          "sourceValue": 615.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 612.75,
+          "sourceValue": 612.75,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 7229,
+          "sourceValue": 7229,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 4,
+          "sourceValue": 4,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-3",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "海关管理（海关与大数据应用拔尖人才实验班）",
+          "sourceValue": "海关管理（海关与大数据应用拔尖人才实验班）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "120406",
+          "sourceValue": "120406",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 612.0,
+          "sourceValue": 612.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 614.0,
+          "sourceValue": 614.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 613.0,
+          "sourceValue": 613.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 7229,
+          "sourceValue": 7229,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-4",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "金融学类",
+          "sourceValue": "金融学类",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "0203",
+          "sourceValue": "0203",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 613.0,
+          "sourceValue": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 617.0,
+          "sourceValue": 617.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 614.86,
+          "sourceValue": 614.86,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 6954,
+          "sourceValue": 6954,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 7,
+          "sourceValue": 7,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-5",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "工商管理类（项目选拔进入，分流时专业任选）",
+          "sourceValue": "工商管理类（项目选拔进入，分流时专业任选）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "1202",
+          "sourceValue": "1202",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 613.0,
+          "sourceValue": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 613.0,
+          "sourceValue": 613.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 613.0,
+          "sourceValue": 613.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 6954,
+          "sourceValue": 6954,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 3,
+          "sourceValue": 3,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-6",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "经济学类（分流时专业任选）",
+          "sourceValue": "经济学类（分流时专业任选）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "0201",
+          "sourceValue": "0201",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 614.0,
+          "sourceValue": 614.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 625.0,
+          "sourceValue": 625.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 619.33,
+          "sourceValue": 619.33,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 6686,
+          "sourceValue": 6686,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 3,
+          "sourceValue": 3,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-7",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "金融数学",
+          "sourceValue": "金融数学",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "020305",
+          "sourceValue": "020305",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 614.0,
+          "sourceValue": 614.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 616.0,
+          "sourceValue": 616.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 615.0,
+          "sourceValue": 615.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 6686,
+          "sourceValue": 6686,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-8",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "数据科学",
+          "sourceValue": "数据科学",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "071203",
+          "sourceValue": "071203",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 615.0,
+          "sourceValue": 615.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 620.0,
+          "sourceValue": 620.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 617.5,
+          "sourceValue": 617.5,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 6432,
+          "sourceValue": 6432,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-9",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "数据科学与大数据技术（大类招生，项目选拔进入，分流时专业任选）",
+          "sourceValue": "数据科学与大数据技术（大类招生，项目选拔进入，分流时专业任选）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "080910",
+          "sourceValue": "080910",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 615.0,
+          "sourceValue": 615.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 617.0,
+          "sourceValue": 617.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 616.25,
+          "sourceValue": 616.25,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 6432,
+          "sourceValue": 6432,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 4,
+          "sourceValue": 4,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-10",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "统计学",
+          "sourceValue": "统计学",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "071201",
+          "sourceValue": "071201",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 616.0,
+          "sourceValue": 616.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 617.0,
+          "sourceValue": 617.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 616.5,
+          "sourceValue": 616.5,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 6186,
+          "sourceValue": 6186,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-7-11",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-7.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "金融工程（大类招生，项目选拔进入，分流时专业任选）",
+          "sourceValue": "金融工程（大类招生，项目选拔进入，分流时专业任选）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "020302",
+          "sourceValue": "020302",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 619.0,
+          "sourceValue": 619.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 641.0,
+          "sourceValue": 641.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 627.0,
+          "sourceValue": 627.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 5489,
+          "sourceValue": 5489,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 3,
+          "sourceValue": 3,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "本科批",
+          "sourceValue": "本科批",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "普通类",
+          "sourceValue": "普通类",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-8-1",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-8.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "保险学(中外合作办学)",
+          "sourceValue": "保险学(中外合作办学)",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "020303H",
+          "sourceValue": "020303H",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 571.0,
+          "sourceValue": 571.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 585.0,
+          "sourceValue": 585.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 575.75,
+          "sourceValue": 575.75,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 22573,
+          "sourceValue": 22573,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 4,
+          "sourceValue": 4,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "中外合作办学",
+          "sourceValue": "中外合作办学",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "中外合作办学",
+          "sourceValue": "中外合作办学",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-10-1",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-10.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "数据科学与大数据技术（大类招生，项目选拔进入，分流时专业任选）",
+          "sourceValue": "数据科学与大数据技术（大类招生，项目选拔进入，分流时专业任选）",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "080910",
+          "sourceValue": "080910",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 601.0,
+          "sourceValue": 601.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 608.0,
+          "sourceValue": 608.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 604.5,
+          "sourceValue": 604.5,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 10484,
+          "sourceValue": 10484,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 2,
+          "sourceValue": 2,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "国家专项",
+          "sourceValue": "国家专项",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "国家专项",
+          "sourceValue": "国家专项",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "major-20260912b2-root-10036-11-1",
+      "sourceFile": "batch-root/raw/uibe-gx-2026-11.json",
+      "fields": [
+        {
+          "field": "year",
+          "actual": 2026,
+          "sourceValue": 2026,
+          "passed": true
+        },
+        {
+          "field": "province",
+          "actual": "广西",
+          "sourceValue": "广西",
+          "passed": true
+        },
+        {
+          "field": "track",
+          "actual": "物理",
+          "sourceValue": "物理",
+          "passed": true
+        },
+        {
+          "field": "sourceTrack",
+          "actual": "物理类",
+          "sourceValue": "物理类",
+          "passed": true
+        },
+        {
+          "field": "schoolCode",
+          "actual": "10036",
+          "sourceValue": "10036",
+          "passed": true
+        },
+        {
+          "field": "school",
+          "actual": "对外经济贸易大学",
+          "sourceValue": "对外经济贸易大学",
+          "passed": true
+        },
+        {
+          "field": "major",
+          "actual": "电子商务",
+          "sourceValue": "电子商务",
+          "passed": true
+        },
+        {
+          "field": "majorCode",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceMajorCode",
+          "actual": "120801",
+          "sourceValue": "120801",
+          "passed": true
+        },
+        {
+          "field": "batch",
+          "actual": "本科普通批",
+          "sourceValue": "本科普通批",
+          "passed": true
+        },
+        {
+          "field": "round",
+          "actual": "录取汇总（轮次未分）",
+          "sourceValue": "录取汇总（轮次未分）",
+          "passed": true
+        },
+        {
+          "field": "group",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "score",
+          "actual": 565.0,
+          "sourceValue": 565.0,
+          "passed": true
+        },
+        {
+          "field": "sourceMaximumScore",
+          "actual": 565.0,
+          "sourceValue": 565.0,
+          "passed": true
+        },
+        {
+          "field": "sourceAverageScore",
+          "actual": 565.0,
+          "sourceValue": 565.0,
+          "passed": true
+        },
+        {
+          "field": "rank",
+          "actual": 25533,
+          "sourceValue": 25533,
+          "passed": true
+        },
+        {
+          "field": "rankType",
+          "actual": "专业最低分排名（学校公布）",
+          "sourceValue": "专业最低分排名（学校公布）",
+          "passed": true
+        },
+        {
+          "field": "admittedCount",
+          "actual": 1,
+          "sourceValue": 1,
+          "passed": true
+        },
+        {
+          "field": "plannedCount",
+          "actual": null,
+          "sourceValue": null,
+          "passed": true
+        },
+        {
+          "field": "sourceCategory",
+          "actual": "高校专项",
+          "sourceValue": "高校专项",
+          "passed": true
+        },
+        {
+          "field": "admissionType",
+          "actual": "高校专项",
+          "sourceValue": "高校专项",
+          "passed": true
+        },
+        {
+          "field": "scoreType",
+          "actual": "专业录取最低分",
+          "sourceValue": "专业录取最低分",
+          "passed": true
+        },
+        {
+          "field": "subjectRule",
+          "actual": "unknown",
+          "sourceValue": "unknown",
+          "passed": true
+        },
+        {
+          "field": "requiredSubjects",
+          "actual": [],
+          "sourceValue": [],
+          "passed": true
+        },
+        {
+          "field": "scoreComparable",
+          "actual": true,
+          "sourceValue": true,
+          "passed": true
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "inputs": {
+    "batch-root/major-cutoffs-upsert.json": "f8468a5d458d77418a7052cda6291e30c340a1aab710a0220eb70918b101c76e",
+    "batch-root/sources.json": "e61b78d2bf649eeae4a3bf780a602450c0018611fb039a364d50fc0f74fd7eb4",
+    "batch-root/school-audit-notes.json": "71e98808101e26b9308f83a06125f76be57754f015a4fd4f1313eb23b4a95c28",
+    "batch-root/QA.json": "8f6574ba0203f5a92a8386254b4a396f2d5f1611f9f506ceb4a1a72956d12fbc",
+    "batch-root/raw/uibe-params.json": "48b1be8fa2896ef4bce956cef241ba0068cc9346535ec27ffe3ad1a9217396cb",
+    "batch-root/raw/uibe-scores.html": "8f283acb4f4e143ae86fd0140e69cfe917b8d73f9675c01a9161637734525b3d",
+    "batch-root/raw/uibe-gx-2026-1.json": "f558c0c3fe88abed36f6e42ce1dda3c62903d21c72f9c2faaa25938c120e7ea0",
+    "batch-root/raw/uibe-gx-2026-1.json.meta.json": "c63b7bb90a2ffe163b642159696b6fb1fb667bfa4ef27ca28f3fc0d954a0b95b",
+    "batch-root/raw/uibe-gx-2026-2.json": "f7ba2ca90215e89773a5f6d8e204e9aae71e542cdecc8bb3a011c865905f477e",
+    "batch-root/raw/uibe-gx-2026-2.json.meta.json": "465359dc97c5be73c6c45593e43ce7343d8104b615420fe5ad85373497face58",
+    "batch-root/raw/uibe-gx-2026-3.json": "aad1b28200aa361f053c257ba78925d9eb1e2a95d8be30dc467c1c8f67394f09",
+    "batch-root/raw/uibe-gx-2026-3.json.meta.json": "ecfeb933368ab416cd2e1bbffee02ddf0ebed71ef38699b916bd4a5f47809762",
+    "batch-root/raw/uibe-gx-2026-4.json": "c8fc0e6505431dd9b01a0a138e72826242dc6dcfbf53fb863c007fdd8907c244",
+    "batch-root/raw/uibe-gx-2026-4.json.meta.json": "697d99edaeb38dc58b1ab2512ad2a9285050d2196f28b620db23d2c5c0208790",
+    "batch-root/raw/uibe-gx-2026-5.json": "5ff18398745511f3d5564e76a9b5d004e2004997ab3af8f66a593cb56ccf6376",
+    "batch-root/raw/uibe-gx-2026-5.json.meta.json": "8171de32c561647ad4e3d29e9a71d57dacf466189265da70ada5422263af60be",
+    "batch-root/raw/uibe-gx-2026-6.json": "0403e3dd87d346fbf267ef8f98507d11691c8c94076626381c33cfe256631a72",
+    "batch-root/raw/uibe-gx-2026-6.json.meta.json": "aa2b3085c5ab9c7c0f1fe527413be55a8e1302b65f195b91fe05e8b36f428b0d",
+    "batch-root/raw/uibe-gx-2026-7.json": "b68d31bbe71b680367c6ad3937518e921da8327b74ff37e245cc78a2aee4f92c",
+    "batch-root/raw/uibe-gx-2026-7.json.meta.json": "3f9a106c773ecd937d0f57f89412c37a999ea71fb0a57e080180072fff9c560b",
+    "batch-root/raw/uibe-gx-2026-8.json": "dfd260e29d95f5ff013f51e051e7184bc0bbc5caf9f9045a4559e0ad6737e84a",
+    "batch-root/raw/uibe-gx-2026-8.json.meta.json": "ece00652658b8f33d993510b700ddb434376e27af690025a278ddff4d5b00879",
+    "batch-root/raw/uibe-gx-2026-9.json": "ef099eb7a58643c2dee7e17751a4932fffa13967855cb4e865a886b4f4752086",
+    "batch-root/raw/uibe-gx-2026-9.json.meta.json": "2c3e1795206d0821694cab28261aa14f414ddf2a2d083e4a03a26597e6441dc8",
+    "batch-root/raw/uibe-gx-2026-10.json": "1e685bdf2e5ae10dbb908a88d29627d77f5a75f5203a5d8c320e374e92fa9f8a",
+    "batch-root/raw/uibe-gx-2026-10.json.meta.json": "30bb4b08540de699417b44abd96e0c0b2ca4ffe50ef1390fa92f1b55c3d39726",
+    "batch-root/raw/uibe-gx-2026-11.json": "9df33d385478139934afca3b5c3684a6d3720860d3c76be3591a05d913f67803",
+    "batch-root/raw/uibe-gx-2026-11.json.meta.json": "827c780cc5f068bb9caa2e216d8e8c936455fa3cf3b5dd2ec5ea2df6ccb8b23b",
+    "batch-root/raw/uibe-charter.html": "38efc37e366e428043f0aaf8269e8b5ef6f92c33a4a8cdc572495218a06eaa0e",
+    "batch-root/raw/gdut-gx-2025.html": "c4031f6d922eb6068db9a4abde3c7b4eb7ad3f82b89c6e9169e9f559456e2246",
+    "batch-root/raw/gdut-gx-2025.png": "7ebf8da8bdd41519d845d8145ba5e336ba002c0d54432b6e9960c0ce5343c0fc",
+    "batch-root/raw/gdut-home.html": "bb559766325feb9b0deea9db5ccae5968a0fc8f4945661463efc0409b0028ae4",
+    "batch-root/raw/gdut-scores.html": "ab1a43cffa0e883ce75c7321cc6880633a61007ad94e518244288a4267ee931a",
+    "batch-root/raw/scnu-current.html": "a5e9919b93202c79a7e31aeacd2be0f462f5a51aac12df36399634994c570033",
+    "batch-root/raw/scnu-home.html": "26c41e43f809ea401f7ca9c8b9a13163355e5df51bb248ed20edb2c07dee136c",
+    "batch-root/raw/scnu-notice.html": "97e5eff6b4f25b9595dd1fae91bee8185b1dc9d4f7041384e38dfa60c0678dbf",
+    "batch-root/raw/scnu-plan.html": "4db6858ecdae671616986a94596d65c1705d8e59b00bf83ba475ab0f3f3aa1b0",
+    "batch-root/raw/scnu-prior-scores.html": "341c1396796f09403b845f4279750884b0685c255c3189623ab592a4f5ab8572",
+    "batch-root/raw/scnu-prior-scores.pdf": "bdb89e250a6cf7f3e2a253806341ef6873ea43bb9a8cef8d24c649e7f87c9d50",
+    "batch-root/raw/scnu-years.html": "400a15c41fef36a581355dbf77b60108e1af38ddb57cd195f06da07a9309b8e6",
+    "batch-root/raw/sduwh-get-2025-history.html": "be0a1f7daa13c0ad6cfc9070e6efbf2bd8461b8eba19507d700d63a8ea0d9c7f",
+    "batch-root/raw/sduwh-get-2025-physics.html": "98927f3ef1c226fe469797e378f813b59935b30229cfe3fef4b642446d667d1e",
+    "batch-root/raw/sduwh-get-2026-history-national.html": "40e177b434d9a906585acfdec4304e905eeff297074ac9b4ba9c201e8f683b7b",
+    "batch-root/raw/sduwh-get-2026-history.html": "25a9d80dd0305fcd971903b7dda344249135f22344f0e4d59ceedcb3253e4464",
+    "batch-root/raw/sduwh-get-2026-physics-national.html": "9aa623d87e510af8d5ebde44fdacfc7bbe76942cac9d7fced8edab3d57f23419",
+    "batch-root/raw/sduwh-get-2026-physics.html": "68290359b05552c6128bbdf70d78450b36256cc87feb63757069c9d6d8f1d3d3",
+    "batch-root/raw/sduwh-guide.html": "0ac55c8be274577224db13e68e5aa21740896cf6de4d68d9bb635dd87bb3235a",
+    "batch-root/raw/sduwh-gx-2025-history.html": "2554c76e840a43561eb8469242e5977c9e97d5b1b5bf4c03b90a2e2e7f0c2855",
+    "batch-root/raw/sduwh-gx-2025-physics.html": "2554c76e840a43561eb8469242e5977c9e97d5b1b5bf4c03b90a2e2e7f0c2855",
+    "batch-root/raw/sduwh-gx-2026-history.html": "b8a35fc35200d8bfc8edfcd7a82be12de1f6479c0fc60284a2b66ac665ea4f97",
+    "batch-root/raw/sduwh-gx-2026-physics.html": "b8a35fc35200d8bfc8edfcd7a82be12de1f6479c0fc60284a2b66ac665ea4f97",
+    "batch-root/raw/sduwh-home.html": "1510a68f08f3e06698d9069bee5ee639afcfea519945f4fc61ded87202c86b7d",
+    "batch-root/raw/sduwh-query.html": "2c55f53bcb3cbcfe9b32f8460161d45f7787f11478156ed604f14959e0baf788",
+    "batch-root/raw/sduwh-scores.html": "3fb18f72266972239f06856bd133dcb424893d3967cdcf5330df0cac161fde14",
+    "batch-root/raw/suda-gx-2025.html": "64c48e67a8b4b637cb217a471c13f4327053e5af7962d5ca2f1b53d9c784d59b",
+    "batch-root/raw/suda-gx-2026.html": "6f88b316b8a9582f8e20775faea867fbad4701d8527c8b966da1eeb813c15a3e",
+    "batch-root/raw/suda-home.html": "de4ea1f15852872b0e151a54126e8ca26192612c583f632ae12e304cc72baf1c",
+    "batch-root/raw/suda-scores.html": "773c3930392a68ce44f7996ea2552d73f6e9c0ceb60b04720274ee121ef22609",
+    "batch-root/raw/uibe-admissions.html": "c8a2cdf6dfb27b850ea377787bca21a24915320ffcb2518a4546d6149daad3d5",
+    "batch-root/raw/uibe-common.js": "11cb4c4963477dd1a71e36246391b699b8698e9984cd5448c799e719fe8b1a63",
+    "batch-root/raw/uibe-guide.html": "518472a44033c758fc636040e1cfc000ebd6c157c8b5cbb60b8d566ea7096ff6",
+    "batch-root/raw/uibe-gx-2025-history.json": "23c656e352320970188241f830f528bb032f1542feb2601751c414c4aeef7cf8",
+    "batch-root/raw/uibe-gx-2025-physics.json": "b89b3df784cdd5c647cf37642120ef017100a0daebe78ea35acd46e25babb3ae",
+    "batch-root/raw/uibe-home.html": "97533c89da9e03a7318ba61803a736d3cbcc5d186249eb90fd3b5b1065ea895f",
+    "batch-root/raw/uibe-init.js": "3b4049040e2c2775c67bff97c1e6b85240d8a9331072c37143dd09462a9414b2",
+    "batch-root/raw/uibe-public-query.html": "9ff50628847789871eb7709ee20dfb90c6e4177ad7b6a14179f1f6791d32333b",
+    "batch-root/raw/uibe-tplt.js": "4e8cbbbb9a53e75e1d5068fac63a55fc616528910fb88558299abbbaca34c804",
+    "batch-root/raw/uibe-util.js": "12925a6210d65ca87d4a39558ed147d383785f40c14e8b90a3a27c41dadf105f",
+    "batch-root/raw/zju-home.html": "f44646b7328abdb0e36646583038a5fa35270af454443c73cc20f9f1474048cc",
+    "batch-root/raw/zju-latest.html": "757330ae5ac4b8282377574ca3e1167bd73e92ff1ac2e19e213439e17d087f22",
+    "batch-root/raw/zju-scores.html": "ac4301de7992db5f7640f032a4552f92cd38d51c7e1c6d36581d541864b63945",
+    "batch-root/raw/sduwh-get-2026-physics.html.meta.json": "a2ca6ff8761e6fb3eb01313bc4ce2384318b1330160bacf0515dc2fdccf52d32",
+    "batch-root/raw/sduwh-get-2026-physics-national.html.meta.json": "ae42fcf0d7c163ebe6ea93d3883ac4dff6c0cec820b3896bf863290e742cdd14",
+    "batch-root/raw/sduwh-get-2026-history.html.meta.json": "c083dc1d2267d059b6f42793e131edf5bd147b48cab40be2da73ccdefc8209df",
+    "batch-root/raw/sduwh-get-2026-history-national.html.meta.json": "5f0f108dee1ed95ff85a48813d8bca9eccfe47329e8c3f651276437195d2f1b6",
+    "batch-root/raw/suda-gx-2026.html.meta.json": "1fcbd2db62e355d26d4b357ff30970b7a1222af179d76a9a339cc58f9c5302a6"
+  }
+}

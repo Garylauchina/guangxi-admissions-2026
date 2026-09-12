@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-09-12T09:30:43.628215+08:00",
+  "attempts": [
+    {
+      "schoolCode": "10730",
+      "url": "https://zsdata.lzu.edu.cn/zsdata/lqxx/",
+      "method": "web tool open",
+      "result": "HTTP 412 Precondition Failed; no page content available"
+    },
+    {
+      "schoolCode": "10730",
+      "url": "https://zsdata.lzu.edu.cn/zsdata/lqxx/#/lnfs",
+      "method": "CUA getBrowser by URL",
+      "result": "No browser is available; no browser request was sent"
+    }
+  ]
+}

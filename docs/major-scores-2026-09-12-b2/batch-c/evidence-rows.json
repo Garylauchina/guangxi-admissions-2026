@@ -1,0 +1,501 @@
+[
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-1",
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "cells": [
+      "历史类",
+      "大数据与会计",
+      "423",
+      "2"
+    ]
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-2",
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "cells": [
+      "历史类",
+      "国际经济与贸易",
+      "415",
+      "2"
+    ]
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-3",
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "cells": [
+      "历史类",
+      "现代物业管理",
+      "413",
+      "2"
+    ]
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-4",
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "cells": [
+      "历史类",
+      "婴幼儿托育服务与管理",
+      "406",
+      "2"
+    ]
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-5",
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "cells": [
+      "物理类",
+      "大数据与会计",
+      "362",
+      "2"
+    ]
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-6",
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "cells": [
+      "物理类",
+      "国际经济与贸易",
+      "401",
+      "2"
+    ]
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-7",
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "cells": [
+      "物理类",
+      "物联网应用技术",
+      "386",
+      "4"
+    ]
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-8",
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "cells": [
+      "物理类",
+      "现代物业管理",
+      "378",
+      "2"
+    ]
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-9",
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceTable": 1,
+    "sourceRow": 10,
+    "cells": [
+      "物理类",
+      "婴幼儿托育服务与管理",
+      "358",
+      "2"
+    ]
+  },
+  {
+    "id": "major-20260912b2-c-10383-tlu-table-1",
+    "sourceId": "major-20260912b2-c-tlu-table",
+    "sourceTable": 1,
+    "sourceRow": 1,
+    "cells": {
+      "key": "tlu-table",
+      "row": "1",
+      "track": "物理",
+      "major": "地理信息科学",
+      "planned": "",
+      "admitted": "5",
+      "maximum": "479",
+      "minimum": "453",
+      "average": "464"
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10383-tlu-table-2",
+    "sourceId": "major-20260912b2-c-tlu-table",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "cells": {
+      "key": "tlu-table",
+      "row": "2",
+      "track": "物理",
+      "major": "土木工程",
+      "planned": "",
+      "admitted": "5",
+      "maximum": "463",
+      "minimum": "448",
+      "average": "453.2"
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-1",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 1,
+    "cells": {
+      "key": "wnu-13",
+      "row": "1",
+      "track": "历史",
+      "major": "中国共产党历史",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "473",
+      "minimum": "471",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-2",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "cells": {
+      "key": "wnu-13",
+      "row": "2",
+      "track": "历史",
+      "major": "汉语言文学",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "479",
+      "minimum": "472",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-3",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "cells": {
+      "key": "wnu-13",
+      "row": "3",
+      "track": "历史",
+      "major": "汉语言文学（非师范）",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "468",
+      "minimum": "465",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-4",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "cells": {
+      "key": "wnu-13",
+      "row": "4",
+      "track": "历史",
+      "major": "思想政治教育",
+      "planned": "4",
+      "admitted": "4",
+      "maximum": "480",
+      "minimum": "473",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-5",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "cells": {
+      "key": "wnu-13",
+      "row": "5",
+      "track": "历史",
+      "major": "旅游管理",
+      "planned": "4",
+      "admitted": "3",
+      "maximum": "446",
+      "minimum": "442",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-6",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "cells": {
+      "key": "wnu-13",
+      "row": "6",
+      "track": "历史",
+      "major": "汉语国际教育",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "464",
+      "minimum": "447",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-7",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "cells": {
+      "key": "wnu-13",
+      "row": "7",
+      "track": "历史",
+      "major": "家政学",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "457",
+      "minimum": "454",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-8",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "cells": {
+      "key": "wnu-13",
+      "row": "8",
+      "track": "物理",
+      "major": "教育技术学",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "437",
+      "minimum": "430",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-9",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "cells": {
+      "key": "wnu-13",
+      "row": "9",
+      "track": "物理",
+      "major": "小学教育",
+      "planned": "5",
+      "admitted": "5",
+      "maximum": "448",
+      "minimum": "432",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-10",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 10,
+    "cells": {
+      "key": "wnu-13",
+      "row": "10",
+      "track": "物理",
+      "major": "应急管理",
+      "planned": "4",
+      "admitted": "4",
+      "maximum": "443",
+      "minimum": "434",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-11",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 11,
+    "cells": {
+      "key": "wnu-13",
+      "row": "11",
+      "track": "物理",
+      "major": "物理学",
+      "planned": "5",
+      "admitted": "5",
+      "maximum": "443",
+      "minimum": "436",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-12",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 12,
+    "cells": {
+      "key": "wnu-13",
+      "row": "12",
+      "track": "物理",
+      "major": "数学与应用数学",
+      "planned": "4",
+      "admitted": "4",
+      "maximum": "465",
+      "minimum": "450",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-13",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 13,
+    "cells": {
+      "key": "wnu-13",
+      "row": "13",
+      "track": "物理",
+      "major": "光电信息科学与工程",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "489",
+      "minimum": "450",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-14",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 14,
+    "cells": {
+      "key": "wnu-13",
+      "row": "14",
+      "track": "物理",
+      "major": "化学",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "457",
+      "minimum": "435",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-15",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 15,
+    "cells": {
+      "key": "wnu-13",
+      "row": "15",
+      "track": "物理",
+      "major": "材料化学",
+      "planned": "4",
+      "admitted": "4",
+      "maximum": "451",
+      "minimum": "436",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-16",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 16,
+    "cells": {
+      "key": "wnu-13",
+      "row": "16",
+      "track": "物理",
+      "major": "地理科学",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "465",
+      "minimum": "459",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-17",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 17,
+    "cells": {
+      "key": "wnu-13",
+      "row": "17",
+      "track": "物理",
+      "major": "生物科学",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "446",
+      "minimum": "441",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-18",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 18,
+    "cells": {
+      "key": "wnu-13",
+      "row": "18",
+      "track": "物理",
+      "major": "农业资源与环境",
+      "planned": "5",
+      "admitted": "5",
+      "maximum": "439",
+      "minimum": "433",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-19",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 19,
+    "cells": {
+      "key": "wnu-13",
+      "row": "19",
+      "track": "物理",
+      "major": "计算机科学与技术",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "476",
+      "minimum": "459",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-20",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 20,
+    "cells": {
+      "key": "wnu-13",
+      "row": "20",
+      "track": "物理",
+      "major": "软件工程",
+      "planned": "2",
+      "admitted": "2",
+      "maximum": "453",
+      "minimum": "453",
+      "average": ""
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-21",
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceTable": 1,
+    "sourceRow": 21,
+    "cells": {
+      "key": "wnu-13",
+      "row": "21",
+      "track": "物理",
+      "major": "人工智能",
+      "planned": "3",
+      "admitted": "3",
+      "maximum": "472",
+      "minimum": "452",
+      "average": ""
+    }
+  }
+]

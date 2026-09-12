@@ -1,0 +1,66 @@
+[
+  {
+    "name": "gdut-gx-2025.html",
+    "url": "https://zsb.gdut.edu.cn/xxcx/lqsj/n2025/gx.htm"
+  },
+  {
+    "name": "uibe-admissions.html",
+    "url": "https://aeo.uibe.edu.cn/front/channel.jspa?channelId=841"
+  },
+  {
+    "name": "uibe-guide.html",
+    "url": "https://aeo.uibe.edu.cn/front/channel.jspa?channelId=851"
+  },
+  {
+    "name": "uibe-public-query.html",
+    "url": "https://aeo.uibe.edu.cn/lqcx/static/front/uibe/basic/html_web/lqcx.html"
+  },
+  {
+    "name": "sduwh-gx-2026-physics.html",
+    "url": "https://bkzsw.wh.sdu.edu.cn/lnlqfscxjg.jsp?wbtreeid=1060",
+    "data": {
+      "nf": "2026",
+      "sf": "广西壮族自治区",
+      "lx": "普通类",
+      "kl": "物理类"
+    }
+  },
+  {
+    "name": "sduwh-gx-2026-history.html",
+    "url": "https://bkzsw.wh.sdu.edu.cn/lnlqfscxjg.jsp?wbtreeid=1060",
+    "data": {
+      "nf": "2026",
+      "sf": "广西壮族自治区",
+      "lx": "普通类",
+      "kl": "历史类"
+    }
+  },
+  {
+    "name": "sduwh-gx-2025-physics.html",
+    "url": "https://bkzsw.wh.sdu.edu.cn/lnlqfscxjg.jsp?wbtreeid=1060",
+    "data": {
+      "nf": "2025",
+      "sf": "广西壮族自治区",
+      "lx": "普通类",
+      "kl": "物理类"
+    }
+  },
+  {
+    "name": "sduwh-gx-2025-history.html",
+    "url": "https://bkzsw.wh.sdu.edu.cn/lnlqfscxjg.jsp?wbtreeid=1060",
+    "data": {
+      "nf": "2025",
+      "sf": "广西壮族自治区",
+      "lx": "普通类",
+      "kl": "历史类"
+    }
+  },
+  {
+    "name": "suda-gx-2025.html",
+    "url": "https://zsb.suda.edu.cn/view_markhistory.aspx?aa=2025%E5%B9%B4%E5%B9%BF%E8%A5%BF%E5%90%84%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96%E5%88%86%E6%95%B0%E4%B8%80%E8%A7%88%E8%A1%A8&aid=20&ay=2025"
+  },
+  {
+    "name": "suda-gx-2026.html",
+    "url": "https://zsb.suda.edu.cn/view_markhistory.aspx?aa=2026%E5%B9%B4%E5%B9%BF%E8%A5%BF%E5%90%84%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96%E5%88%86%E6%95%B0%E4%B8%80%E8%A7%88%E8%A1%A8&aid=20&ay=2026"
+  }
+]

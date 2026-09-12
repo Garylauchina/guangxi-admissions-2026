@@ -1,0 +1,666 @@
+[
+  {
+    "id": "cau-common",
+    "url": "http://zb.cau.edu.cn/static/front/cau/basic/js/common.js",
+    "ext": "js",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "5472e2c321bad4880ccca0506031f7cd530285cbfe5097f615cc3d92fde6d715"
+  },
+  {
+    "id": "cau-entry",
+    "url": "http://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "ec18453d5cb675a014e76707d1d09057cc17fd98862ba0a4ca21cfff235b5e37"
+  },
+  {
+    "id": "cau-gx-2025-历史类-普通类",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "历史类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "95c2d3bec7255234edc7decd50367f156d60c8d523093abb1f4968ae6810b9a9"
+  },
+  {
+    "id": "cau-gx-2025-物理类-普通类",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "95c2d3bec7255234edc7decd50367f156d60c8d523093abb1f4968ae6810b9a9"
+  },
+  {
+    "id": "cau-gx-2026-历史类-中外合作办学",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "中外合作办学"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "95c2d3bec7255234edc7decd50367f156d60c8d523093abb1f4968ae6810b9a9"
+  },
+  {
+    "id": "cau-gx-2026-历史类-普通类",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "95c2d3bec7255234edc7decd50367f156d60c8d523093abb1f4968ae6810b9a9"
+  },
+  {
+    "id": "cau-gx-2026-物理类-中外合作办学",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "中外合作办学"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "95c2d3bec7255234edc7decd50367f156d60c8d523093abb1f4968ae6810b9a9"
+  },
+  {
+    "id": "cau-gx-2026-物理类-国家专项",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "国家专项"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "95c2d3bec7255234edc7decd50367f156d60c8d523093abb1f4968ae6810b9a9"
+  },
+  {
+    "id": "cau-gx-2026-物理类-普通类",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "95c2d3bec7255234edc7decd50367f156d60c8d523093abb1f4968ae6810b9a9"
+  },
+  {
+    "id": "cau-gx-2026-物理类-高校专项",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "高校专项"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "95c2d3bec7255234edc7decd50367f156d60c8d523093abb1f4968ae6810b9a9"
+  },
+  {
+    "id": "cau-gx-session-2025-历史类-普通类",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "历史类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "csrf": true,
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "3801e52f6137e8676820b3262e248480cb938e578991989cd27a743e6437f82f"
+  },
+  {
+    "id": "cau-gx-session-2025-物理类-普通类",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "csrf": true,
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "0c8c8466de9599d9e3df235e20b750c4f602c3d3373fce215592c355802ee62b"
+  },
+  {
+    "id": "cau-gx-session-2026-历史类-中外合作办学",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "中外合作办学"
+    },
+    "ext": "json",
+    "csrf": true,
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "cau-gx-session-2026-历史类-普通类",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "csrf": true,
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "cau-gx-session-2026-物理类-中外合作办学",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "中外合作办学"
+    },
+    "ext": "json",
+    "csrf": true,
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "cau-gx-session-2026-物理类-国家专项",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "国家专项"
+    },
+    "ext": "json",
+    "csrf": true,
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "cau-gx-session-2026-物理类-普通类",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "csrf": true,
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "cau-gx-session-2026-物理类-高校专项",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "高校专项"
+    },
+    "ext": "json",
+    "csrf": true,
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "cau-home",
+    "url": "https://jwzs.cau.edu.cn/",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "6e3140fa5a644023f2670250b7bb2fa0486c5afaaa587908928d2775636bf459"
+  },
+  {
+    "id": "cau-init",
+    "url": "http://zb.cau.edu.cn/static/front/cau/basic/js/init.js",
+    "ext": "js",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "ebd06fce5699ec4ce5122f0369f3f0a0513d38c16c76f2c616839282ccfcf86d"
+  },
+  {
+    "id": "cau-j1",
+    "url": "http://zb.cau.edu.cn/static/front/cau/basic/js/j1.js",
+    "ext": "js",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "7ec1af3b28ee3e4f2c1785cbfad4c697549012cd7e6c5f48102e3dbf2d6958a0"
+  },
+  {
+    "id": "cau-params-https",
+    "host": "https://zb.cau.edu.cn",
+    "entryUrl": "https://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "https://zb.cau.edu.cn/f/ajax_lnfs_param",
+    "path": "f/ajax_lnfs_param",
+    "request": {},
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "31531aea0859fbcda2a03baa164f424c2f72064f4d2b04cf43c0e8df0b673b27"
+  },
+  {
+    "id": "cau-params-session",
+    "host": "http://zb.cau.edu.cn",
+    "entryUrl": "http://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "http://zb.cau.edu.cn/f/ajax_lnfs_param",
+    "path": "f/ajax_lnfs_param",
+    "request": {},
+    "ext": "json",
+    "csrf": true,
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "2fd9bfabd0f9f3b52d8d2656958339aecebba8600dac1b465e55d052dfec575e"
+  },
+  {
+    "id": "cau-params",
+    "host": "http://zb.cau.edu.cn",
+    "entryUrl": "http://zb.cau.edu.cn/static/front/cau/basic/html_web/lnfs.html",
+    "url": "http://zb.cau.edu.cn/f/ajax_lnfs_param",
+    "path": "f/ajax_lnfs_param",
+    "request": {},
+    "ext": "json",
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "2fd9bfabd0f9f3b52d8d2656958339aecebba8600dac1b465e55d052dfec575e"
+  },
+  {
+    "id": "cau-summary",
+    "url": "https://jwzs.cau.edu.cn/art/2026/7/15/art_4538_788362.html",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "691fd98b3b3850b0bc531d44243e1aa74c78d1685dc83c95e29af963b0424194"
+  },
+  {
+    "id": "cau-util",
+    "url": "http://zb.cau.edu.cn/static/front/cau/basic/js/util.js",
+    "ext": "js",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "e06fd64ebafbab2ac526ae71ff9010d95f7d47537b0de1e35b77494812e8b196"
+  },
+  {
+    "id": "jnu-directory",
+    "url": "https://zsb.jnu.edu.cn/2021pt/list.htm",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "527a6fe4609ebbbecbea482f0f8d5043b44a5a08705db01177f372947d193f9d"
+  },
+  {
+    "id": "jnu-entry",
+    "url": "https://zsb.jnu.edu.cn/2016/1206/c3468a93231/page.psp",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "7b06fefe417fc75dc607e9a4c564b74feea9b6b14bfb6f002b21d667978d9d87"
+  },
+  {
+    "id": "jnu-gx-old",
+    "url": "https://zsb.jnu.edu.cn/2026/0518/c33879a855601/page.htm",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "edc495abe4af11f37dfb45954f929157a586c927daaeb5c83869709fd3b0b2b9"
+  },
+  {
+    "id": "jnu-home",
+    "url": "https://zsb.jnu.edu.cn/",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "b08ead167170c74128a3e81f8fe0e7a49d71ee437b0d2692e85df5c7e4da6702"
+  },
+  {
+    "id": "jnu-year-directory",
+    "url": "https://zsb.jnu.edu.cn/_s145/2026/0305/c4289a850984/page.psp",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "ffc856ef5108e097719381582e87db4dbaff63a72a691ff05bea39dfa2ea8b69"
+  },
+  {
+    "id": "sdu-2026-summary-table",
+    "url": "https://www.bkzs.sdu.edu.cn/__local/8/3D/7C/DBFE6450028023E75359B0037C0_DDBAA288_71046.png",
+    "ext": "png",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "b0e5bb28881135147024ca13e4c449b60f464c54e39fd41c82c054a2588e3f0c"
+  },
+  {
+    "id": "sdu-2026-summary",
+    "url": "https://www.bkzs.sdu.edu.cn/info/1027/2623.htm",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "c533be13dc45c7bebaeb0df9a6e86fc759ce49eb08a116619c0757e8efa7f048"
+  },
+  {
+    "id": "sdu-entry",
+    "url": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "5cc6bc0cf6db89fa91c4e3aa94df7db2174f263d4309e9687a131a510d114841"
+  },
+  {
+    "id": "sdu-gx-2025-历史类-普通类",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "历史类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "6c7364e6efa1500f533eaf6ff51ebc591a9a7b619c21ecf6854e3ab8f6e1e16d"
+  },
+  {
+    "id": "sdu-gx-2025-物理类-普通类",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2025",
+      "klmc": "物理类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "ddb6a041a00930479e4dfca876595ca904191cfdb4602792bbb3329109423dd2"
+  },
+  {
+    "id": "sdu-gx-2026-历史类-国家专项",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "国家专项"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "sdu-gx-2026-历史类-少数民族预科",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "少数民族预科"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "sdu-gx-2026-历史类-普通类",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "sdu-gx-2026-历史类-高校专项",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "历史类",
+      "zslx": "高校专项"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "sdu-gx-2026-物理类-专业志愿",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "专业志愿"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "sdu-gx-2026-物理类-国家专项",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "国家专项"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "sdu-gx-2026-物理类-少数民族预科",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "少数民族预科"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "sdu-gx-2026-物理类-普通类",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "普通类"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "sdu-gx-2026-物理类-高校专项",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs",
+    "path": "f/ajax_lnfs",
+    "request": {
+      "ssmc": "广西",
+      "zsnf": "2026",
+      "klmc": "物理类",
+      "zslx": "高校专项"
+    },
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+  },
+  {
+    "id": "sdu-home",
+    "url": "https://www.bkzs.sdu.edu.cn/",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "5b2127c40aa00a1a0cda1390ee0fc6ffeb50d5d6656942e606cf6b742832e044"
+  },
+  {
+    "id": "sdu-params",
+    "host": "http://www.bkzssys.sdu.edu.cn",
+    "entryUrl": "http://www.bkzssys.sdu.edu.cn/static/front/sdu/basic/html_web/lnfs.html",
+    "url": "http://www.bkzssys.sdu.edu.cn/f/ajax_lnfs_param",
+    "path": "f/ajax_lnfs_param",
+    "request": {},
+    "ext": "json",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "f35553e7de8dceae3b2bad01302cd03b0e37b37446d61ae93eceabd3904389e8"
+  },
+  {
+    "id": "shufe-entry",
+    "url": "https://zs.sufe.edu.cn/zsjh/list.htm",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "2de1a90b0d48dc027c0882debb0a1da21cf116f562da0d5d629752bd157399ca"
+  },
+  {
+    "id": "shufe-home",
+    "url": "https://zs.sufe.edu.cn/",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "317e5805602baac4ce086339ec4863abc219cbcc594ba4072fef5715db36ecb8"
+  },
+  {
+    "id": "shufe-query-entry",
+    "url": "https://zs.sufe.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/23.rst?_p=YXM9OTYmdD02MDUmcD0xJm09TiY_&mongo=false",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "2c522ff54f6503bff587ed3edcf76dcb351226702b0f20d21808d2b4def4681a"
+  },
+  {
+    "id": "shutcm-home-retry",
+    "url": "https://ygzs.shutcm.edu.cn/",
+    "expectedHttpStatus": 504,
+    "expectedArchiveSha256": "448c194cbff302508dcfe1938557e8654f2741f25a021df219e20cb5a0092244"
+  },
+  {
+    "id": "shutcm-home",
+    "url": "https://ygzs.shutcm.edu.cn/",
+    "expectedHttpStatus": 504,
+    "expectedArchiveSha256": "5b16fcbda98d1716e98aa5352e87418f15ecb78f7f79d67dff51d0ace41a651b"
+  },
+  {
+    "id": "shutcm-school",
+    "url": "https://www.shutcm.edu.cn/",
+    "expectedHttpStatus": 403,
+    "expectedArchiveSha256": "a654bc6d71fc9a71624973513cfe14d47262efd55da65392d45eb1b0ceb236de"
+  },
+  {
+    "id": "swupl-admissions",
+    "url": "https://www.swupl.edu.cn/zsjy/index.htm",
+    "expectedHttpStatus": 412,
+    "expectedArchiveSha256": "c1df330df78652cca37274f87e84d6804498137992eda892e76b3d62a7c49e42"
+  },
+  {
+    "id": "swupl-entry",
+    "url": "https://zs.swupl.edu.cn/",
+    "expectedHttpStatus": 412,
+    "expectedArchiveSha256": "db67166e0715b437b693415159a0c6c706047033772b777b69b926c89964be1a"
+  },
+  {
+    "id": "swupl-home",
+    "url": "https://www.swupl.edu.cn/",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "509ceed9e4eaf80b347d7cde91472f37bfab832d2525d92b0907ff8327133f1e"
+  },
+  {
+    "id": "szu-current-entry",
+    "url": "https://zs.szu.edu.cn/info/1153/2985.htm",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "a245b9472be586ed5e9dfc5e7c66f322d87f7b86f1d265950ba19a5f9b692710"
+  },
+  {
+    "id": "szu-directory",
+    "url": "https://zs.szu.edu.cn/index/lnfs/lnfs2.htm",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "f6a123903c53b35b4d954ff52888d5d1bf55f6666eed7858452c8857e5b6eb9d"
+  },
+  {
+    "id": "szu-gx-old",
+    "url": "https://zs.szu.edu.cn/info/1153/2984.htm",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "33af041a3811488ee7b7d3ca961aa80aa2fff3becfb115c91a8239d29ccfa8cb"
+  },
+  {
+    "id": "szu-home",
+    "url": "https://zs.szu.edu.cn/",
+    "expectedHttpStatus": 200,
+    "expectedArchiveSha256": "21e7b4b6b120349d6aff6e06eb4cb52c793dfb3291892ce17264268a0a59544d"
+  }
+]

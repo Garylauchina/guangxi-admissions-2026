@@ -1,0 +1,27 @@
+{
+  "files": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "QA.json",
+    "README.md",
+    "source-snapshots.json",
+    "query-evidence.json",
+    "review-context.json",
+    "public-fetch-manifest.json",
+    "collector.py",
+    "replay.py",
+    "freeze_evidence.py",
+    "build.py",
+    "verify.py",
+    "PUBLIC-FILES.json"
+  ],
+  "excluded": [
+    "raw/**",
+    "__pycache__/**",
+    "*-requests.json",
+    "requests-*.json",
+    "replay-results.json"
+  ],
+  "note": "Only enumerated files may be published. Full raw and transient session values are excluded."
+}

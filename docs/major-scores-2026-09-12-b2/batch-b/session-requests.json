@@ -1,0 +1,35 @@
+[
+  {
+    "host": "https://zs.cufe.edu.cn",
+    "entryUrl": "https://zs.cufe.edu.cn/",
+    "queries": [
+      {
+        "id": "cufe-navigation",
+        "path": "f/newsCenter/ajax_get_category_and_link_list",
+        "data": {}
+      }
+    ]
+  },
+  {
+    "host": "https://goto.buct.edu.cn",
+    "entryUrl": "https://goto.buct.edu.cn/",
+    "queries": [
+      {
+        "id": "buct-navigation",
+        "path": "f/newsCenter/ajax_get_category_and_link_list",
+        "data": {}
+      }
+    ]
+  },
+  {
+    "host": "https://zszx.cuc.edu.cn",
+    "entryUrl": "https://zszx.cuc.edu.cn/static/front/cuc/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "cuc-param",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  }
+]

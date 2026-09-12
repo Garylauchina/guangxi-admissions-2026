@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cuc-entry",
+    "url": "https://zszx.cuc.edu.cn/static/front/cuc/basic/html_web/lnfs.html"
+  },
+  {
+    "id": "cufe-tplt",
+    "url": "https://zs.cufe.edu.cn/static/front/cufe/basic/js/tplt.js"
+  },
+  {
+    "id": "buct-tplt",
+    "url": "https://goto.buct.edu.cn/static/front/buct/basic/js/tplt.js"
+  },
+  {
+    "id": "lzu-entry",
+    "url": "https://zsdata.lzu.edu.cn/zsdata/lqxx/#/lnfs"
+  },
+  {
+    "id": "jnu-entry",
+    "url": "http://admission1.jiangnan.edu.cn/pc/historyScore/nonArt"
+  },
+  {
+    "id": "citydg-js",
+    "url": "https://www.cityu-dg.edu.cn/static/js/home.js"
+  },
+  {
+    "id": "gzhmu-score",
+    "url": "https://zs.gzhmu.edu.cn/wnlqfs/lnfs_gd_/a2025n.htm"
+  }
+]

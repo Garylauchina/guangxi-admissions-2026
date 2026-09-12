@@ -1,0 +1,156 @@
+{
+  "baselineCommit": "5e742e9296767c0abec242531549f5c884cdb4b9",
+  "baselineRowCount": 1058,
+  "baselineSha256": "90d3ed82ed9cb432b33a2c5b327afe69ea32fb28a93ed9a7f3361a5dad9cc0de",
+  "baselineSchools": [
+    {
+      "schoolCode": "10043",
+      "school": "北京体育大学"
+    },
+    {
+      "schoolCode": "10052",
+      "school": "中央民族大学"
+    },
+    {
+      "schoolCode": "10078",
+      "school": "华北水利水电大学"
+    },
+    {
+      "schoolCode": "10120",
+      "school": "山西大同大学"
+    },
+    {
+      "schoolCode": "10220",
+      "school": "东北石油大学"
+    },
+    {
+      "schoolCode": "10232",
+      "school": "齐齐哈尔大学"
+    },
+    {
+      "schoolCode": "10269",
+      "school": "华东师范大学"
+    },
+    {
+      "schoolCode": "10596",
+      "school": "桂林理工大学"
+    },
+    {
+      "schoolCode": "10598",
+      "school": "广西医科大学"
+    },
+    {
+      "schoolCode": "10600",
+      "school": "广西中医药大学"
+    },
+    {
+      "schoolCode": "10601",
+      "school": "桂林医科大学"
+    },
+    {
+      "schoolCode": "10606",
+      "school": "玉林师范学院"
+    },
+    {
+      "schoolCode": "10609",
+      "school": "百色学院"
+    },
+    {
+      "schoolCode": "10637",
+      "school": "重庆师范大学"
+    },
+    {
+      "schoolCode": "11313",
+      "school": "福建商学院"
+    },
+    {
+      "schoolCode": "11319",
+      "school": "江西水利电力大学"
+    },
+    {
+      "schoolCode": "11510",
+      "school": "山东交通学院"
+    },
+    {
+      "schoolCode": "11552",
+      "school": "四川旅游学院"
+    },
+    {
+      "schoolCode": "11765",
+      "school": "河南城建学院"
+    },
+    {
+      "schoolCode": "11825",
+      "school": "桂林航天工业学院"
+    },
+    {
+      "schoolCode": "12608",
+      "school": "重庆工程学院"
+    },
+    {
+      "schoolCode": "12789",
+      "school": "浙江工商职业技术学院"
+    },
+    {
+      "schoolCode": "12864",
+      "school": "浙江经贸职业技术学院"
+    },
+    {
+      "schoolCode": "12896",
+      "school": "辽宁轨道交通职业学院"
+    },
+    {
+      "schoolCode": "14008",
+      "school": "重庆三峡医药高等专科学校"
+    },
+    {
+      "schoolCode": "16302",
+      "school": "西交利物浦大学"
+    }
+  ],
+  "excludedTargetSchoolCodes": [
+    "10422",
+    "10268",
+    "10590",
+    "10272",
+    "10559",
+    "10652",
+    "10019",
+    "10033",
+    "10295",
+    "10730",
+    "14851",
+    "10010",
+    "10034",
+    "10570",
+    "10574",
+    "11845",
+    "19422",
+    "19335",
+    "10036",
+    "10285"
+  ],
+  "schoolIdentities": [
+    {
+      "schoolCode": "12758",
+      "school": "重庆城市管理职业大学",
+      "sourceId": "gxeea-2026-33315"
+    },
+    {
+      "schoolCode": "10383",
+      "school": "铜陵学院",
+      "sourceId": "gxeea-2026-33107"
+    },
+    {
+      "schoolCode": "10723",
+      "school": "渭南师范学院",
+      "sourceId": "gxeea-2026-33106"
+    },
+    {
+      "schoolCode": "13283",
+      "school": "浙江农林大学暨阳学院",
+      "sourceId": "gxeea-2026-33106"
+    }
+  ],
+  "note": "历史基线与固定校码证据，只用于可移植重建；不声称未来线上库仍为1058条。"
+}

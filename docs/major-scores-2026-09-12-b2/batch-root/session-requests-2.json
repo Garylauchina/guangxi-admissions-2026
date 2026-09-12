@@ -1,0 +1,164 @@
+[
+  {
+    "entryUrl": "https://aeo.uibe.edu.cn/lqcx/static/front/uibe/basic/html_web/lnfs.html",
+    "baseUrl": "https://aeo.uibe.edu.cn/lqcx",
+    "queries": [
+      {
+        "name": "uibe-gx-2026-1.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "提前批"
+        }
+      },
+      {
+        "name": "uibe-gx-2026-2.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "本科批"
+        }
+      },
+      {
+        "name": "uibe-gx-2026-3.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "中外合作办学"
+        }
+      },
+      {
+        "name": "uibe-gx-2026-4.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "少数民族预科"
+        }
+      },
+      {
+        "name": "uibe-gx-2026-5.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "国家专项"
+        }
+      },
+      {
+        "name": "uibe-gx-2026-6.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "高校专项"
+        }
+      },
+      {
+        "name": "uibe-gx-2026-7.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "本科批"
+        }
+      },
+      {
+        "name": "uibe-gx-2026-8.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "中外合作办学"
+        }
+      },
+      {
+        "name": "uibe-gx-2026-9.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "少数民族预科"
+        }
+      },
+      {
+        "name": "uibe-gx-2026-10.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "国家专项"
+        }
+      },
+      {
+        "name": "uibe-gx-2026-11.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "高校专项"
+        }
+      },
+      {
+        "name": "uibe-gx-2025-physics.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "本科批"
+        }
+      },
+      {
+        "name": "uibe-gx-2025-history.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "本科批"
+        }
+      }
+    ]
+  }
+]

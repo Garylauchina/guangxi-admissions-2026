@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cufe-entry",
+    "url": "https://zs.cufe.edu.cn/static/front/cufe/basic/html_web/lnfs.html"
+  },
+  {
+    "id": "buct-entry",
+    "url": "https://goto.buct.edu.cn/static/front/buct/basic/html_web/lnfs.html"
+  },
+  {
+    "id": "jnu-years",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getQuery"
+  },
+  {
+    "id": "citydg-policy",
+    "url": "https://uga.cityu-dg.edu.cn/admission-policy"
+  },
+  {
+    "id": "citydg-news",
+    "url": "https://uga.cityu-dg.edu.cn/admission-news"
+  },
+  {
+    "id": "citydg-public",
+    "url": "https://uga.cityu-dg.edu.cn/public-information"
+  },
+  {
+    "id": "citydg-charter",
+    "url": "https://uga.cityu-dg.edu.cn/public-information/3544"
+  }
+]

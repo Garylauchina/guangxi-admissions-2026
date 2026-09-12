@@ -1,0 +1,2997 @@
+{
+  "reviewedAt": "2026-09-12",
+  "status": "PASS",
+  "scope": "仅兄弟A/B包原归档、已声明查询范围、关键原文、公开白名单；不联网、不扩展渠道、不逐行复核旧年专业分值。",
+  "packages": {
+    "batch-a": {
+      "schoolCount": 7,
+      "sourceCount": 60,
+      "archivesChecked": 60,
+      "non200ArchivesIncluded": 15,
+      "failuresWithoutBody": 0,
+      "publicFileCount": 15,
+      "reviewedFileHashes": {
+        "sources.json": "e202fe83c80cca52ee27f03fc180ea4b9f83ef254acc398ca8eacccc4f155dd8",
+        "school-audit-notes.json": "72dbf1ece73f6a0357bbe678426a784d112594f3f6fb062d7115e57f851d3b64",
+        "QA.json": "311334c316295f7c33e9d9a28d0fb05281f3f63c4a97e6cdf7aa8b85b6331ffe",
+        "PUBLIC-FILES.json": "cf88679d96eda1a0c92bdc121b710a401ea86f81c2c037cff9bfe8d2a72dff1b"
+      }
+    },
+    "batch-b": {
+      "schoolCount": 7,
+      "sourceCount": 73,
+      "archivesChecked": 69,
+      "non200ArchivesIncluded": 0,
+      "failuresWithoutBody": 4,
+      "publicFileCount": 36,
+      "reviewedFileHashes": {
+        "sources.json": "8f4274f08a2de339d665ed1926d5c4bb8675ed1fa8b45f0f47d9b490a315dc7d",
+        "school-audit-notes.json": "400feab9c29a1e736a01cd0b64e6382a5ff27a892aca17baa94e6883fec9d3fa",
+        "QA.json": "fedc91861791f3cd6014ddbda16e3999be14ff53fc7f89d756045993b616669a",
+        "PUBLIC-FILES.json": "eb2330a07d7a222666ead4ad5a3692bc6fcffcc80b212f30e63647f50a79c1bf"
+      }
+    }
+  },
+  "summary": {
+    "schools": 14,
+    "newActualRows": 0,
+    "currentSuccessfulEmptyQueries": 31,
+    "oldYearPositiveQueries": 11,
+    "oldYearPositiveRows": 126,
+    "checks": 567,
+    "passed": 567,
+    "failed": 0
+  },
+  "queries": [
+    {
+      "sourceId": "major-20260912b2-a-cau-gx-session-2025-历史类-普通类",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2025",
+        "klmc": "历史类",
+        "zslx": "普通类"
+      },
+      "queryYear": 2025,
+      "businessCode": 1,
+      "majorRows": 6,
+      "summaryRows": 1,
+      "archiveSha256": "3801e52f6137e8676820b3262e248480cb938e578991989cd27a743e6437f82f"
+    },
+    {
+      "sourceId": "major-20260912b2-a-cau-gx-session-2025-物理类-普通类",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2025",
+        "klmc": "物理类",
+        "zslx": "普通类"
+      },
+      "queryYear": 2025,
+      "businessCode": 1,
+      "majorRows": 21,
+      "summaryRows": 1,
+      "archiveSha256": "0c8c8466de9599d9e3df235e20b750c4f602c3d3373fce215592c355802ee62b"
+    },
+    {
+      "sourceId": "major-20260912b2-a-cau-gx-session-2026-历史类-中外合作办学",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "zslx": "中外合作办学"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-cau-gx-session-2026-历史类-普通类",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "zslx": "普通类"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-cau-gx-session-2026-物理类-中外合作办学",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "zslx": "中外合作办学"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-cau-gx-session-2026-物理类-国家专项",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "zslx": "国家专项"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-cau-gx-session-2026-物理类-普通类",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "zslx": "普通类"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-cau-gx-session-2026-物理类-高校专项",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "zslx": "高校专项"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2025-历史类-普通类",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2025",
+        "klmc": "历史类",
+        "zslx": "普通类"
+      },
+      "queryYear": 2025,
+      "businessCode": 1,
+      "majorRows": 11,
+      "summaryRows": 1,
+      "archiveSha256": "6c7364e6efa1500f533eaf6ff51ebc591a9a7b619c21ecf6854e3ab8f6e1e16d"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2025-物理类-普通类",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2025",
+        "klmc": "物理类",
+        "zslx": "普通类"
+      },
+      "queryYear": 2025,
+      "businessCode": 1,
+      "majorRows": 24,
+      "summaryRows": 1,
+      "archiveSha256": "ddb6a041a00930479e4dfca876595ca904191cfdb4602792bbb3329109423dd2"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2026-历史类-国家专项",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "zslx": "国家专项"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2026-历史类-少数民族预科",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "zslx": "少数民族预科"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2026-历史类-普通类",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "zslx": "普通类"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2026-历史类-高校专项",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "zslx": "高校专项"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2026-物理类-专业志愿",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "zslx": "专业志愿"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2026-物理类-国家专项",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "zslx": "国家专项"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2026-物理类-少数民族预科",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "zslx": "少数民族预科"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2026-物理类-普通类",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "zslx": "普通类"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-a-sdu-gx-2026-物理类-高校专项",
+      "package": "batch-a",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "zslx": "高校专项"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "1277f7bad74a8e382f7cef0d294b3e54ac834335871586b3a7e969b4656376d8"
+    },
+    {
+      "sourceId": "major-20260912b2-b-buct-gx-2025-历史类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2025",
+        "klmc": "历史类",
+        "sex": "",
+        "campus": "",
+        "zslx": "普通类"
+      },
+      "queryYear": 2025,
+      "businessCode": 1,
+      "majorRows": 2,
+      "summaryRows": 1,
+      "archiveSha256": "5cb577489549e2c8c4cbcfd1da28c25eccb863b921b14388af579965e1e14e40"
+    },
+    {
+      "sourceId": "major-20260912b2-b-buct-gx-2025-物理类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2025",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "普通类"
+      },
+      "queryYear": 2025,
+      "businessCode": 1,
+      "majorRows": 16,
+      "summaryRows": 1,
+      "archiveSha256": "a1bdebf44ace7cb432e633792eceb54b5b0bd7c04c1a7565f2a08a6747633420"
+    },
+    {
+      "sourceId": "major-20260912b2-b-buct-gx-2026-历史类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "sex": "",
+        "campus": "",
+        "zslx": "普通类"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9"
+    },
+    {
+      "sourceId": "major-20260912b2-b-buct-gx-2026-物理类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "普通类"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cuc-gx-2025-物理类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2025",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "普通类"
+      },
+      "queryYear": 2025,
+      "businessCode": 1,
+      "majorRows": 15,
+      "summaryRows": 1,
+      "archiveSha256": "87a30f306ae9a070ded2752e4b88ad3145363ce4df5ce9138c289763dd70ee14"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cuc-gx-2026-历史类-all",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "sex": "",
+        "campus": "",
+        "zslx": ""
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cuc-gx-2026-历史类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "sex": "",
+        "campus": "",
+        "zslx": "普通类"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cuc-gx-2026-物理类-all",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": ""
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cuc-gx-2026-物理类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "普通类"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cufe-gx-2025-历史类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2025",
+        "klmc": "历史类",
+        "sex": "",
+        "campus": "",
+        "zslx": "统招"
+      },
+      "queryYear": 2025,
+      "businessCode": 1,
+      "majorRows": 8,
+      "summaryRows": 1,
+      "archiveSha256": "66b87507941d342c663544456097fdca7741b59e6e1ca92a25a2508640a98b2b"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cufe-gx-2025-物理类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2025",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "统招"
+      },
+      "queryYear": 2025,
+      "businessCode": 1,
+      "majorRows": 13,
+      "summaryRows": 1,
+      "archiveSha256": "4a7a233a7aa44d80428be1883613825b9bc8ca1875d89945a074d7b3765dd065"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cufe-gx-2026-历史类-all",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "sex": "",
+        "campus": "",
+        "zslx": ""
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cufe-gx-2026-历史类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "历史类",
+        "sex": "",
+        "campus": "",
+        "zslx": "统招"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cufe-gx-2026-物理类-all",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": ""
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9"
+    },
+    {
+      "sourceId": "major-20260912b2-b-cufe-gx-2026-物理类",
+      "package": "batch-b",
+      "parameters": {
+        "ssmc": "广西",
+        "zsnf": "2026",
+        "klmc": "物理类",
+        "sex": "",
+        "campus": "",
+        "zslx": "统招"
+      },
+      "queryYear": 2026,
+      "businessCode": 1,
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "82a25abf326d30b2a2ca2d15db7f83d0438c33d272bd8e03a999f7997f630ea9"
+    },
+    {
+      "sourceId": "major-20260912b2-b-jnu-gx-2025-2-1",
+      "package": "batch-b",
+      "parameters": {
+        "year": 2025,
+        "provinceId": 20,
+        "subjectId": 2,
+        "recruitmentCategoryId": 1
+      },
+      "queryYear": 2025,
+      "businessCode": "1000000",
+      "majorRows": 1,
+      "summaryRows": 1,
+      "archiveSha256": "7c96f06ed7409069dffe78c90e3a44685859f58d8e93bac9afcb332b7fa58ca2",
+      "parameterConfigurationYear": 2025
+    },
+    {
+      "sourceId": "major-20260912b2-b-jnu-gx-2025-3-1",
+      "package": "batch-b",
+      "parameters": {
+        "year": 2025,
+        "provinceId": 20,
+        "subjectId": 3,
+        "recruitmentCategoryId": 1
+      },
+      "queryYear": 2025,
+      "businessCode": "1000000",
+      "majorRows": 9,
+      "summaryRows": 1,
+      "archiveSha256": "3ce3f2906ce82afacd65fa051978769c3aa280c1d2334c6cecf92f1404342624",
+      "parameterConfigurationYear": 2025
+    },
+    {
+      "sourceId": "major-20260912b2-b-jnu-gx-2026-2-1",
+      "package": "batch-b",
+      "parameters": {
+        "year": 2026,
+        "provinceId": 20,
+        "subjectId": 2,
+        "recruitmentCategoryId": 1
+      },
+      "queryYear": 2026,
+      "businessCode": "1000000",
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "f2645622c00b44c4eb1562b805b38ec3ec26cb2110d9b86357ce37b171f39af7",
+      "parameterConfigurationYear": 2025
+    },
+    {
+      "sourceId": "major-20260912b2-b-jnu-gx-2026-2-4",
+      "package": "batch-b",
+      "parameters": {
+        "year": 2026,
+        "provinceId": 20,
+        "subjectId": 2,
+        "recruitmentCategoryId": 4
+      },
+      "queryYear": 2026,
+      "businessCode": "1000000",
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "3f4e0696ad8e40bca16c4cafa4f577de295620a5a3b3f951b56f6a46c8036d94",
+      "parameterConfigurationYear": 2025
+    },
+    {
+      "sourceId": "major-20260912b2-b-jnu-gx-2026-3-1",
+      "package": "batch-b",
+      "parameters": {
+        "year": 2026,
+        "provinceId": 20,
+        "subjectId": 3,
+        "recruitmentCategoryId": 1
+      },
+      "queryYear": 2026,
+      "businessCode": "1000000",
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "f2645622c00b44c4eb1562b805b38ec3ec26cb2110d9b86357ce37b171f39af7",
+      "parameterConfigurationYear": 2025
+    },
+    {
+      "sourceId": "major-20260912b2-b-jnu-gx-2026-3-4",
+      "package": "batch-b",
+      "parameters": {
+        "year": 2026,
+        "provinceId": 20,
+        "subjectId": 3,
+        "recruitmentCategoryId": 4
+      },
+      "queryYear": 2026,
+      "businessCode": "1000000",
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "f2645622c00b44c4eb1562b805b38ec3ec26cb2110d9b86357ce37b171f39af7",
+      "parameterConfigurationYear": 2025
+    },
+    {
+      "sourceId": "major-20260912b2-b-jnu-gx-2026-3-6",
+      "package": "batch-b",
+      "parameters": {
+        "year": 2026,
+        "provinceId": 20,
+        "subjectId": 3,
+        "recruitmentCategoryId": 6
+      },
+      "queryYear": 2026,
+      "businessCode": "1000000",
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "f2645622c00b44c4eb1562b805b38ec3ec26cb2110d9b86357ce37b171f39af7",
+      "parameterConfigurationYear": 2025
+    },
+    {
+      "sourceId": "major-20260912b2-b-jnu-gx-2026-3-7",
+      "package": "batch-b",
+      "parameters": {
+        "year": 2026,
+        "provinceId": 20,
+        "subjectId": 3,
+        "recruitmentCategoryId": 7
+      },
+      "queryYear": 2026,
+      "businessCode": "1000000",
+      "majorRows": 0,
+      "summaryRows": 0,
+      "archiveSha256": "f2645622c00b44c4eb1562b805b38ec3ec26cb2110d9b86357ce37b171f39af7",
+      "parameterConfigurationYear": 2025
+    }
+  ],
+  "checks": [
+    {
+      "id": "batch-a-no-new-score",
+      "pass": true
+    },
+    {
+      "id": "batch-a-seven-distinct-schools",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10422-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10422-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10268-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10268-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10590-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10590-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10272-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10272-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10559-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10559-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10652-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10652-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10019-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-a-10019-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-major-cutoffs-upsert.json",
+      "pass": true
+    },
+    {
+      "id": "batch-a-major-cutoffs-upsert.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-sources.json",
+      "pass": true
+    },
+    {
+      "id": "batch-a-sources.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-school-audit-notes.json",
+      "pass": true
+    },
+    {
+      "id": "batch-a-school-audit-notes.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-QA.json",
+      "pass": true
+    },
+    {
+      "id": "batch-a-QA.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-README.md",
+      "pass": true
+    },
+    {
+      "id": "batch-a-README.md-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-source-snapshots.json",
+      "pass": true
+    },
+    {
+      "id": "batch-a-source-snapshots.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-query-evidence.json",
+      "pass": true
+    },
+    {
+      "id": "batch-a-query-evidence.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-review-context.json",
+      "pass": true
+    },
+    {
+      "id": "batch-a-review-context.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-public-fetch-manifest.json",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-fetch-manifest.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-collector.py",
+      "pass": true
+    },
+    {
+      "id": "batch-a-collector.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-replay.py",
+      "pass": true
+    },
+    {
+      "id": "batch-a-replay.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-freeze_evidence.py",
+      "pass": true
+    },
+    {
+      "id": "batch-a-freeze_evidence.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-build.py",
+      "pass": true
+    },
+    {
+      "id": "batch-a-build.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-verify.py",
+      "pass": true
+    },
+    {
+      "id": "batch-a-verify.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-a-public-file-PUBLIC-FILES.json",
+      "pass": true
+    },
+    {
+      "id": "batch-a-PUBLIC-FILES.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-common-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-common-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2025-历史类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2025-历史类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2025-物理类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2025-物理类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-历史类-中外合作办学-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-历史类-中外合作办学-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-历史类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-历史类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-物理类-中外合作办学-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-物理类-中外合作办学-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-物理类-国家专项-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-物理类-国家专项-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-物理类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-物理类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-物理类-高校专项-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-2026-物理类-高校专项-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-历史类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-历史类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-历史类-普通类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-历史类-普通类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-历史类-普通类-positive-control",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-历史类-普通类-old-row-provenance",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-物理类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-物理类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-物理类-普通类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-物理类-普通类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-物理类-普通类-positive-control",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2025-物理类-普通类-old-row-provenance",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-历史类-中外合作办学-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-历史类-中外合作办学-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-历史类-中外合作办学-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-历史类-中外合作办学-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-历史类-中外合作办学-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-历史类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-历史类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-历史类-普通类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-历史类-普通类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-历史类-普通类-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-中外合作办学-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-中外合作办学-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-中外合作办学-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-中外合作办学-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-中外合作办学-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-国家专项-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-国家专项-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-国家专项-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-国家专项-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-国家专项-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-普通类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-普通类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-普通类-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-高校专项-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-高校专项-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-高校专项-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-高校专项-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-gx-session-2026-物理类-高校专项-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-init-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-init-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-j1-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-j1-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-params-https-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-params-https-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-params-session-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-params-session-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-params-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-params-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-summary-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-summary-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-util-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-cau-util-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-jnu-directory-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-jnu-directory-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-jnu-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-jnu-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-jnu-gx-old-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-jnu-gx-old-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-jnu-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-jnu-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-jnu-year-directory-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-jnu-year-directory-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-2026-summary-table-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-2026-summary-table-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-2026-summary-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-2026-summary-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-历史类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-历史类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-历史类-普通类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-历史类-普通类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-历史类-普通类-positive-control",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-历史类-普通类-old-row-provenance",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-物理类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-物理类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-物理类-普通类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-物理类-普通类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-物理类-普通类-positive-control",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2025-物理类-普通类-old-row-provenance",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-国家专项-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-国家专项-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-国家专项-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-国家专项-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-国家专项-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-少数民族预科-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-少数民族预科-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-少数民族预科-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-少数民族预科-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-少数民族预科-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-普通类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-普通类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-普通类-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-高校专项-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-高校专项-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-高校专项-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-高校专项-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-历史类-高校专项-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-专业志愿-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-专业志愿-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-专业志愿-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-专业志愿-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-专业志愿-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-国家专项-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-国家专项-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-国家专项-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-国家专项-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-国家专项-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-少数民族预科-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-少数民族预科-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-少数民族预科-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-少数民族预科-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-少数民族预科-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-普通类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-普通类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-普通类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-普通类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-普通类-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-高校专项-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-高校专项-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-高校专项-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-高校专项-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-gx-2026-物理类-高校专项-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-params-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-sdu-params-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shufe-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shufe-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shufe-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shufe-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shufe-query-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shufe-query-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shutcm-home-retry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shutcm-home-retry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shutcm-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shutcm-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shutcm-school-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-shutcm-school-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-swupl-admissions-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-swupl-admissions-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-swupl-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-swupl-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-swupl-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-swupl-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-szu-current-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-szu-current-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-szu-directory-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-szu-directory-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-szu-gx-old-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-szu-gx-old-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-szu-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-a-szu-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "batch-b-no-new-score",
+      "pass": true
+    },
+    {
+      "id": "batch-b-seven-distinct-schools",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10033-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10033-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10295-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10295-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10730-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10730-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-b-14851-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-b-14851-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10010-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10010-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10034-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10034-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10570-identity-date",
+      "pass": true
+    },
+    {
+      "id": "batch-b-10570-source-closure",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-major-cutoffs-upsert.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-major-cutoffs-upsert.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-sources.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-sources.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-school-audit-notes.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-school-audit-notes.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-QA.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-QA.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-verification.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-verification.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-README.md",
+      "pass": true
+    },
+    {
+      "id": "batch-b-README.md-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-audit-context.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-audit-context.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-additional-access-evidence.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-additional-access-evidence.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-replay-check.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-replay-check.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-importer-preflight.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-importer-preflight.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-build.py",
+      "pass": true
+    },
+    {
+      "id": "batch-b-build.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-verify.py",
+      "pass": true
+    },
+    {
+      "id": "batch-b-verify.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-collect.py",
+      "pass": true
+    },
+    {
+      "id": "batch-b-collect.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-session_query.py",
+      "pass": true
+    },
+    {
+      "id": "batch-b-session_query.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-jnu_query.py",
+      "pass": true
+    },
+    {
+      "id": "batch-b-jnu_query.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-retry_transport.py",
+      "pass": true
+    },
+    {
+      "id": "batch-b-retry_transport.py-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-jnu-requests-2.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-jnu-requests-2.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-jnu-requests-3.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-jnu-requests-3.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-jnu-requests-4.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-jnu-requests-4.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-jnu-requests-5.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-jnu-requests-5.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-jnu-requests-6.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-jnu-requests-6.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-jnu-requests.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-jnu-requests.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-requests-2.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-requests-2.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-requests-3.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-requests-3.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-requests-4.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-requests-4.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-requests-5.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-requests-5.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-requests-6.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-requests-6.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-requests-7.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-requests-7.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-requests-8.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-requests-8.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-requests.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-requests.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-session-requests-2.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-session-requests-2.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-session-requests-3.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-session-requests-3.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-session-requests-4.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-session-requests-4.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-session-requests-5.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-session-requests-5.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-session-requests.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-session-requests.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "batch-b-public-file-PUBLIC-FILES.json",
+      "pass": true
+    },
+    {
+      "id": "batch-b-PUBLIC-FILES.json-no-private-path",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-common-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-common-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-历史类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-历史类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-历史类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-历史类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-历史类-positive-control",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-历史类-old-row-provenance",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-物理类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-物理类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-物理类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-物理类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-物理类-positive-control",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2025-物理类-old-row-provenance",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2026-历史类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2026-历史类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2026-历史类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2026-历史类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2026-历史类-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2026-物理类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2026-物理类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2026-物理类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2026-物理类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-gx-2026-物理类-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-navigation-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-navigation-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-param-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-param-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-tplt-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-buct-tplt-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-charter-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-charter-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-faq-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-faq-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-js-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-js-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-main-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-main-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-news-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-news-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-policy-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-policy-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-public-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-public-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-uga-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-citydg-uga-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2025-物理类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2025-物理类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2025-物理类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2025-物理类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2025-物理类-positive-control",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2025-物理类-old-row-provenance",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-历史类-all-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-历史类-all-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-历史类-all-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-历史类-all-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-历史类-all-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-历史类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-历史类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-历史类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-历史类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-历史类-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-物理类-all-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-物理类-all-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-物理类-all-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-物理类-all-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-物理类-all-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-物理类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-物理类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-物理类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-物理类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-gx-2026-物理类-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-param-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-param-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-tplt-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cuc-tplt-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-common-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-common-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-历史类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-历史类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-历史类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-历史类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-历史类-positive-control",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-历史类-old-row-provenance",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-物理类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-物理类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-物理类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-物理类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-物理类-positive-control",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2025-物理类-old-row-provenance",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-历史类-all-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-历史类-all-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-历史类-all-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-历史类-all-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-历史类-all-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-历史类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-历史类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-历史类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-历史类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-历史类-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-物理类-all-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-物理类-all-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-物理类-all-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-物理类-all-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-物理类-all-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-物理类-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-物理类-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-物理类-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-物理类-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-gx-2026-物理类-successful-empty",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-navigation-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-navigation-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-param-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-param-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-tplt-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-cufe-tplt-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-gzhmu-external-image-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-gzhmu-external-image-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-gzhmu-external-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-gzhmu-external-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-gzhmu-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-gzhmu-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-gzhmu-news-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-gzhmu-news-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-gzhmu-score-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-gzhmu-score-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-app-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-app-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-categories-2-2025-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-categories-2-2025-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-categories-3-2025-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-categories-3-2025-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-entry-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2025-2-1-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2025-2-1-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2025-2-1-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2025-2-1-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2025-2-1-result-shape",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2025-3-1-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2025-3-1-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2025-3-1-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2025-3-1-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2025-3-1-result-shape",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-2-1-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-2-1-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-2-1-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-2-1-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-2-1-result-shape",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-2-4-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-2-4-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-2-4-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-2-4-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-2-4-result-shape",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-1-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-1-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-1-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-1-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-1-result-shape",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-4-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-4-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-4-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-4-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-4-result-shape",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-6-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-6-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-6-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-6-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-6-result-shape",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-7-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-7-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-7-business-success",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-7-guangxi-track-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-gx-2026-3-7-result-shape",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-provinces-2025-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-provinces-2025-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-provinces-2026-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-provinces-2026-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-score-js-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-score-js-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-subjects-2025-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-subjects-2025-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-subjects-2026-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-subjects-2026-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-subjects-json-2025-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-subjects-json-2025-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-subjects-json-2026-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-subjects-json-2026-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-years-csrf-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-years-csrf-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-years-post-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-years-post-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-years-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-jnu-years-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-lzu-charter-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-lzu-charter-failed-no-body",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-lzu-entry-curl-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-lzu-entry-curl-failed-no-body",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-lzu-entry-http-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-lzu-entry-http-failed-no-body",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-lzu-entry-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-lzu-entry-failed-no-body",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-lzu-home-metadata-parameters",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-b-lzu-home-archive-hash",
+      "pass": true
+    },
+    {
+      "id": "public-json-no-secret-values",
+      "pass": true,
+      "detail": {
+        "suspectKeys": []
+      }
+    },
+    {
+      "id": "sdu-current-query-count",
+      "pass": true
+    },
+    {
+      "id": "sdu-old-controls-count",
+      "pass": true
+    },
+    {
+      "id": "cau-current-query-count",
+      "pass": true
+    },
+    {
+      "id": "cau-old-controls-count",
+      "pass": true
+    },
+    {
+      "id": "cuc-current-query-count",
+      "pass": true
+    },
+    {
+      "id": "cuc-old-controls-count",
+      "pass": true
+    },
+    {
+      "id": "buct-current-query-count",
+      "pass": true
+    },
+    {
+      "id": "buct-old-controls-count",
+      "pass": true
+    },
+    {
+      "id": "cufe-current-query-count",
+      "pass": true
+    },
+    {
+      "id": "cufe-old-controls-count",
+      "pass": true
+    },
+    {
+      "id": "jnu-current-query-count",
+      "pass": true
+    },
+    {
+      "id": "jnu-old-controls-count",
+      "pass": true
+    },
+    {
+      "id": "jiangnan-province-id",
+      "pass": true
+    },
+    {
+      "id": "jiangnan-subject-ids",
+      "pass": true
+    },
+    {
+      "id": "jnu-provinces-2026.json-successful-config-empty",
+      "pass": true
+    },
+    {
+      "id": "jnu-subjects-json-2026.json-successful-config-empty",
+      "pass": true
+    },
+    {
+      "id": "shutcm-home-actual-http-status",
+      "pass": true
+    },
+    {
+      "id": "shutcm-home-retry-actual-http-status",
+      "pass": true
+    },
+    {
+      "id": "shutcm-school-actual-http-status",
+      "pass": true
+    },
+    {
+      "id": "swupl-admissions-actual-http-status",
+      "pass": true
+    },
+    {
+      "id": "swupl-entry-actual-http-status",
+      "pass": true
+    },
+    {
+      "id": "shufe-year-province-template",
+      "pass": true
+    },
+    {
+      "id": "shufe-captcha-submit-required",
+      "pass": true
+    },
+    {
+      "id": "szu-old-table-years",
+      "pass": true
+    },
+    {
+      "id": "jinan-old-year-new-publication",
+      "pass": true
+    },
+    {
+      "id": "lzu-entry-access-error-no-success",
+      "pass": true
+    },
+    {
+      "id": "lzu-entry-http-access-error-no-success",
+      "pass": true
+    },
+    {
+      "id": "lzu-entry-curl-access-error-no-success",
+      "pass": true
+    },
+    {
+      "id": "lzu-charter-access-error-no-success",
+      "pass": true
+    },
+    {
+      "id": "citydg-independent-school-id",
+      "pass": true
+    },
+    {
+      "id": "citydg-faq-2025",
+      "pass": true
+    }
+  ],
+  "manualReview": [
+    "山东大学2026汇总长图已目视，只有省市/科类/统计类型，无专业名称列。",
+    "广州医科大学外省长图已目视：标题2025，广西本科物理临床医学614、临床药学596，属于旧年。",
+    "深圳/暨南原HTML表体与发布时间分开核对；深圳当前入口标第一次投档统计。",
+    "上财前端直接要求图形验证码；未把未提交查询说成成功空表。",
+    "兰大web工具412和无浏览器仅核对补充尝试记录，本复核没有重新调用外部工具验证该次工具状态。",
+    "采集脚本会话Cookie和CSRF仅内存使用；公开JSON未发现具体会话值或私人路径。"
+  ],
+  "issues": []
+}

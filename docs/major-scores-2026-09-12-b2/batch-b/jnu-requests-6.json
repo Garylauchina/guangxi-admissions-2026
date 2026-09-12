@@ -1,0 +1,106 @@
+[
+  {
+    "id": "jnu-gx-2026-3-1",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getList",
+    "data": {
+      "year": 2026,
+      "provinceId": 20,
+      "subjectId": 3,
+      "recruitmentCategoryId": 1
+    },
+    "encoding": "json",
+    "sourceCategoryName": "普通类",
+    "sourceYearOfCategoryConfiguration": 2025
+  },
+  {
+    "id": "jnu-gx-2026-3-6",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getList",
+    "data": {
+      "year": 2026,
+      "provinceId": 20,
+      "subjectId": 3,
+      "recruitmentCategoryId": 6
+    },
+    "encoding": "json",
+    "sourceCategoryName": "国家专项计划",
+    "sourceYearOfCategoryConfiguration": 2025
+  },
+  {
+    "id": "jnu-gx-2026-3-7",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getList",
+    "data": {
+      "year": 2026,
+      "provinceId": 20,
+      "subjectId": 3,
+      "recruitmentCategoryId": 7
+    },
+    "encoding": "json",
+    "sourceCategoryName": "高校专项计划",
+    "sourceYearOfCategoryConfiguration": 2025
+  },
+  {
+    "id": "jnu-gx-2026-3-4",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getList",
+    "data": {
+      "year": 2026,
+      "provinceId": 20,
+      "subjectId": 3,
+      "recruitmentCategoryId": 4
+    },
+    "encoding": "json",
+    "sourceCategoryName": "少数民族预科",
+    "sourceYearOfCategoryConfiguration": 2025
+  },
+  {
+    "id": "jnu-gx-2025-3-1",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getList",
+    "data": {
+      "year": 2025,
+      "provinceId": 20,
+      "subjectId": 3,
+      "recruitmentCategoryId": 1
+    },
+    "encoding": "json",
+    "sourceCategoryName": "普通类",
+    "sourceYearOfCategoryConfiguration": 2025
+  },
+  {
+    "id": "jnu-gx-2026-2-1",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getList",
+    "data": {
+      "year": 2026,
+      "provinceId": 20,
+      "subjectId": 2,
+      "recruitmentCategoryId": 1
+    },
+    "encoding": "json",
+    "sourceCategoryName": "普通类",
+    "sourceYearOfCategoryConfiguration": 2025
+  },
+  {
+    "id": "jnu-gx-2026-2-4",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getList",
+    "data": {
+      "year": 2026,
+      "provinceId": 20,
+      "subjectId": 2,
+      "recruitmentCategoryId": 4
+    },
+    "encoding": "json",
+    "sourceCategoryName": "少数民族预科",
+    "sourceYearOfCategoryConfiguration": 2025
+  },
+  {
+    "id": "jnu-gx-2025-2-1",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getList",
+    "data": {
+      "year": 2025,
+      "provinceId": 20,
+      "subjectId": 2,
+      "recruitmentCategoryId": 1
+    },
+    "encoding": "json",
+    "sourceCategoryName": "普通类",
+    "sourceYearOfCategoryConfiguration": 2025
+  }
+]

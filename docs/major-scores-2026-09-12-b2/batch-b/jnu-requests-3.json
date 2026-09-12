@@ -1,0 +1,18 @@
+[
+  {
+    "id": "jnu-subjects-2026",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/subject/getQueryByYearAndProvinceIdNew",
+    "data": {
+      "year": 2026,
+      "provinceId": 20
+    }
+  },
+  {
+    "id": "jnu-subjects-2025",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/subject/getQueryByYearAndProvinceIdNew",
+    "data": {
+      "year": 2025,
+      "provinceId": 20
+    }
+  }
+]

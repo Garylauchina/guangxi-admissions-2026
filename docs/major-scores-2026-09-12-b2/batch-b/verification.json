@@ -1,0 +1,415 @@
+{
+  "checkedAt": "2026-09-12T09:31:28.912240+08:00",
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "No unverified actual row",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-buct-common",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-buct-entry",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-buct-gx-2025-历史类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-buct-gx-2025-物理类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-buct-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-buct-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-buct-home",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-buct-navigation",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-buct-param",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-buct-tplt",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-citydg-charter",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-citydg-faq",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-citydg-home",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-citydg-js",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-citydg-main",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-citydg-news",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-citydg-policy",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-citydg-public",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-citydg-uga",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cuc-entry",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cuc-gx-2025-物理类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cuc-gx-2026-历史类-all",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cuc-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cuc-gx-2026-物理类-all",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cuc-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cuc-home",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cuc-param",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cuc-tplt",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-common",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-entry",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-gx-2025-历史类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-gx-2025-物理类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-gx-2026-历史类-all",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-gx-2026-历史类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-gx-2026-物理类-all",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-gx-2026-物理类",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-home",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-navigation",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-param",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-cufe-tplt",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-gzhmu-external-image",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-gzhmu-external",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-gzhmu-home",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-gzhmu-news",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-gzhmu-score",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-app",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-categories-2-2025",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-categories-3-2025",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-entry",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-gx-2025-2-1",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-gx-2025-3-1",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-gx-2026-2-1",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-gx-2026-2-4",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-gx-2026-3-1",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-gx-2026-3-4",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-gx-2026-3-6",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-gx-2026-3-7",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-home",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-provinces-2025",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-provinces-2026",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-score-js",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-subjects-2025",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-subjects-2026",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-subjects-json-2025",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-subjects-json-2026",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-years-csrf",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-years-post",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-jnu-years",
+      "passed": true
+    },
+    {
+      "name": "SHA major-20260912b2-b-lzu-home",
+      "passed": true
+    },
+    {
+      "name": "cuc menu no 2026",
+      "passed": true
+    },
+    {
+      "name": "cuc empty 物理类",
+      "passed": true
+    },
+    {
+      "name": "cuc empty 历史类",
+      "passed": true
+    },
+    {
+      "name": "cuc-gx-2025-物理类 positive",
+      "passed": true
+    },
+    {
+      "name": "cufe menu no 2026",
+      "passed": true
+    },
+    {
+      "name": "cufe empty 物理类",
+      "passed": true
+    },
+    {
+      "name": "cufe empty 历史类",
+      "passed": true
+    },
+    {
+      "name": "cufe-gx-2025-物理类 positive",
+      "passed": true
+    },
+    {
+      "name": "cufe-gx-2025-历史类 positive",
+      "passed": true
+    },
+    {
+      "name": "buct menu no 2026",
+      "passed": true
+    },
+    {
+      "name": "buct empty 物理类",
+      "passed": true
+    },
+    {
+      "name": "buct empty 历史类",
+      "passed": true
+    },
+    {
+      "name": "buct-gx-2025-物理类 positive",
+      "passed": true
+    },
+    {
+      "name": "buct-gx-2025-历史类 positive",
+      "passed": true
+    },
+    {
+      "name": "jnu-gx-2026-3-7 successful empty",
+      "passed": true
+    },
+    {
+      "name": "jnu-gx-2026-3-6 successful empty",
+      "passed": true
+    },
+    {
+      "name": "jnu-gx-2026-3-1 successful empty",
+      "passed": true
+    },
+    {
+      "name": "jnu-gx-2026-2-4 successful empty",
+      "passed": true
+    },
+    {
+      "name": "jnu-gx-2026-2-1 successful empty",
+      "passed": true
+    },
+    {
+      "name": "jnu-gx-2026-3-4 successful empty",
+      "passed": true
+    },
+    {
+      "name": "JNU old 3",
+      "passed": true
+    },
+    {
+      "name": "JNU old 2",
+      "passed": true
+    },
+    {
+      "name": "Seven targets exact",
+      "passed": true
+    },
+    {
+      "name": "Frozen audit time",
+      "passed": true
+    },
+    {
+      "name": "References 10033",
+      "passed": true
+    },
+    {
+      "name": "References 10295",
+      "passed": true
+    },
+    {
+      "name": "References 10730",
+      "passed": true
+    },
+    {
+      "name": "References 14851",
+      "passed": true
+    },
+    {
+      "name": "References 10010",
+      "passed": true
+    },
+    {
+      "name": "References 10034",
+      "passed": true
+    },
+    {
+      "name": "References 10570",
+      "passed": true
+    }
+  ],
+  "summary": {
+    "checks": 101,
+    "passedChecks": 101,
+    "newMajorRows": 0
+  }
+}

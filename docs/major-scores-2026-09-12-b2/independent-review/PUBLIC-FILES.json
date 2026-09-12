@@ -1,0 +1,14 @@
+{
+  "files": [
+    "review-c.md",
+    "review-c.json",
+    "review_c.py",
+    "c-image-transcription.tsv",
+    "PUBLIC-FILES.json"
+  ],
+  "excluded": [
+    "raw/**",
+    "__pycache__/**"
+  ],
+  "note": "Independent reviewed facts, archive hashes and relative-path verification only; no source full text or images."
+}

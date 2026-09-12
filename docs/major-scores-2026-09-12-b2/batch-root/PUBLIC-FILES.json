@@ -1,0 +1,35 @@
+{
+  "publicFiles": [
+    "README.md",
+    "PUBLIC-FILES.json",
+    "build.py",
+    "freeze.py",
+    "collect.py",
+    "session_query.py",
+    "evidence-rows.json",
+    "review-evidence.json",
+    "source-manifest.json",
+    "code-sources.json",
+    "sources.json",
+    "major-cutoffs-upsert.json",
+    "school-audit-notes.json",
+    "excluded-records.json",
+    "QA.json",
+    "importer-preflight.json",
+    "requests-1.json",
+    "requests-2.json",
+    "requests-3.json",
+    "requests-4.json",
+    "requests-5.json",
+    "requests-6.json",
+    "requests-7.json",
+    "requests-8.json",
+    "session-requests-1.json",
+    "session-requests-2.json"
+  ],
+  "excluded": [
+    "raw/**",
+    "__pycache__/**"
+  ],
+  "note": "仅发布统计事实、元数据与可移植脚本；原文件与会话值不发布。"
+}

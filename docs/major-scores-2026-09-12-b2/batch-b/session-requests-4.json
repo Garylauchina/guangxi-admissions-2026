@@ -1,0 +1,110 @@
+[
+  {
+    "host": "https://zs.cufe.edu.cn",
+    "entryUrl": "https://zs.cufe.edu.cn/static/front/cufe/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "cufe-gx-2026-物理类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "统招"
+        }
+      },
+      {
+        "id": "cufe-gx-2026-历史类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "统招"
+        }
+      },
+      {
+        "id": "cufe-gx-2025-物理类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "统招"
+        }
+      },
+      {
+        "id": "cufe-gx-2025-历史类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "统招"
+        }
+      }
+    ]
+  },
+  {
+    "host": "https://goto.buct.edu.cn",
+    "entryUrl": "https://goto.buct.edu.cn/static/front/buct/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "id": "buct-gx-2026-物理类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "id": "buct-gx-2026-历史类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "id": "buct-gx-2025-物理类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "id": "buct-gx-2025-历史类",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "zsnf": "2025",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      }
+    ]
+  }
+]

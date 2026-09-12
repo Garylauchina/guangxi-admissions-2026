@@ -1,0 +1,793 @@
+{
+  "checkedAt": "2026-09-12",
+  "summary": {
+    "newSchools": 3,
+    "newActualRows": 32,
+    "bySchool": {
+      "重庆城市管理职业大学": 9,
+      "铜陵学院": 2,
+      "渭南师范学院": 21
+    },
+    "byTrack": {
+      "历史": 11,
+      "物理": 21
+    },
+    "admittedCount": 96,
+    "checks": 191,
+    "passed": 191,
+    "failed": 0
+  },
+  "checks": [
+    {
+      "id": "cqc-gx-archive",
+      "pass": true
+    },
+    {
+      "id": "cqc-charter-archive",
+      "pass": true
+    },
+    {
+      "id": "cqc-index-archive",
+      "pass": true
+    },
+    {
+      "id": "tlu-gx-archive",
+      "pass": true
+    },
+    {
+      "id": "tlu-charter-archive",
+      "pass": true
+    },
+    {
+      "id": "tlu-table-archive",
+      "pass": true
+    },
+    {
+      "id": "wnu-gx-archive",
+      "pass": true
+    },
+    {
+      "id": "wnu-15-archive",
+      "pass": true
+    },
+    {
+      "id": "wnu-16-archive",
+      "pass": true
+    },
+    {
+      "id": "wnu-14-archive",
+      "pass": true
+    },
+    {
+      "id": "jy-gx-archive",
+      "pass": true
+    },
+    {
+      "id": "jy-table-archive",
+      "pass": true
+    },
+    {
+      "id": "wnu-10-archive",
+      "pass": true
+    },
+    {
+      "id": "wnu-11-archive",
+      "pass": true
+    },
+    {
+      "id": "wnu-12-archive",
+      "pass": true
+    },
+    {
+      "id": "wnu-13-archive",
+      "pass": true
+    },
+    {
+      "id": "wnu-charter-archive",
+      "pass": true
+    },
+    {
+      "id": "wnu-charter-mirror-archive",
+      "pass": true
+    },
+    {
+      "id": "cqc-header",
+      "pass": true
+    },
+    {
+      "id": "new-schools-only",
+      "pass": true
+    },
+    {
+      "id": "not-in-current-20-targets",
+      "pass": true
+    },
+    {
+      "id": "row-count",
+      "pass": true
+    },
+    {
+      "id": "cqc-count",
+      "pass": true
+    },
+    {
+      "id": "tlu-count",
+      "pass": true
+    },
+    {
+      "id": "wnu-count",
+      "pass": true
+    },
+    {
+      "id": "distinct-ids",
+      "pass": true
+    },
+    {
+      "id": "wnu-tourism-keeps-admitted3",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-1-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-1-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-1-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-1-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-1-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-2-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-2-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-2-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-2-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-2-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-3-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-3-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-3-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-3-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-3-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-4-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-4-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-4-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-4-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-4-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-5-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-5-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-5-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-5-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-5-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-6-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-6-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-6-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-6-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-6-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-7-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-7-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-7-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-7-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-7-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-8-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-8-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-8-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-8-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-8-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-9-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-9-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-9-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-9-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-12758-cqc-gx-9-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10383-tlu-table-1-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10383-tlu-table-1-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10383-tlu-table-1-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10383-tlu-table-1-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10383-tlu-table-1-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10383-tlu-table-2-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10383-tlu-table-2-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10383-tlu-table-2-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10383-tlu-table-2-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10383-tlu-table-2-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-1-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-1-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-1-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-1-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-1-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-2-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-2-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-2-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-2-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-2-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-3-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-3-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-3-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-3-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-3-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-4-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-4-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-4-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-4-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-4-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-5-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-5-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-5-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-5-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-5-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-6-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-6-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-6-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-6-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-6-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-7-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-7-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-7-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-7-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-7-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-8-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-8-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-8-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-8-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-8-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-9-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-9-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-9-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-9-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-9-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-10-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-10-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-10-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-10-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-10-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-11-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-11-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-11-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-11-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-11-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-12-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-12-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-12-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-12-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-12-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-13-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-13-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-13-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-13-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-13-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-14-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-14-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-14-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-14-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-14-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-15-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-15-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-15-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-15-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-15-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-16-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-16-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-16-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-16-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-16-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-17-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-17-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-17-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-17-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-17-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-18-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-18-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-18-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-18-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-18-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-19-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-19-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-19-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-19-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-19-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-20-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-20-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-20-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-20-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-20-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-21-source-closure",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-21-score-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-21-average-range",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-21-rank-group-unknown",
+      "pass": true
+    },
+    {
+      "id": "major-20260912b2-c-10723-wnu-13-21-no-plan-substitution",
+      "pass": true
+    },
+    {
+      "id": "historical-baseline-context",
+      "pass": true
+    },
+    {
+      "id": "wnu-explicit-current-title",
+      "pass": true
+    },
+    {
+      "id": "cqc-identity-charter",
+      "pass": true
+    },
+    {
+      "id": "wnu-identity-charter",
+      "pass": true
+    }
+  ],
+  "limits": [
+    "无PDF；铜陵2行和渭南21行图片已逐行目视，待另人独审后冻结。",
+    "全部未知组码和位次保持null；未转换排名。",
+    "渭南表含投档录取混合表述，按录取快讯及实际录取数保留，原表头与文化分录取说明逐行可见。",
+    "不以实际录取人数更新计划。",
+    "本科/专科批次和轮次只以直接来源明示，不从录取日期推断首轮。"
+  ]
+}

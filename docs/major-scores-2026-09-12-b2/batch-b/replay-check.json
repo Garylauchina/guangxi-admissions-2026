@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "note": "Four deterministic outputs unchanged after a second static build; time remains the recorded audit time.",
+  "hashes": {
+    "major-cutoffs-upsert.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "sources.json": "8f4274f08a2de339d665ed1926d5c4bb8675ed1fa8b45f0f47d9b490a315dc7d",
+    "school-audit-notes.json": "400feab9c29a1e736a01cd0b64e6382a5ff27a892aca17baa94e6883fec9d3fa",
+    "QA.json": "fedc91861791f3cd6014ddbda16e3999be14ff53fc7f89d756045993b616669a"
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "jnu-provinces-2026",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getNotArtProvinceQuery?year=2026",
+    "data": {}
+  },
+  {
+    "id": "jnu-provinces-2025",
+    "url": "http://admission1.jiangnan.edu.cn/api/front/historyScore/getNotArtProvinceQuery?year=2025",
+    "data": {}
+  }
+]

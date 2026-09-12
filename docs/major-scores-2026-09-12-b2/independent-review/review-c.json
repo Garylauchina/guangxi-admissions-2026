@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "reviewedAt": "2026-09-12",
+  "inputHashes": {
+    "major-cutoffs-upsert.json": "a6295b04eda4377ce127471a6725b5911c845c413302d3d5a8c03b663375480e",
+    "sources.json": "69b07aeb2fc52d0074eff2a1c4c9332a172eb58ae8f72b2f00b88ae66c7b493e",
+    "school-audit-notes.json": "9c0e34e589183f44f6e398b4f57e4b715690c72d132db6b58e9e10e2a4b7e85d"
+  },
+  "summary": {
+    "rows": 32,
+    "admitted": 96,
+    "independentSourceValueComparisons": 153,
+    "archiveHashesChecked": 18,
+    "publicFilesScanned": 16
+  },
+  "schools": [
+    {
+      "schoolCode": "12758",
+      "rows": 9,
+      "admitted": 20
+    },
+    {
+      "schoolCode": "10383",
+      "rows": 2,
+      "admitted": 10
+    },
+    {
+      "schoolCode": "10723",
+      "rows": 21,
+      "admitted": 66
+    }
+  ],
+  "findings": [],
+  "limits": [
+    "Independent read of archived official HTML and original images; no fresh network queries.",
+    "School-code filing source original hashes were not re-downloaded; three charter identities and imported code metadata checked.",
+    "Manual image interpretation remains part of evidence; rerunning numeric comparisons is not a replacement for viewing images.",
+    "This review covers C 32 new records, qualifications and six excluded WNU images; it does not review unrelated school gaps."
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "schoolCode": "13283",
+    "school": "浙江农林大学暨阳学院",
+    "sourceIds": [
+      "major-20260912b2-c-jy-gx",
+      "major-20260912b2-c-jy-table"
+    ],
+    "rowCount": 2,
+    "reason": "只有历史/物理科类汇总，无专业字段；后续征求计划亦不入实际专业分或初始计划。"
+  },
+  {
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-10",
+      "major-20260912b2-c-wnu-11",
+      "major-20260912b2-c-wnu-12",
+      "major-20260912b2-c-wnu-14",
+      "major-20260912b2-c-wnu-15",
+      "major-20260912b2-c-wnu-16"
+    ],
+    "reason": "同快讯另外6图为山东/福建/黑龙江艺术或广东/内蒙古，不能迁至广西；本包仅采第4张广西普通类图。"
+  }
+]

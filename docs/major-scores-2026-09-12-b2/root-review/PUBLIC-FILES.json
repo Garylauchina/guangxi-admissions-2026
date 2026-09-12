@@ -1,0 +1,14 @@
+{
+  "files": [
+    "README.md",
+    "REVIEW.md",
+    "QA.json",
+    "review.py",
+    "PUBLIC-FILES.json"
+  ],
+  "excluded": [
+    "raw/",
+    "__pycache__/"
+  ],
+  "note": "仅公开独立复核报告、结构化检查及相对路径只读脚本；原始采集材料留本地。"
+}

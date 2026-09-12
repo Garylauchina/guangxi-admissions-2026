@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-09-12T09:31:28.912240+08:00",
+  "baseline": {
+    "commit": "5e742e9296767c0abec242531549f5c884cdb4b9",
+    "actualRecords": 1058,
+    "schools": 26,
+    "sources": 709,
+    "notes": 156
+  },
+  "note": "Audit time is fixed to this actual collection batch. Replaying build does not advance the review date."
+}

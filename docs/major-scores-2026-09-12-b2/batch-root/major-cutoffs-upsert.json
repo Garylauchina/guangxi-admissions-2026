@@ -1,0 +1,3032 @@
+[
+  {
+    "id": "major-20260912b2-root-10036-1-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科提前批其他一类",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "波斯语",
+    "majorCode": null,
+    "sourceMajorCode": "050208",
+    "score": 595.0,
+    "scoreType": "专业录取最低分",
+    "rank": 1739,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-1-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-1-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类（提前批）",
+    "sourceCategory": "提前批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-1-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-1-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 597.0,
+    "sourceAverageScore": 596.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "章程列明的外语语言类专业只招英语考生，外国语言文学类的具体分流及语种要求请核对当年计划。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-1-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科提前批其他一类",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "意大利语（选拔进入国贸双学士学位项目）",
+    "majorCode": null,
+    "sourceMajorCode": "050238",
+    "score": 611.0,
+    "scoreType": "专业录取最低分",
+    "rank": 947,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-1-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-1-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 2,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类（提前批）",
+    "sourceCategory": "提前批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-1-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-1-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 611.0,
+    "sourceAverageScore": 611.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "章程列明的外语语言类专业只招英语考生，外国语言文学类的具体分流及语种要求请核对当年计划。 原专业名称包含项目选拔或分流说明；达到本专业录取分不等于获得双学士、实验班等选拔项目资格。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-1-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科提前批其他一类",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "法语（选拔进入国贸双学士学位项目）",
+    "majorCode": null,
+    "sourceMajorCode": "050204",
+    "score": 616.0,
+    "scoreType": "专业录取最低分",
+    "rank": 744,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-1-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-1-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 3,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类（提前批）",
+    "sourceCategory": "提前批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-1-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-1-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 623.0,
+    "sourceAverageScore": 619.5,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "章程列明的外语语言类专业只招英语考生，外国语言文学类的具体分流及语种要求请核对当年计划。 原专业名称包含项目选拔或分流说明；达到本专业录取分不等于获得双学士、实验班等选拔项目资格。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-1-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科提前批其他一类",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "西班牙语（选拔进入国贸双学士学位项目）",
+    "majorCode": null,
+    "sourceMajorCode": "050205",
+    "score": 626.0,
+    "scoreType": "专业录取最低分",
+    "rank": 444,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-1-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-1-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 4,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类（提前批）",
+    "sourceCategory": "提前批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-1-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-1-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-1-json"
+      ]
+    },
+    "admittedCount": 1,
+    "sourceMaximumScore": 626.0,
+    "sourceAverageScore": 626.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "章程列明的外语语言类专业只招英语考生，外国语言文学类的具体分流及语种要求请核对当年计划。 原专业名称包含项目选拔或分流说明；达到本专业录取分不等于获得双学士、实验班等选拔项目资格。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-2-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "工商管理类（项目选拔进入，分流时专业任选）",
+    "majorCode": null,
+    "sourceMajorCode": "1202",
+    "score": 617.0,
+    "scoreType": "专业录取最低分",
+    "rank": 710,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-2-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-2-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ]
+    },
+    "admittedCount": 9,
+    "sourceMaximumScore": 633.0,
+    "sourceAverageScore": 620.78,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "原专业名称包含项目选拔或分流说明；达到本专业录取分不等于获得双学士、实验班等选拔项目资格。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-2-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "金融学类",
+    "majorCode": null,
+    "sourceMajorCode": "0203",
+    "score": 618.0,
+    "scoreType": "专业录取最低分",
+    "rank": 681,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-2-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-2-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 2,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ]
+    },
+    "admittedCount": 6,
+    "sourceMaximumScore": 622.0,
+    "sourceAverageScore": 619.33,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-2-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "经济学类（分流时专业任选）",
+    "majorCode": null,
+    "sourceMajorCode": "0201",
+    "score": 618.0,
+    "scoreType": "专业录取最低分",
+    "rank": 681,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-2-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-2-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 3,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ]
+    },
+    "admittedCount": 4,
+    "sourceMaximumScore": 621.0,
+    "sourceAverageScore": 619.25,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-2-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "外国语言文学类",
+    "majorCode": null,
+    "sourceMajorCode": "0502",
+    "score": 618.0,
+    "scoreType": "专业录取最低分",
+    "rank": 681,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-2-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-2-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 4,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ]
+    },
+    "admittedCount": 1,
+    "sourceMaximumScore": 618.0,
+    "sourceAverageScore": 618.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "章程列明的外语语言类专业只招英语考生，外国语言文学类的具体分流及语种要求请核对当年计划。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-2-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "国际经济与贸易（国际组织人才基地班）",
+    "majorCode": null,
+    "sourceMajorCode": "020401",
+    "score": 620.0,
+    "scoreType": "专业录取最低分",
+    "rank": 615,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-2-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-2-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 5,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 638.0,
+    "sourceAverageScore": 629.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-2-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "法学类",
+    "majorCode": null,
+    "sourceMajorCode": "0301",
+    "score": 622.0,
+    "scoreType": "专业录取最低分",
+    "rank": 556,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-2-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-2-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 6,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 629.0,
+    "sourceAverageScore": 625.33,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-2-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "海关管理（海关与大数据应用拔尖人才实验班）",
+    "majorCode": null,
+    "sourceMajorCode": "120406",
+    "score": 626.0,
+    "scoreType": "专业录取最低分",
+    "rank": 444,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-2-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-2-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 7,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-2-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-2-json"
+      ]
+    },
+    "admittedCount": 1,
+    "sourceMaximumScore": 626.0,
+    "sourceAverageScore": 626.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-3-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "保险学(中外合作办学)",
+    "majorCode": null,
+    "sourceMajorCode": "020303H",
+    "score": 581.0,
+    "scoreType": "专业录取最低分",
+    "rank": 2785,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-3-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-3-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "中外合作办学",
+    "sourceCategory": "中外合作办学",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-3-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-3-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-3-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 595.0,
+    "sourceAverageScore": 588.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "只录取填报该专业志愿考生，入学后不得转入其他专业；保险学中外合作学费100000元/生/学年（在本校四年期间）。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-5-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "政治学类",
+    "majorCode": null,
+    "sourceMajorCode": "0302",
+    "score": 576.0,
+    "scoreType": "专业录取最低分",
+    "rank": 3242,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-5-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-5-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "国家专项",
+    "sourceCategory": "国家专项",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-5-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-5-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 576.0,
+    "sourceAverageScore": 576.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "须满足国家专项报考资格，并按当年专项计划规定报考。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-5-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "公共管理类",
+    "majorCode": null,
+    "sourceMajorCode": "1204",
+    "score": 578.0,
+    "scoreType": "专业录取最低分",
+    "rank": 3040,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-5-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-5-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 2,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "国家专项",
+    "sourceCategory": "国家专项",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-5-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-5-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 580.0,
+    "sourceAverageScore": 579.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "须满足国家专项报考资格，并按当年专项计划规定报考。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-5-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "外国语言文学类",
+    "majorCode": null,
+    "sourceMajorCode": "0502",
+    "score": 581.0,
+    "scoreType": "专业录取最低分",
+    "rank": 2785,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-5-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-5-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 3,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "国家专项",
+    "sourceCategory": "国家专项",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-5-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-5-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-5-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 586.0,
+    "sourceAverageScore": 583.5,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "章程列明的外语语言类专业只招英语考生，外国语言文学类的具体分流及语种要求请核对当年计划。 须满足国家专项报考资格，并按当年专项计划规定报考。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-6-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "外国语言文学类",
+    "majorCode": null,
+    "sourceMajorCode": "0502",
+    "score": 595.0,
+    "scoreType": "专业录取最低分",
+    "rank": 1739,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-6-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-6-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "高校专项",
+    "sourceCategory": "高校专项",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-6-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-6-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-6-json"
+      ]
+    },
+    "admittedCount": 1,
+    "sourceMaximumScore": 595.0,
+    "sourceAverageScore": 595.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "章程列明的外语语言类专业只招英语考生，外国语言文学类的具体分流及语种要求请核对当年计划。 须满足高校专项报考资格；章程要求投档成绩达到当地特殊类型招生控制线，按专项计划择优录取。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "法学类",
+    "majorCode": null,
+    "sourceMajorCode": "0301",
+    "score": 612.0,
+    "scoreType": "专业录取最低分",
+    "rank": 7229,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 617.0,
+    "sourceAverageScore": 614.5,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "精算学（选拔进入双学士学位项目或实验班）",
+    "majorCode": null,
+    "sourceMajorCode": "020308",
+    "score": 612.0,
+    "scoreType": "专业录取最低分",
+    "rank": 7229,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 2,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 4,
+    "sourceMaximumScore": 615.0,
+    "sourceAverageScore": 612.75,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "原专业名称包含项目选拔或分流说明；达到本专业录取分不等于获得双学士、实验班等选拔项目资格。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "海关管理（海关与大数据应用拔尖人才实验班）",
+    "majorCode": null,
+    "sourceMajorCode": "120406",
+    "score": 612.0,
+    "scoreType": "专业录取最低分",
+    "rank": 7229,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 3,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 614.0,
+    "sourceAverageScore": 613.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "金融学类",
+    "majorCode": null,
+    "sourceMajorCode": "0203",
+    "score": 613.0,
+    "scoreType": "专业录取最低分",
+    "rank": 6954,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 4,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 7,
+    "sourceMaximumScore": 617.0,
+    "sourceAverageScore": 614.86,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "工商管理类（项目选拔进入，分流时专业任选）",
+    "majorCode": null,
+    "sourceMajorCode": "1202",
+    "score": 613.0,
+    "scoreType": "专业录取最低分",
+    "rank": 6954,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 5,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 613.0,
+    "sourceAverageScore": 613.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "原专业名称包含项目选拔或分流说明；达到本专业录取分不等于获得双学士、实验班等选拔项目资格。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "经济学类（分流时专业任选）",
+    "majorCode": null,
+    "sourceMajorCode": "0201",
+    "score": 614.0,
+    "scoreType": "专业录取最低分",
+    "rank": 6686,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 6,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 625.0,
+    "sourceAverageScore": 619.33,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "金融数学",
+    "majorCode": null,
+    "sourceMajorCode": "020305",
+    "score": 614.0,
+    "scoreType": "专业录取最低分",
+    "rank": 6686,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 7,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 616.0,
+    "sourceAverageScore": 615.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "数据科学",
+    "majorCode": null,
+    "sourceMajorCode": "071203",
+    "score": 615.0,
+    "scoreType": "专业录取最低分",
+    "rank": 6432,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 8,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 620.0,
+    "sourceAverageScore": 617.5,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-9",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "数据科学与大数据技术（大类招生，项目选拔进入，分流时专业任选）",
+    "majorCode": null,
+    "sourceMajorCode": "080910",
+    "score": 615.0,
+    "scoreType": "专业录取最低分",
+    "rank": 6432,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 9,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 4,
+    "sourceMaximumScore": 617.0,
+    "sourceAverageScore": 616.25,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "原专业名称包含项目选拔或分流说明；达到本专业录取分不等于获得双学士、实验班等选拔项目资格。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-10",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "统计学",
+    "majorCode": null,
+    "sourceMajorCode": "071201",
+    "score": 616.0,
+    "scoreType": "专业录取最低分",
+    "rank": 6186,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 10,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 617.0,
+    "sourceAverageScore": 616.5,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-7-11",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "金融工程（大类招生，项目选拔进入，分流时专业任选）",
+    "majorCode": null,
+    "sourceMajorCode": "020302",
+    "score": 619.0,
+    "scoreType": "专业录取最低分",
+    "rank": 5489,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-7-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-7-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 11,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "sourceCategory": "本科批",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-7-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-7-json"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 641.0,
+    "sourceAverageScore": 627.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "原专业名称包含项目选拔或分流说明；达到本专业录取分不等于获得双学士、实验班等选拔项目资格。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-8-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "保险学(中外合作办学)",
+    "majorCode": null,
+    "sourceMajorCode": "020303H",
+    "score": 571.0,
+    "scoreType": "专业录取最低分",
+    "rank": 22573,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-8-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-8-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "中外合作办学",
+    "sourceCategory": "中外合作办学",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-8-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-8-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-8-json"
+      ]
+    },
+    "admittedCount": 4,
+    "sourceMaximumScore": 585.0,
+    "sourceAverageScore": 575.75,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "只录取填报该专业志愿考生，入学后不得转入其他专业；保险学中外合作学费100000元/生/学年（在本校四年期间）。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-10-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "数据科学与大数据技术（大类招生，项目选拔进入，分流时专业任选）",
+    "majorCode": null,
+    "sourceMajorCode": "080910",
+    "score": 601.0,
+    "scoreType": "专业录取最低分",
+    "rank": 10484,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-10-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-10-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "国家专项",
+    "sourceCategory": "国家专项",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-10-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-10-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-10-json"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 608.0,
+    "sourceAverageScore": 604.5,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "原专业名称包含项目选拔或分流说明；达到本专业录取分不等于获得双学士、实验班等选拔项目资格。 须满足国家专项报考资格，并按当年专项计划规定报考。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  },
+  {
+    "id": "major-20260912b2-root-10036-11-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "sourceSchool": "对外经济贸易大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科普通批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "电子商务",
+    "majorCode": null,
+    "sourceMajorCode": "120801",
+    "score": 565.0,
+    "scoreType": "专业录取最低分",
+    "rank": 25533,
+    "rankType": "专业最低分排名（学校公布）",
+    "sourceId": "major-20260912b2-root-uibe-gx-2026-11-json",
+    "sourceIds": [
+      "major-20260912b2-root-uibe-gx-2026-11-json",
+      "major-20260912b2-root-uibe-params-json",
+      "major-20260912b2-root-uibe-charter-html",
+      "gxeea-2026-33106"
+    ],
+    "sourceRow": 1,
+    "sourceTable": "sszygradeList",
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（含学校认可的全国性政策加分）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "高校专项",
+    "sourceCategory": "高校专项",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "province": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "track": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "major": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "score": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "batch": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "admittedCount": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "admissionType": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "sourceMajorCode": [
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ],
+      "rank": [
+        "major-20260912b2-root-uibe-gx-2026-11-json",
+        "major-20260912b2-root-uibe-params-json"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "note": [
+        "major-20260912b2-root-uibe-gx-2026-11-json",
+        "major-20260912b2-root-uibe-charter-html"
+      ],
+      "admissionRequirements": [
+        "major-20260912b2-root-uibe-charter-html",
+        "major-20260912b2-root-uibe-gx-2026-11-json"
+      ]
+    },
+    "admittedCount": 1,
+    "sourceMaximumScore": 565.0,
+    "sourceAverageScore": 565.0,
+    "sourceScoreHeader": "最低分",
+    "sourceRankHeader": "最低分排名",
+    "admissionRequirements": "须满足高校专项报考资格；章程要求投档成绩达到当地特殊类型招生控制线，按专项计划择优录取。",
+    "note": "学校按具体专业或正式招生大类公布的录取结果。最低分与排名均为学校直接公布；依章程按投档成绩录取至专业并认可规定的全国性政策加分，不称裸分。专业组码、再选科目及首次/征集轮次未列，保持未知。录取人数不转换为计划数。学校返回的专业代码另存原值，广西填报专业代号待核。"
+  }
+]

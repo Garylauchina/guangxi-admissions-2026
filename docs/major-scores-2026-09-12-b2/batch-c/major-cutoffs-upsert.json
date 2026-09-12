@@ -1,0 +1,2890 @@
+[
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "sourceSchool": "重庆城市管理职业大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "高职专科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "大数据与会计",
+    "score": 423,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceIds": [
+      "major-20260912b2-c-cqc-gx",
+      "major-20260912b2-c-cqc-charter",
+      "gxeea-2026-33315"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "track": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "major": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "score": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "batch": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "round": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33315"
+      ],
+      "school": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-cqc-gx",
+        "major-20260912b2-c-cqc-charter"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceScoreHeader": "录取最低分数",
+    "note": "2026广西高职专科批次普通类录取快讯，完整9条实际专业最低分；原公告未区分首次与征集，轮次保留汇总。学校按分数优先确定专业、认可生源省加降分政策，原表未单列加分数值。外语语种不限，公共外语统一英语；普通专业大一在荣昌校区，后续年级回大学城校区。具体组码和选科细项未列，保持未知。录取人数不作为初始计划。"
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "sourceSchool": "重庆城市管理职业大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "高职专科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "国际经济与贸易",
+    "score": 415,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceIds": [
+      "major-20260912b2-c-cqc-gx",
+      "major-20260912b2-c-cqc-charter",
+      "gxeea-2026-33315"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "track": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "major": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "score": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "batch": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "round": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33315"
+      ],
+      "school": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-cqc-gx",
+        "major-20260912b2-c-cqc-charter"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceScoreHeader": "录取最低分数",
+    "note": "2026广西高职专科批次普通类录取快讯，完整9条实际专业最低分；原公告未区分首次与征集，轮次保留汇总。学校按分数优先确定专业、认可生源省加降分政策，原表未单列加分数值。外语语种不限，公共外语统一英语；普通专业大一在荣昌校区，后续年级回大学城校区。具体组码和选科细项未列，保持未知。录取人数不作为初始计划。"
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "sourceSchool": "重庆城市管理职业大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "高职专科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "现代物业管理",
+    "score": 413,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceIds": [
+      "major-20260912b2-c-cqc-gx",
+      "major-20260912b2-c-cqc-charter",
+      "gxeea-2026-33315"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "track": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "major": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "score": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "batch": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "round": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33315"
+      ],
+      "school": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-cqc-gx",
+        "major-20260912b2-c-cqc-charter"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceScoreHeader": "录取最低分数",
+    "note": "2026广西高职专科批次普通类录取快讯，完整9条实际专业最低分；原公告未区分首次与征集，轮次保留汇总。学校按分数优先确定专业、认可生源省加降分政策，原表未单列加分数值。外语语种不限，公共外语统一英语；普通专业大一在荣昌校区，后续年级回大学城校区。具体组码和选科细项未列，保持未知。录取人数不作为初始计划。"
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "sourceSchool": "重庆城市管理职业大学",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "高职专科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "婴幼儿托育服务与管理",
+    "score": 406,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceIds": [
+      "major-20260912b2-c-cqc-gx",
+      "major-20260912b2-c-cqc-charter",
+      "gxeea-2026-33315"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "track": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "major": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "score": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "batch": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "round": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33315"
+      ],
+      "school": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-cqc-gx",
+        "major-20260912b2-c-cqc-charter"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceScoreHeader": "录取最低分数",
+    "note": "2026广西高职专科批次普通类录取快讯，完整9条实际专业最低分；原公告未区分首次与征集，轮次保留汇总。学校按分数优先确定专业、认可生源省加降分政策，原表未单列加分数值。外语语种不限，公共外语统一英语；普通专业大一在荣昌校区，后续年级回大学城校区。具体组码和选科细项未列，保持未知。录取人数不作为初始计划。该专业不招收色盲、色弱考生（2026章程第八条第5项）。",
+    "eligibility": {
+      "colorBlindnessExcluded": true,
+      "colorWeaknessExcluded": true,
+      "sourceIds": [
+        "major-20260912b2-c-cqc-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "sourceSchool": "重庆城市管理职业大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "高职专科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "大数据与会计",
+    "score": 362,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceIds": [
+      "major-20260912b2-c-cqc-gx",
+      "major-20260912b2-c-cqc-charter",
+      "gxeea-2026-33315"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "track": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "major": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "score": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "batch": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "round": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33315"
+      ],
+      "school": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-cqc-gx",
+        "major-20260912b2-c-cqc-charter"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceScoreHeader": "录取最低分数",
+    "note": "2026广西高职专科批次普通类录取快讯，完整9条实际专业最低分；原公告未区分首次与征集，轮次保留汇总。学校按分数优先确定专业、认可生源省加降分政策，原表未单列加分数值。外语语种不限，公共外语统一英语；普通专业大一在荣昌校区，后续年级回大学城校区。具体组码和选科细项未列，保持未知。录取人数不作为初始计划。"
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "sourceSchool": "重庆城市管理职业大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "高职专科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "国际经济与贸易",
+    "score": 401,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceIds": [
+      "major-20260912b2-c-cqc-gx",
+      "major-20260912b2-c-cqc-charter",
+      "gxeea-2026-33315"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "track": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "major": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "score": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "batch": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "round": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33315"
+      ],
+      "school": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-cqc-gx",
+        "major-20260912b2-c-cqc-charter"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceScoreHeader": "录取最低分数",
+    "note": "2026广西高职专科批次普通类录取快讯，完整9条实际专业最低分；原公告未区分首次与征集，轮次保留汇总。学校按分数优先确定专业、认可生源省加降分政策，原表未单列加分数值。外语语种不限，公共外语统一英语；普通专业大一在荣昌校区，后续年级回大学城校区。具体组码和选科细项未列，保持未知。录取人数不作为初始计划。"
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "sourceSchool": "重庆城市管理职业大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "高职专科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "物联网应用技术",
+    "score": 386,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceIds": [
+      "major-20260912b2-c-cqc-gx",
+      "major-20260912b2-c-cqc-charter",
+      "gxeea-2026-33315"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "track": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "major": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "score": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "batch": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "round": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33315"
+      ],
+      "school": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-cqc-gx",
+        "major-20260912b2-c-cqc-charter"
+      ]
+    },
+    "admittedCount": 4,
+    "sourceScoreHeader": "录取最低分数",
+    "note": "2026广西高职专科批次普通类录取快讯，完整9条实际专业最低分；原公告未区分首次与征集，轮次保留汇总。学校按分数优先确定专业、认可生源省加降分政策，原表未单列加分数值。外语语种不限，公共外语统一英语；普通专业大一在荣昌校区，后续年级回大学城校区。具体组码和选科细项未列，保持未知。录取人数不作为初始计划。"
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "sourceSchool": "重庆城市管理职业大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "高职专科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "现代物业管理",
+    "score": 378,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceIds": [
+      "major-20260912b2-c-cqc-gx",
+      "major-20260912b2-c-cqc-charter",
+      "gxeea-2026-33315"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "track": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "major": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "score": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "batch": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "round": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33315"
+      ],
+      "school": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-cqc-gx",
+        "major-20260912b2-c-cqc-charter"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceScoreHeader": "录取最低分数",
+    "note": "2026广西高职专科批次普通类录取快讯，完整9条实际专业最低分；原公告未区分首次与征集，轮次保留汇总。学校按分数优先确定专业、认可生源省加降分政策，原表未单列加分数值。外语语种不限，公共外语统一英语；普通专业大一在荣昌校区，后续年级回大学城校区。具体组码和选科细项未列，保持未知。录取人数不作为初始计划。"
+  },
+  {
+    "id": "major-20260912b2-c-12758-cqc-gx-9",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "sourceSchool": "重庆城市管理职业大学",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "高职专科批次",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "婴幼儿托育服务与管理",
+    "score": 358,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-cqc-gx",
+    "sourceIds": [
+      "major-20260912b2-c-cqc-gx",
+      "major-20260912b2-c-cqc-charter",
+      "gxeea-2026-33315"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 10,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "track": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "major": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "score": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "batch": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "round": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-cqc-gx"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33315"
+      ],
+      "school": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-cqc-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-cqc-gx",
+        "major-20260912b2-c-cqc-charter"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceScoreHeader": "录取最低分数",
+    "note": "2026广西高职专科批次普通类录取快讯，完整9条实际专业最低分；原公告未区分首次与征集，轮次保留汇总。学校按分数优先确定专业、认可生源省加降分政策，原表未单列加分数值。外语语种不限，公共外语统一英语；普通专业大一在荣昌校区，后续年级回大学城校区。具体组码和选科细项未列，保持未知。录取人数不作为初始计划。该专业不招收色盲、色弱考生（2026章程第八条第5项）。",
+    "eligibility": {
+      "colorBlindnessExcluded": true,
+      "colorWeaknessExcluded": true,
+      "sourceIds": [
+        "major-20260912b2-c-cqc-charter"
+      ]
+    }
+  },
+  {
+    "id": "major-20260912b2-c-10383-tlu-table-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10383",
+    "school": "铜陵学院",
+    "sourceSchool": "铜陵学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "地理信息科学",
+    "score": 453,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-tlu-table",
+    "sourceIds": [
+      "major-20260912b2-c-tlu-table",
+      "major-20260912b2-c-tlu-charter",
+      "gxeea-2026-33107",
+      "major-20260912b2-c-tlu-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 1,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理-化学（原图类别）",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-tlu-gx",
+        "major-20260912b2-c-tlu-table"
+      ],
+      "province": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "track": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "major": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "score": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "batch": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "round": [
+        "major-20260912b2-c-tlu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "school": [
+        "major-20260912b2-c-tlu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-tlu-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-tlu-table",
+        "major-20260912b2-c-tlu-charter",
+        "major-20260912b2-c-tlu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "requiredSubjects": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "requirementText": [
+        "major-20260912b2-c-tlu-table"
+      ]
+    },
+    "admittedCount": 5,
+    "sourceMaximumScore": 479,
+    "sourceAverageScore": 464.0,
+    "sourceScoreHeader": "最高分 / 最低分 / 平均分",
+    "sourceAdmissionDate": "2026-07-25",
+    "note": "官方2026高考录取进程广西本科批原图，明示录取人数与最高/最低/平均分；原图未用投档分表头。7月25日是录取日期，未以此推断首轮，保留轮次汇总。原类别明确物理-化学。学校录取以投档分为准，政策加分按生源省规定执行；教学第一外语为英语，非英语语种考生须留意。录取人数不作为初始计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10383-tlu-table-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10383",
+    "school": "铜陵学院",
+    "sourceSchool": "铜陵学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科批",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "土木工程",
+    "score": 448,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-tlu-table",
+    "sourceIds": [
+      "major-20260912b2-c-tlu-table",
+      "major-20260912b2-c-tlu-charter",
+      "gxeea-2026-33107",
+      "major-20260912b2-c-tlu-gx"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理-化学（原图类别）",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-tlu-gx",
+        "major-20260912b2-c-tlu-table"
+      ],
+      "province": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "track": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "major": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "score": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "batch": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "round": [
+        "major-20260912b2-c-tlu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33107"
+      ],
+      "school": [
+        "major-20260912b2-c-tlu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-tlu-charter"
+      ],
+      "note": [
+        "major-20260912b2-c-tlu-table",
+        "major-20260912b2-c-tlu-charter",
+        "major-20260912b2-c-tlu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "sourceAverageScore": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "requiredSubjects": [
+        "major-20260912b2-c-tlu-table"
+      ],
+      "requirementText": [
+        "major-20260912b2-c-tlu-table"
+      ]
+    },
+    "admittedCount": 5,
+    "sourceMaximumScore": 463,
+    "sourceAverageScore": 453.2,
+    "sourceScoreHeader": "最高分 / 最低分 / 平均分",
+    "sourceAdmissionDate": "2026-07-25",
+    "note": "官方2026高考录取进程广西本科批原图，明示录取人数与最高/最低/平均分；原图未用投档分表头。7月25日是录取日期，未以此推断首轮，保留轮次汇总。原类别明确物理-化学。学校录取以投档分为准，政策加分按生源省规定执行；教学第一外语为英语，非英语语种考生须留意。录取人数不作为初始计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "中国共产党历史",
+    "score": 471,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 1,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 473,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "汉语言文学",
+    "score": 472,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 2,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 479,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "汉语言文学（非师范）",
+    "score": 465,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 3,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 468,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "思想政治教育",
+    "score": 473,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 4,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 4,
+    "sourceMaximumScore": 480,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "旅游管理",
+    "score": 442,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 5,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 446,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。原图计划4人、实际录取3人；这个差异不用于认定征集轮次。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-6",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "汉语国际教育",
+    "score": 447,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 6,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 464,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "历史",
+    "sourceTrack": "历史类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "家政学",
+    "score": 454,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 7,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选历史；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 457,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "教育技术学",
+    "score": 430,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 8,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 437,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-9",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "小学教育",
+    "score": 432,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 9,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 5,
+    "sourceMaximumScore": 448,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-10",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "应急管理",
+    "score": 434,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 10,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 4,
+    "sourceMaximumScore": 443,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-11",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "物理学",
+    "score": 436,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 11,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 5,
+    "sourceMaximumScore": 443,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-12",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "数学与应用数学",
+    "score": 450,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 12,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 4,
+    "sourceMaximumScore": 465,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-13",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "光电信息科学与工程",
+    "score": 450,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 13,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 489,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-14",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "化学",
+    "score": 435,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 14,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 457,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-15",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "材料化学",
+    "score": 436,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 15,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 4,
+    "sourceMaximumScore": 451,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-16",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "地理科学",
+    "score": 459,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 16,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 465,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-17",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "生物科学",
+    "score": 441,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 17,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 446,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-18",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "农业资源与环境",
+    "score": 433,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 18,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 5,
+    "sourceMaximumScore": 439,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-19",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "计算机科学与技术",
+    "score": 459,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 19,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 476,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-20",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "软件工程",
+    "score": 453,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 20,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 2,
+    "sourceMaximumScore": 453,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  },
+  {
+    "id": "major-20260912b2-c-10723-wnu-13-21",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "sourceSchool": "渭南师范学院",
+    "track": "物理",
+    "sourceTrack": "物理类",
+    "batch": "本科（批次待核）",
+    "round": "录取汇总（轮次未分）",
+    "group": null,
+    "major": "人工智能",
+    "score": 452,
+    "scoreType": "专业录取最低分",
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260912b2-c-wnu-13",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "gxeea-2026-33106",
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "sourceTable": 1,
+    "sourceRow": 21,
+    "reviewedAt": "2026-09-12",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreBasis": "750分制普通高考总分（包含学校认可的政策加分口径）",
+    "scoreScaleMaximum": 750,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "admissionType": "普通类",
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "首选物理；原成绩表未列再选科目",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "province": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "track": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "major": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "score": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "batch": [
+        "major-20260912b2-c-wnu-gx",
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "round": [
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "admittedCount": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "admissionType": [
+        "major-20260912b2-c-wnu-13"
+      ],
+      "schoolCode": [
+        "gxeea-2026-33106"
+      ],
+      "school": [
+        "major-20260912b2-c-wnu-charter"
+      ],
+      "scoreBasis": [
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-charter-mirror"
+      ],
+      "note": [
+        "major-20260912b2-c-wnu-13",
+        "major-20260912b2-c-wnu-charter",
+        "major-20260912b2-c-wnu-gx"
+      ],
+      "sourceMaximumScore": [
+        "major-20260912b2-c-wnu-13"
+      ]
+    },
+    "admittedCount": 3,
+    "sourceMaximumScore": 472,
+    "sourceScoreHeader": "文化分投档 录取最高/最低分",
+    "sourceScoreNote": "文化分录取",
+    "note": "2026录取快讯的完整广西普通类专业表；原表头为“文化分投档 录取最高/最低分”，说明列为“文化分录取”，另列实际录取数。本字段据该录取快讯保存实际专业录取最低分，完整保留混合措辞；它未标“首次投档最低分”，也不解释成不含加分的裸分。章程按政策加降分后的成绩排序录取。具体本科批次、首轮/征集、组码及再选科目未列，保留未知/汇总。非外语专业外语语种不限，公共课程开大学英语，可选修日语、朝鲜语、俄语。录取人数不作为招生计划。"
+  }
+]

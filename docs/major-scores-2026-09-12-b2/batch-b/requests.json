@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cuc-home",
+    "url": "https://zhaosheng.cuc.edu.cn/"
+  },
+  {
+    "id": "jnu-home",
+    "url": "https://admission.jiangnan.edu.cn/"
+  },
+  {
+    "id": "lzu-home",
+    "url": "https://zsb.lzu.edu.cn/index.html"
+  },
+  {
+    "id": "citydg-home",
+    "url": "https://www.cityu-dg.edu.cn/"
+  },
+  {
+    "id": "buct-home",
+    "url": "https://goto.buct.edu.cn/"
+  },
+  {
+    "id": "cufe-home",
+    "url": "https://zs.cufe.edu.cn/"
+  },
+  {
+    "id": "gzhmu-home",
+    "url": "https://zs.gzhmu.edu.cn/"
+  }
+]

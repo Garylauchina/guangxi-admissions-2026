@@ -1,0 +1,25 @@
+{
+  "publicFiles": [
+    "major-cutoffs-upsert.json",
+    "sources.json",
+    "school-audit-notes.json",
+    "evidence-rows.json",
+    "excluded-records.json",
+    "QA.json",
+    "README.md",
+    "PUBLIC-FILES.json",
+    "collect.py",
+    "build.py",
+    "parse_tables.py",
+    "requests.json",
+    "image-transcription.tsv",
+    "baseline-context.json",
+    "code-sources.json",
+    "importer-preflight.json"
+  ],
+  "excluded": [
+    "raw/**",
+    "__pycache__/**"
+  ],
+  "note": "原网页/图片/响应元数据仅本地；公开结构化统计事实、哈希和相对路径脚本。"
+}

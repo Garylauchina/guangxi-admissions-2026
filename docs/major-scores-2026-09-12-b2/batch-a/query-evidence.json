@@ -1,0 +1,430 @@
+{
+  "scopeYear": 2026,
+  "recordCount": 0,
+  "schools": {
+    "10422": {
+      "availableGuangxiYears": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "menuOptions": [
+        {
+          "广西_2025_物理类_sex_campus": [
+            "普通类",
+            "国家专项",
+            "高校专项",
+            "专业志愿",
+            "少数民族预科"
+          ]
+        },
+        {
+          "广西_2025_历史类_sex_campus": [
+            "普通类",
+            "国家专项",
+            "高校专项",
+            "少数民族预科"
+          ]
+        },
+        {
+          "广西_2024_物理类_sex_campus": [
+            "普通类",
+            "国家专项",
+            "高校专项",
+            "专业志愿",
+            "少数民族预科"
+          ]
+        },
+        {
+          "广西_2024_历史类_sex_campus": [
+            "普通类",
+            "国家专项",
+            "高校专项",
+            "少数民族预科"
+          ]
+        },
+        {
+          "广西_2023_理工_sex_campus": [
+            "普通类",
+            "国家专项",
+            "高校专项",
+            "少数民族预科"
+          ]
+        },
+        {
+          "广西_2023_文史_sex_campus": [
+            "普通类",
+            "国家专项",
+            "高校专项",
+            "少数民族预科"
+          ]
+        }
+      ],
+      "queries": [
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2026-历史类-国家专项",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "历史类",
+            "zslx": "国家专项"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2026-历史类-少数民族预科",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "历史类",
+            "zslx": "少数民族预科"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2026-历史类-普通类",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "历史类",
+            "zslx": "普通类"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2026-历史类-高校专项",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "历史类",
+            "zslx": "高校专项"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2026-物理类-专业志愿",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "专业志愿"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2026-物理类-国家专项",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "国家专项"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2026-物理类-少数民族预科",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "少数民族预科"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2026-物理类-普通类",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "普通类"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2026-物理类-高校专项",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "高校专项"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        }
+      ],
+      "oldYearControls": [
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2025-历史类-普通类",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2025",
+            "klmc": "历史类",
+            "zslx": "普通类"
+          },
+          "state": 1,
+          "majorRows": 11
+        },
+        {
+          "sourceId": "major-20260912b2-a-sdu-gx-2025-物理类-普通类",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2025",
+            "klmc": "物理类",
+            "zslx": "普通类"
+          },
+          "state": 1,
+          "majorRows": 24
+        }
+      ]
+    },
+    "10019": {
+      "availableGuangxiYears": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "menuOptions": [
+        {
+          "广西_2025_物理类_sex_campus": [
+            "普通类",
+            "国家专项",
+            "高校专项",
+            "中外合作办学",
+            "烟台研究院"
+          ]
+        },
+        {
+          "广西_2025_历史类_sex_campus": [
+            "普通类",
+            "中外合作办学",
+            "烟台研究院"
+          ]
+        },
+        {
+          "广西_2024_物理类_sex_campus": [
+            "普通类",
+            "国家专项",
+            "高校专项"
+          ]
+        },
+        {
+          "广西_2024_历史类_sex_campus": [
+            "普通类",
+            "中外合作办学",
+            "烟台研究院"
+          ]
+        },
+        {
+          "广西_2023_理工_sex_campus": [
+            "普通类",
+            "国家专项",
+            "高校专项"
+          ]
+        },
+        {
+          "广西_2023_文史_sex_campus": [
+            "中外合作办学"
+          ]
+        }
+      ],
+      "queries": [
+        {
+          "sourceId": "major-20260912b2-a-cau-gx-session-2026-历史类-中外合作办学",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "历史类",
+            "zslx": "中外合作办学"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-cau-gx-session-2026-历史类-普通类",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "历史类",
+            "zslx": "普通类"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-cau-gx-session-2026-物理类-中外合作办学",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "中外合作办学"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-cau-gx-session-2026-物理类-国家专项",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "国家专项"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-cau-gx-session-2026-物理类-普通类",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "普通类"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        },
+        {
+          "sourceId": "major-20260912b2-a-cau-gx-session-2026-物理类-高校专项",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2026",
+            "klmc": "物理类",
+            "zslx": "高校专项"
+          },
+          "state": 1,
+          "majorRows": 0,
+          "summaryRows": 0
+        }
+      ],
+      "oldYearControls": [
+        {
+          "sourceId": "major-20260912b2-a-cau-gx-session-2025-历史类-普通类",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2025",
+            "klmc": "历史类",
+            "zslx": "普通类"
+          },
+          "state": 1,
+          "majorRows": 6
+        },
+        {
+          "sourceId": "major-20260912b2-a-cau-gx-session-2025-物理类-普通类",
+          "parameters": {
+            "ssmc": "广西",
+            "zsnf": "2025",
+            "klmc": "物理类",
+            "zslx": "普通类"
+          },
+          "state": 1,
+          "majorRows": 21
+        }
+      ]
+    },
+    "10268": {
+      "accessChecks": [
+        {
+          "sourceId": "major-20260912b2-a-shutcm-home",
+          "httpStatus": 504
+        },
+        {
+          "sourceId": "major-20260912b2-a-shutcm-home-retry",
+          "httpStatus": 504
+        },
+        {
+          "sourceId": "major-20260912b2-a-shutcm-school",
+          "httpStatus": 403
+        }
+      ],
+      "actualScoreQueriesRun": false
+    },
+    "10652": {
+      "accessChecks": [
+        {
+          "sourceId": "major-20260912b2-a-swupl-home",
+          "httpStatus": 200
+        },
+        {
+          "sourceId": "major-20260912b2-a-swupl-admissions",
+          "httpStatus": 412
+        },
+        {
+          "sourceId": "major-20260912b2-a-swupl-entry",
+          "httpStatus": 412
+        }
+      ],
+      "actualScoreQueriesRun": false
+    },
+    "10590": {
+      "sourceIds": [
+        "major-20260912b2-a-szu-directory",
+        "major-20260912b2-a-szu-current-entry",
+        "major-20260912b2-a-szu-gx-old"
+      ],
+      "tableYears": [
+        2025,
+        2024
+      ],
+      "currentActualRows": 0,
+      "reason": "广西表体为旧年；当前入口的第一次投档口径另需审查，不与实际专业录取汇总混淆。"
+    },
+    "10559": {
+      "sourceIds": [
+        "major-20260912b2-a-jnu-entry",
+        "major-20260912b2-a-jnu-directory",
+        "major-20260912b2-a-jnu-year-directory",
+        "major-20260912b2-a-jnu-gx-old"
+      ],
+      "latestScoreYear": 2025,
+      "publishedYear": 2026,
+      "currentActualRows": 0
+    },
+    "10272": {
+      "sourceId": "major-20260912b2-a-shufe-query-entry",
+      "menuYears": [
+        2026,
+        2025,
+        2024
+      ],
+      "provinceOption": "广西",
+      "tableFields": [
+        "年份",
+        "省市",
+        "科类名称",
+        "专业名称",
+        "最高分",
+        "最低分",
+        "备注"
+      ],
+      "captchaRequired": true,
+      "actualScoreQueriesRun": false
+    }
+  },
+  "manualReview": {
+    "sdu-summary-table": "原图列为省市代码、省市、科类名称、统计类型、录取人数、最低分、最高分、平均分；没有专业名称列，不把类别汇总转专业分。",
+    "szu-current-entry": "主入口正文备注为按第一次投档统计。广西分专业表体年份为2025/2024，全部排除。"
+  }
+}

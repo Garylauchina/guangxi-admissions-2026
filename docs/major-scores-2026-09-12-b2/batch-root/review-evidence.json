@@ -1,0 +1,500 @@
+{
+  "reviewedAt": "2026-09-12",
+  "checks": [
+    {
+      "check": "UIBE parameter response success",
+      "passed": true
+    },
+    {
+      "check": "UIBE professional minOrder label",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-1.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-1.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-1.json row2 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-1.json row3 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-1.json row4 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-2.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-2.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-2.json row2 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-2.json row3 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-2.json row4 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-2.json row5 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-2.json row6 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-2.json row7 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-3.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-3.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-4.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-4.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-5.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-5.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-5.json row2 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-5.json row3 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-6.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-6.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row2 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row3 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row4 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row5 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row6 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row7 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row8 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row9 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row10 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json row11 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-8.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-8.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-9.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-9.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-10.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-10.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-11.json exact successful selected query",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-11.json row1 direct identity and rank",
+      "passed": true
+    },
+    {
+      "check": "UIBE prior history positive",
+      "passed": true
+    },
+    {
+      "check": "UIBE prior physics positive",
+      "passed": true
+    },
+    {
+      "check": "UIBE 30 majors 83 admissions",
+      "passed": true
+    },
+    {
+      "check": "UIBE charter2026 and score/selection conditions",
+      "passed": true
+    },
+    {
+      "check": "SDUWH old physics positive",
+      "passed": true
+    },
+    {
+      "check": "SDUWH old history positive",
+      "passed": true
+    },
+    {
+      "check": "SDUWH current GET physics correct empty",
+      "passed": true
+    },
+    {
+      "check": "SDUWH current GET history correct empty",
+      "passed": true
+    },
+    {
+      "check": "SDUWH current GET physics-national correct empty",
+      "passed": true
+    },
+    {
+      "check": "SDUWH current GET history-national correct empty",
+      "passed": true
+    },
+    {
+      "check": "SDUWH malformed POST excluded 2025 physics",
+      "passed": true
+    },
+    {
+      "check": "SDUWH malformed POST excluded 2025 history",
+      "passed": true
+    },
+    {
+      "check": "SDUWH malformed POST excluded 2026 physics",
+      "passed": true
+    },
+    {
+      "check": "SDUWH malformed POST excluded 2026 history",
+      "passed": true
+    },
+    {
+      "check": "SUDA old table 38",
+      "passed": true
+    },
+    {
+      "check": "SUDA 2026 selected route no professional table",
+      "passed": true
+    },
+    {
+      "check": "SUDA menu latest2025",
+      "passed": true
+    },
+    {
+      "check": "SCNU PDF is2025 and GX physical page7",
+      "passed": true
+    },
+    {
+      "check": "GDUT official selectedyear2025",
+      "passed": true
+    },
+    {
+      "check": "ZJU latest2026publication actually2025 groupfiling",
+      "passed": true
+    },
+    {
+      "check": "gdut-gx-2025.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "gdut-gx-2025.png original archive digest",
+      "passed": true
+    },
+    {
+      "check": "gdut-home.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "gdut-scores.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "scnu-current.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "scnu-home.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "scnu-notice.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "scnu-plan.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "scnu-prior-scores.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "scnu-prior-scores.pdf original archive digest",
+      "passed": true
+    },
+    {
+      "check": "scnu-years.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-get-2025-history.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-get-2025-physics.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-get-2026-history-national.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-get-2026-history.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-get-2026-physics-national.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-get-2026-physics.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-guide.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-gx-2025-history.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-gx-2025-physics.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-gx-2026-history.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-gx-2026-physics.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-home.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-query.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "sduwh-scores.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "suda-gx-2025.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "suda-gx-2026.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "suda-home.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "suda-scores.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-admissions.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-charter.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-common.js original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-guide.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2025-history.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2025-physics.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-1.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-10.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-11.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-2.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-3.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-4.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-5.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-6.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-7.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-8.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-gx-2026-9.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-home.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-init.js original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-params.json original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-public-query.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-scores.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-tplt.js original archive digest",
+      "passed": true
+    },
+    {
+      "check": "uibe-util.js original archive digest",
+      "passed": true
+    },
+    {
+      "check": "zju-home.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "zju-latest.html original archive digest",
+      "passed": true
+    },
+    {
+      "check": "zju-scores.html original archive digest",
+      "passed": true
+    }
+  ],
+  "manualReview": [
+    {
+      "file": "scnu-prior-scores.pdf",
+      "page": 7,
+      "note": "已渲染核对广西历史6、物理7专业，合计行另计；PDF第一页明确2025。"
+    },
+    {
+      "file": "gdut-gx-2025.png",
+      "note": "已目视核对广西专业录取数/max/avg/min/排名，来源上级页面2025，不能改写年份。"
+    }
+  ]
+}

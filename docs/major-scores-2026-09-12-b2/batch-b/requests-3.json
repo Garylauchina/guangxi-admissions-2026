@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cuc-tplt",
+    "url": "https://zszx.cuc.edu.cn/static/front/cuc/basic/js/tplt.js"
+  },
+  {
+    "id": "cufe-common",
+    "url": "https://zs.cufe.edu.cn/static/front/cufe/basic/js/common.js"
+  },
+  {
+    "id": "buct-common",
+    "url": "https://goto.buct.edu.cn/static/front/buct/basic/js/common.js"
+  },
+  {
+    "id": "jnu-app",
+    "url": "http://admission1.jiangnan.edu.cn/pc/js/app.50d5b8b16fecfde22097.js"
+  },
+  {
+    "id": "citydg-main",
+    "url": "https://www.cityu-dg.edu.cn/zh/home.html"
+  },
+  {
+    "id": "gzhmu-external",
+    "url": "https://zs.gzhmu.edu.cn/wnlqfs/lnfs_ws_/a2025n.htm"
+  },
+  {
+    "id": "lzu-entry-http",
+    "url": "http://zsdata.lzu.edu.cn/zsdata/lqxx/#/lnfs"
+  }
+]

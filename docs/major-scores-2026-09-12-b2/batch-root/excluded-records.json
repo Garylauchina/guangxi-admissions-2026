@@ -1,0 +1,50 @@
+[
+  {
+    "file": "uibe-gx-2026-4.json",
+    "sourceRow": 1,
+    "included": false,
+    "exclusionReason": "预科汇总不作为具体本科专业录取分",
+    "fields": {
+      "ssmc": "广西",
+      "nf": "2026",
+      "klmc": "历史类",
+      "zymc": "少数民族预科班",
+      "minScore": 604.0,
+      "maxScore": 609.0,
+      "avgScore": 606.5,
+      "minOrder": 1229,
+      "minRank": 1229,
+      "rs": 2,
+      "zydm": "000000",
+      "zyzname": "",
+      "pcmc": "本科普通批",
+      "zslx": "少数民族预科",
+      "zylx": "少数民族预科",
+      "zycc": "少数民族预科"
+    }
+  },
+  {
+    "file": "uibe-gx-2026-9.json",
+    "sourceRow": 1,
+    "included": false,
+    "exclusionReason": "预科汇总不作为具体本科专业录取分",
+    "fields": {
+      "ssmc": "广西",
+      "nf": "2026",
+      "klmc": "物理类",
+      "zymc": "少数民族预科班",
+      "minScore": 606.0,
+      "maxScore": 609.0,
+      "avgScore": 607.5,
+      "minOrder": 8885,
+      "minRank": 8885,
+      "rs": 2,
+      "zydm": "000000",
+      "zyzname": "",
+      "pcmc": "本科普通批",
+      "zslx": "少数民族预科",
+      "zylx": "少数民族预科",
+      "zycc": "少数民族预科"
+    }
+  }
+]

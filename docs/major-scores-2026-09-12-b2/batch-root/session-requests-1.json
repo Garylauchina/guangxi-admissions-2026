@@ -1,0 +1,13 @@
+[
+  {
+    "entryUrl": "https://aeo.uibe.edu.cn/lqcx/static/front/uibe/basic/html_web/lnfs.html",
+    "baseUrl": "https://aeo.uibe.edu.cn/lqcx",
+    "queries": [
+      {
+        "name": "uibe-params.json",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  }
+]

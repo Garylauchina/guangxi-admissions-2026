@@ -1,0 +1,92 @@
+[
+  {
+    "id": "major-audit-20260912b2-c-12758",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12758",
+    "school": "重庆城市管理职业大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "collected",
+    "recordCount": 9,
+    "note": "取得2026广西高职专科普通类完整9条，历史4、物理5，录取20人。校名与广西当年表均为重庆城市管理职业大学，五位码12758；章程学校标识码4150012758，不因域名或升格推断新代码。轮次/组码/再选科目未列。",
+    "scope": "仅本轮列明的官方页面及图表，不等同全校全渠道完整公开；未采不代表零录取。",
+    "sourceIds": [
+      "major-20260912b2-c-cqc-gx",
+      "major-20260912b2-c-cqc-charter"
+    ],
+    "checkedUrls": [
+      "https://zs.cqc.edu.cn/2026/0808/c1594a93607/page.htm",
+      "https://zs.cqc.edu.cn/2026/0615/c1594a92875/page.htm"
+    ]
+  },
+  {
+    "id": "major-audit-20260912b2-c-10383",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10383",
+    "school": "铜陵学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "collected",
+    "recordCount": 2,
+    "note": "取得2026广西普通本科批次完整2条专业成绩、共录取10人。原图录取日期7月25日，最高最低平均分，物理-化学类别明确；未据日期认定首轮。",
+    "scope": "仅本轮列明的官方页面及图表，不等同全校全渠道完整公开；未采不代表零录取。",
+    "sourceIds": [
+      "major-20260912b2-c-tlu-gx",
+      "major-20260912b2-c-tlu-table",
+      "major-20260912b2-c-tlu-charter"
+    ],
+    "checkedUrls": [
+      "https://zsb.tlu.edu.cn/2026/0725/c1749a131501/page.htm",
+      "https://zsb.tlu.edu.cn/2026/0601/c1750a129215/page.htm",
+      "https://zsb.tlu.edu.cn/_upload/article/images/9c/de/c313dd7d43eb91be9d467bd2011b/c4949c3b-5f37-495b-bd68-71444df36735.png"
+    ]
+  },
+  {
+    "id": "major-audit-20260912b2-c-10723",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10723",
+    "school": "渭南师范学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "collected",
+    "recordCount": 21,
+    "note": "取得2026快讯完整广西普通类原图21条，历史7、物理14，共录取66人；其中旅游管理计划4、录取3。原表文化分投档录取最高/最低分与文化分录取说明完整保留，不改为裸分，也不以人数差推定征集。具体本科批次/轮次/组码未明。",
+    "scope": "仅本轮列明的官方页面及图表，不等同全校全渠道完整公开；未采不代表零录取。",
+    "sourceIds": [
+      "major-20260912b2-c-wnu-gx",
+      "major-20260912b2-c-wnu-13",
+      "major-20260912b2-c-wnu-charter",
+      "major-20260912b2-c-wnu-charter-mirror"
+    ],
+    "checkedUrls": [
+      "https://zsb.wnu.edu.cn/info/1013/2436.htm",
+      "https://zsb.wnu.edu.cn/__local/9/73/A7/4C91FE8E3B9188BB71EEB2C7A95_0B1E758D_C5F9.png",
+      "https://zsb.wnu.edu.cn/info/1015/2416.htm",
+      "https://xgb.wnu.edu.cn/yingxin/info/1008/1045.htm"
+    ]
+  },
+  {
+    "id": "major-audit-20260912b2-c-13283",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "13283",
+    "school": "浙江农林大学暨阳学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-12",
+    "status": "not-found-current-major",
+    "recordCount": 0,
+    "note": "2026广西首轮录取公告只给物理/历史两个科类最高最低分，没有具体专业，后附征求计划；科类汇总不拆成专业分，征求余额不当初始计划。",
+    "scope": "仅本轮列明的官方页面及图表，不等同全校全渠道完整公开；未采不代表零录取。",
+    "sourceIds": [
+      "major-20260912b2-c-jy-gx",
+      "major-20260912b2-c-jy-table"
+    ],
+    "checkedUrls": [
+      "https://zs.zjyc.edu.cn/info/1027/1767.htm",
+      "https://zs.zjyc.edu.cn/__local/2/0D/3B/C27642C5CC2D7C058CCA4B7C812_BF634604_15A1.png"
+    ]
+  }
+]

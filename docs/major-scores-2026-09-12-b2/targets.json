@@ -1,0 +1,202 @@
+[
+  {
+    "priority": 1,
+    "schoolCode": "10422",
+    "school": "山东大学",
+    "highestFirstRoundGroupScore": 626,
+    "track": "物理",
+    "group": "106",
+    "cutoffId": "gx-2026-33107-10422-106",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 2,
+    "schoolCode": "10268",
+    "school": "上海中医药大学",
+    "highestFirstRoundGroupScore": 625,
+    "track": "物理",
+    "group": "101",
+    "cutoffId": "gx-2026-33107-10268-101",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 3,
+    "schoolCode": "10590",
+    "school": "深圳大学",
+    "highestFirstRoundGroupScore": 624,
+    "track": "物理",
+    "group": "103",
+    "cutoffId": "gx-2026-33107-10590-103",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 4,
+    "schoolCode": "10272",
+    "school": "上海财经大学",
+    "highestFirstRoundGroupScore": 623,
+    "track": "历史",
+    "group": "101",
+    "cutoffId": "gx-2026-33106-10272-101",
+    "sourceId": "gxeea-2026-33106"
+  },
+  {
+    "priority": 5,
+    "schoolCode": "10559",
+    "school": "暨南大学",
+    "highestFirstRoundGroupScore": 623,
+    "track": "物理",
+    "group": "108",
+    "cutoffId": "gx-2026-33107-10559-108",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 6,
+    "schoolCode": "10652",
+    "school": "西南政法大学",
+    "highestFirstRoundGroupScore": 623,
+    "track": "历史",
+    "group": "101",
+    "cutoffId": "gx-2026-33106-10652-101",
+    "sourceId": "gxeea-2026-33106"
+  },
+  {
+    "priority": 7,
+    "schoolCode": "10019",
+    "school": "中国农业大学",
+    "highestFirstRoundGroupScore": 621,
+    "track": "物理",
+    "group": "102",
+    "cutoffId": "gx-2026-33107-10019-102",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 8,
+    "schoolCode": "10033",
+    "school": "中国传媒大学",
+    "highestFirstRoundGroupScore": 621,
+    "track": "物理",
+    "group": "123",
+    "cutoffId": "gx-2026-33107-10033-123",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 9,
+    "schoolCode": "10295",
+    "school": "江南大学",
+    "highestFirstRoundGroupScore": 621,
+    "track": "物理",
+    "group": "105",
+    "cutoffId": "gx-2026-33107-10295-105",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 10,
+    "schoolCode": "10730",
+    "school": "兰州大学",
+    "highestFirstRoundGroupScore": 620,
+    "track": "物理",
+    "group": "111",
+    "cutoffId": "gx-2026-33107-10730-111",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 11,
+    "schoolCode": "14851",
+    "school": "香港城市大学(东莞)",
+    "highestFirstRoundGroupScore": 620,
+    "track": "物理",
+    "group": "301",
+    "cutoffId": "gx-2026-33107-14851-301",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 12,
+    "schoolCode": "10010",
+    "school": "北京化工大学",
+    "highestFirstRoundGroupScore": 619,
+    "track": "物理",
+    "group": "101",
+    "cutoffId": "gx-2026-33107-10010-101",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 13,
+    "schoolCode": "10034",
+    "school": "中央财经大学",
+    "highestFirstRoundGroupScore": 619,
+    "track": "历史",
+    "group": "101",
+    "cutoffId": "gx-2026-33106-10034-101",
+    "sourceId": "gxeea-2026-33106"
+  },
+  {
+    "priority": 14,
+    "schoolCode": "10570",
+    "school": "广州医科大学",
+    "highestFirstRoundGroupScore": 619,
+    "track": "物理",
+    "group": "101",
+    "cutoffId": "gx-2026-33107-10570-101",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 15,
+    "schoolCode": "10574",
+    "school": "华南师范大学",
+    "highestFirstRoundGroupScore": 619,
+    "track": "物理",
+    "group": "104",
+    "cutoffId": "gx-2026-33107-10574-104",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 16,
+    "schoolCode": "11845",
+    "school": "广东工业大学",
+    "highestFirstRoundGroupScore": 619,
+    "track": "物理",
+    "group": "102",
+    "cutoffId": "gx-2026-33107-11845-102",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 17,
+    "schoolCode": "19422",
+    "school": "山东大学威海分校",
+    "highestFirstRoundGroupScore": 619,
+    "track": "物理",
+    "group": "102",
+    "cutoffId": "gx-2026-33107-19422-102",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 18,
+    "schoolCode": "19335",
+    "school": "浙江大学医学院",
+    "highestFirstRoundGroupScore": 618,
+    "track": "物理",
+    "group": "150",
+    "cutoffId": "gx-2026-33107-19335-150",
+    "sourceId": "gxeea-2026-33107"
+  },
+  {
+    "priority": 19,
+    "schoolCode": "10036",
+    "school": "对外经济贸易大学",
+    "highestFirstRoundGroupScore": 617,
+    "track": "历史",
+    "group": "102",
+    "cutoffId": "gx-2026-33106-10036-102",
+    "sourceId": "gxeea-2026-33106"
+  },
+  {
+    "priority": 20,
+    "schoolCode": "10285",
+    "school": "苏州大学",
+    "highestFirstRoundGroupScore": 617,
+    "track": "物理",
+    "group": "104",
+    "cutoffId": "gx-2026-33107-10285-104",
+    "sourceId": "gxeea-2026-33107"
+  }
+]
