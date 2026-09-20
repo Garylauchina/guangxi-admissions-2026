@@ -13,6 +13,36 @@ test('专业分导入拒绝错省年、投档线、综合分、合计、多专�
   }
 });
 
+test('官方专业描述中的顿号可在成对中英文括号内出现，导入保留完整原名',()=>{
+  const current={scores:[],sources:[source],notes:[]};
+  for(const major of ['机械类（机器人、智能制造与新能源车辆）','应用化学（新材料、新能源与智能传感）','机械类(机器人、智能制造与新能源车辆)','工科试验班（智能制造(机器人、智能装备)、新能源）']){
+    const officialRow={...row,major};
+    const next=prepareMajorScoreBatch(current,{scores:[officialRow],sources:[],notes:[]});
+    assert.deepEqual(next.scores,[officialRow]);
+    assert.equal(next.changes[0].action,'add');
+  }
+  assert.deepEqual(current,{scores:[],sources:[source],notes:[]});
+});
+
+test('括号不能掩盖外部多专业、等专业、预科班或不完整的专业名称',()=>{
+  const current={scores:[],sources:[source],notes:[]},before=JSON.stringify(current);
+  for(const major of [
+    '计算机科学与技术、软件工程',
+    '机械类（机器人、智能制造）、软件工程',
+    '计算机科学与技术、软件工程（智能方向）',
+    '机械类（机器人、智能制造',
+    '机械类（智能制造））',
+    '机械类(机器人、智能制造）',
+    '机械类（机器人(智能装备）、新能源)',
+    '机械类（机器人等专业）',
+    '机械类（预科班）',
+    '（计算机科学与技术、软件工程）',
+  ]){
+    assert.throws(()=>prepareMajorScoreBatch(current,{scores:[{...row,major}],sources:[],notes:[]}),/Not a single major or formal major class/,major);
+    assert.equal(JSON.stringify(current),before);
+  }
+});
+
 test('保留汇总和征集；重复新ID与无证据改分拒绝，来源冲突保留原数但禁用比较',()=>{
   const current={scores:[row],sources:[source],notes:[]};
   assert.throws(()=>prepareMajorScoreBatch(current,{scores:[{...row,id:'duplicate'}],sources:[],notes:[]}));

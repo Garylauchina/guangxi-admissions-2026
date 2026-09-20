@@ -1,0 +1,30 @@
+{
+  "capturedAt": "2026-09-20T17:22:53.076Z",
+  "commit": "de5b257387103a4c9a1ff5c127fbfcd54280a75a",
+  "files": {
+    "cutoffs": {
+      "rows": 11448,
+      "sha256": "d1766a2c8cece80db3c6a2d8548149e3ce255f87083cc95e981149f809b0d0a3"
+    },
+    "plans": {
+      "rows": 2462,
+      "sha256": "6889372a77a5d8ed91b40bd0a41539cec31afddef8370937c5bc21da1beb0790"
+    },
+    "major-cutoffs": {
+      "rows": 1793,
+      "sha256": "7d6f30bda2de96cd24e48a1313d31e43c9b679ac0db5f45af4d25d57efc2bbd6"
+    },
+    "group-admission-scores": {
+      "rows": 8,
+      "sha256": "f832f5ca6e30f8f7b47fe64b87c69001a4a1b34da0207cc8b85ed61bfd5d3c06"
+    },
+    "sources": {
+      "rows": 2300,
+      "sha256": "0e4f766ab192ec355756e9f62339df3345fde97ac45a9eff0c26a821e24d8965"
+    },
+    "school-audit-notes": {
+      "rows": 490,
+      "sha256": "8d3748439d05e5ad23a5cd4f6dd7f44e6c277cfdb33f1ee303e73f86003019d1"
+    }
+  }
+}

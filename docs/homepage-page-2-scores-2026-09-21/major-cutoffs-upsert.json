@@ -1,0 +1,1770 @@
+[
+  {
+    "id": "major-2026-ustb-426ca8570ebb",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "理科试验班（纳米科学与工程试验班）",
+    "score": 639.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 1,
+    "sourceMaximumScore": 639.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "本博班组",
+    "sourceMajorCode": "00700",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 1,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第1行；响应sszygradeList原始第1行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“本博班组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-0936652f9128",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "工科试验班类（卓越工程人才）",
+    "score": 625.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 4,
+    "sourceMaximumScore": 627.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "工科试验班组",
+    "sourceMajorCode": "0060",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 2,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第2行；响应sszygradeList原始第2行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“工科试验班组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-1d78a8022d41",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "理科试验班（拔尖人才计划）",
+    "score": 633.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 2,
+    "sourceMaximumScore": 633.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "理科试验班组",
+    "sourceMajorCode": "00700",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 3,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第3行；响应sszygradeList原始第3行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“理科试验班组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-a99b80fe4b01",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "纳米材料与技术（前沿材料与未来技术）",
+    "score": 622.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 2,
+    "sourceMaximumScore": 623.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "北京组",
+    "sourceMajorCode": "080413",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 4,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第4行；响应sszygradeList原始第4行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“北京组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-e690408d72af",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "材料智能技术（AI与新材料交叉融合）",
+    "score": 623.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 2,
+    "sourceMaximumScore": 625.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "北京组",
+    "sourceMajorCode": "080420",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 5,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第5行；响应sszygradeList原始第5行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“北京组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-005febd83650",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "人工智能",
+    "score": 622.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 4,
+    "sourceMaximumScore": 622.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "北京组",
+    "sourceMajorCode": "080717",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 6,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第6行；响应sszygradeList原始第6行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“北京组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-0aafa752c316",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "数学类（应用数学和统计）",
+    "score": 621.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 3,
+    "sourceMaximumScore": 622.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "北京组",
+    "sourceMajorCode": "0701",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 7,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第7行；响应sszygradeList原始第7行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“北京组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-63e7ddb8adfa",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "应用物理学（半导体和电子科技）",
+    "score": 623.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 2,
+    "sourceMaximumScore": 625.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "北京组",
+    "sourceMajorCode": "070202",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 8,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第8行；响应sszygradeList原始第8行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“北京组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-cd12eff180a7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "材料科学与工程",
+    "score": 620.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 7,
+    "sourceMaximumScore": 625.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "雄安组",
+    "sourceMajorCode": "080401",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 9,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第9行；响应sszygradeList原始第9行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“雄安组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-35b6a4540e52",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "自动化类",
+    "score": 622.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 8,
+    "sourceMaximumScore": 628.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "雄安组",
+    "sourceMajorCode": "0808",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 10,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第10行；响应sszygradeList原始第10行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“雄安组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-837bb40c0fa7",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "计算机类",
+    "score": 623.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 5,
+    "sourceMaximumScore": 626.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "雄安组",
+    "sourceMajorCode": "0809",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 11,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第11行；响应sszygradeList原始第11行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“雄安组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-0b8d57237b51",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "通信工程",
+    "score": 624.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 2,
+    "sourceMaximumScore": 624.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "雄安组",
+    "sourceMajorCode": "080703",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 12,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第12行；响应sszygradeList原始第12行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“雄安组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-e14c7f9307ba",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "机械类（机器人、智能制造与新能源车辆）",
+    "score": 621.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 11,
+    "sourceMaximumScore": 626.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "雄安组",
+    "sourceMajorCode": "0802",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 13,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第13行；响应sszygradeList原始第13行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“雄安组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-1ef0b1419f57",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "储能科学与工程",
+    "score": 622.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 2,
+    "sourceMaximumScore": 625.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "雄安组",
+    "sourceMajorCode": "080504",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 14,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第14行；响应sszygradeList原始第14行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“雄安组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-f17105600a28",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "能源动力类",
+    "score": 620.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 10,
+    "sourceMaximumScore": 621.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "雄安组",
+    "sourceMajorCode": "0805",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 15,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 普通类；分专业录取情况第15行；响应sszygradeList原始第15行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“雄安组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-6f7ec94c98f2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "工商管理类（数智管理试验班）",
+    "score": 598.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 2,
+    "sourceMaximumScore": 599.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "文科组",
+    "sourceMajorCode": "1202",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-历史类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 1,
+    "sourceLocator": "选择2026 / 广西 / 历史类 / 普通类；分专业录取情况第1行；响应sszygradeList原始第1行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-历史类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-历史类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-历史类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“文科组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-da67b63ca938",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "社会科学试验班",
+    "score": 603.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 3,
+    "sourceMaximumScore": 609.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "文科组",
+    "sourceMajorCode": "00150",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-历史类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 2,
+    "sourceLocator": "选择2026 / 广西 / 历史类 / 普通类；分专业录取情况第2行；响应sszygradeList原始第2行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-历史类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-历史类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-历史类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“文科组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-cedd8ea933f1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "外国语言文学类",
+    "score": 597.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 3,
+    "sourceMaximumScore": 599.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "category": "普通类",
+    "sourceGroupName": "文科组",
+    "sourceMajorCode": "0502",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-历史类-普通类",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 3,
+    "sourceLocator": "选择2026 / 广西 / 历史类 / 普通类；分专业录取情况第3行；响应sszygradeList原始第3行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-历史类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-历史类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-历史类-普通类",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-历史类-普通类"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；原文校内组名为“文科组”，未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-a673da27d937",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "应用化学（新材料、新能源与智能传感）",
+    "score": 587.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 1,
+    "sourceMaximumScore": 587.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "国家专项",
+    "category": "国家专项",
+    "sourceGroupName": null,
+    "sourceMajorCode": "070302",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-国家专项",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 1,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 国家专项；分专业录取情况第1行；响应sszygradeList原始第1行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-4cd122b635da",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "材料科学与工程",
+    "score": 595.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 1,
+    "sourceMaximumScore": 595.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "国家专项",
+    "category": "国家专项",
+    "sourceGroupName": null,
+    "sourceMajorCode": "080401",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-国家专项",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 2,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 国家专项；分专业录取情况第2行；响应sszygradeList原始第2行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-a40d7df43d10",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "能源动力类",
+    "score": 595.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 1,
+    "sourceMaximumScore": 595.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "国家专项",
+    "category": "国家专项",
+    "sourceGroupName": null,
+    "sourceMajorCode": "0805",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-国家专项",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 3,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 国家专项；分专业录取情况第3行；响应sszygradeList原始第3行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-5e9b989cc152",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "冶金工程（低碳智慧冶金和战略金属提取）",
+    "score": 581.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 1,
+    "sourceMaximumScore": 581.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "国家专项",
+    "category": "国家专项",
+    "sourceGroupName": null,
+    "sourceMajorCode": "080404",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-国家专项",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 4,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 国家专项；分专业录取情况第4行；响应sszygradeList原始第4行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-2da3e38cc0cb",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "安全工程（智慧安全）",
+    "score": 583.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 1,
+    "sourceMaximumScore": 583.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "国家专项",
+    "category": "国家专项",
+    "sourceGroupName": null,
+    "sourceMajorCode": "082901",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-国家专项",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 5,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 国家专项；分专业录取情况第5行；响应sszygradeList原始第5行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-52e197629452",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "矿业类（战略资源绿色智能开发）",
+    "score": 576.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 2,
+    "sourceMaximumScore": 582.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "国家专项",
+    "category": "国家专项",
+    "sourceGroupName": null,
+    "sourceMajorCode": "0815",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-国家专项",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 6,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 国家专项；分专业录取情况第6行；响应sszygradeList原始第6行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-f80b26163d58",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "智能建造（智慧城市与工程诊治）",
+    "score": 577.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 2,
+    "sourceMaximumScore": 586.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "国家专项",
+    "category": "国家专项",
+    "sourceGroupName": null,
+    "sourceMajorCode": "081008",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-国家专项",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 7,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 国家专项；分专业录取情况第7行；响应sszygradeList原始第7行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-国家专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-国家专项"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  },
+  {
+    "id": "major-2026-ustb-57d1e6d84d95",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10008",
+    "school": "北京科技大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "major": "智能建造（智慧城市与工程诊治）",
+    "score": 607.0,
+    "scoreType": "专业录取最低分",
+    "scoreScaleMaximum": 750,
+    "admittedCount": 1,
+    "sourceMaximumScore": 607.0,
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "高校专项",
+    "category": "高校专项",
+    "sourceGroupName": null,
+    "sourceMajorCode": "081008",
+    "rank": null,
+    "rankType": null,
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "reviewedAt": "2026-09-20T17:31:42.922661+00:00",
+    "sourceIds": [
+      "page2-20260921-d-10008-2026-物理类-高校专项",
+      "page2-20260921-d-10008-score-menu-frontend",
+      "page2-20260921-d-10008-score"
+    ],
+    "sourceRow": 1,
+    "sourceLocator": "选择2026 / 广西 / 物理类 / 高校专项；分专业录取情况第1行；响应sszygradeList原始第1行",
+    "fieldSourceIds": {
+      "score": [
+        "page2-20260921-d-10008-2026-物理类-高校专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "sourceMaximumScore": [
+        "page2-20260921-d-10008-2026-物理类-高校专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "admittedCount": [
+        "page2-20260921-d-10008-2026-物理类-高校专项",
+        "page2-20260921-d-10008-score-menu-frontend"
+      ],
+      "year": [
+        "page2-20260921-d-10008-2026-物理类-高校专项"
+      ],
+      "province": [
+        "page2-20260921-d-10008-2026-物理类-高校专项"
+      ],
+      "track": [
+        "page2-20260921-d-10008-2026-物理类-高校专项"
+      ],
+      "batch": [
+        "page2-20260921-d-10008-2026-物理类-高校专项"
+      ],
+      "admissionType": [
+        "page2-20260921-d-10008-2026-物理类-高校专项"
+      ]
+    },
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "note": "学校官方分专业录取统计；公开表头明确最低分、最高分和录取人数。未分首轮/征集，按录取汇总保存；未提供广西正式三位组码，保持组码待核。校方折页仅标组1至组6，不据序号或相同分数推定组码；位次和平均分未在当前公开表头展示，未采入。"
+  }
+]

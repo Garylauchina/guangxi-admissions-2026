@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-09-20T17:37:47.173763+00:00",
+  "asOfLocalDate": "2026-09-21",
+  "page": 2,
+  "scope": "首页默认物理类、本科普通批、首轮、一般计划、不填分数、每页25条；首页第26至50条",
+  "targetGroups": 25,
+  "targetSchoolCodes": 20,
+  "schoolAudits": 20,
+  "sourceRecords": 114,
+  "newSourceRecords": 99,
+  "newActualMajorScores": 26,
+  "newActualGroupScores": 0,
+  "newSchoolTrackSummaries": 0,
+  "newScoresAdmittedCount": 83,
+  "majorScoreBreakdown": {
+    "physicsOrdinary": 15,
+    "historyOrdinary": 3,
+    "nationalSpecial": 7,
+    "universitySpecial": 1
+  },
+  "remainingGroupScoreGaps": 25,
+  "schoolCodesWithoutActualMajorScores": 19,
+  "plansChanged": false,
+  "filingScoresChanged": false,
+  "completionBoundary": "完成本页列明公开渠道核查，新增北科26条专业实际分，复核既有西工大校级汇总并更新详情核查说明。25组仍缺可直接关联的整组最低录取分；不表示已采全所有渠道。",
+  "schoolTrackSummariesVerified": 1
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "school-admission-2026-gx-10699-physics-summary",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10699",
+    "school": "西北工业大学",
+    "track": "物理",
+    "sourceTrack": "物理类（理工类）",
+    "scoreType": "院校科类录取最低分",
+    "score": 650,
+    "rank": 1150,
+    "rankType": "最低分位次（原表）",
+    "group": null,
+    "major": null,
+    "batch": null,
+    "round": null,
+    "admissionType": null,
+    "sourceCategory": null,
+    "sourceTableTitle": "2026年物理类（理工类）专业录取分数统计表",
+    "sourceLocator": "官方招生工作总结正文：统计表广西行（表头后第7行）；列为省份、本科线、最低分、最低分位次、最低分与本科线分差。",
+    "sourceIds": [
+      "page2-scores-20260921-a-10699-summary"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "page2-scores-20260921-a-10699-summary"
+      ],
+      "province": [
+        "page2-scores-20260921-a-10699-summary"
+      ],
+      "school": [
+        "page2-scores-20260921-a-10699-summary"
+      ],
+      "track": [
+        "page2-scores-20260921-a-10699-summary"
+      ],
+      "score": [
+        "page2-scores-20260921-a-10699-summary"
+      ],
+      "rank": [
+        "page2-scores-20260921-a-10699-summary"
+      ]
+    },
+    "sourceUndergraduateControlLine": 368,
+    "sourceScoreDifference": 282,
+    "evidenceLevel": "school-track-aggregate",
+    "groupComparable": false,
+    "reviewStatus": "official-school-summary-verified",
+    "note": "官方明确2026物理类（理工类）按省录取统计；原表没有专业组码、具体专业、类别和轮次。不得映射101组、填入专业分或称首轮最低分。",
+    "reviewedAt": "2026-09-20T17:24:04.820485+00:00"
+  }
+]

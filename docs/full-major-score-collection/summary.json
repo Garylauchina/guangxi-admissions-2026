@@ -27,28 +27,28 @@
   "records": {
     "cutoffs": 11448,
     "plans": 2462,
-    "major-cutoffs": 1793,
+    "major-cutoffs": 1819,
     "school-coverage": 1961,
     "supplementary-plans": 84,
     "major-filing-cutoffs": 136,
-    "school-audit-notes": 490,
+    "school-audit-notes": 510,
     "plan-source-catalog": 70,
     "special-programs": 43,
-    "sources": 2300
+    "sources": 2399
   },
   "scoreStatusCounts": {
     "not-score-reviewed": 1655,
-    "partial-collected": 52,
-    "reviewed-no-actual-records": 254
+    "partial-collected": 53,
+    "reviewed-no-actual-records": 253
   },
   "scoreAudit": {
-    "noteRecords": 396,
+    "noteRecords": 416,
     "reviewedSchoolCodes": 306,
     "schoolCodesWithAuditNotes": 306,
     "legacyNoteRecords": 25,
     "reviewedNoActualScoreLevelCounts": {
       "mixed": 6,
-      "undergraduate": 198,
+      "undergraduate": 197,
       "vocational": 50
     },
     "notReviewedLevelCounts": {
@@ -65,35 +65,35 @@
     "classificationRule": "audit notes: auditKind === major-scores OR id matches ^review-major-(gap|collected)-; plan-only audits excluded; schools with stored actual-score evidence (including pending-only) are also reviewed"
   },
   "actualMajorScores": {
-    "schoolCodesWithSomeRecords": 53,
-    "schoolCodesWithComparableRecords": 52,
+    "schoolCodesWithSomeRecords": 54,
+    "schoolCodesWithComparableRecords": 53,
     "pendingOnlySchoolCodes": [
       "11548"
     ],
     "schoolStatusRule": "partial-collected requires at least one comparable numeric actual score; pending-only schools are reviewed-no-actual-records (no comparable actual score)",
     "ordinaryLevelCounts": {
       "mixed": 4,
-      "undergraduate": 42,
+      "undergraduate": 43,
       "vocational": 6
     },
-    "comparableRecords": 1672,
+    "comparableRecords": 1698,
     "pendingComparisonRecords": 121,
     "sourceConflictRecords": 128,
-    "literalTrackMajorKeys": 1412,
+    "literalTrackMajorKeys": 1435,
     "recordsWithGroup": 278,
     "recordsWithPublishedRank": 681,
-    "recordsWithAdmittedCount": 773,
+    "recordsWithAdmittedCount": 799,
     "schoolCompletenessEstablished": false,
     "professionalDenominator": null,
     "professionalCompletenessPercent": null
   },
   "planScoreOverlap": {
     "planSchoolCodes": 54,
-    "scoreSchoolCodes": 52,
+    "scoreSchoolCodes": 53,
     "bothSchoolCodes": 25,
     "plansWithoutActualScoresSchoolCodes": 29,
-    "actualScoresWithoutPlansSchoolCodes": 27,
-    "neitherSchoolCodes": 1880,
+    "actualScoresWithoutPlansSchoolCodes": 28,
+    "neitherSchoolCodes": 1879,
     "candidateLiteralTrackMajorKeys": 679,
     "planRowsWithCandidateLiteralMatch": 836,
     "scoreRowsWithCandidateLiteralMatch": 900,
@@ -1597,14 +1597,14 @@
     },
     {
       "path": "site/data/major-cutoffs.json",
-      "bytes": 3237934,
-      "sha256": "7d6f30bda2de96cd24e48a1313d31e43c9b679ac0db5f45af4d25d57efc2bbd6",
-      "records": 1793
+      "bytes": 3291288,
+      "sha256": "c73e29a8d46fa35b6b3a0120fa247bf0948f658a7681e6d233f86954cd1b037f",
+      "records": 1819
     },
     {
       "path": "site/data/school-coverage.json",
-      "bytes": 1102791,
-      "sha256": "760630b71bac90c1850e88b0920da5a1a5501374e271b21588dd3dcbe3e8b4a9",
+      "bytes": 1103107,
+      "sha256": "dfe486b824df3b50306eec7228b9b3067fedf5e2ecbb344735be30532309c5d5",
       "records": 1961
     },
     {
@@ -1621,9 +1621,9 @@
     },
     {
       "path": "site/data/school-audit-notes.json",
-      "bytes": 574644,
-      "sha256": "8d3748439d05e5ad23a5cd4f6dd7f44e6c277cfdb33f1ee303e73f86003019d1",
-      "records": 490
+      "bytes": 604306,
+      "sha256": "2e9acbd2c42acd93074e4834345deb7929fd67f2e8c441b0c0002b67097b40db",
+      "records": 510
     },
     {
       "path": "site/data/plan-source-catalog.json",
@@ -1639,9 +1639,9 @@
     },
     {
       "path": "site/data/sources.json",
-      "bytes": 2041057,
-      "sha256": "0e4f766ab192ec355756e9f62339df3345fde97ac45a9eff0c26a821e24d8965",
-      "records": 2300
+      "bytes": 2119068,
+      "sha256": "0c85d78095e24d650c259e31ecde5e8c0801a965b24373cc8cc9fbcb0561b8bc",
+      "records": 2399
     }
   ],
   "checks": {

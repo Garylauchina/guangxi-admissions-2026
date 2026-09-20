@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-09-20T17:37:47.173763+00:00",
+  "uniqueSchoolAudits": 20,
+  "uniqueTargetGroups": 25,
+  "allSourceReferencesResolve": true,
+  "noInferredOrPriorYearScoresImported": true,
+  "noPlansExpanded": true,
+  "independentOfficialVisibleRowReview": "passed-raw-and-visible-table-review",
+  "rowsMatched": 26,
+  "admittedCount": 83,
+  "groupScoreGapsPreserved": 25,
+  "independentNormalizedReview": "passed",
+  "normalizedRowsMatched": 26,
+  "testsPassed": 34,
+  "baselinePlansFilingAndGroupScoresUnchanged": true
+}

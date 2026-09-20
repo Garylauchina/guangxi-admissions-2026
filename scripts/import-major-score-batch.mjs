@@ -7,6 +7,21 @@ import { buildCoverage } from '../site/coverage.js';
 
 const read = async path => JSON.parse(await readFile(path, 'utf8'));
 const identity = r => [r.year,r.schoolCode,r.track,r.batch,r.group || '',r.major,r.round,r.admissionType || ''].join('|');
+const isSingleMajorName = major => {
+  if(typeof major!=='string' || /等专业|预科班/.test(major))return false;
+  const closing=[];
+  let mainName='';
+  for(const char of major){
+    if(char==='（' || char==='('){closing.push(char==='（'?'）':')');continue;}
+    if(char==='）' || char===')'){
+      if(closing.pop()!==char)return false;
+      continue;
+    }
+    // Official major descriptions may enumerate directions inside matched parentheses.
+    if(!closing.length){if(char==='、')return false;mainName+=char;}
+  }
+  return closing.length===0 && mainName.trim().length>0;
+};
 const index = (rows,label) => {
   assert.ok(Array.isArray(rows),`${label} must be an array`);
   const map = new Map();
@@ -36,7 +51,7 @@ export function prepareMajorScoreBatch(current,batch){
     const roundEvidence=[r.sourceRound,r.evidenceRound].filter(Boolean);
     if(roundEvidence.some(v=>/征集/.test(v)) || /^征集(?:$|[（(：:\s])/.test(r.sourceNote || ''))assert.ok(/征集/.test(r.round),`Supplementary evidence cannot establish first-round scores: ${r.id}`);
     assert.ok(!/艺术批|体育批|艺术类|体育类|职教高考|高职单招|对口|强基|保送/.test(`${r.batch} ${r.admissionType || ''} ${r.sourceTrack || ''} ${r.sourceCategory || ''}`),`Wrong score route: ${r.id}`);
-    assert.ok(!/等专业|、|预科班/.test(r.major),`Not a single major or formal major class: ${r.id}`);
+    assert.ok(isSingleMajorName(r.major),`Not a single major or formal major class: ${r.id}`);
     const validScore=n=>typeof n==='number' && Number.isFinite(n) && n>=0 && n<=750;
     assert.ok(validScore(r.score),`Invalid minimum: ${r.id}`);
     for(const key of ['sourceMaximumScore','sourceAverageScore'])if(r[key]!=null)assert.ok(validScore(r[key]),`Invalid ${key}: ${r.id}`);

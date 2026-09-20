@@ -15,9 +15,9 @@
 
 ## 覆盖与缺口
 
-最新按网站首页默认顺序推进。[9 月 21 日第 1 页录取分专项复核](docs/homepage-page-1-scores-2026-09-21/README.md)覆盖 25 个专业组、21 个院校代码，补查官方分数年份、信息公开及录取公告，**新增实际专业分、整组录取分均为 0 条**。已更新逐组缺口及来源；未取得数据不代表所有渠道均未发布。[9 月 20 日计划补采](docs/homepage-page-1-2026-09-20/README.md)新增的 82 条计划、513 人继续保留，全站计划为 **54 校、2,462 条**；本次未进入第二页。
+最新按网站首页默认顺序推进。[9 月 21 日第 2 页录取分补采](docs/homepage-page-2-scores-2026-09-21/README.md)覆盖第 26—50 条、25 个专业组及 20 个院校代码，**新增北京科技大学 26 条专业实际录取分（录取 83 人），新增整组录取分 0 条**；另复核西北工业大学既有广西物理类校级汇总 650 分、位次 1150，并更新详情核查说明。25 个组仍缺直接整组录取分，具体专业分未知组码时不强行关联。[第一页复核](docs/homepage-page-1-scores-2026-09-21/README.md)及[计划补采](docs/homepage-page-1-2026-09-20/README.md)保留；全站计划仍为 **54 校、2,462 条**。
 
-全量补全工作已取消 20 校上限：[执行计划与验收标准](docs/full-major-score-collection/README.md) · [全量任务清单](docs/full-major-score-collection/inventory.json) · [当前汇总](docs/full-major-score-collection/summary.json)。已完成 [100 校试点](docs/full-major-score-collection/pilot-2026-09-12/README.md)及[新一轮 100 校补采](docs/full-major-score-collection/batch-2026-09-20/README.md)：本站 1,961 个普通招生院校代码中，52 校有可比较专业分、254 校已核查仍缺可比较分、1,655 校尚待独立核查；另为 43 项强基/少年英才目录建独立任务。已建档和已有部分记录均不代表学校专业分已采全。专业分页面重置保留全部轮次，既有汇总记录不会因此隐藏。
+全量补全工作已取消 20 校上限：[执行计划与验收标准](docs/full-major-score-collection/README.md) · [全量任务清单](docs/full-major-score-collection/inventory.json) · [当前汇总](docs/full-major-score-collection/summary.json)。已完成 [100 校试点](docs/full-major-score-collection/pilot-2026-09-12/README.md)及[新一轮 100 校补采](docs/full-major-score-collection/batch-2026-09-20/README.md)：本站 1,961 个普通招生院校代码中，53 校有可比较专业分、253 校已核查仍缺可比较分、1,655 校尚待独立核查；另为 43 项强基/少年英才目录建独立任务。已建档和已有部分记录均不代表学校专业分已采全。专业分页面重置保留全部轮次，既有汇总记录不会因此隐藏。
 
 2026-09-12 的 100 校试点新增 6 校 143 条实际专业分、14 校 410 条初始计划（1,277 人），另有 55 条专业投档分在详情独立展开。广西财经 117 条原文存在年份冲突，单列待核，不参与比较。该试点完成时计划为 49 校、2,380 条；可比较专业分为 42 校、1,394 条，另有 121 条待核。各校缺口与来源见试点报告。
 
@@ -41,7 +41,7 @@
 
 - **2026 普通批投档**：16 张广西招生考试院原表，11,448 条记录，其中首轮 8,155 条，涉及 1,961 个院校代码；征集 3,293 条，分别保存轮次。
 - **一分一档**：物理/历史全国性加分口径，共 1,010 个公开分数档；未公开档不插值。
-- **专业招生计划**：54 校、2,462 条（其中部分为录取公告明确列出的计划数，详见记录备注）；**专业组最低录取分**：2 校、8 条；**可比较专业实际录取分**：52 校、1,672 条，另有 121 条原文待核；**强基**：39 校目录、34 条广西入围或综合成绩，另有 4 个少年英才项目、8 条竞赛与招生政策。
+- **专业招生计划**：54 校、2,462 条（其中部分为录取公告明确列出的计划数，详见记录备注）；**专业组最低录取分**：2 校、8 条；**可比较专业实际录取分**：53 校、1,698 条，另有 121 条原文待核；**强基**：39 校目录、34 条广西入围或综合成绩，另有 4 个少年英才项目、8 条竞赛与招生政策。
 - **专业招生计划、专业实际录取分、强基广西计划/成绩：部分覆盖。** 最新记录数、学校列表与广西状态在网站“数据与方法”及 `docs/validation.json` 中展示。全区官方计划查询的登录限制和本次检索结果见 [访问核验](docs/province-plan-access.md)。不能将此项目称为全区所有高校所有专业的完整招生数据库。
 - 普通批原表中的专项、预科、民族班、定向等备注保留。默认排除识别到的资格限制，但仍需核对未在投档表完整列出的条件。
 - 本科提前批、艺术、体育和各类单独招生未做全量采集，不混入普通类分数比较。
@@ -74,7 +74,7 @@ npm start
 - `scripts/collectors/audit-2026-09-10/` 保存本轮公开来源获取、纠错及复核程序。独立复核还修正医大提前批细分与重庆工程学院不限选科规则。
 - `python3 scripts/integrate-audit.py <audit-directory>` 合并已审阅的三个研究包；`python3 scripts/build-school-audit-notes.py <audit-directory>` 生成复查台账；`node scripts/build-coverage.mjs` 重建逐校缺口。完整流程见本轮报告，不要用旧采集结果覆盖新审计结论。
 - `node scripts/import-plan-batch.mjs <batch-directory>` 预览增量差异，审阅后加 `--apply` 合并；不删除既有记录，不接收征集余额。`scripts/collectors/plan-batches-2026-09-10/` 保存分批复现程序，`node scripts/report-plan-batches.mjs` 生成对比报告。
-- `node scripts/import-major-score-batch.mjs <batch-directory>` 预览专业实际录取分增量，审阅后加 `--apply`；分数来源与冲突检查通过后才写入，不删除旧记录。最新复现包见 `docs/full-major-score-collection/batch-2026-09-20/`。
+- `node scripts/import-major-score-batch.mjs <batch-directory>` 预览专业实际录取分增量，审阅后加 `--apply`；分数来源与冲突检查通过后才写入，不删除旧记录。最新复现包见 `docs/homepage-page-2-scores-2026-09-21/`。
 - `node scripts/build-major-score-queue.mjs --as-of YYYY-MM-DD` 从所有普通学校数据与核查记录重建全量任务清单；新增或更正数据后运行。`npm run queue:check` 检查清单与当前输入一致，已纳入 `npm run check`，避免发布过期进度。
 - `node scripts/validate-data.mjs --write-report` 写入检查报告。投档表记录数变化需要人工审阅，不能直接修改校验基线绕过检查。
 - 每批完成数据导入、覆盖台账和队列重建后，运行 `node scripts/update-asset-versions.mjs`，再运行 `npm test`、`npm run check`。该命令仅更新前端版本：按页面实际读取的全部 13 个 JSON 文件名与原始内容计算共同 SHA-256，写入 `DATA_VERSION`，同步覆盖模块、样式及首页应用版本；不改数据本体。每个 JSON 请求携带相同版本号，避免浏览器混用旧计划与新分数。
