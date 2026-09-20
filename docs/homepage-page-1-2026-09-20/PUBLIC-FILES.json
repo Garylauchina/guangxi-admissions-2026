@@ -1,0 +1,78 @@
+{
+  "policy": "Only listed factual extracts, provenance and review files are public; raw pages, PDFs, images and browser sessions remain local.",
+  "files": [
+    {
+      "path": "QA.json",
+      "sha256": "69d386e6dcd7c567a2e8403fa9d0ec9ed69c7be6faff27cc94e69c193ceb32d3"
+    },
+    {
+      "path": "README.md",
+      "sha256": "72ca3682f76780695244b81e13ac49ed2f1b6631a0e24af28ecab8fa4b96e7d2"
+    },
+    {
+      "path": "group-admission-candidates.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "major-cutoffs-upsert.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "next-page.json",
+      "sha256": "4f765c57646130fc5e40a4a558a039fdf776bf257fd8bc48ffff4ea205513acb"
+    },
+    {
+      "path": "page-baseline.json",
+      "sha256": "9465fcce547799ce4527773337c71e777c6e1789550a37a61186f2c43568763e"
+    },
+    {
+      "path": "plan-import.json",
+      "sha256": "a70509ca71b7fdeddd58456dd7bafdc2de77917ba1e3ea97528ecf5fc5edf142"
+    },
+    {
+      "path": "plans-upsert.json",
+      "sha256": "da6ee28b9b6bb9cbdc0bfd53a5ab699c966aea9b5860f433a7885fb23d1c373d"
+    },
+    {
+      "path": "repository-baseline.json",
+      "sha256": "517a2ae18e051d8fdbe06cb03b3b32dfdce676bf4610dd86309a6a248abd6020"
+    },
+    {
+      "path": "review-c-plans.json",
+      "sha256": "ad3e8f75b1dc64af9a78b7ab04197f29cc85b7c5c2d144ae35ade4db50111a05"
+    },
+    {
+      "path": "review-csu-bupt-plans.json",
+      "sha256": "3123dcba5d44f98a3163ec14c0b2c1ad5d0e37854b29018293a819a81cb75ecb"
+    },
+    {
+      "path": "review-seu-plan.json",
+      "sha256": "fe4cad8418eb846976098f1410483dc8ffdb3c21b822594f96303eaf5eb2779d"
+    },
+    {
+      "path": "school-audit-notes.json",
+      "sha256": "ab8abd080ec30e4b7ed18ddd0c96f5423265db5eb7fda1c1b6002eeae0b185b3"
+    },
+    {
+      "path": "score-import.json",
+      "sha256": "95e97eaeeee1e4b8eafcfeaf92e6fd557b983b26cbb98f9161332bc9e9f9afc8"
+    },
+    {
+      "path": "source-catalog.json",
+      "sha256": "b9bf1728523e91cb9ae8f8ef045e48d0cda24c7d6734ac11d600d8ad7cc1d8be"
+    },
+    {
+      "path": "sources.json",
+      "sha256": "7c98998bb3c8386b4117e3031452f397db9598f786cd408f3302038139605f87"
+    },
+    {
+      "path": "summary.json",
+      "sha256": "d005c5581f7eaa4ae7013460b923ef4bf8b8d57e58bd99fe27741d1366ad2d0e"
+    },
+    {
+      "path": "target-gaps.json",
+      "sha256": "e78aa569d50046be63345a9aeb5de67da01e17847cfb9702b5df8da069a35e36"
+    }
+  ],
+  "manifestSelf": "PUBLIC-FILES.json"
+}

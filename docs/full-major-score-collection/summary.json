@@ -26,15 +26,15 @@
   },
   "records": {
     "cutoffs": 11448,
-    "plans": 2380,
+    "plans": 2462,
     "major-cutoffs": 1793,
     "school-coverage": 1961,
     "supplementary-plans": 84,
     "major-filing-cutoffs": 136,
-    "school-audit-notes": 427,
-    "plan-source-catalog": 65,
+    "school-audit-notes": 469,
+    "plan-source-catalog": 70,
     "special-programs": 43,
-    "sources": 2024
+    "sources": 2202
   },
   "scoreStatusCounts": {
     "not-score-reviewed": 1655,
@@ -42,7 +42,7 @@
     "reviewed-no-actual-records": 254
   },
   "scoreAudit": {
-    "noteRecords": 354,
+    "noteRecords": 375,
     "reviewedSchoolCodes": 306,
     "schoolCodesWithAuditNotes": 306,
     "legacyNoteRecords": 25,
@@ -88,12 +88,12 @@
     "professionalCompletenessPercent": null
   },
   "planScoreOverlap": {
-    "planSchoolCodes": 49,
+    "planSchoolCodes": 54,
     "scoreSchoolCodes": 52,
     "bothSchoolCodes": 25,
-    "plansWithoutActualScoresSchoolCodes": 24,
+    "plansWithoutActualScoresSchoolCodes": 29,
     "actualScoresWithoutPlansSchoolCodes": 27,
-    "neitherSchoolCodes": 1885,
+    "neitherSchoolCodes": 1880,
     "candidateLiteralTrackMajorKeys": 679,
     "planRowsWithCandidateLiteralMatch": 836,
     "scoreRowsWithCandidateLiteralMatch": 900,
@@ -1591,9 +1591,9 @@
     },
     {
       "path": "site/data/plans.json",
-      "bytes": 1783957,
-      "sha256": "00b227d6f90908053dbeccad60a0eb2ee091d46811d3aba9cbbaa5be7a931f44",
-      "records": 2380
+      "bytes": 1877178,
+      "sha256": "6889372a77a5d8ed91b40bd0a41539cec31afddef8370937c5bc21da1beb0790",
+      "records": 2462
     },
     {
       "path": "site/data/major-cutoffs.json",
@@ -1603,8 +1603,8 @@
     },
     {
       "path": "site/data/school-coverage.json",
-      "bytes": 1102417,
-      "sha256": "503f0a44e258e476e25dd2742887811896473b721ec156d9f23f0cbb00c425b8",
+      "bytes": 1102791,
+      "sha256": "760630b71bac90c1850e88b0920da5a1a5501374e271b21588dd3dcbe3e8b4a9",
       "records": 1961
     },
     {
@@ -1621,15 +1621,15 @@
     },
     {
       "path": "site/data/school-audit-notes.json",
-      "bytes": 487792,
-      "sha256": "ca894a5fadb9d3f5a49879531463bdd6314510918c1039fe3a60b06bc1af6800",
-      "records": 427
+      "bytes": 542927,
+      "sha256": "340dda1aa570fce3da0ababddf1ccf6b03815d45e43ef22082f56c91a9d70387",
+      "records": 469
     },
     {
       "path": "site/data/plan-source-catalog.json",
-      "bytes": 44839,
-      "sha256": "45917bb88497d131595783772e0ecc012b86ed047dcdbaac88c98e76bc192316",
-      "records": 65
+      "bytes": 59461,
+      "sha256": "4427ad0ff6cf122b92b802b615be7d52c56b5c4916ed3bd43adcf6391c06e40b",
+      "records": 70
     },
     {
       "path": "site/data/special-programs.json",
@@ -1639,9 +1639,9 @@
     },
     {
       "path": "site/data/sources.json",
-      "bytes": 1803730,
-      "sha256": "16d0781194d56572a663af7674c866ea01263dfa8d70d60c2cd9f2897d5c93ac",
-      "records": 2024
+      "bytes": 1960422,
+      "sha256": "ea60da5b127fa7a15d5387c0c2af7b9c897c2c6310a93d5b773f1f993c3ad493",
+      "records": 2202
     }
   ],
   "checks": {

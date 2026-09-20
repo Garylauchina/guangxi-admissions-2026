@@ -1,0 +1,502 @@
+{
+  "batch": "homepage-page-1-2026-09-20",
+  "before": 2380,
+  "after": 2462,
+  "added": 82,
+  "updated": 0,
+  "catalogSchools": 70,
+  "changes": [
+    {
+      "id": "plan26-first7-sjtu-10248-history-law",
+      "school": "上海交通大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-7599ecc6e661a3b9",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-d8909cbae5090f73",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-9f742290238edf32",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-d708a268ca355a23",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-6bd9405e62ba3122",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-ea327c56295c59ce",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-4f2dc9dce337a0cd",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-65eb8834bce901d8",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-af035f4aa88568a3",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-90fbaf1f5319bb13",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-fe99a572cd37112a",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-cc90cc1410eb943f",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-b46c0ab44a0f8a95",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-547537390599f665",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-e7a9c3bcb2150e86",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-afef57bef801b2f1",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-cec12fbcf72699e0",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-2b0e120780024c69",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-56eec50cf4b40090",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-1daee7e9193c1f7f",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-275ff518d85e112b",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-656f03f209c39500",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-86983da036b4f6e2",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-d1f0ea61c903f842",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-60623db75324f712",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-851ba38566a0a1fa",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-d709ebd1ad598bd8",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-fb10a8ca6232ca45",
+      "school": "四川大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-da22051a5d969207",
+      "school": "西安交通大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-9784d8fa51118563",
+      "school": "西安交通大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-d12e567c083c118e",
+      "school": "西安交通大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-b3cb6ccc5ec99339",
+      "school": "西安交通大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-5a9744e7ccd9bfe8",
+      "school": "西安交通大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-42b6f593d394db4d",
+      "school": "西安交通大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-e23bafa316b45504",
+      "school": "西安交通大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-6d51c3e4a299ecba",
+      "school": "西安交通大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-c055625da3d1edf4",
+      "school": "哈尔滨工业大学(深圳)",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-419b11b3cf85b142",
+      "school": "哈尔滨工业大学(深圳)",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-21de23e0be44dabc",
+      "school": "哈尔滨工业大学(深圳)",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-16caa775e84f36a3",
+      "school": "哈尔滨工业大学(深圳)",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-4034b4cdca17dd7c",
+      "school": "哈尔滨工业大学(深圳)",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-firstpage-df515ca50b5435a5",
+      "school": "哈尔滨工业大学(深圳)",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-01",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-02",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-03",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-04",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-05",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-06",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-07",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-08",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-09",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-10",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-11",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-12",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-13",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-14",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-15",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-16",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-17",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-18",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-19",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-20",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-21",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-22",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-23",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-24",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-seu-25",
+      "school": "东南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-csu-history-01",
+      "school": "中南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-csu-history-02",
+      "school": "中南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-csu-history-03",
+      "school": "中南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-csu-history-04",
+      "school": "中南大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-bupt-01",
+      "school": "北京邮电大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-bupt-02",
+      "school": "北京邮电大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-bupt-03",
+      "school": "北京邮电大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-bupt-04",
+      "school": "北京邮电大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-bupt-05",
+      "school": "北京邮电大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-bupt-06",
+      "school": "北京邮电大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-bupt-07",
+      "school": "北京邮电大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-bupt-08",
+      "school": "北京邮电大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-bupt-09",
+      "school": "北京邮电大学",
+      "action": "add",
+      "fields": []
+    },
+    {
+      "id": "plan26-page1-bupt-10",
+      "school": "北京邮电大学",
+      "action": "add",
+      "fields": []
+    }
+  ]
+}

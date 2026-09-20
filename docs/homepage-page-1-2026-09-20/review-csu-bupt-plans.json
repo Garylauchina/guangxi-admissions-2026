@@ -1,0 +1,50 @@
+{
+  "status": "pass",
+  "reviewedAt": "2026-09-20T08:57:16.620507+00:00",
+  "inputHashes": {
+    "plans-upsert.json": "fa1c8d19de16c52704cc4fe5c256430783e07ded412e76be66c5ee3098002af2",
+    "sources.json": "dfebb18fbb4ea9efec0743dda8b89874d1804f473380f2d990bae7b9c926ac92",
+    "raw/10533-plan26-history.json": "85709d47e100a08718a82da95232a959c8ca98173d440519076973c628555bde",
+    "../c-next-four/raw/bupt-discovery/browser-plan-facts.json": "11a4b41ee90ff873a8b7ff16d37b5335dc371fed1fc410d1e226e237ebe75277"
+  },
+  "rowCount": 14,
+  "totalPlannedCount": 151,
+  "schools": [
+    {
+      "schoolCode": "10533",
+      "school": "中南大学",
+      "rows": 4,
+      "plannedCount": 21,
+      "track": "历史",
+      "method": "官方JSON表头、4行及汇总逐字段比对，并核官网前端公开学校与表ID配置。",
+      "result": "专业、选科、人数、备注/分流去向和sourceRecordId一致；21人与历史1组汇总一致。校内组名没有误作广西正式数字组码。"
+    },
+    {
+      "schoolCode": "10013",
+      "school": "北京邮电大学",
+      "rows": 10,
+      "plannedCount": 130,
+      "track": "物理",
+      "method": "事实存档逐字段比对；另以正常Chrome独立打开官网、选择广西，直接阅读2026/统招/物理类可见表。",
+      "officialUrl": "https://zscx.bupt.edu.cn/zsw/zsjh.html",
+      "result": "10行专业、物理+化学选科、人数、备注与可见官网一致，合计130；未混入中外合作、专项或预科。"
+    }
+  ],
+  "checks": {
+    "majorAndSourceNameMatch": true,
+    "subjectsMatch": true,
+    "countsMatchAndTotalsReconcile": true,
+    "allSourceRefsResolve": true,
+    "sourceEvidenceHashesMatch": true,
+    "allGroupsNull": true,
+    "allBatchesExplicitlyUnknown": true,
+    "allFullTuitionFieldsNull": true,
+    "softwarePartialTuitionCorrect": "仅后两年16000元/年；完整tuition为null，前两年待核，partialTuition绑定直接fieldSourceIds。",
+    "unknownDurationRetained": true,
+    "yearProvinceCategoryVerified": true
+  },
+  "browserBoundary": "正常打开公开官网并选择广西，没有解决验证码、导出cookies、登录或修改页面数据。",
+  "findings": [],
+  "scopeLimit": "只复核中南历史4行、北邮统招物理10行；没有建立新增组码映射，也未将计划数当录取人数。",
+  "privacy": "仅统计事实、来源URL、哈希与结论；不含原响应、个人信息或会话。"
+}

@@ -1,0 +1,3037 @@
+[
+  {
+    "id": "plan26-first7-sjtu-10248-history-law",
+    "year": 2026,
+    "province": "广西",
+    "planStage": "initial",
+    "school": "上海交通大学",
+    "schoolCode": "10248",
+    "track": "历史",
+    "sourceTrack": "文史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "法学试验班",
+    "majorCode": null,
+    "plannedCount": 1,
+    "duration": null,
+    "tuition": null,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "原表科类：文史；广西再选科目未列",
+    "category": "普通类",
+    "sourceId": "first7-20260920-10248-2026-plan-image",
+    "sourceIds": [
+      "first7-20260920-10248-2026-plan-image",
+      "first7-20260920-10248-plan-api"
+    ],
+    "fieldSourceIds": {
+      "major": [
+        "first7-20260920-10248-2026-plan-image"
+      ],
+      "plannedCount": [
+        "first7-20260920-10248-2026-plan-image"
+      ],
+      "track": [
+        "first7-20260920-10248-2026-plan-image"
+      ],
+      "planStage": [
+        "first7-20260920-10248-2026-plan-image",
+        "first7-20260920-10248-plan-api"
+      ]
+    },
+    "sourceTable": "上海交通大学校本部2026年招生计划",
+    "sourceLocator": "广西列；文史区；法学试验班行",
+    "note": "2026官方普通计划原图广西列为1人；源科类文史规范为历史。原图未列广西专业组、专业代码及省内批次，group保留null；此补漏不代表首页109/110物理组计划已匹配。",
+    "reviewedAt": "2026-09-20T08:46:17.442087+00:00",
+    "groupMappingStatus": "unmatched",
+    "coverageStatus": "学校历史类计划已采集，专业组归属待核"
+  },
+  {
+    "id": "plan26-firstpage-7599ecc6e661a3b9",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "防灾减灾科学与工程",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 1,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-d8909cbae5090f73",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "航空航天类",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 2,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-9f742290238edf32",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "护理学（含双学士学位）",
+    "majorCode": null,
+    "plannedCount": 6,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 3,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-d708a268ca355a23",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "金融学类",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 4,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-6bd9405e62ba3122",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "药学类",
+    "majorCode": null,
+    "plannedCount": 7,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 5,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-ea327c56295c59ce",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "工科试验班（清洁能源与智慧建造）",
+    "majorCode": null,
+    "plannedCount": 5,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 6,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-4f2dc9dce337a0cd",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "电气类",
+    "majorCode": null,
+    "plannedCount": 12,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 7,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-65eb8834bce901d8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "物理学类",
+    "majorCode": null,
+    "plannedCount": 11,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 8,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-af035f4aa88568a3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "工科试验班（先进化工与高端装备类）",
+    "majorCode": null,
+    "plannedCount": 8,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 9,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-90fbaf1f5319bb13",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "临床医学（八年制）",
+    "majorCode": null,
+    "plannedCount": 3,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 10,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-fe99a572cd37112a",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "医学技术类（含双学士学位）",
+    "majorCode": null,
+    "plannedCount": 6,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 11,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-cc90cc1410eb943f",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "电子信息类",
+    "majorCode": null,
+    "plannedCount": 12,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 12,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-b46c0ab44a0f8a95",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "公共管理类",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 13,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-547537390599f665",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "口腔医学（五年制）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 14,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-e7a9c3bcb2150e86",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "材料类（先进材料与新能源）",
+    "majorCode": null,
+    "plannedCount": 10,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 15,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-afef57bef801b2f1",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "化学类",
+    "majorCode": null,
+    "plannedCount": 9,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 16,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-cec12fbcf72699e0",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "临床医学（五年制）",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 17,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-2b0e120780024c69",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "数学类（含双学士学位）",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 18,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-56eec50cf4b40090",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "工科试验班（智能制造）",
+    "majorCode": null,
+    "plannedCount": 11,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 19,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-1daee7e9193c1f7f",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "工科试验班（绿色城市与智慧建造）",
+    "majorCode": null,
+    "plannedCount": 11,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 20,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-275ff518d85e112b",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "工科试验班（先进低碳材料、食品健康与智能设计）",
+    "majorCode": null,
+    "plannedCount": 8,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 21,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-656f03f209c39500",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "口腔医学（5+3一体化）",
+    "majorCode": null,
+    "plannedCount": 1,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 22,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-86983da036b4f6e2",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "工商管理类",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 23,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-d1f0ea61c903f842",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "高分子材料与工程",
+    "majorCode": null,
+    "plannedCount": 6,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 24,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-60623db75324f712",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "网络空间安全（含双学士学位）",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 25,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-851ba38566a0a1fa",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "生物科学类（含双学士学位）",
+    "majorCode": null,
+    "plannedCount": 6,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 26,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-d709ebd1ad598bd8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "计算机类（含双学士学位）",
+    "majorCode": null,
+    "plannedCount": 13,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 27,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-fb10a8ca6232ca45",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": "本科一批",
+    "group": null,
+    "major": "经济学类",
+    "majorCode": null,
+    "plannedCount": 6,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "category": "普通类",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10610-plan2026-gx",
+    "sourceRow": 28,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10610-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-10610-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "高校原文批次为本科一批；查询未公开选科、学制及学费。本批只采物理普通类，排除专项及民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-da22051a5d969207",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10698",
+    "school": "西安交通大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "自动化",
+    "majorCode": null,
+    "plannedCount": 5,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "category": "普通类",
+    "duration": "四年",
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10698-zsjh2026-gx",
+    "sourceRow": 1,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "major": [
+        "fp26-c-10698-zsjh2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "前端计划查询显示普通类，API的pcmc、zygroup为空。仅本校普通物理类8条，不含医学、中外合作、专项和民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-9784d8fa51118563",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10698",
+    "school": "西安交通大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "智能制造工程（钱学森班）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "category": "普通类",
+    "duration": "四年",
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10698-zsjh2026-gx",
+    "sourceRow": 2,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "major": [
+        "fp26-c-10698-zsjh2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "前端计划查询显示普通类，API的pcmc、zygroup为空。仅本校普通物理类8条，不含医学、中外合作、专项和民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-d12e567c083c118e",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10698",
+    "school": "西安交通大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "工科试验班（医学电子信息优本班）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "category": "普通类",
+    "duration": "四年",
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10698-zsjh2026-gx",
+    "sourceRow": 3,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "major": [
+        "fp26-c-10698-zsjh2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "前端计划查询显示普通类，API的pcmc、zygroup为空。仅本校普通物理类8条，不含医学、中外合作、专项和民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-b3cb6ccc5ec99339",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10698",
+    "school": "西安交通大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "工科试验班（计算机科学技术类）",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "category": "普通类",
+    "duration": "四年",
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10698-zsjh2026-gx",
+    "sourceRow": 4,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "major": [
+        "fp26-c-10698-zsjh2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "前端计划查询显示普通类，API的pcmc、zygroup为空。仅本校普通物理类8条，不含医学、中外合作、专项和民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-5a9744e7ccd9bfe8",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10698",
+    "school": "西安交通大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "电气工程及其自动化（智能电气领军班）",
+    "majorCode": null,
+    "plannedCount": 5,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "category": "普通类",
+    "duration": "四年",
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10698-zsjh2026-gx",
+    "sourceRow": 5,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "major": [
+        "fp26-c-10698-zsjh2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "前端计划查询显示普通类，API的pcmc、zygroup为空。仅本校普通物理类8条，不含医学、中外合作、专项和民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-42b6f593d394db4d",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10698",
+    "school": "西安交通大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "会计学（ACCA）",
+    "majorCode": null,
+    "plannedCount": 1,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "category": "普通类",
+    "duration": "四年",
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10698-zsjh2026-gx",
+    "sourceRow": 6,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "major": [
+        "fp26-c-10698-zsjh2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "前端计划查询显示普通类，API的pcmc、zygroup为空。仅本校普通物理类8条，不含医学、中外合作、专项和民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-e23bafa316b45504",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10698",
+    "school": "西安交通大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "工科试验班（数智电网国卓班）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "category": "普通类",
+    "duration": "四年",
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10698-zsjh2026-gx",
+    "sourceRow": 7,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "major": [
+        "fp26-c-10698-zsjh2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "前端计划查询显示普通类，API的pcmc、zygroup为空。仅本校普通物理类8条，不含医学、中外合作、专项和民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-6d51c3e4a299ecba",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10698",
+    "school": "西安交通大学",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "工科试验班（越杰机类领军班）",
+    "majorCode": null,
+    "plannedCount": 5,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理+化学",
+    "category": "普通类",
+    "duration": "四年",
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-10698-zsjh2026-gx",
+    "sourceRow": 8,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-10698-zsjh2026-gx"
+      ],
+      "major": [
+        "fp26-c-10698-zsjh2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "前端计划查询显示普通类，API的pcmc、zygroup为空。仅本校普通物理类8条，不含医学、中外合作、专项和民族班。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。"
+  },
+  {
+    "id": "plan26-firstpage-c055625da3d1edf4",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "18213",
+    "school": "哈尔滨工业大学(深圳)",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "工科试验班（未来信息）",
+    "majorCode": null,
+    "plannedCount": 14,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 化学",
+    "category": "未注明招生类别",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-18213-plan2026-gx",
+    "sourceRow": 1,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-18213-ndDmx",
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-18213-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "深圳校区独立来源。年份通过计划菜单的2026年度ID核定。原文类别仅标首选物理/历史；已排除名称明确带国家或高校专项的2条，剩余6条不据此猜定正式招生类别。学制、学费及正式批次未提供。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。",
+    "sourceCategory": "“3+1+2”物理组"
+  },
+  {
+    "id": "plan26-firstpage-419b11b3cf85b142",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "18213",
+    "school": "哈尔滨工业大学(深圳)",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "工科试验班（自主智能）",
+    "majorCode": null,
+    "plannedCount": 10,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 化学",
+    "category": "未注明招生类别",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-18213-plan2026-gx",
+    "sourceRow": 2,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-18213-ndDmx",
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-18213-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "深圳校区独立来源。年份通过计划菜单的2026年度ID核定。原文类别仅标首选物理/历史；已排除名称明确带国家或高校专项的2条，剩余6条不据此猜定正式招生类别。学制、学费及正式批次未提供。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。",
+    "sourceCategory": "“3+1+2”物理组"
+  },
+  {
+    "id": "plan26-firstpage-21de23e0be44dabc",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "18213",
+    "school": "哈尔滨工业大学(深圳)",
+    "track": "历史",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "经济管理试验班（智能社会治理）",
+    "majorCode": null,
+    "plannedCount": 16,
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": "历史",
+    "category": "未注明招生类别",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-18213-plan2026-gx",
+    "sourceRow": 3,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-18213-ndDmx",
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-18213-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "深圳校区独立来源。年份通过计划菜单的2026年度ID核定。原文类别仅标首选物理/历史；已排除名称明确带国家或高校专项的2条，剩余6条不据此猜定正式招生类别。学制、学费及正式批次未提供。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。",
+    "sourceCategory": "“3+1+2”历史组"
+  },
+  {
+    "id": "plan26-firstpage-16caa775e84f36a3",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "18213",
+    "school": "哈尔滨工业大学(深圳)",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "工科试验班（未来能源卓越联培班）（培养地点：第1年校本部，后3年深圳校区）",
+    "majorCode": null,
+    "plannedCount": 10,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 化学",
+    "category": "未注明招生类别",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-18213-plan2026-gx",
+    "sourceRow": 4,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-18213-ndDmx",
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-18213-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "深圳校区独立来源。年份通过计划菜单的2026年度ID核定。原文类别仅标首选物理/历史；已排除名称明确带国家或高校专项的2条，剩余6条不据此猜定正式招生类别。学制、学费及正式批次未提供。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。",
+    "sourceCategory": "“3+1+2”物理组"
+  },
+  {
+    "id": "plan26-firstpage-4034b4cdca17dd7c",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "18213",
+    "school": "哈尔滨工业大学(深圳)",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "工科试验班（未来城市卓越联培班）（培养地点：第1年校本部，后3年深圳校区）",
+    "majorCode": null,
+    "plannedCount": 10,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 化学",
+    "category": "未注明招生类别",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-18213-plan2026-gx",
+    "sourceRow": 5,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-18213-ndDmx",
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-18213-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "深圳校区独立来源。年份通过计划菜单的2026年度ID核定。原文类别仅标首选物理/历史；已排除名称明确带国家或高校专项的2条，剩余6条不据此猜定正式招生类别。学制、学费及正式批次未提供。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。",
+    "sourceCategory": "“3+1+2”物理组"
+  },
+  {
+    "id": "plan26-firstpage-df515ca50b5435a5",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "18213",
+    "school": "哈尔滨工业大学(深圳)",
+    "track": "物理",
+    "batch": "批次待核",
+    "sourceBatch": null,
+    "group": null,
+    "major": "数学与应用数学（卓越联培班）（培养地点：第1年校本部，后3年深圳校区）",
+    "majorCode": null,
+    "plannedCount": 3,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 化学",
+    "category": "未注明招生类别",
+    "duration": null,
+    "tuition": null,
+    "planStage": "initial",
+    "planVersion": "2026高校公开初始计划（当前查询版；广西批次与组码待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20",
+    "sourceId": "fp26-c-18213-plan2026-gx",
+    "sourceRow": 6,
+    "fieldSourceIds": {
+      "year": [
+        "fp26-c-18213-ndDmx",
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "plannedCount": [
+        "fp26-c-18213-plan2026-gx"
+      ],
+      "major": [
+        "fp26-c-18213-plan2026-gx"
+      ]
+    },
+    "groupMissingReason": "公开查询未提供广西正式数字专业组代码，不能对应首页专业组。",
+    "note": "深圳校区独立来源。年份通过计划菜单的2026年度ID核定。原文类别仅标首选物理/历史；已排除名称明确带国家或高校专项的2条，剩余6条不据此猜定正式招生类别。学制、学费及正式批次未提供。广西正式批次与组码待核；不根据专业名称、分数或其他年度反推专业组。",
+    "sourceCategory": "“3+1+2”物理组"
+  },
+  {
+    "id": "plan26-page1-seu-01",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "文科试验班类（郭秉文班）",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "历史 + 不限",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 1,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-02",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "英语",
+    "majorCode": null,
+    "plannedCount": 3,
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "历史 + 不限",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 2,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-03",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "政治学与行政学",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "政治"
+    ],
+    "subjectRule": "all",
+    "requirementText": "历史 + 政治",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 3,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-04",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（智能制造与智能系统）",
+    "majorCode": null,
+    "plannedCount": 6,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 4,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-05",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（智慧能源与电气工程）",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 5,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-06",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "电子信息类",
+    "majorCode": null,
+    "plannedCount": 15,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 6,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-07",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "集成电路设计与集成系统（后两年在无锡培养）",
+    "majorCode": null,
+    "plannedCount": 7,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 7,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-08",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "计算机类",
+    "majorCode": null,
+    "plannedCount": 10,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 8,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-09",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "理科试验班",
+    "majorCode": null,
+    "plannedCount": 3,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 9,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-10",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（吴健雄班）",
+    "majorCode": null,
+    "plannedCount": 8,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 10,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-11",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "建筑类",
+    "majorCode": null,
+    "plannedCount": 1,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。原图标*：不填不录，“100%不调剂”志愿保障政策可不包括此1人计划专业。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 11,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-12",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "临床医学（5+3一体化培养）",
+    "majorCode": null,
+    "plannedCount": 1,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "普通类",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。原图标*：不填不录，“100%不调剂”志愿保障政策可不包括此1人计划专业。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 12,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-13",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "文科试验班类（郭秉文班）",
+    "majorCode": null,
+    "plannedCount": 1,
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "历史 + 不限",
+    "tuition": null,
+    "duration": null,
+    "category": "民族班",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 13,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-14",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "日语",
+    "majorCode": null,
+    "plannedCount": 1,
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "历史 + 不限",
+    "tuition": null,
+    "duration": null,
+    "category": "民族班",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 14,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-15",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（智能制造与智能系统）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "民族班",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 15,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-16",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（智慧能源与电气工程）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "民族班",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 16,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-17",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（智慧建造与智能交通）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "民族班",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 17,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-18",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "临床医学类",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "民族班",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 18,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-19",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（物质科学与生态）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "国家专项",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 19,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-20",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（智慧建造与智能交通）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "国家专项",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 20,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-21",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "理科试验班",
+    "majorCode": null,
+    "plannedCount": 3,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "国家专项",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 21,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-22",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "经济学类（数智经济与智能管理）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "物理 + 不限",
+    "tuition": null,
+    "duration": null,
+    "category": "国家专项",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 22,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-23",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "文科试验班类（郭秉文班）",
+    "majorCode": null,
+    "plannedCount": 1,
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "历史 + 不限",
+    "tuition": null,
+    "duration": null,
+    "category": "高校专项",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 23,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-24",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "工科试验班（智慧建造与智能交通）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "高校专项",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 24,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-seu-25",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "track": "物理",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "major": "理科试验班",
+    "majorCode": null,
+    "plannedCount": 1,
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "物理 + 化学",
+    "tuition": null,
+    "duration": null,
+    "category": "高校专项",
+    "note": "原表未列广西正式专业组码、专业代码、批次、学费和学制；具体计划以广西考试院公布为准。",
+    "sourceId": "page1-20260920-d-10286-plan26-image",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "sourceRow": 25,
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "官方计划原图未给广西正式组码，不按唯一组或专业名推定。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-csu-history-01",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10533",
+    "school": "中南大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "schoolGroupLabel": "历史1组",
+    "major": "法学",
+    "rawMajor": "法学",
+    "majorCode": null,
+    "plannedCount": 6,
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "历史1组；（历史+不限）",
+    "tuition": null,
+    "duration": null,
+    "note": "原表备注：含特色班；▲体检要求；详见章程；分流去向：按专业招生无需分流；查询仅列校内组名，未给广西正式组码、批次、专业代码、学费和学制。",
+    "majorDirections": "按专业招生无需分流",
+    "sourceId": "page1-20260920-d-10533-plan26-history",
+    "sourceIds": [
+      "page1-20260920-d-10533-plan",
+      "page1-20260920-d-10533-plan26-history"
+    ],
+    "sourceRow": 1,
+    "sourceRecordId": "6a31346ae1f6e2a0cddd5093",
+    "category": "普通类",
+    "sourceCategory": "本科普通类",
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "校内历史1组与广西正式三位代码无直接对应证据。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-csu-history-02",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10533",
+    "school": "中南大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "schoolGroupLabel": "历史1组",
+    "major": "中国语言文学类",
+    "rawMajor": "中国语言文学类",
+    "majorCode": null,
+    "plannedCount": 9,
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "历史1组；（历史+不限）",
+    "tuition": null,
+    "duration": null,
+    "note": "原表备注：含特色班；▲体检要求；详见章程；分流去向：汉语言文学；数字出版；查询仅列校内组名，未给广西正式组码、批次、专业代码、学费和学制。",
+    "majorDirections": "汉语言文学；数字出版",
+    "sourceId": "page1-20260920-d-10533-plan26-history",
+    "sourceIds": [
+      "page1-20260920-d-10533-plan",
+      "page1-20260920-d-10533-plan26-history"
+    ],
+    "sourceRow": 2,
+    "sourceRecordId": "6a31346ae1f6e2a0cddd5094",
+    "category": "普通类",
+    "sourceCategory": "本科普通类",
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "校内历史1组与广西正式三位代码无直接对应证据。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-csu-history-03",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10533",
+    "school": "中南大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "schoolGroupLabel": "历史1组",
+    "major": "金融学类（经济管理类）",
+    "rawMajor": "▲金融学类（经济管理类）",
+    "majorCode": null,
+    "plannedCount": 4,
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "历史1组；（历史+不限）",
+    "tuition": null,
+    "duration": null,
+    "note": "原表备注：含特色班；▲体检要求；详见章程；分流去向：国际经济与贸易；金融学；工商管理；会计学；查询仅列校内组名，未给广西正式组码、批次、专业代码、学费和学制。",
+    "majorDirections": "国际经济与贸易；金融学；工商管理；会计学",
+    "sourceId": "page1-20260920-d-10533-plan26-history",
+    "sourceIds": [
+      "page1-20260920-d-10533-plan",
+      "page1-20260920-d-10533-plan26-history"
+    ],
+    "sourceRow": 3,
+    "sourceRecordId": "6a31346ae1f6e2a0cddd5095",
+    "category": "普通类",
+    "sourceCategory": "本科普通类",
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "校内历史1组与广西正式三位代码无直接对应证据。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "id": "plan26-page1-csu-history-04",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10533",
+    "school": "中南大学",
+    "track": "历史",
+    "batch": "本科（批次待核）",
+    "group": null,
+    "schoolGroupLabel": "历史1组",
+    "major": "数字出版（国际传播卓越人才培养计划实验班）",
+    "rawMajor": "数字出版（国际传播卓越人才培养计划实验班）",
+    "majorCode": null,
+    "plannedCount": 2,
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "历史1组；（历史+不限）",
+    "tuition": null,
+    "duration": null,
+    "note": "原表备注：含特色班；▲体检要求；详见章程；分流去向：按专业招生无需分流；查询仅列校内组名，未给广西正式组码、批次、专业代码、学费和学制。",
+    "majorDirections": "按专业招生无需分流",
+    "sourceId": "page1-20260920-d-10533-plan26-history",
+    "sourceIds": [
+      "page1-20260920-d-10533-plan",
+      "page1-20260920-d-10533-plan26-history"
+    ],
+    "sourceRow": 4,
+    "sourceRecordId": "6a31346ae1f6e2a0cddd5096",
+    "category": "普通类",
+    "sourceCategory": "本科普通类",
+    "planStage": "initial",
+    "planVersion": "2026官网广西初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "groupMissingReason": "校内历史1组与广西正式三位代码无直接对应证据。",
+    "initialPlanGroupVerified": false
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "track": "物理",
+    "sourceCategory": "统招",
+    "major": "计算机类（元班）",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "plannedCount": 4,
+    "sourceNote": "包含：计算机科学与技术、网络空间安全、具身智能专业。未来学院“元班”实验班。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路。",
+    "group": null,
+    "batch": "批次待核",
+    "sourceRow": 1,
+    "id": "plan26-page1-bupt-01",
+    "majorCode": null,
+    "category": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "tuition": null,
+    "duration": null,
+    "sourceId": "page1-20260920-d-10013-official-plan",
+    "planStage": "initial",
+    "planVersion": "2026官网广西统招初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "initialPlanGroupVerified": false,
+    "groupMissingReason": "官方公开表未给广西正式数字组码，不沿用2025组名或按投档分倒推。",
+    "note": "包含：计算机科学与技术、网络空间安全、具身智能专业。未来学院“元班”实验班。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路。 原表未列广西正式组码、批次和学制；未公布的学费部分待核。"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "track": "物理",
+    "sourceCategory": "统招",
+    "major": "电子信息类（元班）",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "plannedCount": 5,
+    "sourceNote": "包含：通信工程、电子科学与技术、低空技术与工程专业。未来学院“元班”实验班。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。",
+    "group": null,
+    "batch": "批次待核",
+    "sourceRow": 2,
+    "id": "plan26-page1-bupt-02",
+    "majorCode": null,
+    "category": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "tuition": null,
+    "duration": null,
+    "sourceId": "page1-20260920-d-10013-official-plan",
+    "planStage": "initial",
+    "planVersion": "2026官网广西统招初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "initialPlanGroupVerified": false,
+    "groupMissingReason": "官方公开表未给广西正式数字组码，不沿用2025组名或按投档分倒推。",
+    "note": "包含：通信工程、电子科学与技术、低空技术与工程专业。未来学院“元班”实验班。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。 原表未列广西正式组码、批次和学制；未公布的学费部分待核。"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "track": "物理",
+    "sourceCategory": "统招",
+    "major": "通信工程（大类招生）",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "plannedCount": 26,
+    "sourceNote": "包含:通信工程、电子信息工程、空间信息与数字技术专业。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。",
+    "group": null,
+    "batch": "批次待核",
+    "sourceRow": 3,
+    "id": "plan26-page1-bupt-03",
+    "majorCode": null,
+    "category": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "tuition": null,
+    "duration": null,
+    "sourceId": "page1-20260920-d-10013-official-plan",
+    "planStage": "initial",
+    "planVersion": "2026官网广西统招初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "initialPlanGroupVerified": false,
+    "groupMissingReason": "官方公开表未给广西正式数字组码，不沿用2025组名或按投档分倒推。",
+    "note": "包含:通信工程、电子信息工程、空间信息与数字技术专业。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。 原表未列广西正式组码、批次和学制；未公布的学费部分待核。"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "track": "物理",
+    "sourceCategory": "统招",
+    "major": "电子信息类",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "plannedCount": 23,
+    "sourceNote": "包含：电子科学与技术、电子信息科学与技术、光电信息科学与工程、集成电路设计与集成系统专业。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。",
+    "group": null,
+    "batch": "批次待核",
+    "sourceRow": 4,
+    "id": "plan26-page1-bupt-04",
+    "majorCode": null,
+    "category": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "tuition": null,
+    "duration": null,
+    "sourceId": "page1-20260920-d-10013-official-plan",
+    "planStage": "initial",
+    "planVersion": "2026官网广西统招初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "initialPlanGroupVerified": false,
+    "groupMissingReason": "官方公开表未给广西正式数字组码，不沿用2025组名或按投档分倒推。",
+    "note": "包含：电子科学与技术、电子信息科学与技术、光电信息科学与工程、集成电路设计与集成系统专业。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。 原表未列广西正式组码、批次和学制；未公布的学费部分待核。"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "track": "物理",
+    "sourceCategory": "统招",
+    "major": "计算机类",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "plannedCount": 23,
+    "sourceNote": "包含：计算机科学与技术、网络工程、数据科学与大数据技术专业。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。",
+    "group": null,
+    "batch": "批次待核",
+    "sourceRow": 5,
+    "id": "plan26-page1-bupt-05",
+    "majorCode": null,
+    "category": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "tuition": null,
+    "duration": null,
+    "sourceId": "page1-20260920-d-10013-official-plan",
+    "planStage": "initial",
+    "planVersion": "2026官网广西统招初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "initialPlanGroupVerified": false,
+    "groupMissingReason": "官方公开表未给广西正式数字组码，不沿用2025组名或按投档分倒推。",
+    "note": "包含：计算机科学与技术、网络工程、数据科学与大数据技术专业。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。 原表未列广西正式组码、批次和学制；未公布的学费部分待核。"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "track": "物理",
+    "sourceCategory": "统招",
+    "major": "软件工程",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "plannedCount": 6,
+    "sourceNote": "一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。后两年学费为16000元/年。本专业部分课程采用英语授课，建议非英语考生慎重报考。",
+    "group": null,
+    "batch": "批次待核",
+    "sourceRow": 6,
+    "id": "plan26-page1-bupt-06",
+    "majorCode": null,
+    "category": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "tuition": null,
+    "duration": null,
+    "sourceId": "page1-20260920-d-10013-official-plan",
+    "planStage": "initial",
+    "planVersion": "2026官网广西统招初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "initialPlanGroupVerified": false,
+    "groupMissingReason": "官方公开表未给广西正式数字组码，不沿用2025组名或按投档分倒推。",
+    "note": "一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。后两年学费为16000元/年。本专业部分课程采用英语授课，建议非英语考生慎重报考。 原表未列广西正式组码、批次和学制；未公布的学费部分待核。",
+    "fieldSourceIds": {
+      "partialTuition": [
+        "page1-20260920-d-10013-official-plan"
+      ]
+    },
+    "partialTuition": "后两年16000元/年；前两年待核"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "track": "物理",
+    "sourceCategory": "统招",
+    "major": "网络空间安全（大类招生）",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "plannedCount": 11,
+    "sourceNote": "包含:网络空间安全、信息安全、密码科学与技术（AI安全与密码班）专业。办学地点在沙河校区。",
+    "group": null,
+    "batch": "批次待核",
+    "sourceRow": 7,
+    "id": "plan26-page1-bupt-07",
+    "majorCode": null,
+    "category": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "tuition": null,
+    "duration": null,
+    "sourceId": "page1-20260920-d-10013-official-plan",
+    "planStage": "initial",
+    "planVersion": "2026官网广西统招初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "initialPlanGroupVerified": false,
+    "groupMissingReason": "官方公开表未给广西正式数字组码，不沿用2025组名或按投档分倒推。",
+    "note": "包含:网络空间安全、信息安全、密码科学与技术（AI安全与密码班）专业。办学地点在沙河校区。 原表未列广西正式组码、批次和学制；未公布的学费部分待核。"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "track": "物理",
+    "sourceCategory": "统招",
+    "major": "人工智能（大类招生）",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "plannedCount": 19,
+    "sourceNote": "包含:信息工程、人工智能专业。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。",
+    "group": null,
+    "batch": "批次待核",
+    "sourceRow": 8,
+    "id": "plan26-page1-bupt-08",
+    "majorCode": null,
+    "category": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "tuition": null,
+    "duration": null,
+    "sourceId": "page1-20260920-d-10013-official-plan",
+    "planStage": "initial",
+    "planVersion": "2026官网广西统招初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "initialPlanGroupVerified": false,
+    "groupMissingReason": "官方公开表未给广西正式数字组码，不沿用2025组名或按投档分倒推。",
+    "note": "包含:信息工程、人工智能专业。一年级在沙河校区，二、三、四年级将根据学校规划安排在沙河校区或西土城路校区。 原表未列广西正式组码、批次和学制；未公布的学费部分待核。"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "track": "物理",
+    "sourceCategory": "统招",
+    "major": "自动化类（智能机器人）",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "plannedCount": 10,
+    "sourceNote": "包含：自动化、机器人工程、机械工程(数字智能)专业。办学地点在沙河校区。",
+    "group": null,
+    "batch": "批次待核",
+    "sourceRow": 9,
+    "id": "plan26-page1-bupt-09",
+    "majorCode": null,
+    "category": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "tuition": null,
+    "duration": null,
+    "sourceId": "page1-20260920-d-10013-official-plan",
+    "planStage": "initial",
+    "planVersion": "2026官网广西统招初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "initialPlanGroupVerified": false,
+    "groupMissingReason": "官方公开表未给广西正式数字组码，不沿用2025组名或按投档分倒推。",
+    "note": "包含：自动化、机器人工程、机械工程(数字智能)专业。办学地点在沙河校区。 原表未列广西正式组码、批次和学制；未公布的学费部分待核。"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "track": "物理",
+    "sourceCategory": "统招",
+    "major": "智能交互设计",
+    "requirementText": "物理,化学(2门科目考生均须选考方可报考)",
+    "plannedCount": 3,
+    "sourceNote": "办学地点在沙河校区。",
+    "group": null,
+    "batch": "批次待核",
+    "sourceRow": 10,
+    "id": "plan26-page1-bupt-10",
+    "majorCode": null,
+    "category": "普通类",
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "tuition": null,
+    "duration": null,
+    "sourceId": "page1-20260920-d-10013-official-plan",
+    "planStage": "initial",
+    "planVersion": "2026官网广西统招初始计划（正式组码与批次待核）",
+    "currentGaokaoSeatsKnown": true,
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "initialPlanGroupVerified": false,
+    "groupMissingReason": "官方公开表未给广西正式数字组码，不沿用2025组名或按投档分倒推。",
+    "note": "办学地点在沙河校区。 原表未列广西正式组码、批次和学制；未公布的学费部分待核。"
+  }
+]

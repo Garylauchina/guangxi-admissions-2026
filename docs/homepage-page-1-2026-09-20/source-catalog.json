@@ -1,0 +1,476 @@
+[
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10001",
+    "school": "北京大学",
+    "status": "entry-only",
+    "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+    "note": "已重新核查普通高考、2026咨询公告、招生简章目录及2026全国招生指南。指南目录及印刷页199—202经图像复核：199—201为全国专业一览，202为2023—2025各省分数，不是2026广西分专业计划。未取得首页102组的专业、人数及正式组码关联。",
+    "sourceIds": [
+      "first7-20260920-10001-top-a-pku-ordinary-alias",
+      "first7-20260920-10001-top-a-pku-contact",
+      "first7-20260920-10001-top-a-pku-brochures-alias",
+      "first7-20260920-10001-detail-top-a-pku-brochure-2026"
+    ],
+    "entryUrl": "https://bkzs.pku.edu.cn/zslb/ptgk/index.htm",
+    "checkedUrls": [
+      "https://bkzs.pku.edu.cn/zslb/ptgk/index.htm",
+      "https://bkzs.pku.edu.cn/tzgg/d8b0aca855ea4a359d5a223e13e90466.htm",
+      "https://bkzs.pku.edu.cn/xxgk/zsjz/index.htm",
+      "https://bkzs.pku.edu.cn/docs/2026-06/ea87b5bdc4c2436787106a463d1d6bb0.pdf"
+    ],
+    "recordCount": 0,
+    "plannedCount": null,
+    "newRecordCount": 0,
+    "groupCoverage": "unmatched",
+    "sourceKind": "仅取得公开栏目、全国目录或咨询信息，2026广西初始计划未取得",
+    "accessRestriction": "missing-current-plan",
+    "plannedCountScope": "已核实普通本科计划；不表示覆盖专项或全部录取类别"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10003",
+    "school": "清华大学",
+    "status": "entry-only",
+    "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+    "note": "官网旧计划入口实际可见年份仅2014—2010，地区含广西、科类含理工类/文史类、类别含统招/国防定向/专项；2026不在年份菜单内，本轮未构造2026查询。已核2026高考统招栏目及广西咨询图片，后者为6月25—30日咨询行程和联系方式，不含本年人数或组码。未取得首页103组计划。",
+    "sourceIds": [
+      "first7-20260920-10003-top-a-thu-contact-2026",
+      "first7-20260920-10003-top-a-thu-plan-legacy",
+      "first7-20260920-10003-2026-gx-consultation-image"
+    ],
+    "entryUrl": "https://join-tsinghua.edu.cn/info/1033/2197.htm",
+    "checkedUrls": [
+      "https://join-tsinghua.edu.cn/info/1033/2197.htm",
+      "https://bk.join-tsinghua.edu.cn/student.bz_bzw_zsjh.do",
+      "https://join-tsinghua.edu.cn/__local/7/69/22/895C97D886FAE6E5201A7476F6E_DF3EB1FA_163BF.jpg"
+    ],
+    "recordCount": 0,
+    "plannedCount": null,
+    "newRecordCount": 0,
+    "groupCoverage": "unmatched",
+    "sourceKind": "仅取得公开栏目、全国目录或咨询信息，2026广西初始计划未取得",
+    "accessRestriction": "missing-current-plan",
+    "plannedCountScope": "已核实普通本科计划；不表示覆盖专项或全部录取类别"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10248",
+    "school": "上海交通大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+    "note": "2026计划公开JSON文章和原图已重新取得并逐列核对。校本部普通计划广西列合计36人：既有物理15条35人一致，本轮补文史法学试验班1条1人；原图无广西专业组代码、广西专业代码、具体省内批次或再选要求。不能将现有专业猜分到首页109或110组，亦未由全国目录推断。",
+    "sourceIds": [
+      "first7-20260920-10248-plan-api",
+      "first7-20260920-10248-plan-index",
+      "first7-20260920-10248-2026-plan-image"
+    ],
+    "entryUrl": "https://admissions.sjtu.edu.cn/rnapi/getNewsDetail",
+    "checkedUrls": [
+      "https://admissions.sjtu.edu.cn/rnapi/getNewsDetail",
+      "https://admissions.sjtu.edu.cn/rnapi/newsList",
+      "https://admissions.sjtu.edu.cn/uploadFile/17842586227624172/%E5%AF%BC%E5%87%BA%E9%A1%B5%E9%9D%A2%E8%87%AA%20%E4%BA%A4%E9%80%9A%E6%8B%9B%E7%94%9F.png"
+    ],
+    "recordCount": 16,
+    "plannedCount": 36,
+    "newRecordCount": 1,
+    "groupCoverage": "unmatched",
+    "sourceKind": "已取得学校普通专业计划，广西组码关系未取得",
+    "accessRestriction": "missing-group-code",
+    "plannedCountScope": "已核实普通本科计划；不表示覆盖专项或全部录取类别"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10335",
+    "school": "浙江大学",
+    "status": "entry-only",
+    "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+    "note": "已核招生主页、公告、2026本科专业目录图片及广西咨询应用真实前端。专业目录为全国招生名称/包含专业，注明分省计划以各省考试院公布为准；不含广西人数或组码。咨询API按前端zsnd=2026、shengdm=450000返回1项，附件标题为广西各地区招生组联系方式，不能作为计划。首页150组仍缺直接计划。",
+    "sourceIds": [
+      "first7-20260920-10335-top-b-zju-zsc-home",
+      "first7-20260920-10335-top-b-zju-information-list",
+      "first7-20260920-10335-top-b-zju-news-list",
+      "first7-20260920-10335-2026-major-directory",
+      "first7-20260920-10335-2026-gx-consultation",
+      "first7-20260920-10335-2026-major-directory-image-7",
+      "first7-20260920-10335-consultation-detail-bundle",
+      "first7-20260920-10335-consultation-common-bundle",
+      "first7-20260920-10335-consultation-public-config",
+      "first7-20260920-10335-2026-gx-consultation-api"
+    ],
+    "entryUrl": "https://zdzsc.zju.edu.cn/",
+    "checkedUrls": [
+      "https://zdzsc.zju.edu.cn/",
+      "https://zdzsc.zju.edu.cn/87245/list.htm",
+      "https://zdzsc.zju.edu.cn/zxgg/list.htm",
+      "https://zdzsc.zju.edu.cn/2026/0613/c87333a3178523/page.htm",
+      "https://bgptzdzsc.zju.edu.cn/zjuzsxj/xjjh-detail/2026?id=450000",
+      "https://zdzsc.zju.edu.cn/_upload/article/images/4d/5c/2186d5ff40849ba10ebe735cff4b/d32c109a-5a5a-40e8-a6b2-7a714a1bb23b.jpg",
+      "https://bgptzdzsc.zju.edu.cn/zjuzsxj/assets/detail.4e223f2e.js",
+      "https://bgptzdzsc.zju.edu.cn/zjuzsxj/assets/index.07caadcb.js",
+      "https://bgptzdzsc.zju.edu.cn/zjuzsxj/_app.config.js?v=0.0.1-1776842438969",
+      "https://bgptzdzsc.zju.edu.cn/zsxj/gslxfs/getGslxzxByShengdm?zsnd=2026&shengdm=450000"
+    ],
+    "recordCount": 0,
+    "plannedCount": null,
+    "newRecordCount": 0,
+    "groupCoverage": "unmatched",
+    "sourceKind": "仅取得公开栏目、全国目录或咨询信息，2026广西初始计划未取得",
+    "accessRestriction": "missing-current-plan",
+    "plannedCountScope": "已核实普通本科计划；不表示覆盖专项或全部录取类别"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "19001",
+    "school": "北京大学医学部",
+    "status": "entry-only",
+    "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+    "note": "独立校码19001计划菜单可见2025、2024、2023；已打开广西计划表确认标题及年份选择为2025，URL中的2022不能当统计年份。2026官方咨询微信本轮返回环境验证；未进行验证码操作。未取得首页101、102组的2026广西计划，不从北大本部全国专业目录补数。",
+    "sourceIds": [
+      "first7-20260920-19001-top-a-med-plans",
+      "first7-20260920-19001-top-a-med-notices",
+      "first7-20260920-19001-detail-top-a-med-gx-2025",
+      "first7-20260920-19001-2026-consultation-wechat"
+    ],
+    "entryUrl": "https://bkzs.bjmu.edu.cn/zsxx/zsjh/index.htm",
+    "checkedUrls": [
+      "https://bkzs.bjmu.edu.cn/zsxx/zsjh/index.htm",
+      "https://bkzs.bjmu.edu.cn/zsxx/tzgs/index.htm",
+      "https://bkzs.bjmu.edu.cn/zsxx/zsjh/2022/4722f60edd5f4a399aa959d4456167b2/index.htm",
+      "https://mp.weixin.qq.com/s/JHu6z_gcWxCnthAxQrRbaw"
+    ],
+    "recordCount": 0,
+    "plannedCount": null,
+    "newRecordCount": 0,
+    "groupCoverage": "unmatched",
+    "sourceKind": "仅取得公开栏目、全国目录或咨询信息，2026广西初始计划未取得",
+    "accessRestriction": "verification-required",
+    "plannedCountScope": "已核实普通本科计划；不表示覆盖专项或全部录取类别"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "19248",
+    "school": "上海交通大学医学院",
+    "status": "collected",
+    "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+    "note": "上交本年官方原图分列医学院普通计划；既有广西3条15人保持不变、独立校码19248。医学院本站计划栏目最新2025，不能补2026字段。本年原图缺广西组码与省内批次，不能因为页面目前只展示101组就将全部专业归组；首页101组计划关系仍待核。",
+    "sourceIds": [
+      "first7-20260920-19248-top-b-sjtu-med-home",
+      "first7-20260920-19248-top-b-sjtu-med-plan-list",
+      "first7-20260920-10248-plan-api",
+      "first7-20260920-10248-plan-index",
+      "first7-20260920-10248-2026-plan-image"
+    ],
+    "entryUrl": "https://www.shsmu.edu.cn/ygzs/",
+    "checkedUrls": [
+      "https://www.shsmu.edu.cn/ygzs/",
+      "https://www.shsmu.edu.cn/ygzs/zsxx/zsjh.htm",
+      "https://admissions.sjtu.edu.cn/rnapi/getNewsDetail",
+      "https://admissions.sjtu.edu.cn/rnapi/newsList",
+      "https://admissions.sjtu.edu.cn/uploadFile/17842586227624172/%E5%AF%BC%E5%87%BA%E9%A1%B5%E9%9D%A2%E8%87%AA%20%E4%BA%A4%E9%80%9A%E6%8B%9B%E7%94%9F.png"
+    ],
+    "recordCount": 3,
+    "plannedCount": 15,
+    "newRecordCount": 0,
+    "groupCoverage": "unmatched",
+    "sourceKind": "已取得学校普通专业计划，广西组码关系未取得",
+    "accessRestriction": "missing-group-code",
+    "plannedCountScope": "已核实普通本科计划；不表示覆盖专项或全部录取类别"
+  },
+  {
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10246",
+    "school": "复旦大学",
+    "status": "entry-only",
+    "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+    "note": "已核招生计划、报考指南、招生动态、2026全国专业目录两张原图和2026咨询汇总。计划目录最新2024；本年专业目录仅列专业、选科及培养介绍，无广西人数/组码。官网广西咨询链接为腾讯文档《广西招生宣传组行程安排》，浏览器显示需登录/访问权限，未提交登录或申请权限。首页102、103组仍缺2026广西初始计划。",
+    "sourceIds": [
+      "first7-20260920-10246-top-b-fudan-plan-list",
+      "first7-20260920-10246-top-b-fudan-home",
+      "first7-20260920-10246-2026-major-directory",
+      "first7-20260920-10246-2026-major-directory-image-3",
+      "first7-20260920-10246-2026-major-directory-image-4",
+      "first7-20260920-10246-guide-list",
+      "first7-20260920-10246-news-list",
+      "first7-20260920-10246-contact-list",
+      "first7-20260920-10246-2026-consultation",
+      "first7-20260920-10246-2026-gx-consultation"
+    ],
+    "entryUrl": "https://ao.fudan.edu.cn/36332/list.htm",
+    "checkedUrls": [
+      "https://ao.fudan.edu.cn/36332/list.htm",
+      "https://ao.fudan.edu.cn/_web/main.psp",
+      "https://ao.fudan.edu.cn/ef/a1/c36330a782241/page.htm",
+      "https://ao.fudan.edu.cn/_upload/article/images/fc/e9/70194fbc4cb1b71b0885771975a2/734c20be-c8c6-4acc-a688-d6b38709d30d.jpg",
+      "https://ao.fudan.edu.cn/_upload/article/images/fc/e9/70194fbc4cb1b71b0885771975a2/15f21299-99c9-409f-8102-129d4545c7ac.jpg",
+      "https://ao.fudan.edu.cn/36317/list.htm",
+      "https://ao.fudan.edu.cn/36331/list.htm",
+      "https://ao.fudan.edu.cn/36340/list.htm",
+      "https://ao.fudan.edu.cn/b9/fa/c36331a506362/page.htm",
+      "https://docs.qq.com/doc/DRUZiSFVXaU9RcEJ4"
+    ],
+    "recordCount": 0,
+    "plannedCount": null,
+    "newRecordCount": 0,
+    "groupCoverage": "unmatched",
+    "sourceKind": "仅取得公开栏目、全国目录或咨询信息，2026广西初始计划未取得",
+    "accessRestriction": "document-permission-required",
+    "plannedCountScope": "已核实普通本科计划；不表示覆盖专项或全部录取类别"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10007",
+    "school": "北京理工大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+    "note": "已保留院校普通物理计划 4 条、7 人；本轮逐行与新官方响应核对一致。当前公开源未给出广西正式三位专业组码，不能把这些计划直接归入首页 101 组。 查询 zyz/zyzname 的“物理+化学”是选科文字，不是专业组代码。 招生信息栏目当页 20 条标题主要为强基、高水平运动队、保送及第二学位，未取得广西普通批分组计划或专业录取统计；不将这些路线用于当前组。 仅涵盖本轮列明公开入口、菜单、响应和指定指南页；未取得不等于未招生或所有公开渠道均未发布。",
+    "sourceIds": [
+      "fp20260920-b-10007-home",
+      "fp20260920-b-10007-plan",
+      "fp20260920-b-10007-score",
+      "fp20260920-b-10007-plan-menu",
+      "fp20260920-b-10007-score-menu",
+      "fp20260920-b-10007-plan-gx",
+      "fp20260920-b-10007-news"
+    ],
+    "entryUrl": "https://admission.bit.edu.cn/static/front/bit/basic/html_web/zsjh.html"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10006",
+    "school": "北京航空航天大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+    "note": "已保留院校普通物理计划 10 条、23 人；本轮逐行与新官方响应核对一致。当前公开源未给出广西正式三位专业组码，不能把这些计划直接归入首页 101 组。 官网直接链接的“北航2026年报考指南”已打开，70 个电子章节；已视觉检查目录四幅及首尾、杭州国际校园扉页。目录四部分是学校概况、人才培养、奖助学金、学院介绍，未列分省计划章节；本轮未逐页核读其余学院介绍。资源 setting.js 返回 404，电子书 index.js 与已查看图像正常；不以该 404 判断计划为空。 仅涵盖本轮列明公开入口、菜单、响应和指定指南页；未取得不等于未招生或所有公开渠道均未发布。",
+    "sourceIds": [
+      "fp20260920-b-10006-home",
+      "fp20260920-b-10006-plan",
+      "fp20260920-b-10006-score",
+      "fp20260920-b-10006-plan-menu",
+      "fp20260920-b-10006-score-menu",
+      "fp20260920-b-10006-plan-gx",
+      "fp20260920-b-10006-ebook",
+      "fp20260920-b-10006-ebook-data",
+      "fp20260920-b-10006-ebook-p5-1",
+      "fp20260920-b-10006-ebook-p5-2",
+      "fp20260920-b-10006-ebook-p5-3",
+      "fp20260920-b-10006-ebook-p5-4",
+      "fp20260920-b-10006-ebook-p64-1",
+      "fp20260920-b-10006-ebook-p69-1",
+      "fp20260920-b-10006-ebook-p70-1"
+    ],
+    "entryUrl": "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/zsjh.html"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10213",
+    "school": "哈尔滨工业大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+    "note": "已保留院校普通物理计划 7 条、12 人；本轮逐行与新官方响应核对一致。当前公开源未给出广西正式三位专业组码，不能把这些计划直接归入首页 101 组。 招生信息汇总页把 2026 计划与 2025/2024 分数放在同表，已按两层表头核验，全部分数排除；官网本科专业目录为全国校区/学院/专业培养和学费信息，未列广西正式组码。按校本部招生身份核查，威海、深圳独立招生代码不混用。 仅涵盖本轮列明公开入口、菜单、响应和指定指南页；未取得不等于未招生或所有公开渠道均未发布。",
+    "sourceIds": [
+      "fp20260920-b-10213-home",
+      "fp20260920-b-10213-plan",
+      "fp20260920-b-10213-score",
+      "fp20260920-b-10213-summary",
+      "fp20260920-b-10213-guide",
+      "fp20260920-b-10213-major-directory"
+    ],
+    "entryUrl": "https://zsb.hit.edu.cn/information/plan?province=%E5%B9%BF%E8%A5%BF&year=2026"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10558",
+    "school": "中山大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+    "note": "已保留院校普通物理计划 24 条、167 人；本轮逐行与新官方响应核对一致。当前公开源未给出广西正式三位专业组码，不能把这些计划直接归入首页 103 组。 2026 官方折页共 12 页已视觉查看，11—12 页仅“2026年招生专业”全国目录，标明分省专业以省招办公布目录为准，无广西组码或计划数。官网链接的“2026全国招生计划已发布”微信文章实际返回环境验证页，未取得正文；本轮不绕验证。 仅涵盖本轮列明公开入口、菜单、响应和指定指南页；未取得不等于未招生或所有公开渠道均未发布。",
+    "sourceIds": [
+      "fp20260920-b-10558-home",
+      "fp20260920-b-10558-plan",
+      "fp20260920-b-10558-score",
+      "fp20260920-b-10558-plan-menu",
+      "fp20260920-b-10558-score-menu",
+      "fp20260920-b-10558-plan-gx",
+      "fp20260920-b-10558-guide",
+      "fp20260920-b-10558-plan-notice"
+    ],
+    "entryUrl": "https://admission.sysu.edu.cn/zsw/zsjh.html"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10284",
+    "school": "南京大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+    "note": "已保留院校普通物理计划 12 条、47 人；本轮逐行与新官方响应核对一致。当前公开源未给出广西正式三位专业组码，不能把这些计划直接归入首页 105 组。 官网首页动态导航、init 配置和最新动态/招生政策两栏各 6 条真实菜单已核：主要为江苏综合评价、强基及普通招生章程，未取得广西 105 组逐专业计划或本年分数。普通批次查询的批次字段仍空，未改成广西本科普通批。 仅涵盖本轮列明公开入口、菜单、响应和指定指南页；未取得不等于未招生或所有公开渠道均未发布。",
+    "sourceIds": [
+      "fp20260920-b-10284-home",
+      "fp20260920-b-10284-plan",
+      "fp20260920-b-10284-score",
+      "fp20260920-b-10284-plan-menu",
+      "fp20260920-b-10284-score-menu",
+      "fp20260920-b-10284-plan-gx",
+      "fp20260920-b-10284-nav",
+      "fp20260920-b-10284-init",
+      "fp20260920-b-10284-news",
+      "fp20260920-b-10284-policy"
+    ],
+    "entryUrl": "https://bkzs.nju.edu.cn/static/front/nju/basic/html_web/zsjh.html"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10358",
+    "school": "中国科学技术大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+    "note": "已保留院校普通物理计划 12 条、30 人；本轮逐行与新官方响应核对一致。当前公开源未给出广西正式三位专业组码，不能把这些计划直接归入首页 101 组。 专业行 nf/klmc 为空，本次年份与科类由 2026 广西物理菜单、已选择查询及总计表头共同限定；未把空字段补造成原始逐行字段。 官网 2026 本科招生培养亮点回链已有计划查询；“各省市咨询”广西页仅招生咨询联系方式，未列分组计划或最低分，原文联系人/手机号不进入公有包。分数 showField1 明示 minScore 是“投档线”，即使以后出现新年值也不能直接当实际整组最低录取分。 仅涵盖本轮列明公开入口、菜单、响应和指定指南页；未取得不等于未招生或所有公开渠道均未发布。",
+    "sourceIds": [
+      "fp20260920-b-10358-home",
+      "fp20260920-b-10358-plan",
+      "fp20260920-b-10358-score",
+      "fp20260920-b-10358-plan-menu",
+      "fp20260920-b-10358-score-menu",
+      "fp20260920-b-10358-plan-gx",
+      "fp20260920-b-10358-features",
+      "fp20260920-b-10358-consult",
+      "fp20260920-b-10358-gx-consult"
+    ],
+    "entryUrl": "https://zsfw.ustc.edu.cn/zsw/zsjh.html"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10487",
+    "school": "华中科技大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+    "note": "已保留院校普通物理计划 27 条、160 人；本轮逐行与新官方响应核对一致。当前公开源未给出广西正式三位专业组码，不能把这些计划直接归入首页 102 组。 2026 录取查询公告是各省/类别办理进度及个人查询说明；7月30日完成录取新闻只述全校与多省概况，未列广西逐组或逐专业分。现有计划 SFBZ、XZMC 空，亦没有专业组和选科字段，继续保留未知。 仅涵盖本轮列明公开入口、菜单、响应和指定指南页；未取得不等于未招生或所有公开渠道均未发布。",
+    "sourceIds": [
+      "fp20260920-b-10487-home",
+      "fp20260920-b-10487-plan",
+      "fp20260920-b-10487-score",
+      "fp20260920-b-10487-result-notice",
+      "fp20260920-b-10487-completion-news"
+    ],
+    "entryUrl": "https://zsb.hust.edu.cn/bkzn/zsjh.htm"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10002",
+    "school": "中国人民大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20",
+    "note": "当前官方计划仍有2026广西物理本科一批7条14人，withZyz=false且组码字段为空；与既有7条不重复新增。分数菜单广西最高年为2025；2026物理本科一批查询成功但学校与专业列表均空，同条件2025返回学校汇总及专业分。信息公开页另指向旧计划/分数入口，本轮两入口404。仅认定已查这组条件，不能据此认定全校2026未公布。102组专业关系及2026实际组分、专业分仍缺直接证据。",
+    "sourceIds": [
+      "fp26-c-10002-plans",
+      "fp26-c-10002-zsjh-params",
+      "fp26-c-10002-zsjh-2026",
+      "fp26-c-10002-info",
+      "fp26-c-10002-legacy-plan"
+    ],
+    "entryUrl": "https://rdzs.ruc.edu.cn/zsw/zsjh.html"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10610",
+    "school": "四川大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20",
+    "note": "通过正常Chrome读取2026计划公告3431及其链接系统；链接带year=2024但实际页面标题、菜单和每行year均2026。接口核到广西物理普通类28条185人；不含国家/高校专项与民族班。查询未显示103/104组归属，原文批次本科一批与广西正式批次映射待核。录取分菜单最高2025；2026广西物理普通类结果0行，同条件2025为正对照。招生网历年录取目录当前截至2025，公共管理学院2026广西招宣记录没有计划或分数组码。未获得103/104的2026实际最低录取分或专业分。",
+    "sourceIds": [
+      "fp26-c-10610-plan-announcement",
+      "fp26-c-10610-plan-system",
+      "fp26-c-10610-plan-js",
+      "fp26-c-10610-config",
+      "fp26-c-10610-plan-menu",
+      "fp26-c-10610-plan2026-gx",
+      "fp26-c-10610-gx-team"
+    ],
+    "entryUrl": "https://zjczs.scu.edu.cn/aoadmin/#/scu-enrollmentplanw?year=2024"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "10698",
+    "school": "西安交通大学",
+    "status": "collected",
+    "checkedAt": "2026-09-20",
+    "note": "当前本科招生首页链接到新的zswxxcx公开查询，旧bkscx/lnlqcx.htm本轮404。新计划菜单及查询给2026广西物理普通类8条26人；pcmc与zygroup空，批次及101正式组归属待核，不含另列医学、中外合作、专项和民族班。分数菜单广西最高2025；2026同条件成功返回空list，2025返回11条专业分作为正对照。旧年度不能按当前页面时间转为2026。101组实际组分和专业分未得直接证据。",
+    "sourceIds": [
+      "fp26-c-10698-home",
+      "fp26-c-10698-new-score",
+      "fp26-c-10698-app",
+      "fp26-c-10698-chunk",
+      "fp26-c-10698-zsjh-menu",
+      "fp26-c-10698-zsjh2026-gx",
+      "fp26-c-10698-plan-fieldmap"
+    ],
+    "entryUrl": "https://zswxxcx.xjtu.edu.cn/public/zsdata/lqxx/#/"
+  },
+  {
+    "year": 2026,
+    "schoolCode": "18213",
+    "school": "哈尔滨工业大学(深圳)",
+    "status": "collected",
+    "checkedAt": "2026-09-20",
+    "note": "仅使用深圳校区招生网，保持18213身份。2026计划菜单ID和广西省份菜单均有效，广西共8条75人；排除名称带国家/高校专项2条12人，保留6条63人（物理5条47人、历史1条16人），正式类别、批次与102组关系未提供。分数菜单只有2025/2024；使用已由计划菜单确认的2026年度ID探测分数接口为0行，2025广西正对照7行。2026年度尚未在分数菜单发布，探测空表仅为辅助证据。招生快讯2026条目为入学须知和录取日程，简章下载目录为空；未得2026实际组分或专业分。",
+    "sourceIds": [
+      "fp26-c-18213-home",
+      "fp26-c-18213-plans",
+      "fp26-c-18213-ndDmx",
+      "fp26-c-18213-provinces2026",
+      "fp26-c-18213-plan2026-gx",
+      "fp26-c-18213-news",
+      "fp26-c-18213-brochures"
+    ],
+    "entryUrl": "https://zsb.hitsz.edu.cn/zs_common/bkzn/zsjh"
+  },
+  {
+    "schoolCode": "10286",
+    "school": "东南大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "collected",
+    "sourceIds": [
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image"
+    ],
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "entryUrl": "https://zsb.seu.edu.cn/2026/0615/c23741a571605/pagem.htm",
+    "note": "本次新增2026广西25条初始计划87人，覆盖原图普通类、民族班、国家专项和高校专项；原图未列广西正式组码/批次/学费/学制，仍不能认定已匹配151组。"
+  },
+  {
+    "schoolCode": "10533",
+    "school": "中南大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "collected",
+    "sourceIds": [
+      "page1-20260920-d-10533-plan",
+      "page1-20260920-d-10533-plan26-physics",
+      "page1-20260920-d-10533-plan26-history"
+    ],
+    "checkedAt": "2026-09-20T08:48:24.596944+00:00",
+    "entryUrl": "https://zhaosheng.csu.edu.cn/a26jhyl/jh_bk.htm",
+    "note": "复核物理26条321人一致；补入历史4条21人，目前普通类公开查询两科合计30条342人。仅校内组名，广西三位组码待核；新历史行未给省批次，保留待核。未声称覆盖其他招生渠道。"
+  },
+  {
+    "schoolCode": "10013",
+    "school": "北京邮电大学",
+    "year": 2026,
+    "province": "广西",
+    "status": "collected",
+    "sourceIds": [
+      "page1-20260920-d-10013-official-plan"
+    ],
+    "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+    "entryUrl": "https://zscx.bupt.edu.cn/zsw/zsjh.html",
+    "note": "已从学校官网公开查询取得2026广西统招物理10条计划130人，含元班和其他普通专业；正式广西数字组码、批次、学制及完整学费仍待核。另列中外合作类别未纳入本批，不表示覆盖该校全部渠道。可正常浏览，部分直接HTTP请求仍受限。"
+  }
+]

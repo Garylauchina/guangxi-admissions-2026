@@ -1,0 +1,50 @@
+{
+  "status": "pass",
+  "reviewedAt": "2026-09-20T08:53:28.638626+00:00",
+  "schoolCode": "10286",
+  "school": "东南大学",
+  "year": 2026,
+  "province": "广西",
+  "method": "直接目视官方计划原图，独立转录25行专业原文、类别、选科及人数，再与提取包逐字段比对。",
+  "inputFiles": {
+    "plans-upsert.json": "fa1c8d19de16c52704cc4fe5c256430783e07ded412e76be66c5ee3098002af2",
+    "raw/10286-plan26-image.jpg": "b20ad3f3bc2a87d5cec4c84bb2d49e4222ed500aa5d556e728a4ed6ef071fa39"
+  },
+  "rowCount": 25,
+  "totalPlannedCount": 87,
+  "categoryCounts": {
+    "普通类": 64,
+    "民族班": 10,
+    "国家专项": 9,
+    "高校专项": 4
+  },
+  "trackCounts": {
+    "历史": 12,
+    "物理": 75
+  },
+  "checkedFields": [
+    "major",
+    "category",
+    "track",
+    "requiredSubjects",
+    "subjectRule",
+    "plannedCount",
+    "sourceRow",
+    "group",
+    "batch",
+    "planStage",
+    "year",
+    "province"
+  ],
+  "allRowsMatch": true,
+  "specialChecks": [
+    "第7行后两年在无锡培养完整保留。",
+    "第11、12行星号已转为可见说明：1人计划专业不填不录；100%不调剂志愿保障政策可不包括。",
+    "第22行经济学类为物理+不限，没有错误附加化学要求。",
+    "普通、民族班、国家专项、高校专项分别保留，未混作普通计划。",
+    "25行group均null，省内批次待核；没有依据唯一组或专业名猜组码。"
+  ],
+  "findings": [],
+  "scopeLimit": "仅核对此官方2026广西初始计划原图和当前25行提取；未验证原图未提供的广西正式组码、批次、专业代码、学费与学制，也不表示专业录取分已取得。",
+  "privacy": "本复核文件仅含统计事实、结论与哈希；不附原图或个人信息。"
+}

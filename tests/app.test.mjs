@@ -24,7 +24,7 @@ async function liveReviewStats() {
   const unreviewed = [...codes].filter(code => !reviewed.has(code) && !valid.has(code));
   const planOnlyAudit = notes.find(r => codes.has(String(r.schoolCode)) && !reviewed.has(String(r.schoolCode)));
   assert.equal(valid.size + reviewedGap.length + unreviewed.length, codes.size);
-  return { total: codes.size, collected: valid.size, reviewed: reviewed.size, reviewedGap: reviewedGap.length, unreviewed: unreviewed.length, planOnlyAudit, firstGroups: cutoffs.filter(r => r.round === '首轮').length };
+  return { total: codes.size, collected: valid.size, reviewed: reviewed.size, reviewedGap: reviewedGap.length, unreviewed: unreviewed.length, planOnlyAudit, firstGroups: cutoffs.filter(r => r.round === '首轮').length, csuPlanCount: plans.filter(r => r.schoolCode === '10533').length };
 }
 
 test('页面真实数据加载、筛选、备选、详情、导出和导航交互', async () => {
@@ -82,7 +82,7 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   assert.ok(newGroup);newGroup.querySelector('[data-detail]').click();
   assert.match($('detail-content').textContent,/专业计划（3 条）/);assert.match($('detail-content').textContent,/网络与新媒体/);
   $('close-detail').click();input('query','10533');document.querySelector('[data-detail]').click();
-  assert.match($('detail-content').textContent,/已收录该校 26 条计划/);
+  assert.match($('detail-content').textContent,new RegExp(`已收录该校 ${stats.csuPlanCount} 条计划`));
   document.querySelector('#detail-content [data-school-query]').click();
   assert.ok([...document.querySelectorAll('.score')].every(e=>e.textContent==='待匹配'));
   document.querySelector('[data-detail]').click();assert.match($('detail-content').textContent,/高校原文组名（广西组码待核）/);

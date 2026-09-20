@@ -1,0 +1,73 @@
+{
+  "status": "passed-with-navigation-evidence-limitation",
+  "reviewedAt": "2026-09-20T08:57:00.670990+00:00",
+  "reviewer": "independent-B-agent",
+  "scope": "Read-only raw-to-normalized review of C42 initial plans; no package or site edits except this report.",
+  "artifactSha256": {
+    "plans-upsert.json": "86b7f47f91c25e3aee0aa6d7ceeb8c40fcb10e69536f6e75cf5f01cb05cb85aa",
+    "sources.json": "781282be2da071dfccd3ed72591d11111636031cc02cee083707399a2912bc47",
+    "source-catalog.json": "8f7a6e6b15b5325c9514d976bddbe12e9e7fd0ea69c3db995c8e963e052c053e",
+    "school-audit-notes.json": "6a23d536a412b71b1d5437c02111dbc764a193ccab1a5a1447aa7640c97187ae",
+    "target-gaps.json": "3631b88e1d48dfb02d20af1dae2002ba75988842f09f475c8723fe8143361aaf"
+  },
+  "checks": {
+    "planRowsComparedAgainstRaw": 42,
+    "plannedStudentsComparedAgainstRaw": 274,
+    "sourceMetadataRows": 51,
+    "sourceArchivesSha256Verified": 51,
+    "allSourceAndFieldReferencesResolve": true,
+    "unknownProvinceGroupKeptNull": true,
+    "unknownOfficialBatchKeptUnresolved": true,
+    "disciplineCodeNotProvinceMajorCode": true,
+    "oldYearScoresNotImported": true,
+    "noSourceCookieTokenOrStudentPIIDetected": true,
+    "normalizedUnknownCategoryMatchesFrontendEnum": true
+  },
+  "bySchool": [
+    {
+      "schoolCode": "10610",
+      "school": "四川大学",
+      "rows": 28,
+      "plannedCount": 185,
+      "track": "物理",
+      "result": "逐行年/省/科类/类别为2026/广西壮族自治区/物理类/普通类，名称、人数与来源批次精确匹配。菜单直接支持450000/05/03；接口总行数28且当前页完整。保留原文本科一批，正式广西批次待核。原表未给选科、学费、学制，继续unknown/null。"
+    },
+    {
+      "schoolCode": "10698",
+      "school": "西安交通大学",
+      "rows": 8,
+      "plannedCount": 26,
+      "track": "物理",
+      "result": "逐行2026/广西/物理类/普通类，人数与sumLists一致。可见动态配置明确jhrs计划人数、xkkm选考科目、xzmc学制；8行原文均物理+化学、四年，规范字段一致。pcmc/zygroup/zyxf为空，未补造批次/组码/学费。"
+    },
+    {
+      "schoolCode": "18213",
+      "school": "哈尔滨工业大学(深圳)",
+      "rows": 6,
+      "plannedCount": 63,
+      "physicsRows": 5,
+      "physicsPlannedCount": 47,
+      "historyRows": 1,
+      "historyPlannedCount": 16,
+      "result": "2026菜单ID与请求ndm、广西菜单450000与请求sm一致。8条75人排除国家专项9人和高校专项3人后余6条63人。5物理行均原文物理 化学；1历史行仅历史，未误加化学。历史再选科目谨慎标unknown。保持18213身份，未因第一年校本部培养混成10213。"
+    }
+  ],
+  "resolvedFindings": [
+    {
+      "finding": "哈深未知类别需使用前端精确枚举",
+      "raisedBy": "root",
+      "resolution": "6条均已改为未注明招生类别；已复核。"
+    }
+  ],
+  "limitations": [
+    {
+      "kind": "navigation-evidence-only",
+      "note": "当前sources的四川大学home、plan-announcement和score-index元数据仍为HTTP412本地错误归档，不能独立证明Chrome页面正文。目录说明提及Chrome阅读，已建议C补脱敏浏览器导航事实或明确这些失败源仅记录访问边界。2026计划数值由成功API及菜单逐行直接支持，本项不影响数值接受。"
+    },
+    {
+      "kind": "target-group-mapping",
+      "note": "42条属于院校计划补充；group全部null，不能视为指定首页专业组的完整计划。"
+    }
+  ],
+  "decision": "可接收42条有来源的院校初始计划和有界缺口审计；不新增整组实际录取分或专业录取分。"
+}

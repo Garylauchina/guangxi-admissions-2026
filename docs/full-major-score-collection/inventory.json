@@ -68,41 +68,47 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-review-batch-a-10001"
+        "major-score-review-batch-a-10001",
+        "major-score-review-first7-20260920-10001"
       ],
       "statuses": {
-        "entry-only-year-gap": 1
+        "entry-only-year-gap": 1,
+        "year-unavailable": 1
       },
-      "latestReviewDate": "2026-09-10",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-batch-a-10001"
+        "major-score-review-first7-20260920-10001"
       ],
       "latestStatuses": [
-        "entry-only-year-gap"
+        "year-unavailable"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-batch-a-10001",
-          "checkedAt": "2026-09-10T09:19:02.561496+00:00",
-          "status": "entry-only-year-gap",
-          "note": "官方分数入口重定向到当前分数表，年份最高2025；广西行按省份/招生类别列文理分数，未取得2026广西分专业实际录取信息。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。"
+          "id": "major-score-review-first7-20260920-10001",
+          "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+          "status": "year-unavailable",
+          "note": "已打开官方录取分数实际表页，年份选择最高2025（可见2015—2025）；广西为省份/类别汇总，不是2026具体专业成绩。2026指南附录仍列2023—2025分数。未取得首页102组直接最低录取分或具体专业实际最低录取分。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-batch-a-10001",
-      "latestCheckedAt": "2026-09-10T09:19:02.561496+00:00",
-      "latestStatus": "entry-only-year-gap",
-      "latestNote": "官方分数入口重定向到当前分数表，年份最高2025；广西行按省份/招生类别列文理分数，未取得2026广西分专业实际录取信息。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。",
+      "latestNoteId": "major-score-review-first7-20260920-10001",
+      "latestCheckedAt": "2026-09-20T08:46:17.442087+00:00",
+      "latestStatus": "year-unavailable",
+      "latestNote": "已打开官方录取分数实际表页，年份选择最高2025（可见2015—2025）；广西为省份/类别汇总，不是2026具体专业成绩。2026指南附录仍列2023—2025分数。未取得首页102组直接最低录取分或具体专业实际最低录取分。",
       "checkedUrls": [
+        "https://bkzs.pku.edu.cn/docs/2026-06/ea87b5bdc4c2436787106a463d1d6bb0.pdf",
         "https://bkzs.pku.edu.cn/xxgk/lqfsx/2f23dc2f47ae4f46a90d39efd06c7b1a.htm",
         "https://bkzs.pku.edu.cn/xxgk/lqfsx/index.htm"
       ],
       "sourceRefs": [
+        "first7-20260920-10001-detail-major-a-pku-score-page",
+        "first7-20260920-10001-detail-top-a-pku-brochure-2026",
+        "first7-20260920-10001-major-a-pku-score-index",
         "major-a-pku-score-index",
         "major-a-pku-score-page"
       ]
     },
-    "anyAuditNoteRecords": 2,
+    "anyAuditNoteRecords": 4,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 685,
@@ -123,6 +129,12 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "first7-20260920-10001-detail-major-a-pku-score-page",
+      "first7-20260920-10001-detail-top-a-pku-brochure-2026",
+      "first7-20260920-10001-major-a-pku-score-index",
+      "first7-20260920-10001-top-a-pku-brochures-alias",
+      "first7-20260920-10001-top-a-pku-contact",
+      "first7-20260920-10001-top-a-pku-ordinary-alias",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-a-pku-score-index",
@@ -205,39 +217,48 @@
     "scoreAudit": {
       "noteIds": [
         "major-score-review-batch-a-10002",
-        "major-score-review-p100a-10002"
+        "major-score-review-p100a-10002",
+        "audit-fp26-c-10002"
       ],
       "statuses": {
-        "current-year-query-empty": 2
+        "current-year-query-empty": 3
       },
-      "latestReviewDate": "2026-09-12",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-p100a-10002"
+        "audit-fp26-c-10002"
       ],
       "latestStatuses": [
         "current-year-query-empty"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-p100a-10002",
-          "checkedAt": "2026-09-12",
+          "id": "audit-fp26-c-10002",
+          "checkedAt": "2026-09-20",
           "status": "current-year-query-empty",
-          "note": "公开广西菜单只有2025；按其物理/历史本科一批、国家专项、新路引航等6组菜单类别作2026缺年探查，均成功双列表空；2025对照有旧年专业记录。另查官网首页和官方定向检索，未取得本年广西专业最低分。"
+          "note": "当前官方计划仍有2026广西物理本科一批7条14人，withZyz=false且组码字段为空；与既有7条不重复新增。分数菜单广西最高年为2025；2026物理本科一批查询成功但学校与专业列表均空，同条件2025返回学校汇总及专业分。信息公开页另指向旧计划/分数入口，本轮两入口404。仅认定已查这组条件，不能据此认定全校2026未公布。102组专业关系及2026实际组分、专业分仍缺直接证据。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-p100a-10002",
-      "latestCheckedAt": "2026-09-12",
+      "latestNoteId": "audit-fp26-c-10002",
+      "latestCheckedAt": "2026-09-20",
       "latestStatus": "current-year-query-empty",
-      "latestNote": "公开广西菜单只有2025；按其物理/历史本科一批、国家专项、新路引航等6组菜单类别作2026缺年探查，均成功双列表空；2025对照有旧年专业记录。另查官网首页和官方定向检索，未取得本年广西专业最低分。",
+      "latestNote": "当前官方计划仍有2026广西物理本科一批7条14人，withZyz=false且组码字段为空；与既有7条不重复新增。分数菜单广西最高年为2025；2026物理本科一批查询成功但学校与专业列表均空，同条件2025返回学校汇总及专业分。信息公开页另指向旧计划/分数入口，本轮两入口404。仅认定已查这组条件，不能据此认定全校2026未公布。102组专业关系及2026实际组分、专业分仍缺直接证据。",
       "checkedUrls": [
         "https://rdzs.ruc.edu.cn/",
+        "https://rdzs.ruc.edu.cn/cms/scores/",
         "https://rdzs.ruc.edu.cn/f/ajax_lnfs",
         "https://rdzs.ruc.edu.cn/f/ajax_lnfs_param",
         "https://rdzs.ruc.edu.cn/static/front/ruc/basic/js/tplt.js",
-        "https://rdzs.ruc.edu.cn/zsw/lnfs.html"
+        "https://rdzs.ruc.edu.cn/zsw/lnfs.html",
+        "https://xxgk.ruc.edu.cn/gksx/zsks/bkszs/index.htm"
       ],
       "sourceRefs": [
+        "fp26-c-10002-info",
+        "fp26-c-10002-legacy-score",
+        "fp26-c-10002-lnfs-2025",
+        "fp26-c-10002-lnfs-2026",
+        "fp26-c-10002-lnfs-params",
+        "fp26-c-10002-scores",
         "major-a-ruc-plan-entry-tplt",
         "major-a-ruc-score-2026-history",
         "major-a-ruc-score-2026-physics",
@@ -256,7 +277,7 @@
         "p100a-10002-scores-2026-6"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 665,
@@ -277,6 +298,16 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp26-c-10002-info",
+      "fp26-c-10002-legacy-plan",
+      "fp26-c-10002-legacy-score",
+      "fp26-c-10002-lnfs-2025",
+      "fp26-c-10002-lnfs-2026",
+      "fp26-c-10002-lnfs-params",
+      "fp26-c-10002-plans",
+      "fp26-c-10002-scores",
+      "fp26-c-10002-zsjh-2026",
+      "fp26-c-10002-zsjh-params",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-a-ruc-plan-entry-tplt",
@@ -368,43 +399,47 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-review-batch-a-10003"
+        "major-score-review-batch-a-10003",
+        "major-score-review-first7-20260920-10003"
       ],
       "statuses": {
-        "entry-only-year-gap": 1
+        "entry-only-year-gap": 1,
+        "year-unavailable": 1
       },
-      "latestReviewDate": "2026-09-10",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-batch-a-10003"
+        "major-score-review-first7-20260920-10003"
       ],
       "latestStatuses": [
-        "entry-only-year-gap"
+        "year-unavailable"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-batch-a-10003",
-          "checkedAt": "2026-09-10T09:19:02.471092+00:00",
-          "status": "entry-only-year-gap",
-          "note": "官方高考统招页所链接的历年录取分数栏目最新可读公告为2024各省各批次分数；不是2026广西分专业实际录取表，未导入。个人录取查询入口需要考生信息，不用于搜集个人数据。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。"
+          "id": "major-score-review-first7-20260920-10003",
+          "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+          "status": "year-unavailable",
+          "note": "官方历年录取分数栏目当前最新2024，整页共15条、1页；本年高考统招栏目所见为入校后实验班选拔方案，不能作为广西录取分。未取得首页103组直接最低录取分或具体专业实际分。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-batch-a-10003",
-      "latestCheckedAt": "2026-09-10T09:19:02.471092+00:00",
-      "latestStatus": "entry-only-year-gap",
-      "latestNote": "官方高考统招页所链接的历年录取分数栏目最新可读公告为2024各省各批次分数；不是2026广西分专业实际录取表，未导入。个人录取查询入口需要考生信息，不用于搜集个人数据。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。",
+      "latestNoteId": "major-score-review-first7-20260920-10003",
+      "latestCheckedAt": "2026-09-20T08:46:17.442087+00:00",
+      "latestStatus": "year-unavailable",
+      "latestNote": "官方历年录取分数栏目当前最新2024，整页共15条、1页；本年高考统招栏目所见为入校后实验班选拔方案，不能作为广西录取分。未取得首页103组直接最低录取分或具体专业实际分。",
       "checkedUrls": [
         "https://www.join-tsinghua.edu.cn/gnxs/gktz.htm",
         "https://www.join-tsinghua.edu.cn/info/1032/1945.htm",
         "https://www.join-tsinghua.edu.cn/xxgk/lnlqfsx.htm"
       ],
       "sourceRefs": [
+        "first7-20260920-10003-major-a-thu-score-index",
+        "first7-20260920-10003-top-a-thu-general",
         "major-a-thu-general",
         "major-a-thu-score-2024",
         "major-a-thu-score-index"
       ]
     },
-    "anyAuditNoteRecords": 2,
+    "anyAuditNoteRecords": 4,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 685,
@@ -425,6 +460,11 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "first7-20260920-10003-2026-gx-consultation-image",
+      "first7-20260920-10003-major-a-thu-score-index",
+      "first7-20260920-10003-top-a-thu-contact-2026",
+      "first7-20260920-10003-top-a-thu-general",
+      "first7-20260920-10003-top-a-thu-plan-legacy",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-a-thu-general",
@@ -796,35 +836,49 @@
     "scoreAudit": {
       "noteIds": [
         "major-score-review-batch-a-10006",
-        "major-score-review-p100a-10006"
+        "major-score-review-p100a-10006",
+        "fp20260920-b-review-10006"
       ],
       "statuses": {
-        "current-year-query-empty": 2
+        "current-year-query-empty": 2,
+        "entry-only-year-gap": 1
       },
-      "latestReviewDate": "2026-09-12",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-p100a-10006"
+        "fp20260920-b-review-10006"
       ],
       "latestStatuses": [
-        "current-year-query-empty"
+        "entry-only-year-gap"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-p100a-10006",
-          "checkedAt": "2026-09-12",
-          "status": "current-year-query-empty",
-          "note": "公开广西菜单最新2025；按其已列类别作2026物理/历史及统招、合作、国家/高校专项等5组缺年探查，均成功空列表；2025对照学校汇总非空。另核2026本科录取信息公告，其历年分数仍指向同一查询，不提供新的本年专业统计。"
+          "id": "fp20260920-b-review-10006",
+          "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+          "status": "entry-only-year-gap",
+          "note": "本轮广西分数真实菜单年份为 2025、2024、2023，没有 2026；未请求菜单不存在的年份，也未将旧年份或空菜单误报为已发布本年结果。 官网直接链接的“北航2026年报考指南”已打开，70 个电子章节；已视觉检查目录四幅及首尾、杭州国际校园扉页。目录四部分是学校概况、人才培养、奖助学金、学院介绍，未列分省计划章节；本轮未逐页核读其余学院介绍。资源 setting.js 返回 404，电子书 index.js 与已查看图像正常；不以该 404 判断计划为空。 首页物理/本科普通批/首轮 101 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-p100a-10006",
-      "latestCheckedAt": "2026-09-12",
-      "latestStatus": "current-year-query-empty",
-      "latestNote": "公开广西菜单最新2025；按其已列类别作2026物理/历史及统招、合作、国家/高校专项等5组缺年探查，均成功空列表；2025对照学校汇总非空。另核2026本科录取信息公告，其历年分数仍指向同一查询，不提供新的本年专业统计。",
+      "latestNoteId": "fp20260920-b-review-10006",
+      "latestCheckedAt": "2026-09-20T08:51:16.523861+00:00",
+      "latestStatus": "entry-only-year-gap",
+      "latestNote": "本轮广西分数真实菜单年份为 2025、2024、2023，没有 2026；未请求菜单不存在的年份，也未将旧年份或空菜单误报为已发布本年结果。 官网直接链接的“北航2026年报考指南”已打开，70 个电子章节；已视觉检查目录四幅及首尾、杭州国际校园扉页。目录四部分是学校概况、人才培养、奖助学金、学院介绍，未列分省计划章节；本轮未逐页核读其余学院介绍。资源 setting.js 返回 404，电子书 index.js 与已查看图像正常；不以该 404 判断计划为空。 首页物理/本科普通批/首轮 101 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。",
       "checkedUrls": [
+        "https://cdn1.zhizhucms.com/materials/image/1164/1781246870409_808.jpg",
+        "https://cdn1.zhizhucms.com/materials/image/1164/1781250069804_721.jpg",
+        "https://cdn1.zhizhucms.com/materials/image/1164/1781250077647_663.jpg",
+        "https://cdn1.zhizhucms.com/materials/image/1164/1781253051698_883.jpg",
+        "https://cdn1.zhizhucms.com/materials/image/1164/1781253051760_283.jpg",
+        "https://cdn1.zhizhucms.com/materials/image/1164/1781253052233_145.jpg",
+        "https://cdn1.zhizhucms.com/materials/image/1164/1781253052320_151.jpg",
+        "https://drafoon.epub360.com.cn/v2/manage/book/ub4sza/?from=singlemessage",
+        "https://js.epub360.com/ub4sza/776/index.js",
         "https://lqcx.buaa.edu.cn/f/ajax_lnfs",
         "https://lqcx.buaa.edu.cn/f/ajax_lnfs_param",
+        "https://lqcx.buaa.edu.cn/f/ajax_zsjh",
+        "https://lqcx.buaa.edu.cn/f/ajax_zsjh_param",
         "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/lnfs.html",
+        "https://lqcx.buaa.edu.cn/static/front/buaa/basic/html_web/zsjh.html",
         "https://lqcx.buaa.edu.cn/static/front/buaa/basic/js/tplt.js",
         "https://zs.buaa.edu.cn/",
         "https://zs.buaa.edu.cn/bkzn/lnfs.htm",
@@ -832,6 +886,21 @@
         "https://zs.buaa.edu.cn/info/1082/1247.htm"
       ],
       "sourceRefs": [
+        "fp20260920-b-10006-ebook",
+        "fp20260920-b-10006-ebook-data",
+        "fp20260920-b-10006-ebook-p5-1",
+        "fp20260920-b-10006-ebook-p5-2",
+        "fp20260920-b-10006-ebook-p5-3",
+        "fp20260920-b-10006-ebook-p5-4",
+        "fp20260920-b-10006-ebook-p64-1",
+        "fp20260920-b-10006-ebook-p69-1",
+        "fp20260920-b-10006-ebook-p70-1",
+        "fp20260920-b-10006-home",
+        "fp20260920-b-10006-plan",
+        "fp20260920-b-10006-plan-gx",
+        "fp20260920-b-10006-plan-menu",
+        "fp20260920-b-10006-score",
+        "fp20260920-b-10006-score-menu",
         "major-a-buaa-plan-entry-tplt",
         "major-a-buaa-score-2026-history",
         "major-a-buaa-score-2026-physics",
@@ -854,7 +923,7 @@
         "p100a-10006-scores-2026-5"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 670,
@@ -875,6 +944,21 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp20260920-b-10006-ebook",
+      "fp20260920-b-10006-ebook-data",
+      "fp20260920-b-10006-ebook-p5-1",
+      "fp20260920-b-10006-ebook-p5-2",
+      "fp20260920-b-10006-ebook-p5-3",
+      "fp20260920-b-10006-ebook-p5-4",
+      "fp20260920-b-10006-ebook-p64-1",
+      "fp20260920-b-10006-ebook-p69-1",
+      "fp20260920-b-10006-ebook-p70-1",
+      "fp20260920-b-10006-home",
+      "fp20260920-b-10006-plan",
+      "fp20260920-b-10006-plan-gx",
+      "fp20260920-b-10006-plan-menu",
+      "fp20260920-b-10006-score",
+      "fp20260920-b-10006-score-menu",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-a-buaa-plan-entry-tplt",
@@ -973,39 +1057,52 @@
     "scoreAudit": {
       "noteIds": [
         "major-score-review-batch-a-10007",
-        "major-score-review-p100a-10007"
+        "major-score-review-p100a-10007",
+        "fp20260920-b-review-10007"
       ],
       "statuses": {
-        "current-year-query-empty": 2
+        "current-year-query-empty": 2,
+        "entry-only-year-gap": 1
       },
-      "latestReviewDate": "2026-09-12",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-p100a-10007"
+        "fp20260920-b-review-10007"
       ],
       "latestStatuses": [
-        "current-year-query-empty"
+        "entry-only-year-gap"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-p100a-10007",
-          "checkedAt": "2026-09-12",
-          "status": "current-year-query-empty",
-          "note": "公开广西菜单最新2025；2026物理/历史统招缺年探查均state=1且学校/专业列表空。2025物理对照非空，但其sszygradeList的“物理组”是组汇总，不能因位于专业列表便作为单专业结果。另查官网首页公告。"
+          "id": "fp20260920-b-review-10007",
+          "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+          "status": "entry-only-year-gap",
+          "note": "本轮广西分数真实菜单年份为 2025、2024、2023、2022、2021、2020、2019、2018，没有 2026；未请求菜单不存在的年份，也未将旧年份或空菜单误报为已发布本年结果。 招生信息栏目当页 20 条标题主要为强基、高水平运动队、保送及第二学位，未取得广西普通批分组计划或专业录取统计；不将这些路线用于当前组。 首页物理/本科普通批/首轮 101 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-p100a-10007",
-      "latestCheckedAt": "2026-09-12",
-      "latestStatus": "current-year-query-empty",
-      "latestNote": "公开广西菜单最新2025；2026物理/历史统招缺年探查均state=1且学校/专业列表空。2025物理对照非空，但其sszygradeList的“物理组”是组汇总，不能因位于专业列表便作为单专业结果。另查官网首页公告。",
+      "latestNoteId": "fp20260920-b-review-10007",
+      "latestCheckedAt": "2026-09-20T08:51:16.523861+00:00",
+      "latestStatus": "entry-only-year-gap",
+      "latestNote": "本轮广西分数真实菜单年份为 2025、2024、2023、2022、2021、2020、2019、2018，没有 2026；未请求菜单不存在的年份，也未将旧年份或空菜单误报为已发布本年结果。 招生信息栏目当页 20 条标题主要为强基、高水平运动队、保送及第二学位，未取得广西普通批分组计划或专业录取统计；不将这些路线用于当前组。 首页物理/本科普通批/首轮 101 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。",
       "checkedUrls": [
         "https://admission.bit.edu.cn/",
         "https://admission.bit.edu.cn/f/ajax_lnfs",
         "https://admission.bit.edu.cn/f/ajax_lnfs_param",
+        "https://admission.bit.edu.cn/f/ajax_zsjh",
+        "https://admission.bit.edu.cn/f/ajax_zsjh_param",
+        "https://admission.bit.edu.cn/f/newsCenter/articles/0278fac54ee5438f8d16717a277d38eb",
         "https://admission.bit.edu.cn/static/front/bit/basic/html_web/lnfs.html",
+        "https://admission.bit.edu.cn/static/front/bit/basic/html_web/zsjh.html",
         "https://admission.bit.edu.cn/static/front/bit/basic/js/tplt.js"
       ],
       "sourceRefs": [
+        "fp20260920-b-10007-home",
+        "fp20260920-b-10007-news",
+        "fp20260920-b-10007-plan",
+        "fp20260920-b-10007-plan-gx",
+        "fp20260920-b-10007-plan-menu",
+        "fp20260920-b-10007-score",
+        "fp20260920-b-10007-score-menu",
         "major-a-bit-plan-entry-tplt",
         "major-a-bit-score-2026-history",
         "major-a-bit-score-2026-physics",
@@ -1020,7 +1117,7 @@
         "p100a-10007-scores-2026-2"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 672,
@@ -1041,6 +1138,13 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp20260920-b-10007-home",
+      "fp20260920-b-10007-news",
+      "fp20260920-b-10007-plan",
+      "fp20260920-b-10007-plan-gx",
+      "fp20260920-b-10007-plan-menu",
+      "fp20260920-b-10007-score",
+      "fp20260920-b-10007-score-menu",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-a-bit-plan-entry-tplt",
@@ -1695,8 +1799,10 @@
     ],
     "datasets": [
       "cutoffs.json",
+      "plans.json",
       "school-coverage.json",
-      "school-audit-notes.json"
+      "school-audit-notes.json",
+      "plan-source-catalog.json"
     ],
     "ordinaryLevel": "undergraduate",
     "ordinaryLevelBasis": "observed ordinary-filing batches, not the official institutional classification",
@@ -1705,6 +1811,7 @@
       "物理"
     ],
     "batches": [
+      "批次待核",
       "本科普通批"
     ],
     "ordinaryBatches": [
@@ -1721,10 +1828,10 @@
       "allRoundsNullScores": 0
     },
     "plan": {
-      "records": 0,
+      "records": 10,
       "supplementaryRecords": 0,
-      "sourceCatalogRecords": 0,
-      "literalTrackMajorKeys": 0,
+      "sourceCatalogRecords": 1,
+      "literalTrackMajorKeys": 10,
       "firstRoundGroupsWithSomeMatchedPlans": 0,
       "planRecordsWithComparableGroupScore": 0
     },
@@ -1752,41 +1859,47 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-audit-2026-0911-10013"
+        "major-score-audit-2026-0911-10013",
+        "major-score-audit-page1-20260920-10013"
       ],
       "statuses": {
-        "access-restricted": 1
+        "access-restricted": 1,
+        "no-current-year-records": 1
       },
-      "latestReviewDate": "2026-09-11",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-audit-2026-0911-10013"
+        "major-score-audit-page1-20260920-10013"
       ],
       "latestStatuses": [
-        "access-restricted"
+        "no-current-year-records"
       ],
       "latestNotes": [
         {
-          "id": "major-score-audit-2026-0911-10013",
-          "checkedAt": "2026-09-11T02:10:30.339518+08:00",
-          "status": "access-restricted",
-          "note": "本科招生网及检索发现的旧年分数公告入口均返回HTTP 412，未取得可读专业表。旧年检索条目不当作2026录取分；本轮未取得2026广西专业实际录取数据。"
+          "id": "major-score-audit-page1-20260920-10013",
+          "checkedAt": "2026-09-20T08:50:46.067711+00:00",
+          "status": "no-current-year-records",
+          "note": "正常Chrome可读官网查询：2026广西统招物理10条计划130人已采集。分数入口当前广西年份仅2025/2024，未取得2026实际专业分或直接组分；2025元班/普通理工科的名称与数值均不套用2026。公开HTTP412仅为路径限制，不再将学校整体标成无法访问。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-audit-2026-0911-10013",
-      "latestCheckedAt": "2026-09-11T02:10:30.339518+08:00",
-      "latestStatus": "access-restricted",
-      "latestNote": "本科招生网及检索发现的旧年分数公告入口均返回HTTP 412，未取得可读专业表。旧年检索条目不当作2026录取分；本轮未取得2026广西专业实际录取数据。",
+      "latestNoteId": "major-score-audit-page1-20260920-10013",
+      "latestCheckedAt": "2026-09-20T08:50:46.067711+00:00",
+      "latestStatus": "no-current-year-records",
+      "latestNote": "正常Chrome可读官网查询：2026广西统招物理10条计划130人已采集。分数入口当前广西年份仅2025/2024，未取得2026实际专业分或直接组分；2025元班/普通理工科的名称与数值均不套用2026。公开HTTP412仅为路径限制，不再将学校整体标成无法访问。",
       "checkedUrls": [
         "https://zsb.bupt.edu.cn/",
-        "https://zsb.bupt.edu.cn/info/1003/2386.htm"
+        "https://zsb.bupt.edu.cn/info/1003/2386.htm",
+        "https://zscx.bupt.edu.cn/zsw/lnfs.html",
+        "https://zscx.bupt.edu.cn/zsw/zsjh.html"
       ],
       "sourceRefs": [
         "major-20260911-a-bupt-home",
-        "major-20260911-a-bupt-score-2024-entry"
+        "major-20260911-a-bupt-score-2024-entry",
+        "page1-20260920-d-10013-official-plan",
+        "page1-20260920-d-10013-official-score-menu"
       ]
     },
-    "anyAuditNoteRecords": 1,
+    "anyAuditNoteRecords": 3,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 652,
@@ -1801,15 +1914,17 @@
     },
     "prioritySemantics": "同科类任务排序依据：各首轮专业组最低投档分中的最高值；不是专业分，也不是学校最低录取分。物理与历史不混排。",
     "nextAction": {
-      "code": "check-public-alternative-and-record-access-limit",
-      "label": "检查官网其他公开发布渠道；记录原入口访问限制，不绕过登录或验证。"
+      "code": "recheck-2026-official-score-channel",
+      "label": "从上次官方入口和限定查询条件继续核查；旧年、空结果或组汇总不能填入实际专业分。"
     },
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
       "gxeea-2026-33107",
       "major-20260911-a-bupt-home",
-      "major-20260911-a-bupt-score-2024-entry"
+      "major-20260911-a-bupt-score-2024-entry",
+      "page1-20260920-d-10013-official-plan",
+      "page1-20260920-d-10013-official-score-menu"
     ]
   },
   {
@@ -18207,39 +18322,51 @@
     "scoreAudit": {
       "noteIds": [
         "major-score-review-root-10213",
-        "major-score-review-p100a-10213"
+        "major-score-review-p100a-10213",
+        "fp20260920-b-review-10213"
       ],
       "statuses": {
+        "entry-only-year-gap": 1,
         "not-found-current-major": 1,
         "year-unavailable": 1
       },
-      "latestReviewDate": "2026-09-12",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-p100a-10213"
+        "fp20260920-b-review-10213"
       ],
       "latestStatuses": [
-        "year-unavailable"
+        "entry-only-year-gap"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-p100a-10213",
-          "checkedAt": "2026-09-12",
-          "status": "year-unavailable",
-          "note": "官方分数页仅2025/2024；显式请求广西2026后返回页面filter-info仍为2025广西，属于回退旧年，不能当作2026。另核招生首页及官方检索结果，强基入围/综合成绩未混入普通分数。"
+          "id": "fp20260920-b-review-10213",
+          "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+          "status": "entry-only-year-gap",
+          "note": "分数页面可选 2025、2024；汇总表明确 2026 对应计划，最低分列属于 2025/2024。本轮未取得 2026 广西单专业或整组实际录取最低分。 招生信息汇总页把 2026 计划与 2025/2024 分数放在同表，已按两层表头核验，全部分数排除；官网本科专业目录为全国校区/学院/专业培养和学费信息，未列广西正式组码。按校本部招生身份核查，威海、深圳独立招生代码不混用。 首页物理/本科普通批/首轮 101 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-p100a-10213",
-      "latestCheckedAt": "2026-09-12",
-      "latestStatus": "year-unavailable",
-      "latestNote": "官方分数页仅2025/2024；显式请求广西2026后返回页面filter-info仍为2025广西，属于回退旧年，不能当作2026。另核招生首页及官方检索结果，强基入围/综合成绩未混入普通分数。",
+      "latestNoteId": "fp20260920-b-review-10213",
+      "latestCheckedAt": "2026-09-20T08:51:16.523861+00:00",
+      "latestStatus": "entry-only-year-gap",
+      "latestNote": "分数页面可选 2025、2024；汇总表明确 2026 对应计划，最低分列属于 2025/2024。本轮未取得 2026 广西单专业或整组实际录取最低分。 招生信息汇总页把 2026 计划与 2025/2024 分数放在同表，已按两层表头核验，全部分数排除；官网本科专业目录为全国校区/学院/专业培养和学费信息，未列广西正式组码。按校本部招生身份核查，威海、深圳独立招生代码不混用。 首页物理/本科普通批/首轮 101 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。",
       "checkedUrls": [
         "https://zsb.hit.edu.cn/",
+        "https://zsb.hit.edu.cn/article/category/b4d5b3b1ffc2bb012fb52138b25a824b",
+        "https://zsb.hit.edu.cn/article/read/35766a7f35b60e5737b4ab426ee28103",
+        "https://zsb.hit.edu.cn/information/plan?province=%E5%B9%BF%E8%A5%BF&year=2026",
         "https://zsb.hit.edu.cn/information/score",
         "https://zsb.hit.edu.cn/information/score?province=%E5%B9%BF%E8%A5%BF&year=2026",
-        "https://zsb.hit.edu.cn/information/score?year=2026&province=%E5%B9%BF%E8%A5%BF"
+        "https://zsb.hit.edu.cn/information/score?year=2026&province=%E5%B9%BF%E8%A5%BF",
+        "https://zsb.hit.edu.cn/information/summary?province=%E5%B9%BF%E8%A5%BF"
       ],
       "sourceRefs": [
+        "fp20260920-b-10213-guide",
+        "fp20260920-b-10213-home",
+        "fp20260920-b-10213-major-directory",
+        "fp20260920-b-10213-plan",
+        "fp20260920-b-10213-score",
+        "fp20260920-b-10213-summary",
         "major-score-root-hit-query-2026",
         "major-score-root-hit-scores",
         "p100a-10213-entry1",
@@ -18247,7 +18374,7 @@
         "p100a-10213-score2026"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 670,
@@ -18268,6 +18395,12 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp20260920-b-10213-guide",
+      "fp20260920-b-10213-home",
+      "fp20260920-b-10213-major-directory",
+      "fp20260920-b-10213-plan",
+      "fp20260920-b-10213-score",
+      "fp20260920-b-10213-summary",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-score-root-hit-query-2026",
@@ -20816,39 +20949,44 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-review-batch-b-10246"
+        "major-score-review-batch-b-10246",
+        "major-score-review-first7-20260920-10246"
       ],
       "statuses": {
-        "not-found-current-major": 1
+        "not-found-current-major": 1,
+        "year-unavailable": 1
       },
-      "latestReviewDate": "2026-09-10",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-batch-b-10246"
+        "major-score-review-first7-20260920-10246"
       ],
       "latestStatuses": [
-        "not-found-current-major"
+        "year-unavailable"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-batch-b-10246",
-          "checkedAt": "2026-09-10T09:23:01.279205+00:00",
-          "status": "not-found-current-major",
-          "note": "官方分数栏目最新为2025分省录取分数，未取得2026广西专业最低分；未采用搜索中的旧年参考、预测或其他省综评成绩。"
+          "id": "major-score-review-first7-20260920-10246",
+          "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+          "status": "year-unavailable",
+          "note": "官方录取分数目录最新为2025年分省录取分数；已打开详情核实2026年发布不能改变2025统计年。未以强基、其他省综评成绩或组投档线替代首页102/103组实际最低录取分与专业分。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-batch-b-10246",
-      "latestCheckedAt": "2026-09-10T09:23:01.279205+00:00",
-      "latestStatus": "not-found-current-major",
-      "latestNote": "官方分数栏目最新为2025分省录取分数，未取得2026广西专业最低分；未采用搜索中的旧年参考、预测或其他省综评成绩。",
+      "latestNoteId": "major-score-review-first7-20260920-10246",
+      "latestCheckedAt": "2026-09-20T08:46:17.442087+00:00",
+      "latestStatus": "year-unavailable",
+      "latestNote": "官方录取分数目录最新为2025年分省录取分数；已打开详情核实2026年发布不能改变2025统计年。未以强基、其他省综评成绩或组投档线替代首页102/103组实际最低录取分与专业分。",
       "checkedUrls": [
-        "https://ao.fudan.edu.cn/36333/list.htm"
+        "https://ao.fudan.edu.cn/36333/list.htm",
+        "https://ao.fudan.edu.cn/b7/a6/c36333a767910/page.htm"
       ],
       "sourceRefs": [
+        "first7-20260920-10246-2025-score-detail",
+        "first7-20260920-10246-major-score-b-fudan-score-list",
         "major-score-b-fudan-score-list"
       ]
     },
-    "anyAuditNoteRecords": 2,
+    "anyAuditNoteRecords": 4,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 673,
@@ -20869,6 +21007,18 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "first7-20260920-10246-2025-score-detail",
+      "first7-20260920-10246-2026-consultation",
+      "first7-20260920-10246-2026-gx-consultation",
+      "first7-20260920-10246-2026-major-directory",
+      "first7-20260920-10246-2026-major-directory-image-3",
+      "first7-20260920-10246-2026-major-directory-image-4",
+      "first7-20260920-10246-contact-list",
+      "first7-20260920-10246-guide-list",
+      "first7-20260920-10246-major-score-b-fudan-score-list",
+      "first7-20260920-10246-news-list",
+      "first7-20260920-10246-top-b-fudan-home",
+      "first7-20260920-10246-top-b-fudan-plan-list",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-score-b-fudan-score-list",
@@ -21058,10 +21208,10 @@
       "allRoundsNullScores": 0
     },
     "plan": {
-      "records": 15,
+      "records": 16,
       "supplementaryRecords": 0,
       "sourceCatalogRecords": 1,
-      "literalTrackMajorKeys": 15,
+      "literalTrackMajorKeys": 16,
       "firstRoundGroupsWithSomeMatchedPlans": 0,
       "planRecordsWithComparableGroupScore": 0
     },
@@ -21090,37 +21240,40 @@
     "scoreAudit": {
       "noteIds": [
         "major-score-review-batch-b-10248",
-        "major-score-review-p100a-10248"
+        "major-score-review-p100a-10248",
+        "major-score-review-first7-20260920-10248"
       ],
       "statuses": {
         "not-found-current-major": 1,
-        "year-unavailable": 1
+        "year-unavailable": 2
       },
-      "latestReviewDate": "2026-09-12",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-p100a-10248"
+        "major-score-review-first7-20260920-10248"
       ],
       "latestStatuses": [
         "year-unavailable"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-p100a-10248",
-          "checkedAt": "2026-09-12",
+          "id": "major-score-review-first7-20260920-10248",
+          "checkedAt": "2026-09-20T08:46:17.442087+00:00",
           "status": "year-unavailable",
-          "note": "已重读官网首页及历年分数公开newsList栏目；返回12篇文章，数据年2014至2025，无2026。最初对POST接口误作GET返回404，已按原前端JSON请求纠正，不用404证明缺年。"
+          "note": "按既有真实前端公开JSON接口查询历年分数栏目subjectsID=3810062、pageNum=1、pageSize=100，code=0，返回12篇（2014—2025），没有2026条目；接口datacount/pagesum均0，与实际12项不一致，仅据返回数组记录范围。未以投档线或计划人数推导109/110组实际最低录取分或专业分。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-p100a-10248",
-      "latestCheckedAt": "2026-09-12",
+      "latestNoteId": "major-score-review-first7-20260920-10248",
+      "latestCheckedAt": "2026-09-20T08:46:17.442087+00:00",
       "latestStatus": "year-unavailable",
-      "latestNote": "已重读官网首页及历年分数公开newsList栏目；返回12篇文章，数据年2014至2025，无2026。最初对POST接口误作GET返回404，已按原前端JSON请求纠正，不用404证明缺年。",
+      "latestNote": "按既有真实前端公开JSON接口查询历年分数栏目subjectsID=3810062、pageNum=1、pageSize=100，code=0，返回12篇（2014—2025），没有2026条目；接口datacount/pagesum均0，与实际12项不一致，仅据返回数组记录范围。未以投档线或计划人数推导109/110组实际最低录取分或专业分。",
       "checkedUrls": [
         "https://admissions.sjtu.edu.cn/",
         "https://admissions.sjtu.edu.cn/rnapi/newsList"
       ],
       "sourceRefs": [
+        "first7-20260920-10248-major-score-b-sjtu-home",
+        "first7-20260920-10248-score-index",
         "major-score-b-sjtu-home",
         "major-score-b-sjtu-score-news-list",
         "p100a-10248-entry1",
@@ -21128,7 +21281,7 @@
         "p100a-10248-score-index"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 685,
@@ -21149,6 +21302,11 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "first7-20260920-10248-2026-plan-image",
+      "first7-20260920-10248-major-score-b-sjtu-home",
+      "first7-20260920-10248-plan-api",
+      "first7-20260920-10248-plan-index",
+      "first7-20260920-10248-score-index",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-score-b-sjtu-home",
@@ -23913,40 +24071,58 @@
     "scoreAudit": {
       "noteIds": [
         "major-score-review-batch-b-10284",
-        "major-score-review-p100a-10284"
+        "major-score-review-p100a-10284",
+        "fp20260920-b-review-10284"
       ],
       "statuses": {
         "current-year-query-empty": 1,
-        "empty-current-response": 1
+        "empty-current-response": 1,
+        "entry-only-year-gap": 1
       },
-      "latestReviewDate": "2026-09-12",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-p100a-10284"
+        "fp20260920-b-review-10284"
       ],
       "latestStatuses": [
-        "current-year-query-empty"
+        "entry-only-year-gap"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-p100a-10284",
-          "checkedAt": "2026-09-12",
-          "status": "current-year-query-empty",
-          "note": "公开广西菜单2025/2024/2023；2026物理、历史普通批次2次明确缺年探查均state=1双列表空。2025对照院校汇总非空、专业列表空；另查官网首页和官方定向检索，未取得本年广西专业分。"
+          "id": "fp20260920-b-review-10284",
+          "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+          "status": "entry-only-year-gap",
+          "note": "本轮广西分数真实菜单年份为 2025、2024、2023，没有 2026；未请求菜单不存在的年份，也未将旧年份或空菜单误报为已发布本年结果。 官网首页动态导航、init 配置和最新动态/招生政策两栏各 6 条真实菜单已核：主要为江苏综合评价、强基及普通招生章程，未取得广西 105 组逐专业计划或本年分数。普通批次查询的批次字段仍空，未改成广西本科普通批。 首页物理/本科普通批/首轮 105 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-p100a-10284",
-      "latestCheckedAt": "2026-09-12",
-      "latestStatus": "current-year-query-empty",
-      "latestNote": "公开广西菜单2025/2024/2023；2026物理、历史普通批次2次明确缺年探查均state=1双列表空。2025对照院校汇总非空、专业列表空；另查官网首页和官方定向检索，未取得本年广西专业分。",
+      "latestNoteId": "fp20260920-b-review-10284",
+      "latestCheckedAt": "2026-09-20T08:51:16.523861+00:00",
+      "latestStatus": "entry-only-year-gap",
+      "latestNote": "本轮广西分数真实菜单年份为 2025、2024、2023，没有 2026；未请求菜单不存在的年份，也未将旧年份或空菜单误报为已发布本年结果。 官网首页动态导航、init 配置和最新动态/招生政策两栏各 6 条真实菜单已核：主要为江苏综合评价、强基及普通招生章程，未取得广西 105 组逐专业计划或本年分数。普通批次查询的批次字段仍空，未改成广西本科普通批。 首页物理/本科普通批/首轮 105 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。",
       "checkedUrls": [
         "https://bkzs.nju.edu.cn/",
         "https://bkzs.nju.edu.cn/f/ajax_lnfs",
         "https://bkzs.nju.edu.cn/f/ajax_lnfs_param",
+        "https://bkzs.nju.edu.cn/f/ajax_zsjh",
+        "https://bkzs.nju.edu.cn/f/ajax_zsjh_param",
+        "https://bkzs.nju.edu.cn/f/newsCenter/ajax_category_article_list",
+        "https://bkzs.nju.edu.cn/f/newsCenter/ajax_get_category_and_link_list",
         "https://bkzs.nju.edu.cn/static/front/nju/basic/html_web/lnfs.html",
+        "https://bkzs.nju.edu.cn/static/front/nju/basic/html_web/zsjh.html",
+        "https://bkzs.nju.edu.cn/static/front/nju/basic/js/init.js",
         "https://bkzs.nju.edu.cn/static/front/nju/basic/js/tplt.js"
       ],
       "sourceRefs": [
+        "fp20260920-b-10284-home",
+        "fp20260920-b-10284-init",
+        "fp20260920-b-10284-nav",
+        "fp20260920-b-10284-news",
+        "fp20260920-b-10284-plan",
+        "fp20260920-b-10284-plan-gx",
+        "fp20260920-b-10284-plan-menu",
+        "fp20260920-b-10284-policy",
+        "fp20260920-b-10284-score",
+        "fp20260920-b-10284-score-menu",
         "major-score-b-nju-score-page",
         "major-score-b-nju-score-params-session",
         "major-score-b-nju-scores-gx-2026-probe-1",
@@ -23961,7 +24137,7 @@
         "p100a-10284-scores-2026-2"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 668,
@@ -23982,6 +24158,16 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp20260920-b-10284-home",
+      "fp20260920-b-10284-init",
+      "fp20260920-b-10284-nav",
+      "fp20260920-b-10284-news",
+      "fp20260920-b-10284-plan",
+      "fp20260920-b-10284-plan-gx",
+      "fp20260920-b-10284-plan-menu",
+      "fp20260920-b-10284-policy",
+      "fp20260920-b-10284-score",
+      "fp20260920-b-10284-score-menu",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-score-b-nju-score-page",
@@ -24153,8 +24339,10 @@
     ],
     "datasets": [
       "cutoffs.json",
+      "plans.json",
       "school-coverage.json",
-      "school-audit-notes.json"
+      "school-audit-notes.json",
+      "plan-source-catalog.json"
     ],
     "ordinaryLevel": "undergraduate",
     "ordinaryLevelBasis": "observed ordinary-filing batches, not the official institutional classification",
@@ -24164,7 +24352,8 @@
       "物理"
     ],
     "batches": [
-      "本科普通批"
+      "本科普通批",
+      "本科（批次待核）"
     ],
     "ordinaryBatches": [
       "本科普通批"
@@ -24180,10 +24369,10 @@
       "allRoundsNullScores": 0
     },
     "plan": {
-      "records": 0,
+      "records": 25,
       "supplementaryRecords": 0,
-      "sourceCatalogRecords": 0,
-      "literalTrackMajorKeys": 0,
+      "sourceCatalogRecords": 1,
+      "literalTrackMajorKeys": 17,
       "firstRoundGroupsWithSomeMatchedPlans": 0,
       "planRecordsWithComparableGroupScore": 0
     },
@@ -24211,43 +24400,48 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-audit-2026-0911-10286"
+        "major-score-audit-2026-0911-10286",
+        "major-score-audit-page1-20260920-10286"
       ],
       "statuses": {
-        "no-current-year-records": 1
+        "no-current-year-records": 2
       },
-      "latestReviewDate": "2026-09-11",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-audit-2026-0911-10286"
+        "major-score-audit-page1-20260920-10286"
       ],
       "latestStatuses": [
         "no-current-year-records"
       ],
       "latestNotes": [
         {
-          "id": "major-score-audit-2026-0911-10286",
-          "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+          "id": "major-score-audit-page1-20260920-10286",
+          "checkedAt": "2026-09-20T08:48:24.596944+00:00",
           "status": "no-current-year-records",
-          "note": "广西官方目录的本年资料为2026招生计划；最新可读分专业录取表虽在2026-01-13发布，正文年份是2025。2026录取进度公告不列专业分。未将计划或旧年分数拼成2026记录。"
+          "note": "广西目录最新专业分数据仍为2025（虽于2026年发布）；已读2026录取进度正文及渲染PDF，只列已录取，不含实际组分或专业分。2026计划25条87人另入计划库；未混同年份和分数口径。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-audit-2026-0911-10286",
-      "latestCheckedAt": "2026-09-11T02:10:30.339518+08:00",
+      "latestNoteId": "major-score-audit-page1-20260920-10286",
+      "latestCheckedAt": "2026-09-20T08:48:24.596944+00:00",
       "latestStatus": "no-current-year-records",
-      "latestNote": "广西官方目录的本年资料为2026招生计划；最新可读分专业录取表虽在2026-01-13发布，正文年份是2025。2026录取进度公告不列专业分。未将计划或旧年分数拼成2026记录。",
+      "latestNote": "广西目录最新专业分数据仍为2025（虽于2026年发布）；已读2026录取进度正文及渲染PDF，只列已录取，不含实际组分或专业分。2026计划25条87人另入计划库；未混同年份和分数口径。",
       "checkedUrls": [
         "https://zsb.seu.edu.cn/2026/0113/c23741a552222/pagem.htm",
         "https://zsb.seu.edu.cn/2026/0714/c23610a576713/pagem.htm",
+        "https://zsb.seu.edu.cn/_upload/article/files/7f/03/3a8f53c04e5c8609ef5fd21e6143/fc9c85b4-0dc1-4806-a8d1-8e5d01529abd.pdf",
         "https://zsb.seu.edu.cn/gxzzzzq/listm.htm"
       ],
       "sourceRefs": [
         "major-20260911-a-seu-gx-list",
         "major-20260911-a-seu-progress-2026",
-        "major-20260911-a-seu-score-2025"
+        "major-20260911-a-seu-score-2025",
+        "page1-20260920-d-10286-gx",
+        "page1-20260920-d-10286-progress",
+        "page1-20260920-d-10286-progress-pdf"
       ]
     },
-    "anyAuditNoteRecords": 1,
+    "anyAuditNoteRecords": 3,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 656,
@@ -24272,7 +24466,12 @@
       "gxeea-2026-33107",
       "major-20260911-a-seu-gx-list",
       "major-20260911-a-seu-progress-2026",
-      "major-20260911-a-seu-score-2025"
+      "major-20260911-a-seu-score-2025",
+      "page1-20260920-d-10286-gx",
+      "page1-20260920-d-10286-plan26",
+      "page1-20260920-d-10286-plan26-image",
+      "page1-20260920-d-10286-progress",
+      "page1-20260920-d-10286-progress-pdf"
     ]
   },
   {
@@ -27729,41 +27928,45 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-review-batch-b-10335"
+        "major-score-review-batch-b-10335",
+        "major-score-review-first7-20260920-10335"
       ],
       "statuses": {
-        "not-found-current-major": 1
+        "not-found-current-major": 1,
+        "year-unavailable": 1
       },
-      "latestReviewDate": "2026-09-10",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-batch-b-10335"
+        "major-score-review-first7-20260920-10335"
       ],
       "latestStatuses": [
-        "not-found-current-major"
+        "year-unavailable"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-batch-b-10335",
-          "checkedAt": "2026-09-10T09:23:01.279205+00:00",
-          "status": "not-found-current-major",
-          "note": "2026-06-17发布文章实际是2025年分省投档线，年度和分数层级都不符合2026广西专业实际最低分；未将医学院等独立代码并入本部。"
+          "id": "major-score-review-first7-20260920-10335",
+          "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+          "status": "year-unavailable",
+          "note": "官方历年分数最新文章发布于2026-06-17，文章标题、表格均明确是2025年各省普通本一批投档分数线，年份及分数层级不符合本轮目标。未取得150组直接最低录取分或2026广西具体专业实际分。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-batch-b-10335",
-      "latestCheckedAt": "2026-09-10T09:23:01.279205+00:00",
-      "latestStatus": "not-found-current-major",
-      "latestNote": "2026-06-17发布文章实际是2025年分省投档线，年度和分数层级都不符合2026广西专业实际最低分；未将医学院等独立代码并入本部。",
+      "latestNoteId": "major-score-review-first7-20260920-10335",
+      "latestCheckedAt": "2026-09-20T08:46:17.442087+00:00",
+      "latestStatus": "year-unavailable",
+      "latestNote": "官方历年分数最新文章发布于2026-06-17，文章标题、表格均明确是2025年各省普通本一批投档分数线，年份及分数层级不符合本轮目标。未取得150组直接最低录取分或2026广西具体专业实际分。",
       "checkedUrls": [
         "https://zdzsc.zju.edu.cn/2026/0617/c87260a3179915/page.htm",
         "https://zdzsc.zju.edu.cn/87260/list.htm"
       ],
       "sourceRefs": [
+        "first7-20260920-10335-detail-major-score-b-zju-score-2026-article",
+        "first7-20260920-10335-major-score-b-zju-score-list",
         "major-score-b-zju-score-2026-article",
         "major-score-b-zju-score-list"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 678,
@@ -27785,6 +27988,18 @@
     "sourceCompleteness": "not-established",
     "sourceRefs": [
       "batch-c-2026-zju-entry",
+      "first7-20260920-10335-2026-gx-consultation",
+      "first7-20260920-10335-2026-gx-consultation-api",
+      "first7-20260920-10335-2026-major-directory",
+      "first7-20260920-10335-2026-major-directory-image-7",
+      "first7-20260920-10335-consultation-common-bundle",
+      "first7-20260920-10335-consultation-detail-bundle",
+      "first7-20260920-10335-consultation-public-config",
+      "first7-20260920-10335-detail-major-score-b-zju-score-2026-article",
+      "first7-20260920-10335-major-score-b-zju-score-list",
+      "first7-20260920-10335-top-b-zju-information-list",
+      "first7-20260920-10335-top-b-zju-news-list",
+      "first7-20260920-10335-top-b-zju-zsc-home",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-score-b-zju-score-2026-article",
@@ -30053,41 +30268,58 @@
     "scoreAudit": {
       "noteIds": [
         "major-score-review-batch-a-10358",
-        "major-score-review-p100a-10358"
+        "major-score-review-p100a-10358",
+        "fp20260920-b-review-10358"
       ],
       "statuses": {
-        "current-year-query-empty": 2
+        "current-year-query-empty": 2,
+        "entry-only-year-gap": 1
       },
-      "latestReviewDate": "2026-09-12",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-p100a-10358"
+        "fp20260920-b-review-10358"
       ],
       "latestStatuses": [
-        "current-year-query-empty"
+        "entry-only-year-gap"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-p100a-10358",
-          "checkedAt": "2026-09-12",
-          "status": "current-year-query-empty",
-          "note": "广西菜单为2025/2024；2026物理普通本科缺年探查成功双列表空，2025对照有专业记录，说明接口可返回专业统计。前端展示配置与接口隐藏记录不能混同；2026强基公告是综合成绩，已排除。另查招生首页和信息公开栏目。"
+          "id": "fp20260920-b-review-10358",
+          "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+          "status": "entry-only-year-gap",
+          "note": "本轮广西分数真实菜单年份为 2025、2024，没有 2026；未请求菜单不存在的年份，也未将旧年份或空菜单误报为已发布本年结果。 官网 2026 本科招生培养亮点回链已有计划查询；“各省市咨询”广西页仅招生咨询联系方式，未列分组计划或最低分，原文联系人/手机号不进入公有包。分数 showField1 明示 minScore 是“投档线”，即使以后出现新年值也不能直接当实际整组最低录取分。 首页物理/本科普通批/首轮 101 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-p100a-10358",
-      "latestCheckedAt": "2026-09-12",
-      "latestStatus": "current-year-query-empty",
-      "latestNote": "广西菜单为2025/2024；2026物理普通本科缺年探查成功双列表空，2025对照有专业记录，说明接口可返回专业统计。前端展示配置与接口隐藏记录不能混同；2026强基公告是综合成绩，已排除。另查招生首页和信息公开栏目。",
+      "latestNoteId": "fp20260920-b-review-10358",
+      "latestCheckedAt": "2026-09-20T08:51:16.523861+00:00",
+      "latestStatus": "entry-only-year-gap",
+      "latestNote": "本轮广西分数真实菜单年份为 2025、2024，没有 2026；未请求菜单不存在的年份，也未将旧年份或空菜单误报为已发布本年结果。 官网 2026 本科招生培养亮点回链已有计划查询；“各省市咨询”广西页仅招生咨询联系方式，未列分组计划或最低分，原文联系人/手机号不进入公有包。分数 showField1 明示 minScore 是“投档线”，即使以后出现新年值也不能直接当实际整组最低录取分。 首页物理/本科普通批/首轮 101 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。",
       "checkedUrls": [
         "https://zsb.ustc.edu.cn/",
+        "https://zsb.ustc.edu.cn/2026/0614/c35499a744397/page.htm",
         "https://zsb.ustc.edu.cn/2026/0626/c35499a745702/page.htm",
+        "https://zsb.ustc.edu.cn/_t4927/2024/0308/c35884a631659/page.htm",
+        "https://zsb.ustc.edu.cn/lxzsz/list.htm",
         "https://zsb.ustc.edu.cn/xxgk/list.htm",
         "https://zsfw.ustc.edu.cn/f/ajax_lnfs",
         "https://zsfw.ustc.edu.cn/f/ajax_lnfs_param",
+        "https://zsfw.ustc.edu.cn/f/ajax_zsjh",
+        "https://zsfw.ustc.edu.cn/f/ajax_zsjh_param",
         "https://zsfw.ustc.edu.cn/static/front/ustc/basic/js/tplt.js",
-        "https://zsfw.ustc.edu.cn/zsw/lnfs.html"
+        "https://zsfw.ustc.edu.cn/zsw/lnfs.html",
+        "https://zsfw.ustc.edu.cn/zsw/zsjh.html"
       ],
       "sourceRefs": [
+        "fp20260920-b-10358-consult",
+        "fp20260920-b-10358-features",
+        "fp20260920-b-10358-gx-consult",
+        "fp20260920-b-10358-home",
+        "fp20260920-b-10358-plan",
+        "fp20260920-b-10358-plan-gx",
+        "fp20260920-b-10358-plan-menu",
+        "fp20260920-b-10358-score",
+        "fp20260920-b-10358-score-menu",
         "major-a-ustc-plan-entry-tplt",
         "major-a-ustc-score-2026-physics",
         "major-a-ustc-score-entry",
@@ -30102,7 +30334,7 @@
         "p100a-10358-scores-2026-1"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 667,
@@ -30123,6 +30355,15 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp20260920-b-10358-consult",
+      "fp20260920-b-10358-features",
+      "fp20260920-b-10358-gx-consult",
+      "fp20260920-b-10358-home",
+      "fp20260920-b-10358-plan",
+      "fp20260920-b-10358-plan-gx",
+      "fp20260920-b-10358-plan-menu",
+      "fp20260920-b-10358-score",
+      "fp20260920-b-10358-score-menu",
       "gxeea-2026-33107",
       "major-a-ustc-plan-entry-tplt",
       "major-a-ustc-score-2026-physics",
@@ -41143,39 +41384,49 @@
     "scoreAudit": {
       "noteIds": [
         "major-score-review-root-10487",
-        "major-score-review-p100a-10487"
+        "major-score-review-p100a-10487",
+        "fp20260920-b-review-10487"
       ],
       "statuses": {
+        "entry-only-year-gap": 1,
         "not-found-current-major": 1,
         "year-unavailable": 1
       },
-      "latestReviewDate": "2026-09-12",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-p100a-10487"
+        "fp20260920-b-review-10487"
       ],
       "latestStatuses": [
-        "year-unavailable"
+        "entry-only-year-gap"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-p100a-10487",
-          "checkedAt": "2026-09-12",
-          "status": "year-unavailable",
-          "note": "分省分专业分数页面实际嵌入年份只有2025、2024、2023；另查录取情况、通知公告和官网首页，未取得2026广西专业实际最低分。2026计划、强基和其他申请类别结果均不能替代。"
+          "id": "fp20260920-b-review-10487",
+          "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+          "status": "entry-only-year-gap",
+          "note": "分数页面嵌入年表只有 2025、2024、2023，无 2026；未用当前网页日期作为分数统计年。 2026 录取查询公告是各省/类别办理进度及个人查询说明；7月30日完成录取新闻只述全校与多省概况，未列广西逐组或逐专业分。现有计划 SFBZ、XZMC 空，亦没有专业组和选科字段，继续保留未知。 首页物理/本科普通批/首轮 102 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-p100a-10487",
-      "latestCheckedAt": "2026-09-12",
-      "latestStatus": "year-unavailable",
-      "latestNote": "分省分专业分数页面实际嵌入年份只有2025、2024、2023；另查录取情况、通知公告和官网首页，未取得2026广西专业实际最低分。2026计划、强基和其他申请类别结果均不能替代。",
+      "latestNoteId": "fp20260920-b-review-10487",
+      "latestCheckedAt": "2026-09-20T08:51:16.523861+00:00",
+      "latestStatus": "entry-only-year-gap",
+      "latestNote": "分数页面嵌入年表只有 2025、2024、2023，无 2026；未用当前网页日期作为分数统计年。 2026 录取查询公告是各省/类别办理进度及个人查询说明；7月30日完成录取新闻只述全校与多省概况，未列广西逐组或逐专业分。现有计划 SFBZ、XZMC 空，亦没有专业组和选科字段，继续保留未知。 首页物理/本科普通批/首轮 102 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。",
       "checkedUrls": [
+        "https://news.hust.edu.cn/info/1002/59259.htm",
         "https://zsb.hust.edu.cn/",
         "https://zsb.hust.edu.cn/bkzn/fsfzyfsx.htm",
         "https://zsb.hust.edu.cn/bkzn/lqqk.htm",
-        "https://zsb.hust.edu.cn/bkzn/tzgg.htm"
+        "https://zsb.hust.edu.cn/bkzn/tzgg.htm",
+        "https://zsb.hust.edu.cn/bkzn/zsjh.htm",
+        "https://zsb.hust.edu.cn/info/1055/3095.htm"
       ],
       "sourceRefs": [
+        "fp20260920-b-10487-completion-news",
+        "fp20260920-b-10487-home",
+        "fp20260920-b-10487-plan",
+        "fp20260920-b-10487-result-notice",
+        "fp20260920-b-10487-score",
         "major-score-root-hust-scores",
         "p100a-10487-admission-index",
         "p100a-10487-entry1",
@@ -41183,7 +41434,7 @@
         "p100a-10487-news-index"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 667,
@@ -41204,6 +41455,11 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp20260920-b-10487-completion-news",
+      "fp20260920-b-10487-home",
+      "fp20260920-b-10487-plan",
+      "fp20260920-b-10487-result-notice",
+      "fp20260920-b-10487-score",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-score-root-hust-scores",
@@ -44171,7 +44427,8 @@
       "物理"
     ],
     "batches": [
-      "本科普通批"
+      "本科普通批",
+      "本科（批次待核）"
     ],
     "ordinaryBatches": [
       "本科普通批"
@@ -44187,10 +44444,10 @@
       "allRoundsNullScores": 0
     },
     "plan": {
-      "records": 26,
+      "records": 30,
       "supplementaryRecords": 0,
       "sourceCatalogRecords": 1,
-      "literalTrackMajorKeys": 26,
+      "literalTrackMajorKeys": 30,
       "firstRoundGroupsWithSomeMatchedPlans": 0,
       "planRecordsWithComparableGroupScore": 0
     },
@@ -44218,31 +44475,32 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-audit-2026-0911-10533"
+        "major-score-audit-2026-0911-10533",
+        "major-score-audit-page1-20260920-10533"
       ],
       "statuses": {
-        "no-current-year-records": 1
+        "no-current-year-records": 2
       },
-      "latestReviewDate": "2026-09-11",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-audit-2026-0911-10533"
+        "major-score-audit-page1-20260920-10533"
       ],
       "latestStatuses": [
         "no-current-year-records"
       ],
       "latestNotes": [
         {
-          "id": "major-score-audit-2026-0911-10533",
-          "checkedAt": "2026-09-11T02:10:30.339518+08:00",
+          "id": "major-score-audit-page1-20260920-10533",
+          "checkedAt": "2026-09-20T08:48:24.596944+00:00",
           "status": "no-current-year-records",
-          "note": "已读取本科普通类公开前端和接口配置。当前年份选项为2020至2025；使用前端公开字段分别请求2026/广西/物理类、历史类，均成功返回code=200、list=[]、total=0。没有分页遗漏或专业分入库；不能据空结果断言校方所有渠道均未发布。"
+          "note": "当前录取分公开菜单中广西年份最新2025；未找到可核实的2026广西普通专业/组实际录取分。本次为当前配置复查，不重复探测未显示年份，也不将此前空查询说成本次新查询。计划查询2026物理26条321人与旧库一致，新增历史4条21人，校内组名不能冒充广西正式组码。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-audit-2026-0911-10533",
-      "latestCheckedAt": "2026-09-11T02:10:30.339518+08:00",
+      "latestNoteId": "major-score-audit-page1-20260920-10533",
+      "latestCheckedAt": "2026-09-20T08:48:24.596944+00:00",
       "latestStatus": "no-current-year-records",
-      "latestNote": "已读取本科普通类公开前端和接口配置。当前年份选项为2020至2025；使用前端公开字段分别请求2026/广西/物理类、历史类，均成功返回code=200、list=[]、total=0。没有分页遗漏或专业分入库；不能据空结果断言校方所有渠道均未发布。",
+      "latestNote": "当前录取分公开菜单中广西年份最新2025；未找到可核实的2026广西普通专业/组实际录取分。本次为当前配置复查，不重复探测未显示年份，也不将此前空查询说成本次新查询。计划查询2026物理26条321人与旧库一致，新增历史4条21人，校内组名不能冒充广西正式组码。",
       "checkedUrls": [
         "https://job-web-api.jobpi.cn/enroll/2614?sch_school_id=21393&page=1&page_size=9999&filter_column=%7B%22A%22%3A2026%2C%22B%22%3A%22%E5%B9%BF%E8%A5%BF%22%2C%22C%22%3A%22%E5%8E%86%E5%8F%B2%E7%B1%BB%22%7D",
         "https://job-web-api.jobpi.cn/enroll/2614?sch_school_id=21393&page=1&page_size=9999&filter_column=%7B%22A%22%3A2026%2C%22B%22%3A%22%E5%B9%BF%E8%A5%BF%22%2C%22C%22%3A%22%E7%89%A9%E7%90%86%E7%B1%BB%22%7D",
@@ -44253,10 +44511,12 @@
         "major-20260911-a-csu-score-2026-history",
         "major-20260911-a-csu-score-2026-physics",
         "major-20260911-a-csu-score-config",
-        "major-20260911-a-csu-score-entry"
+        "major-20260911-a-csu-score-entry",
+        "page1-20260920-d-10533-score",
+        "page1-20260920-d-10533-score-config"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 655,
@@ -44285,7 +44545,12 @@
       "major-20260911-a-csu-score-2026-history",
       "major-20260911-a-csu-score-2026-physics",
       "major-20260911-a-csu-score-config",
-      "major-20260911-a-csu-score-entry"
+      "major-20260911-a-csu-score-entry",
+      "page1-20260920-d-10533-plan",
+      "page1-20260920-d-10533-plan26-history",
+      "page1-20260920-d-10533-plan26-physics",
+      "page1-20260920-d-10533-score",
+      "page1-20260920-d-10533-score-config"
     ]
   },
   {
@@ -46204,38 +46469,54 @@
     "scoreAudit": {
       "noteIds": [
         "major-score-review-root-10558",
-        "major-score-review-p100a-10558"
+        "major-score-review-p100a-10558",
+        "fp20260920-b-review-10558"
       ],
       "statuses": {
         "current-year-query-empty": 1,
-        "empty-current-response": 1
+        "empty-current-response": 1,
+        "entry-only-year-gap": 1
       },
-      "latestReviewDate": "2026-09-12",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-p100a-10558"
+        "fp20260920-b-review-10558"
       ],
       "latestStatuses": [
-        "current-year-query-empty"
+        "entry-only-year-gap"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-p100a-10558",
-          "checkedAt": "2026-09-12",
-          "status": "current-year-query-empty",
-          "note": "公开广西菜单最新2025；根据菜单普通、国家专项、高校专项、民族班等已列两科类别，8组2026缺年探查均成功空列表；2025物理普通对照有实际专业记录。另查官网新闻，所见综合评价公告为广东或第二学位，不能补广西普通专业分。"
+          "id": "fp20260920-b-review-10558",
+          "checkedAt": "2026-09-20T08:51:16.523861+00:00",
+          "status": "entry-only-year-gap",
+          "note": "本轮广西分数真实菜单年份为 2025、2024，没有 2026；未请求菜单不存在的年份，也未将旧年份或空菜单误报为已发布本年结果。 2026 官方折页共 12 页已视觉查看，11—12 页仅“2026年招生专业”全国目录，标明分省专业以省招办公布目录为准，无广西组码或计划数。官网链接的“2026全国招生计划已发布”微信文章实际返回环境验证页，未取得正文；本轮不绕验证。 首页物理/本科普通批/首轮 103 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-p100a-10558",
-      "latestCheckedAt": "2026-09-12",
-      "latestStatus": "current-year-query-empty",
-      "latestNote": "公开广西菜单最新2025；根据菜单普通、国家专项、高校专项、民族班等已列两科类别，8组2026缺年探查均成功空列表；2025物理普通对照有实际专业记录。另查官网新闻，所见综合评价公告为广东或第二学位，不能补广西普通专业分。",
+      "latestNoteId": "fp20260920-b-review-10558",
+      "latestCheckedAt": "2026-09-20T08:51:16.523861+00:00",
+      "latestStatus": "entry-only-year-gap",
+      "latestNote": "本轮广西分数真实菜单年份为 2025、2024，没有 2026；未请求菜单不存在的年份，也未将旧年份或空菜单误报为已发布本年结果。 2026 官方折页共 12 页已视觉查看，11—12 页仅“2026年招生专业”全国目录，标明分省专业以省招办公布目录为准，无广西组码或计划数。官网链接的“2026全国招生计划已发布”微信文章实际返回环境验证页，未取得正文；本轮不绕验证。 首页物理/本科普通批/首轮 103 组：计划组归属、整组实际最低录取分和本年专业录取分均待直接证据。投档线不代替录取分；不由部分专业最低分、相同分数、唯一组或名称相似推定整组结果。",
       "checkedUrls": [
         "https://admission.sysu.edu.cn/",
         "https://admission.sysu.edu.cn/f/ajax_lnfs",
-        "https://admission.sysu.edu.cn/f/ajax_lnfs_param"
+        "https://admission.sysu.edu.cn/f/ajax_lnfs_param",
+        "https://admission.sysu.edu.cn/f/ajax_zsjh",
+        "https://admission.sysu.edu.cn/f/ajax_zsjh_param",
+        "https://admission.sysu.edu.cn/userfiles/0dc404673f155e37fee2a9923b8978c5/files/files/2026/06/%E3%80%90%E5%8D%95%E9%A1%B5%E7%89%88%E3%80%91260616%E4%B8%AD%E5%A4%A7%E6%8A%98%E9%A1%B5%E5%8D%95%E5%BC%A0.pdf",
+        "https://admission.sysu.edu.cn/zsw/lnfs.html",
+        "https://admission.sysu.edu.cn/zsw/zsjh.html",
+        "https://mp.weixin.qq.com/s/d6Soxg4HKS8O6iO8RutXrA"
       ],
       "sourceRefs": [
+        "fp20260920-b-10558-guide",
+        "fp20260920-b-10558-home",
+        "fp20260920-b-10558-plan",
+        "fp20260920-b-10558-plan-gx",
+        "fp20260920-b-10558-plan-menu",
+        "fp20260920-b-10558-plan-notice",
+        "fp20260920-b-10558-score",
+        "fp20260920-b-10558-score-menu",
         "major-score-root-sysu-2026-历史类",
         "major-score-root-sysu-2026-物理类",
         "major-score-root-sysu-control-2025",
@@ -46254,7 +46535,7 @@
         "p100a-10558-scores-2026-8"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 670,
@@ -46275,6 +46556,14 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp20260920-b-10558-guide",
+      "fp20260920-b-10558-home",
+      "fp20260920-b-10558-plan",
+      "fp20260920-b-10558-plan-gx",
+      "fp20260920-b-10558-plan-menu",
+      "fp20260920-b-10558-plan-notice",
+      "fp20260920-b-10558-score",
+      "fp20260920-b-10558-score-menu",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-score-root-sysu-2026-历史类",
@@ -51331,8 +51620,10 @@
     ],
     "datasets": [
       "cutoffs.json",
+      "plans.json",
       "school-coverage.json",
-      "school-audit-notes.json"
+      "school-audit-notes.json",
+      "plan-source-catalog.json"
     ],
     "ordinaryLevel": "undergraduate",
     "ordinaryLevelBasis": "observed ordinary-filing batches, not the official institutional classification",
@@ -51342,6 +51633,7 @@
       "物理"
     ],
     "batches": [
+      "批次待核",
       "本科普通批"
     ],
     "ordinaryBatches": [
@@ -51358,10 +51650,10 @@
       "allRoundsNullScores": 0
     },
     "plan": {
-      "records": 0,
+      "records": 28,
       "supplementaryRecords": 0,
-      "sourceCatalogRecords": 0,
-      "literalTrackMajorKeys": 0,
+      "sourceCatalogRecords": 1,
+      "literalTrackMajorKeys": 28,
       "firstRoundGroupsWithSomeMatchedPlans": 0,
       "planRecordsWithComparableGroupScore": 0
     },
@@ -51389,45 +51681,58 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-audit-2026-0911-10610"
+        "major-score-audit-2026-0911-10610",
+        "audit-fp26-c-10610"
       ],
       "statuses": {
-        "access-restricted": 1
+        "access-restricted": 1,
+        "current-year-query-empty": 1
       },
-      "latestReviewDate": "2026-09-11",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-audit-2026-0911-10610"
+        "audit-fp26-c-10610"
       ],
       "latestStatuses": [
-        "access-restricted"
+        "current-year-query-empty"
       ],
       "latestNotes": [
         {
-          "id": "major-score-audit-2026-0911-10610",
-          "checkedAt": "2026-09-11T02:10:30.339518+08:00",
-          "status": "access-restricted",
-          "note": "四川大学招生网及当前分数索引均返回HTTP 412；公开分数查询系统返回HTTP 483，正文提示访问策略禁止访问。学院可读目录链接的是截止2025年的分数统计。未取得2026广西分专业录取数据。"
+          "id": "audit-fp26-c-10610",
+          "checkedAt": "2026-09-20",
+          "status": "current-year-query-empty",
+          "note": "通过正常Chrome读取2026计划公告3431及其链接系统；链接带year=2024但实际页面标题、菜单和每行year均2026。接口核到广西物理普通类28条185人；不含国家/高校专项与民族班。查询未显示103/104组归属，原文批次本科一批与广西正式批次映射待核。录取分菜单最高2025；2026广西物理普通类结果0行，同条件2025为正对照。招生网历年录取目录当前截至2025，公共管理学院2026广西招宣记录没有计划或分数组码。未获得103/104的2026实际最低录取分或专业分。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-audit-2026-0911-10610",
-      "latestCheckedAt": "2026-09-11T02:10:30.339518+08:00",
-      "latestStatus": "access-restricted",
-      "latestNote": "四川大学招生网及当前分数索引均返回HTTP 412；公开分数查询系统返回HTTP 483，正文提示访问策略禁止访问。学院可读目录链接的是截止2025年的分数统计。未取得2026广西分专业录取数据。",
+      "latestNoteId": "audit-fp26-c-10610",
+      "latestCheckedAt": "2026-09-20",
+      "latestStatus": "current-year-query-empty",
+      "latestNote": "通过正常Chrome读取2026计划公告3431及其链接系统；链接带year=2024但实际页面标题、菜单和每行year均2026。接口核到广西物理普通类28条185人；不含国家/高校专项与民族班。查询未显示103/104组归属，原文批次本科一批与广西正式批次映射待核。录取分菜单最高2025；2026广西物理普通类结果0行，同条件2025为正对照。招生网历年录取目录当前截至2025，公共管理学院2026广西招宣记录没有计划或分数组码。未获得103/104的2026实际最低录取分或专业分。",
       "checkedUrls": [
         "https://cpse.scu.edu.cn/zsjy/zsxx/bkszs/lnsj.htm",
+        "https://zjczs.scu.edu.cn/admission-admin/scu/enrollscore/editSelectList/v2?year=&province=&subject=",
+        "https://zjczs.scu.edu.cn/admission-admin/scu/enrollscore/list?page=1&limit=100&year=2025&province=450000&major=&category=03&subject=05&publishStatus=PUBLISHED",
+        "https://zjczs.scu.edu.cn/admission-admin/scu/enrollscore/list?page=1&limit=100&year=2026&province=450000&major=&category=03&subject=05&publishStatus=PUBLISHED",
         "https://zjczs.scu.edu.cn/aoadmin/#/scu-enrollscorew",
+        "https://zjczs.scu.edu.cn/aoadmin/2609011501/static/js/97.js",
         "https://zs.scu.edu.cn/",
-        "https://zs.scu.edu.cn/info/1105/3314.htm"
+        "https://zs.scu.edu.cn/info/1105/3314.htm",
+        "https://zs.scu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1105"
       ],
       "sourceRefs": [
+        "fp26-c-10610-dept",
+        "fp26-c-10610-score-index",
+        "fp26-c-10610-score-js",
+        "fp26-c-10610-score-menu",
+        "fp26-c-10610-score2025-gx",
+        "fp26-c-10610-score2026-gx",
         "major-20260911-a-scu-college-score-list",
         "major-20260911-a-scu-home-zs",
         "major-20260911-a-scu-score-index-current",
         "major-20260911-a-scu-score-spa"
       ]
     },
-    "anyAuditNoteRecords": 1,
+    "anyAuditNoteRecords": 3,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 664,
@@ -51442,12 +51747,25 @@
     },
     "prioritySemantics": "同科类任务排序依据：各首轮专业组最低投档分中的最高值；不是专业分，也不是学校最低录取分。物理与历史不混排。",
     "nextAction": {
-      "code": "check-public-alternative-and-record-access-limit",
-      "label": "检查官网其他公开发布渠道；记录原入口访问限制，不绕过登录或验证。"
+      "code": "recheck-2026-official-score-channel",
+      "label": "从上次官方入口和限定查询条件继续核查；旧年、空结果或组汇总不能填入实际专业分。"
     },
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp26-c-10610-config",
+      "fp26-c-10610-dept",
+      "fp26-c-10610-gx-team",
+      "fp26-c-10610-plan-announcement",
+      "fp26-c-10610-plan-js",
+      "fp26-c-10610-plan-menu",
+      "fp26-c-10610-plan-system",
+      "fp26-c-10610-plan2026-gx",
+      "fp26-c-10610-score-index",
+      "fp26-c-10610-score-js",
+      "fp26-c-10610-score-menu",
+      "fp26-c-10610-score2025-gx",
+      "fp26-c-10610-score2026-gx",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-20260911-a-scu-college-score-list",
@@ -59838,8 +60156,10 @@
     ],
     "datasets": [
       "cutoffs.json",
+      "plans.json",
       "school-coverage.json",
-      "school-audit-notes.json"
+      "school-audit-notes.json",
+      "plan-source-catalog.json"
     ],
     "ordinaryLevel": "undergraduate",
     "ordinaryLevelBasis": "observed ordinary-filing batches, not the official institutional classification",
@@ -59849,6 +60169,7 @@
       "物理"
     ],
     "batches": [
+      "批次待核",
       "本科普通批"
     ],
     "ordinaryBatches": [
@@ -59865,10 +60186,10 @@
       "allRoundsNullScores": 0
     },
     "plan": {
-      "records": 0,
+      "records": 8,
       "supplementaryRecords": 0,
-      "sourceCatalogRecords": 0,
-      "literalTrackMajorKeys": 0,
+      "sourceCatalogRecords": 1,
+      "literalTrackMajorKeys": 8,
       "firstRoundGroupsWithSomeMatchedPlans": 0,
       "planRecordsWithComparableGroupScore": 0
     },
@@ -59896,39 +60217,51 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-audit-2026-0911-10698"
+        "major-score-audit-2026-0911-10698",
+        "audit-fp26-c-10698"
       ],
       "statuses": {
-        "access-restricted": 1
+        "access-restricted": 1,
+        "current-year-query-empty": 1
       },
-      "latestReviewDate": "2026-09-11",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-audit-2026-0911-10698"
+        "audit-fp26-c-10698"
       ],
       "latestStatuses": [
-        "access-restricted"
+        "current-year-query-empty"
       ],
       "latestNotes": [
         {
-          "id": "major-score-audit-2026-0911-10698",
-          "checkedAt": "2026-09-11T02:10:30.339518+08:00",
-          "status": "access-restricted",
-          "note": "历年录取查询URL正常GET返回HTTP 200，但正文是访问验证/网站正在加载中页面，未取得专业查询表；本次未执行或绕过验证挑战。未取得2026广西分专业录取数据。"
+          "id": "audit-fp26-c-10698",
+          "checkedAt": "2026-09-20",
+          "status": "current-year-query-empty",
+          "note": "当前本科招生首页链接到新的zswxxcx公开查询，旧bkscx/lnlqcx.htm本轮404。新计划菜单及查询给2026广西物理普通类8条26人；pcmc与zygroup空，批次及101正式组归属待核，不含另列医学、中外合作、专项和民族班。分数菜单广西最高2025；2026同条件成功返回空list，2025返回11条专业分作为正对照。旧年度不能按当前页面时间转为2026。101组实际组分和专业分未得直接证据。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-audit-2026-0911-10698",
-      "latestCheckedAt": "2026-09-11T02:10:30.339518+08:00",
-      "latestStatus": "access-restricted",
-      "latestNote": "历年录取查询URL正常GET返回HTTP 200，但正文是访问验证/网站正在加载中页面，未取得专业查询表；本次未执行或绕过验证挑战。未取得2026广西分专业录取数据。",
+      "latestNoteId": "audit-fp26-c-10698",
+      "latestCheckedAt": "2026-09-20",
+      "latestStatus": "current-year-query-empty",
+      "latestNote": "当前本科招生首页链接到新的zswxxcx公开查询，旧bkscx/lnlqcx.htm本轮404。新计划菜单及查询给2026广西物理普通类8条26人；pcmc与zygroup空，批次及101正式组归属待核，不含另列医学、中外合作、专项和民族班。分数菜单广西最高2025；2026同条件成功返回空list，2025返回11条专业分作为正对照。旧年度不能按当前页面时间转为2026。101组实际组分和专业分未得直接证据。",
       "checkedUrls": [
-        "https://zs.xjtu.edu.cn/bkscx/lnlqcx.htm"
+        "https://zs.xjtu.edu.cn/",
+        "https://zs.xjtu.edu.cn/bkscx/lnlqcx.htm",
+        "https://zswxxcx.xjtu.edu.cn/lqxx/s/api/front/lqxx/getList",
+        "https://zswxxcx.xjtu.edu.cn/lqxx/s/api/front/lqxx/getType",
+        "https://zswxxcx.xjtu.edu.cn/public/zsdata/lqxx/#/lnfs"
       ],
       "sourceRefs": [
+        "fp26-c-10698-home",
+        "fp26-c-10698-lnfs-menu",
+        "fp26-c-10698-lnfs2025-gx",
+        "fp26-c-10698-lnfs2026-gx",
+        "fp26-c-10698-new-score",
+        "fp26-c-10698-scores",
         "major-20260911-a-xjtu-score-entry"
       ]
     },
-    "anyAuditNoteRecords": 1,
+    "anyAuditNoteRecords": 3,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 664,
@@ -59943,12 +60276,23 @@
     },
     "prioritySemantics": "同科类任务排序依据：各首轮专业组最低投档分中的最高值；不是专业分，也不是学校最低录取分。物理与历史不混排。",
     "nextAction": {
-      "code": "check-public-alternative-and-record-access-limit",
-      "label": "检查官网其他公开发布渠道；记录原入口访问限制，不绕过登录或验证。"
+      "code": "recheck-2026-official-score-channel",
+      "label": "从上次官方入口和限定查询条件继续核查；旧年、空结果或组汇总不能填入实际专业分。"
     },
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp26-c-10698-app",
+      "fp26-c-10698-chunk",
+      "fp26-c-10698-home",
+      "fp26-c-10698-lnfs-menu",
+      "fp26-c-10698-lnfs2025-gx",
+      "fp26-c-10698-lnfs2026-gx",
+      "fp26-c-10698-new-score",
+      "fp26-c-10698-plan-fieldmap",
+      "fp26-c-10698-scores",
+      "fp26-c-10698-zsjh-menu",
+      "fp26-c-10698-zsjh2026-gx",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-20260911-a-xjtu-score-entry"
@@ -217509,8 +217853,10 @@
     ],
     "datasets": [
       "cutoffs.json",
+      "plans.json",
       "school-coverage.json",
-      "school-audit-notes.json"
+      "school-audit-notes.json",
+      "plan-source-catalog.json"
     ],
     "ordinaryLevel": "undergraduate",
     "ordinaryLevelBasis": "observed ordinary-filing batches, not the official institutional classification",
@@ -217520,6 +217866,7 @@
       "物理"
     ],
     "batches": [
+      "批次待核",
       "本科普通批"
     ],
     "ordinaryBatches": [
@@ -217536,10 +217883,10 @@
       "allRoundsNullScores": 0
     },
     "plan": {
-      "records": 0,
+      "records": 6,
       "supplementaryRecords": 0,
-      "sourceCatalogRecords": 0,
-      "literalTrackMajorKeys": 0,
+      "sourceCatalogRecords": 1,
+      "literalTrackMajorKeys": 6,
       "firstRoundGroupsWithSomeMatchedPlans": 0,
       "planRecordsWithComparableGroupScore": 0
     },
@@ -217567,42 +217914,54 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-audit-2026-0911-18213"
+        "major-score-audit-2026-0911-18213",
+        "audit-fp26-c-18213"
       ],
       "statuses": {
-        "current-year-not-listed": 1
+        "current-year-not-listed": 1,
+        "current-year-query-empty": 1
       },
-      "latestReviewDate": "2026-09-11",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-audit-2026-0911-18213"
+        "audit-fp26-c-18213"
       ],
       "latestStatuses": [
-        "current-year-not-listed"
+        "current-year-query-empty"
       ],
       "latestNotes": [
         {
-          "id": "major-score-audit-2026-0911-18213",
-          "checkedAt": "2026-09-11T02:10:30.339518+08:00",
-          "status": "current-year-not-listed",
-          "note": "公开历年分数前端已读取并实际查询年份接口，仅返回2025和2024，没有2026所需的年份ID。未猜测年份ID，未提交伪造2026参数；本轮没有2026广西专业分可采。"
+          "id": "audit-fp26-c-18213",
+          "checkedAt": "2026-09-20",
+          "status": "current-year-query-empty",
+          "note": "仅使用深圳校区招生网，保持18213身份。2026计划菜单ID和广西省份菜单均有效，广西共8条75人；排除名称带国家/高校专项2条12人，保留6条63人（物理5条47人、历史1条16人），正式类别、批次与102组关系未提供。分数菜单只有2025/2024；使用已由计划菜单确认的2026年度ID探测分数接口为0行，2025广西正对照7行。2026年度尚未在分数菜单发布，探测空表仅为辅助证据。招生快讯2026条目为入学须知和录取日程，简章下载目录为空；未得2026实际组分或专业分。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-audit-2026-0911-18213",
-      "latestCheckedAt": "2026-09-11T02:10:30.339518+08:00",
-      "latestStatus": "current-year-not-listed",
-      "latestNote": "公开历年分数前端已读取并实际查询年份接口，仅返回2025和2024，没有2026所需的年份ID。未猜测年份ID，未提交伪造2026参数；本轮没有2026广西专业分可采。",
+      "latestNoteId": "audit-fp26-c-18213",
+      "latestCheckedAt": "2026-09-20",
+      "latestStatus": "current-year-query-empty",
+      "latestNote": "仅使用深圳校区招生网，保持18213身份。2026计划菜单ID和广西省份菜单均有效，广西共8条75人；排除名称带国家/高校专项2条12人，保留6条63人（物理5条47人、历史1条16人），正式类别、批次与102组关系未提供。分数菜单只有2025/2024；使用已由计划菜单确认的2026年度ID探测分数接口为0行，2025广西正对照7行。2026年度尚未在分数菜单发布，探测空表仅为辅助证据。招生快讯2026条目为入学须知和录取日程，简章下载目录为空；未得2026实际组分或专业分。",
       "checkedUrls": [
+        "https://zsb.hitsz.edu.cn/bzs/getLnjzList",
+        "https://zsb.hitsz.edu.cn/bzs/getZsxx",
+        "https://zsb.hitsz.edu.cn/zs_common/bkzn/creatLnfsArea",
+        "https://zsb.hitsz.edu.cn/zs_common/bkzn/ndDmx1",
         "https://zsb.hitsz.edu.cn/zs_common/bkzn/zswz/lnfs",
         "https://zsb.hitsz.edu.cn/zs_common/bkzn/zswz?flbs=2"
       ],
       "sourceRefs": [
+        "fp26-c-18213-brochures",
+        "fp26-c-18213-ndDmx1",
+        "fp26-c-18213-news",
+        "fp26-c-18213-score2025-gx",
+        "fp26-c-18213-score2026-gx",
+        "fp26-c-18213-scores",
         "major-20260911-a-hitsz-home",
         "major-20260911-a-hitsz-score-entry",
         "major-20260911-a-hitsz-score-years"
       ]
     },
-    "anyAuditNoteRecords": 1,
+    "anyAuditNoteRecords": 3,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 664,
@@ -217623,6 +217982,17 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "fp26-c-18213-brochures",
+      "fp26-c-18213-home",
+      "fp26-c-18213-ndDmx",
+      "fp26-c-18213-ndDmx1",
+      "fp26-c-18213-news",
+      "fp26-c-18213-plan2026-gx",
+      "fp26-c-18213-plans",
+      "fp26-c-18213-provinces2026",
+      "fp26-c-18213-score2025-gx",
+      "fp26-c-18213-score2026-gx",
+      "fp26-c-18213-scores",
       "gxeea-2026-33106",
       "gxeea-2026-33107",
       "major-20260911-a-hitsz-home",
@@ -217698,43 +218068,47 @@
     "scoreStatus": "reviewed-no-actual-records",
     "scoreAudit": {
       "noteIds": [
-        "major-score-review-batch-a-19001"
+        "major-score-review-batch-a-19001",
+        "major-score-review-first7-20260920-19001"
       ],
       "statuses": {
-        "entry-only-year-gap": 1
+        "entry-only-year-gap": 1,
+        "year-unavailable": 1
       },
-      "latestReviewDate": "2026-09-10",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-batch-a-19001"
+        "major-score-review-first7-20260920-19001"
       ],
       "latestStatuses": [
-        "entry-only-year-gap"
+        "year-unavailable"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-batch-a-19001",
-          "checkedAt": "2026-09-10T09:19:02.484109+00:00",
-          "status": "entry-only-year-gap",
-          "note": "官方历年分数栏目列2025、2024、2023；已打开最新各专业分数公告核实其标题和表格属于2025，未作为2026资料导入。医学部19001与北大本部10001分开审计。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。"
+          "id": "major-score-review-first7-20260920-19001",
+          "checkedAt": "2026-09-20T08:46:17.442087+00:00",
+          "status": "year-unavailable",
+          "note": "独立医学部历年分数最新公告为2025年各专业录取分数，已核标题、2025-12-24发布日期和广西行；不能作为2026，亦不与10001本部混用。未取得101/102组直接最低录取分或本年具体专业实际分。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-batch-a-19001",
-      "latestCheckedAt": "2026-09-10T09:19:02.484109+00:00",
-      "latestStatus": "entry-only-year-gap",
-      "latestNote": "官方历年分数栏目列2025、2024、2023；已打开最新各专业分数公告核实其标题和表格属于2025，未作为2026资料导入。医学部19001与北大本部10001分开审计。此结论仅覆盖列出的公开栏目和本轮定向检索，不声称已遍查全校网站。",
+      "latestNoteId": "major-score-review-first7-20260920-19001",
+      "latestCheckedAt": "2026-09-20T08:46:17.442087+00:00",
+      "latestStatus": "year-unavailable",
+      "latestNote": "独立医学部历年分数最新公告为2025年各专业录取分数，已核标题、2025-12-24发布日期和广西行；不能作为2026，亦不与10001本部混用。未取得101/102组直接最低录取分或本年具体专业实际分。",
       "checkedUrls": [
         "https://bkzs.bjmu.edu.cn/",
         "https://bkzs.bjmu.edu.cn/zsxx/lnfs/824ff31b4cd64f299143feeb899d76c8.htm",
         "https://bkzs.bjmu.edu.cn/zsxx/lnfs/index.htm"
       ],
       "sourceRefs": [
+        "first7-20260920-19001-detail-major-a-med-score-2025",
+        "first7-20260920-19001-major-a-med-score-index",
         "major-a-med-home",
         "major-a-med-score-2025",
         "major-a-med-score-index"
       ]
     },
-    "anyAuditNoteRecords": 2,
+    "anyAuditNoteRecords": 4,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 678,
@@ -217755,6 +218129,12 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "first7-20260920-19001-2026-consultation-wechat",
+      "first7-20260920-19001-detail-major-a-med-score-2025",
+      "first7-20260920-19001-detail-top-a-med-gx-2025",
+      "first7-20260920-19001-major-a-med-score-index",
+      "first7-20260920-19001-top-a-med-notices",
+      "first7-20260920-19001-top-a-med-plans",
       "gxeea-2026-33107",
       "major-a-med-home",
       "major-a-med-score-2025",
@@ -218719,38 +219099,41 @@
     "scoreAudit": {
       "noteIds": [
         "major-score-review-batch-b-19248",
-        "major-score-review-p100a-19248"
+        "major-score-review-p100a-19248",
+        "major-score-review-first7-20260920-19248"
       ],
       "statuses": {
         "not-found-current-major": 1,
-        "year-unavailable": 1
+        "year-unavailable": 2
       },
-      "latestReviewDate": "2026-09-12",
+      "latestReviewDate": "2026-09-20",
       "latestNoteIds": [
-        "major-score-review-p100a-19248"
+        "major-score-review-first7-20260920-19248"
       ],
       "latestStatuses": [
         "year-unavailable"
       ],
       "latestNotes": [
         {
-          "id": "major-score-review-p100a-19248",
-          "checkedAt": "2026-09-12",
+          "id": "major-score-review-first7-20260920-19248",
+          "checkedAt": "2026-09-20T08:46:17.442087+00:00",
           "status": "year-unavailable",
-          "note": "独立院校代码19248核查阳光招生历年分数列表、最新文章及医学院信息公开招生栏目，最新普通批次结果均标明2025。未与交大本部代码混用，未取得2026广西专业实际分。"
+          "note": "独立医学院历年分数栏目和最新详情均标明2025普通批次录取分数线（2025-10-01），未作为2026资料。未取得101组直接最低录取分或2026广西具体专业实际最低分。"
         }
       ],
       "latestSelectionBasis": "one review on latest Beijing calendar date",
-      "latestNoteId": "major-score-review-p100a-19248",
-      "latestCheckedAt": "2026-09-12",
+      "latestNoteId": "major-score-review-first7-20260920-19248",
+      "latestCheckedAt": "2026-09-20T08:46:17.442087+00:00",
       "latestStatus": "year-unavailable",
-      "latestNote": "独立院校代码19248核查阳光招生历年分数列表、最新文章及医学院信息公开招生栏目，最新普通批次结果均标明2025。未与交大本部代码混用，未取得2026广西专业实际分。",
+      "latestNote": "独立医学院历年分数栏目和最新详情均标明2025普通批次录取分数线（2025-10-01），未作为2026资料。未取得101组直接最低录取分或2026广西具体专业实际最低分。",
       "checkedUrls": [
         "https://www.shsmu.edu.cn/xxgk/xxgklm1/zsxx.htm",
         "https://www.shsmu.edu.cn/ygzs/info/1025/1206.htm",
         "https://www.shsmu.edu.cn/ygzs/zsxx/lnfs.htm"
       ],
       "sourceRefs": [
+        "first7-20260920-19248-detail-major-score-b-sjtu-med-latest-score-article",
+        "first7-20260920-19248-major-score-b-sjtu-med-score-list",
         "major-score-b-sjtu-med-latest-score-article",
         "major-score-b-sjtu-med-score-list",
         "p100a-19248-entry1",
@@ -218758,7 +219141,7 @@
         "p100a-19248-information-public"
       ]
     },
-    "anyAuditNoteRecords": 3,
+    "anyAuditNoteRecords": 5,
     "priorityByTrack": {
       "物理": {
         "maximumFirstRoundGroupScore": 674,
@@ -218779,6 +219162,13 @@
     "schoolCompleteness": "not-established",
     "sourceCompleteness": "not-established",
     "sourceRefs": [
+      "first7-20260920-10248-2026-plan-image",
+      "first7-20260920-10248-plan-api",
+      "first7-20260920-10248-plan-index",
+      "first7-20260920-19248-detail-major-score-b-sjtu-med-latest-score-article",
+      "first7-20260920-19248-major-score-b-sjtu-med-score-list",
+      "first7-20260920-19248-top-b-sjtu-med-home",
+      "first7-20260920-19248-top-b-sjtu-med-plan-list",
       "gxeea-2026-33107",
       "major-score-b-sjtu-med-latest-score-article",
       "major-score-b-sjtu-med-score-list",

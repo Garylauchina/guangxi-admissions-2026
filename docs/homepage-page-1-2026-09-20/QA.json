@@ -1,0 +1,94 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-09-20T09:02:43.143899+00:00",
+  "scope": {
+    "groups": 25,
+    "schools": 21,
+    "newPlans": 82,
+    "newSeats": 513,
+    "newActualScores": 0,
+    "newGroupMappings": 0
+  },
+  "checks": {
+    "planImport": {
+      "before": 2380,
+      "after": 2462,
+      "added": 82,
+      "updated": 0
+    },
+    "scoreImport": {
+      "before": 1793,
+      "after": 1793,
+      "added": 0,
+      "updated": 0
+    },
+    "homepageDefaultOrderUnchanged": true,
+    "allExistingScoreAndOtherRouteFilesHashUnchanged": true,
+    "sourceReferencesResolved": true,
+    "dataValidation": "passed",
+    "queueRebuildCheck": "passed",
+    "assetVersionCheck": "passed",
+    "tests": {
+      "passed": 32,
+      "failed": 0
+    },
+    "gitDiffCheck": "passed",
+    "publicFilesContainNoRawArchivesOrSessionData": true
+  },
+  "independentReviewFiles": [
+    "review-c-plans.json",
+    "review-seu-plan.json",
+    "review-csu-bupt-plans.json"
+  ],
+  "integrationReview": {
+    "sjtuHistoryPlan": "独立目读2026官方图广西列：文史法学试验班1人，校本部普通计划广西总计36人。",
+    "unknownCategory": "哈深6行使用未注明招生类别，前端普通类筛选不会将其视为已确定普通计划。",
+    "csuTestExpectation": "旧页面测试写死26条，新增历史4条后改为以当前真实库总数校验院校展示；完整32项复跑通过。"
+  },
+  "browser": {
+    "surface": "本地真实浏览器",
+    "defaultPage": "3651条结果，第1页25组顺序与冻结清单一致",
+    "details": [
+      {
+        "schoolCode": "10610",
+        "schoolPlanRows": 28,
+        "embeddedPhysicsRows": 28,
+        "groupRemainsUnmapped": true
+      },
+      {
+        "schoolCode": "10698",
+        "schoolPlanRows": 8,
+        "embeddedPhysicsRows": 8,
+        "groupRemainsUnmapped": true
+      },
+      {
+        "schoolCode": "18213",
+        "schoolPlanRows": 6,
+        "embeddedPhysicsRows": 5,
+        "groupRemainsUnmapped": true
+      },
+      {
+        "schoolCode": "10286",
+        "schoolPlanRows": 25,
+        "embeddedPhysicsRows": 19,
+        "groupRemainsUnmapped": true
+      },
+      {
+        "schoolCode": "10533",
+        "schoolPlanRows": 30,
+        "embeddedPhysicsRows": 26,
+        "groupRemainsUnmapped": true
+      },
+      {
+        "schoolCode": "10013",
+        "schoolPlanRows": 10,
+        "embeddedPhysicsRows": 10,
+        "groupRemainsUnmapped": true
+      }
+    ],
+    "softwareFee": "专业详情显示后两年16000元/年，完整学费保持待核实",
+    "coverage": "2462条 / 54校，第一页逐组报告链接可见",
+    "visualLayout": "北邮详情及计划展开截图目视通过"
+  },
+  "publicationBoundary": "本文件记录发布前验收；线上成功需另以部署任务和实时文件/浏览器核验确认。"
+}

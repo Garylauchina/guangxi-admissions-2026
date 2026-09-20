@@ -1,0 +1,57 @@
+{
+  "commit": "f01f66878e697e09b9525e45a1006e51b2cba391",
+  "files": {
+    "sources.json": {
+      "sha256": "16d0781194d56572a663af7674c866ea01263dfa8d70d60c2cd9f2897d5c93ac",
+      "records": 2024
+    },
+    "policies.json": {
+      "sha256": "612490a108b0e78983fcca17cc1b81309667008ac0c099109af3503dd96af830",
+      "records": 8
+    },
+    "group-admission-scores.json": {
+      "sha256": "f832f5ca6e30f8f7b47fe64b87c69001a4a1b34da0207cc8b85ed61bfd5d3c06",
+      "records": 8
+    },
+    "ranks.json": {
+      "sha256": "5443c315a0a247763d8fbdee018066eeccf7b6d4a696148c2187d0baa09f2cea",
+      "records": 1010
+    },
+    "school-coverage.json": {
+      "sha256": "503f0a44e258e476e25dd2742887811896473b721ec156d9f23f0cbb00c425b8",
+      "records": 1961
+    },
+    "supplementary-plans.json": {
+      "sha256": "36a11aa3b17d27da8f3c141591318a7ca5400241ab705af9e534c2a7a15139aa",
+      "records": 84
+    },
+    "special-programs.json": {
+      "sha256": "1999c07cdbdc4db44795a8e023e404d95155239f76ed9072909591788d28cd58",
+      "records": 43
+    },
+    "major-filing-cutoffs.json": {
+      "sha256": "3555250b4a263750cdf8a0a1106d31f1080fd30cac29b0d987077287d49830c6",
+      "records": 136
+    },
+    "major-cutoffs.json": {
+      "sha256": "7d6f30bda2de96cd24e48a1313d31e43c9b679ac0db5f45af4d25d57efc2bbd6",
+      "records": 1793
+    },
+    "plan-source-catalog.json": {
+      "sha256": "45917bb88497d131595783772e0ecc012b86ed047dcdbaac88c98e76bc192316",
+      "records": 65
+    },
+    "plans.json": {
+      "sha256": "00b227d6f90908053dbeccad60a0eb2ee091d46811d3aba9cbbaa5be7a931f44",
+      "records": 2380
+    },
+    "school-audit-notes.json": {
+      "sha256": "ca894a5fadb9d3f5a49879531463bdd6314510918c1039fe3a60b06bc1af6800",
+      "records": 427
+    },
+    "cutoffs.json": {
+      "sha256": "d1766a2c8cece80db3c6a2d8548149e3ce255f87083cc95e981149f809b0d0a3",
+      "records": 11448
+    }
+  }
+}

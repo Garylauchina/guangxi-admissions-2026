@@ -1,0 +1,253 @@
+{
+  "checkedAt": "2026-09-20T08:58:04.531Z",
+  "scope": "首页默认物理/本科普通批/首轮/不含已识别专项；不填分数；每页25条",
+  "page": 1,
+  "groupCount": 25,
+  "schoolCount": 21,
+  "addedPlanRows": 82,
+  "addedPlanSeats": 513,
+  "addedPlanSchools": 7,
+  "newSchoolsWithPlans": 5,
+  "byTrack": [
+    {
+      "track": "物理",
+      "rows": 70,
+      "seats": 463
+    },
+    {
+      "track": "历史",
+      "rows": 12,
+      "seats": 50
+    }
+  ],
+  "newActualMajorScores": 0,
+  "newActualGroupScores": 0,
+  "exactGroupPlansBefore": 0,
+  "exactGroupPlansAfter": 0,
+  "allTargetGroupsRetainMissingActualScores": true,
+  "bySchool": [
+    {
+      "schoolCode": "10001",
+      "school": "北京大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 0,
+      "schoolPlanRowsBefore": 0
+    },
+    {
+      "schoolCode": "10003",
+      "school": "清华大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 0,
+      "schoolPlanRowsBefore": 0
+    },
+    {
+      "schoolCode": "10248",
+      "school": "上海交通大学",
+      "addedRows": 1,
+      "addedSeats": 1,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 1,
+      "schoolPlanRowsAfter": 16,
+      "schoolPlanRowsBefore": 15
+    },
+    {
+      "schoolCode": "10335",
+      "school": "浙江大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 0,
+      "schoolPlanRowsBefore": 0
+    },
+    {
+      "schoolCode": "19001",
+      "school": "北京大学医学部",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 0,
+      "schoolPlanRowsBefore": 0
+    },
+    {
+      "schoolCode": "19248",
+      "school": "上海交通大学医学院",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 3,
+      "schoolPlanRowsBefore": 3
+    },
+    {
+      "schoolCode": "10246",
+      "school": "复旦大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 0,
+      "schoolPlanRowsBefore": 0
+    },
+    {
+      "schoolCode": "10007",
+      "school": "北京理工大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 4,
+      "schoolPlanRowsBefore": 4
+    },
+    {
+      "schoolCode": "10006",
+      "school": "北京航空航天大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 10,
+      "schoolPlanRowsBefore": 10
+    },
+    {
+      "schoolCode": "10213",
+      "school": "哈尔滨工业大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 7,
+      "schoolPlanRowsBefore": 7
+    },
+    {
+      "schoolCode": "10558",
+      "school": "中山大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 24,
+      "schoolPlanRowsBefore": 24
+    },
+    {
+      "schoolCode": "10284",
+      "school": "南京大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 12,
+      "schoolPlanRowsBefore": 12
+    },
+    {
+      "schoolCode": "10358",
+      "school": "中国科学技术大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 12,
+      "schoolPlanRowsBefore": 12
+    },
+    {
+      "schoolCode": "10487",
+      "school": "华中科技大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 27,
+      "schoolPlanRowsBefore": 27
+    },
+    {
+      "schoolCode": "10002",
+      "school": "中国人民大学",
+      "addedRows": 0,
+      "addedSeats": 0,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 7,
+      "schoolPlanRowsBefore": 7
+    },
+    {
+      "schoolCode": "10610",
+      "school": "四川大学",
+      "addedRows": 28,
+      "addedSeats": 185,
+      "physicsAddedRows": 28,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 28,
+      "schoolPlanRowsBefore": 0
+    },
+    {
+      "schoolCode": "10698",
+      "school": "西安交通大学",
+      "addedRows": 8,
+      "addedSeats": 26,
+      "physicsAddedRows": 8,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 8,
+      "schoolPlanRowsBefore": 0
+    },
+    {
+      "schoolCode": "18213",
+      "school": "哈尔滨工业大学(深圳)",
+      "addedRows": 6,
+      "addedSeats": 63,
+      "physicsAddedRows": 5,
+      "historyAddedRows": 1,
+      "schoolPlanRowsAfter": 6,
+      "schoolPlanRowsBefore": 0
+    },
+    {
+      "schoolCode": "10286",
+      "school": "东南大学",
+      "addedRows": 25,
+      "addedSeats": 87,
+      "physicsAddedRows": 19,
+      "historyAddedRows": 6,
+      "schoolPlanRowsAfter": 25,
+      "schoolPlanRowsBefore": 0
+    },
+    {
+      "schoolCode": "10533",
+      "school": "中南大学",
+      "addedRows": 4,
+      "addedSeats": 21,
+      "physicsAddedRows": 0,
+      "historyAddedRows": 4,
+      "schoolPlanRowsAfter": 30,
+      "schoolPlanRowsBefore": 26
+    },
+    {
+      "schoolCode": "10013",
+      "school": "北京邮电大学",
+      "addedRows": 10,
+      "addedSeats": 130,
+      "physicsAddedRows": 10,
+      "historyAddedRows": 0,
+      "schoolPlanRowsAfter": 10,
+      "schoolPlanRowsBefore": 0
+    }
+  ],
+  "globalPlans": {
+    "before": 2380,
+    "after": 2462,
+    "schoolsAfter": 54
+  },
+  "nextPage": 2,
+  "nextFirstGroup": {
+    "schoolCode": "19246",
+    "school": "复旦大学医学院",
+    "group": "101",
+    "score": 652
+  },
+  "completionBoundary": "已完成列明来源核查及可取得计划补录；25组均仍缺可直接对应的计划组码、整组实际分和具体专业实际分，不等于数据已补齐。"
+}
