@@ -1,0 +1,127 @@
+{
+  "year": 2026,
+  "province": "广西",
+  "schoolAuditCount": 30,
+  "majorRowCount": 87,
+  "schoolCounts": {
+    "10425": 41,
+    "10749": 12,
+    "11415": 28,
+    "10655": 6
+  },
+  "trackCounts": {
+    "物理": 73,
+    "历史": 14
+  },
+  "nonComparableCount": 0,
+  "allRowsHaveUnknownGuangxiGroupCode": true,
+  "groupAdmissionCandidateCount": 0,
+  "groupAdmissionGap": "地大北京sszyzgradeList有2026实际组汇总，但只有组选项名，没有广西3位组码；其他已采表亦不能建立完整直接组证据。不从专业子集求最小值。",
+  "apiChecks": [
+    {
+      "schoolCode": "10425",
+      "response": "10425-gx2026-1",
+      "majorRows": 27,
+      "sourceRsSum": 82,
+      "summarySourceRs": 82,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "10425",
+      "response": "10425-gx2026-2",
+      "majorRows": 3,
+      "sourceRsSum": 6,
+      "summarySourceRs": 6,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "10425",
+      "response": "10425-gx2026-3",
+      "majorRows": 6,
+      "sourceRsSum": 12,
+      "summarySourceRs": 12,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "10425",
+      "response": "10425-gx2026-4",
+      "majorRows": 1,
+      "sourceRsSum": 1,
+      "summarySourceRs": 1,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "10425",
+      "response": "10425-gx2026-5",
+      "majorRows": 4,
+      "sourceRsSum": 9,
+      "summarySourceRs": 9,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "10749",
+      "response": "10749-gx2026-1",
+      "majorRows": 8,
+      "sourceRsSum": 37,
+      "summarySourceRs": 37,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "10749",
+      "response": "10749-gx2026-2",
+      "majorRows": 4,
+      "sourceRsSum": 17,
+      "summarySourceRs": 17,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "11415",
+      "response": "11415-gx2026-1",
+      "majorRows": 2,
+      "sourceRsSum": 7,
+      "summarySourceRs": 7,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "11415",
+      "response": "11415-gx2026-2",
+      "majorRows": 5,
+      "sourceRsSum": 9,
+      "summarySourceRs": 9,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "11415",
+      "response": "11415-gx2026-3",
+      "majorRows": 8,
+      "sourceRsSum": 21,
+      "summarySourceRs": 21,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "11415",
+      "response": "11415-gx2026-4",
+      "majorRows": 6,
+      "sourceRsSum": 19,
+      "summarySourceRs": 19,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "11415",
+      "response": "11415-gx2026-5",
+      "majorRows": 5,
+      "sourceRsSum": 9,
+      "summarySourceRs": 9,
+      "sourceRsMatches": true
+    },
+    {
+      "schoolCode": "11415",
+      "response": "11415-gx2026-6",
+      "majorRows": 2,
+      "sourceRsSum": 4,
+      "summarySourceRs": 4,
+      "sourceRsMatches": true
+    }
+  ],
+  "scope": "30个固定目标；4校可采正向结果，26校保留有界缺口；不是全站覆盖完成声明。"
+}

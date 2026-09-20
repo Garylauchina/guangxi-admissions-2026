@@ -1,0 +1,35 @@
+[
+  {
+    "baseUrl": "https://enrollment.sdfmu.edu.cn",
+    "entryUrl": "https://enrollment.sdfmu.edu.cn/zsw/lnfs.html",
+    "queries": [
+      {
+        "name": "10439-menu-session.json",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://zhaoshengxxw.imu.edu.cn",
+    "entryUrl": "https://zhaoshengxxw.imu.edu.cn/zsw/lnfs.html",
+    "queries": [
+      {
+        "name": "10126-menu-session.json",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  },
+  {
+    "baseUrl": "https://zslq.csust.edu.cn",
+    "entryUrl": "https://zslq.csust.edu.cn/static/front/csust/basic/html_web/lnfs.html",
+    "queries": [
+      {
+        "name": "10536-menu-session.json",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  }
+]

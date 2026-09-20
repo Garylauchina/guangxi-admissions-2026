@@ -1,0 +1,59 @@
+{
+  "checkedAt": "2026-09-20T08:16:40.039249+00:00",
+  "status": "passed-local-schema-and-source-checks",
+  "statistics": {
+    "majorRows": 69,
+    "schoolsWithNewMajorScores": 3,
+    "majorRowsBySchool": {
+      "上海海事大学": 36,
+      "浙江工商大学": 30,
+      "中央美术学院": 3
+    },
+    "majorRowsByTrack": {
+      "物理": 51,
+      "历史": 18
+    },
+    "groupCandidates": 5,
+    "auditedSchools": 30,
+    "sourceRecords": 120,
+    "auditStatuses": {
+      "entry-only-year-gap": 24,
+      "source-found": 1,
+      "collected-partial": 3,
+      "access-blocked": 2
+    }
+  },
+  "checks": {
+    "yearAndProvinceFilteredPerRow": true,
+    "archiveHashesVerified": true,
+    "sourceFieldMappingForAllRows": true,
+    "minimumMaximumAverageOrder": true,
+    "noGroupOrRankInferred": true,
+    "noCountsRepurposed": true,
+    "noPriorYearImported": true,
+    "onlyStatisticalFactsInPublicPackage": true,
+    "all30HaveBoundedAudit": true,
+    "smu16MenuCombinations": true,
+    "zjgs32RowsMinus2Preparatory": true,
+    "cafa3ImageRowsIndependentReviewByParent": true,
+    "zjgsCharter2PagesVisuallyReviewed": true
+  },
+  "limitations": [
+    "独立复核不等于全渠道完整收录；30校均保留scopeComplete=false。",
+    "currentYearMenuEnumerated只表示本年查询源取得/筛选，不表示大学所有渠道已穷尽。",
+    "raw和会话材料不在公有白名单；导入预检结果另见preflight.json。"
+  ],
+  "readOnlyImporter": {
+    "before": 1633,
+    "after": 1702,
+    "added": 69,
+    "updated": 0,
+    "schoolCodes": 48,
+    "pending": 121
+  },
+  "publicWhitelist": {
+    "fileCount": 17,
+    "noRawOrSessionFiles": true,
+    "filesExist": true
+  }
+}

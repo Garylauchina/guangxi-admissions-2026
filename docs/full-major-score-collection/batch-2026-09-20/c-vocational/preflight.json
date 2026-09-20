@@ -1,0 +1,30 @@
+{
+  "before": 1633,
+  "after": 1637,
+  "added": 4,
+  "updated": 0,
+  "schoolCodes": 46,
+  "pending": 121,
+  "changes": [
+    {
+      "id": "major-20260920-c-12493-001",
+      "school": "上海行健职业学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-c-12493-002",
+      "school": "上海行健职业学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-c-12493-003",
+      "school": "上海行健职业学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-c-12493-004",
+      "school": "上海行健职业学院",
+      "action": "add"
+    }
+  ]
+}

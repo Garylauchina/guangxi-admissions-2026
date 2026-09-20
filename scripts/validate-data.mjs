@@ -1,11 +1,27 @@
 import assert from 'node:assert/strict';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { exactGroupKey, firstRoundIndex, recordSourceIds } from '../site/logic.js';
-import { buildCoverage } from '../site/coverage.js';
+import { buildCoverage, groupAdmissionIndex } from '../site/coverage.js';
 const root=new URL('../',import.meta.url);
 const read=async name=>JSON.parse(await readFile(new URL(`site/data/${name}.json`,root),'utf8'));
 const [cutoffs,plans,majorCutoffs,ranks,special,sources,policies]=await Promise.all(['cutoffs','plans','major-cutoffs','ranks','special-programs','sources','policies'].map(read));
 const sourceMap=new Map(sources.map(s=>[s.id,s]));
+const groupAdmissions=await read('group-admission-scores');
+groupAdmissionIndex(groupAdmissions);
+for(const row of groupAdmissions){
+  assert.equal(row.year,2026);
+  assert.match(String(row.schoolCode),/^\d{5}$/);
+  assert.match(String(row.group),/^\d{3}$/);
+  assert.ok(['物理','历史'].includes(row.track));
+  assert.ok(cutoffs.some(r=>exactGroupKey(r)===exactGroupKey(row)),`Unknown group admission identity ${row.id}`);
+  assert.ok(Number.isFinite(row.score)&&row.score>=0&&row.score<=750);
+  assert.equal(row.scoreScaleMaximum,750);
+  assert.equal(typeof row.scoreComparable,'boolean');
+  assert.ok(row.sourceLocator&&row.reviewedAt&&row.note);
+  assert.ok(recordSourceIds(row).length);
+  for(const id of recordSourceIds(row))assert.ok(sourceMap.has(id),`Missing group outcome source ${id}`);
+  for(const field of ['year','province','track','batch','group','score'])assert.ok(row.fieldSourceIds?.[field]?.length,`Missing direct group evidence ${row.id} ${field}`);
+}
 function validateNestedSources(value){
   if(Array.isArray(value)){value.forEach(validateNestedSources);return;}
   if(!value || typeof value!=='object')return;
@@ -14,7 +30,9 @@ function validateNestedSources(value){
 }
 assert.equal(sourceMap.size,sources.length,'Source identifiers must be unique');
 for(const s of sources){assert.ok(s.id&&s.title&&/^https?:\/\//.test(s.url),`Invalid source ${s.id}`);if(s.sha256)assert.match(s.sha256,/^[a-f0-9]{64}$/);}
-const ids=new Set();
+const ids=new Set(groupAdmissions.map(r=>r.id));
+assert.equal(ids.size,groupAdmissions.length,'Duplicate group admission identifier');
+assert.ok(groupAdmissions.every(r=>r.id),'Group admission ID required');
 for(const [kind,rows] of Object.entries({cutoffs,plans,majorCutoffs,ranks,special,policies})){
   assert.ok(Array.isArray(rows));
   for(const row of rows){
@@ -76,6 +94,6 @@ const html=await readFile(new URL('site/index.html',root),'utf8');
 assert.ok(html.includes('lang="zh-CN"'));assert.ok(!html.includes('2025'));
 for(const match of html.matchAll(/(?:src|href)="\.\/([^"#]+)"/g))await readFile(new URL('site/'+match[1],root));
 for(const file of await readdir(new URL('site/data/',root))){const text=await readFile(new URL('site/data/'+file,root),'utf8');assert.ok(!/\/Users\/|南宁二中|火箭班|校内前25|gh[pousr]_[A-Za-z0-9]{20}/.test(text),`Private material in ${file}`);}
-const summary={year:2026,checkedAt:new Date().toISOString(),status:'passed',cutoffs:cutoffs.length,firstRound:8155,firstRoundSchools:new Set(cutoffs.filter(r=>r.round==='首轮').map(r=>r.schoolCode)).size,plans:plans.length,planSchools:new Set(plans.map(r=>r.school)).size,plansMatchedToFirstRoundGroup:matchedPlans,firstRoundGroupsWithPlans:coverage.reduce((n,r)=>n+r.groupsWithPlans,0),planSourceCatalogSchools:planSources.length,planSourceStatus:Object.fromEntries(['collected','source-found','entry-only','unavailable'].map(status=>[status,planSources.filter(r=>r.status===status).length])),supplementaryPlanRecords:supplementaryPlans.length,majorCutoffs:majorCutoffs.length,majorCutoffSchools:new Set(majorCutoffs.map(r=>r.school)).size,specialPrograms:special.length,specialGuangxiStatus:Object.fromEntries(['confirmed','unknown','excluded'].map(k=>[k,special.filter(p=>p.guangxiStatus===k).length])),strongGuangxiStatus:Object.fromEntries(['confirmed','unknown','excluded'].map(k=>[k,special.filter(p=>p.type==='strong-foundation'&&p.guangxiStatus===k).length])),specialScores:special.reduce((n,p)=>n+(p.scoreRecords||[]).length,0),majorScoresPending:majorCutoffs.filter(r=>r.scoreComparable===false).length,majorFilingRecordsSeparate:filings.length,schoolReviewNotes:auditNotes.length,schoolsWithReviewNotes:new Set(auditNotes.map(r=>r.schoolCode)).size,sources:sources.length,ranks:ranks.length,limits:['专业计划与实际专业录取线为部分覆盖','首轮及征集分轮记录','无官方专业组码的计划不匹配分数','特殊通道不参与普通分数比较']};
+const summary={year:2026,checkedAt:new Date().toISOString(),status:'passed',cutoffs:cutoffs.length,firstRound:8155,firstRoundSchools:new Set(cutoffs.filter(r=>r.round==='首轮').map(r=>r.schoolCode)).size,plans:plans.length,planSchools:new Set(plans.map(r=>r.school)).size,plansMatchedToFirstRoundGroup:matchedPlans,firstRoundGroupsWithPlans:coverage.reduce((n,r)=>n+r.groupsWithPlans,0),planSourceCatalogSchools:planSources.length,planSourceStatus:Object.fromEntries(['collected','source-found','entry-only','unavailable'].map(status=>[status,planSources.filter(r=>r.status===status).length])),supplementaryPlanRecords:supplementaryPlans.length,groupAdmissionScores:groupAdmissions.length,groupAdmissionSchools:new Set(groupAdmissions.map(r=>r.schoolCode)).size,majorCutoffs:majorCutoffs.length,majorCutoffSchools:new Set(majorCutoffs.map(r=>r.school)).size,specialPrograms:special.length,specialGuangxiStatus:Object.fromEntries(['confirmed','unknown','excluded'].map(k=>[k,special.filter(p=>p.guangxiStatus===k).length])),strongGuangxiStatus:Object.fromEntries(['confirmed','unknown','excluded'].map(k=>[k,special.filter(p=>p.type==='strong-foundation'&&p.guangxiStatus===k).length])),specialScores:special.reduce((n,p)=>n+(p.scoreRecords||[]).length,0),majorScoresPending:majorCutoffs.filter(r=>r.scoreComparable===false).length,majorFilingRecordsSeparate:filings.length,schoolReviewNotes:auditNotes.length,schoolsWithReviewNotes:new Set(auditNotes.map(r=>r.schoolCode)).size,sources:sources.length,ranks:ranks.length,limits:['专业计划与实际专业录取线为部分覆盖','首轮及征集分轮记录','无官方专业组码的计划不匹配分数','特殊通道不参与普通分数比较']};
 if(process.argv.includes('--write-report'))await writeFile(new URL('docs/validation.json',root),JSON.stringify(summary,null,2)+'\n');
 console.log(JSON.stringify(summary,null,2));

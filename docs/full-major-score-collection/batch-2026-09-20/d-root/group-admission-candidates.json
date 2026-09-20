@@ -1,0 +1,140 @@
+[
+  {
+    "id": "group-admission-20260920-10631-101",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10631",
+    "school": "重庆医科大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": "101",
+    "score": 581,
+    "scoreType": "专业组录取最低分",
+    "scoreComparable": true,
+    "scoreScaleMaximum": 750,
+    "evidenceScope": "official-group-summary",
+    "roundScope": "annual",
+    "round": "录取汇总（轮次未分）",
+    "sourceId": "major-20260920-d-10631-2026",
+    "sourceIds": [
+      "major-20260920-d-10631-2026",
+      "gxeea-2026-33107"
+    ],
+    "sourceMaximumScore": 606,
+    "sourceLocator": "广西 / 普通本科批101组 / 物理类 / 最低分",
+    "reviewedAt": "2026-09-20",
+    "note": "校方直接公布的本组录取汇总最低分；原表未区分首次和征集轮次。与考试院投档线独立保存。",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-d-10631-2026"
+      ],
+      "province": [
+        "major-20260920-d-10631-2026"
+      ],
+      "track": [
+        "major-20260920-d-10631-2026"
+      ],
+      "batch": [
+        "major-20260920-d-10631-2026"
+      ],
+      "group": [
+        "major-20260920-d-10631-2026"
+      ],
+      "score": [
+        "major-20260920-d-10631-2026"
+      ]
+    }
+  },
+  {
+    "id": "group-admission-20260920-10631-102",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10631",
+    "school": "重庆医科大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": "102",
+    "score": 551,
+    "scoreType": "专业组录取最低分",
+    "scoreComparable": true,
+    "scoreScaleMaximum": 750,
+    "evidenceScope": "official-group-summary",
+    "roundScope": "annual",
+    "round": "录取汇总（轮次未分）",
+    "sourceId": "major-20260920-d-10631-2026",
+    "sourceIds": [
+      "major-20260920-d-10631-2026",
+      "gxeea-2026-33107"
+    ],
+    "sourceMaximumScore": 561,
+    "sourceLocator": "广西 / 普通本科批102组 / 物理类 / 最低分",
+    "reviewedAt": "2026-09-20",
+    "note": "校方直接公布的本组录取汇总最低分；原表未区分首次和征集轮次。与考试院投档线独立保存。",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-d-10631-2026"
+      ],
+      "province": [
+        "major-20260920-d-10631-2026"
+      ],
+      "track": [
+        "major-20260920-d-10631-2026"
+      ],
+      "batch": [
+        "major-20260920-d-10631-2026"
+      ],
+      "group": [
+        "major-20260920-d-10631-2026"
+      ],
+      "score": [
+        "major-20260920-d-10631-2026"
+      ]
+    }
+  },
+  {
+    "id": "group-admission-20260920-10631-103",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10631",
+    "school": "重庆医科大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": "103",
+    "score": 519,
+    "scoreType": "专业组录取最低分",
+    "scoreComparable": true,
+    "scoreScaleMaximum": 750,
+    "evidenceScope": "official-group-summary",
+    "roundScope": "annual",
+    "round": "录取汇总（轮次未分）",
+    "sourceId": "major-20260920-d-10631-2026",
+    "sourceIds": [
+      "major-20260920-d-10631-2026",
+      "gxeea-2026-33107"
+    ],
+    "sourceMaximumScore": 575,
+    "sourceLocator": "广西 / 普通本科批103组 / 物理类 / 最低分",
+    "reviewedAt": "2026-09-20",
+    "note": "校方直接公布的本组录取汇总最低分；原表未区分首次和征集轮次。与考试院投档线独立保存。",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-d-10631-2026"
+      ],
+      "province": [
+        "major-20260920-d-10631-2026"
+      ],
+      "track": [
+        "major-20260920-d-10631-2026"
+      ],
+      "batch": [
+        "major-20260920-d-10631-2026"
+      ],
+      "group": [
+        "major-20260920-d-10631-2026"
+      ],
+      "score": [
+        "major-20260920-d-10631-2026"
+      ]
+    }
+  }
+]

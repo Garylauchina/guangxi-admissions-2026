@@ -26,7 +26,7 @@ export function fetchedDataFiles(app) {
 }
 
 export async function assetVersions(root = new URL('../site/', import.meta.url)) {
-  const [app, html, coverage] = await Promise.all(['app.js', 'index.html', 'coverage.js'].map(name => readFile(new URL(name, root), 'utf8')));
+  const [app, html, coverage, styles] = await Promise.all(['app.js', 'index.html', 'coverage.js', 'styles.css'].map(name => readFile(new URL(name, root), 'utf8')));
   const files = fetchedDataFiles(app);
   const entries = await Promise.all(files.map(async name => [name, await readFile(new URL(`data/${name}`, root))]));
   const version = dataVersion(entries);
@@ -38,7 +38,7 @@ export async function assetVersions(root = new URL('../site/', import.meta.url))
     .replace(/const DATA_VERSION = '[a-f0-9]{64}';/, `const DATA_VERSION = '${version}';`)
     .replace(/from '\.\/coverage\.js\?v=[a-f0-9]+'/, `from './coverage.js?v=${coverageVersion}'`);
   const appVersion = sha(updatedApp).slice(0, 12);
-  const updatedHtml = html.replace(/src="\.\/app\.js\?v=[a-f0-9]+"/, `src="./app.js?v=${appVersion}"`);
+  const updatedHtml = html.replace(/src="\.\/app\.js\?v=[a-f0-9]+"/, `src="./app.js?v=${appVersion}"`).replace(/href="\.\/styles\.css(?:\?v=[a-f0-9]+)?"/, `href="./styles.css?v=${sha(styles).slice(0,12)}"`);
   return { files, version, coverageVersion, appVersion, app, html, updatedApp, updatedHtml };
 }
 

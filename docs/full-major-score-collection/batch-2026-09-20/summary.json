@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-20",
+  "baselineCommit": "53226eba87271ec8b8e5effaaf509badb2032d24",
+  "auditedSchoolCodes": 100,
+  "newComparableMajorScores": 278,
+  "newSchoolsWithComparableMajorScores": 10,
+  "newRowsBySchool": {
+    "中国石油大学(华东)": 41,
+    "宁夏大学": 12,
+    "中国地质大学(北京)": 28,
+    "四川美术学院": 6,
+    "上海海事大学": 36,
+    "浙江工商大学": 30,
+    "中央美术学院": 3,
+    "上海行健职业学院": 4,
+    "长沙理工大学": 67,
+    "扬州大学": 51
+  },
+  "directGroupAdmissionScores": 8,
+  "directGroupAdmissionSchools": 2,
+  "schoolsInBatchWithoutNewMajorRows": 90,
+  "newAuditStatusCounts": {
+    "access-blocked": 3,
+    "entry-only-year-gap": 54,
+    "query-unresolved": 1,
+    "collected-partial": 10,
+    "entry-only": 1,
+    "empty-current-response": 1,
+    "source-found": 1,
+    "prior-year-only": 12,
+    "access-limited": 4,
+    "year-unavailable": 4,
+    "reviewed-gap": 3,
+    "group-only": 6
+  },
+  "postImportScoreStatus": {
+    "not-score-reviewed": 1655,
+    "partial-collected": 52,
+    "reviewed-no-actual-records": 254
+  },
+  "postImportMajorScores": {
+    "schoolCodesWithSomeRecords": 53,
+    "schoolCodesWithComparableRecords": 52,
+    "pendingOnlySchoolCodes": [
+      "11548"
+    ],
+    "schoolStatusRule": "partial-collected requires at least one comparable numeric actual score; pending-only schools are reviewed-no-actual-records (no comparable actual score)",
+    "ordinaryLevelCounts": {
+      "mixed": 4,
+      "undergraduate": 42,
+      "vocational": 6
+    },
+    "comparableRecords": 1672,
+    "pendingComparisonRecords": 121,
+    "sourceConflictRecords": 128,
+    "literalTrackMajorKeys": 1412,
+    "recordsWithGroup": 278,
+    "recordsWithPublishedRank": 681,
+    "recordsWithAdmittedCount": 773,
+    "schoolCompletenessEstablished": false,
+    "professionalDenominator": null,
+    "professionalCompletenessPercent": null
+  },
+  "priorDataPreservation": {
+    "major-cutoffs.json": {
+      "priorRecords": 1515,
+      "unchanged": true
+    },
+    "school-audit-notes.json": {
+      "priorRecords": 327,
+      "unchanged": true
+    },
+    "sources.json": {
+      "priorRecords": 1604,
+      "unchanged": true
+    },
+    "cutoffs.json": {
+      "unchangedSha256": "d1766a2c8cece80db3c6a2d8548149e3ce255f87083cc95e981149f809b0d0a3"
+    },
+    "plans.json": {
+      "unchangedSha256": "00b227d6f90908053dbeccad60a0eb2ee091d46811d3aba9cbbaa5be7a931f44"
+    },
+    "plan-source-catalog.json": {
+      "unchangedSha256": "45917bb88497d131595783772e0ecc012b86ed047dcdbaac88c98e76bc192316"
+    },
+    "supplementary-plans.json": {
+      "unchangedSha256": "36a11aa3b17d27da8f3c141591318a7ca5400241ab705af9e534c2a7a15139aa"
+    },
+    "major-filing-cutoffs.json": {
+      "unchangedSha256": "3555250b4a263750cdf8a0a1106d31f1080fd30cac29b0d987077287d49830c6"
+    },
+    "ranks.json": {
+      "unchangedSha256": "5443c315a0a247763d8fbdee018066eeccf7b6d4a696148c2187d0baa09f2cea"
+    },
+    "policies.json": {
+      "unchangedSha256": "612490a108b0e78983fcca17cc1b81309667008ac0c099109af3503dd96af830"
+    },
+    "special-programs.json": {
+      "unchangedSha256": "1999c07cdbdc4db44795a8e023e404d95155239f76ed9072909591788d28cd58"
+    }
+  },
+  "sourceLimits": "每校结论限已读官方入口、实际菜单、表格和附件；未取得不等于全渠道未发布。专业组年度汇总不代表本轮投档结果；未从部分专业推导整组最低分。"
+}

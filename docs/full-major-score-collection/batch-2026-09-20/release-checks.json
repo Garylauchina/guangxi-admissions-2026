@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-09-20T08:28:36.777140+00:00",
+  "checks": {
+    "automatedTests": {
+      "passed": 32,
+      "failed": 0
+    },
+    "fullDataValidation": "passed",
+    "queueRebuildConsistency": "passed",
+    "assetVersions": "passed, 13 JSON datasets",
+    "priorDataProtection": "passed; details in summary.json",
+    "independentReview": "API rows, source hashes, image/PDF cells, and UI score identities reviewed",
+    "browserLocal": {
+      "desktop": "passed; both score labels, direct group values and annual scope visible",
+      "mobile390x844": "passed; score columns readable without horizontal overflow",
+      "details": "new major rows, official sources and school subview reachable"
+    },
+    "uiReviewCorrection": "Embedded plan rows retain the warning for published counts that include preparatory transfers."
+  },
+  "deployment": "Not claimed by this local-check snapshot; verify the exact GitHub Actions commit and public resources after publication."
+}

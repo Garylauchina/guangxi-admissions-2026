@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "major-20260920-b-10032-entry",
+    "title": "北京语言大学：官方录取分来源核查（entry）",
+    "url": "https://www.blcu.edu.cn/",
+    "publisher": "北京语言大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:59.891493+00:00",
+    "sha256": "2265045ee326337508c825d3a5295030942ec9b03c3f28243cbaba756c234f9c",
+    "responseSha256": "2265045ee326337508c825d3a5295030942ec9b03c3f28243cbaba756c234f9c",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10032-next",
+    "title": "北京语言大学：官方录取分来源核查（next）",
+    "url": "https://www.blcu.edu.cn/zsjy.htm",
+    "publisher": "北京语言大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:06.830261+00:00",
+    "sha256": "e7cc133457b588e42e66d83d37a081db34ff78e5d639f39636dde73699532a70",
+    "responseSha256": "e7cc133457b588e42e66d83d37a081db34ff78e5d639f39636dde73699532a70",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10032-params",
+    "title": "北京语言大学：官方录取分来源核查（params）",
+    "url": "https://lqcx.blcu.edu.cn:443/f/ajax_lnfs_param",
+    "publisher": "北京语言大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:58:45.308789+00:00",
+    "sha256": "22237d8d7d115823e3cbc094ed41dbbc0f81093d01c80e726370b0263a042f94",
+    "responseSha256": "86db9960695656df85c54f0ea74e49e0801142858e9106d4da14ba33b55d921f",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10032-query",
+    "title": "北京语言大学：官方录取分来源核查（query）",
+    "url": "https://lqcx.blcu.edu.cn:443/static/front/blcu/basic/html_web/lnfs.html",
+    "publisher": "北京语言大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:37.770878+00:00",
+    "sha256": "e340a9053d8e1b39b1ac148310ec9753cfb2cb75c526abd04585837b709b153f",
+    "responseSha256": "e340a9053d8e1b39b1ac148310ec9753cfb2cb75c526abd04585837b709b153f",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10038-entry",
+    "title": "首都经济贸易大学：官方录取分来源核查（entry）",
+    "url": "https://www.cueb.edu.cn/",
+    "publisher": "首都经济贸易大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:01.017578+00:00",
+    "sha256": "2f07b8bcedf72e11b0d293117b2c09ae12e4cb059dec8dcae6318402c1cec22e",
+    "responseSha256": "2f07b8bcedf72e11b0d293117b2c09ae12e4cb059dec8dcae6318402c1cec22e",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10038-scores-entry",
+    "title": "首都经济贸易大学：官方录取分来源核查（scores-entry）",
+    "url": "https://zs.cueb.edu.cn/zsxx/lnlqfs/index.htm",
+    "publisher": "首都经济贸易大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:25.222176+00:00",
+    "sha256": "ad7fd326dd32d58bac3023de17202fbe9ef8be188fa2235d1e9a2a84b1fddaa1",
+    "responseSha256": "ad7fd326dd32d58bac3023de17202fbe9ef8be188fa2235d1e9a2a84b1fddaa1",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10047-charter",
+    "title": "中央美术学院：官方录取分来源核查（charter）",
+    "url": "https://www.cafa.edu.cn/st/2026/80233585.htm",
+    "publisher": "中央美术学院",
+    "year": 2026,
+    "publishedAt": "2026-05-29",
+    "accessedAt": "2026-09-20T07:57:37.770746+00:00",
+    "sha256": "6b830fe01a25aba35709d58fecc7f10c590a006158b782bee07f2febfdb244cd",
+    "responseSha256": "6b830fe01a25aba35709d58fecc7f10c590a006158b782bee07f2febfdb244cd",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10047-next",
+    "title": "中央美术学院：官方录取分来源核查（next）",
+    "url": "https://www.cafa.edu.cn/st/2026/80233682.htm",
+    "publisher": "中央美术学院",
+    "year": 2026,
+    "publishedAt": "2026-07-30",
+    "accessedAt": "2026-09-20T07:55:06.830996+00:00",
+    "sha256": "c39f2fb4837c0d2368ea7b023e00022c40c59388c9162d058a6e25c47502e693",
+    "responseSha256": "c39f2fb4837c0d2368ea7b023e00022c40c59388c9162d058a6e25c47502e693",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10047-score-image",
+    "title": "中央美术学院：官方录取分来源核查（score-image）",
+    "url": "https://www.cafa.edu.cn/library/dynamic.images/info/2026730185712228.jpg",
+    "publisher": "中央美术学院",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:37.770509+00:00",
+    "sha256": "57dc6f3405cfbbea438c4963135e93ca51952692fb110907fcaf8ec32f96a0ce",
+    "responseSha256": "57dc6f3405cfbbea438c4963135e93ca51952692fb110907fcaf8ec32f96a0ce",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10047-scores-entry",
+    "title": "中央美术学院：官方录取分来源核查（scores-entry）",
+    "url": "https://www.cafa.edu.cn/sp/zs/?ci=802",
+    "publisher": "中央美术学院",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:06.865473+00:00",
+    "sha256": "769a242b496cc0b5ce6aaf1b9574bd9670995ff33048c819d398db78fbed7881",
+    "responseSha256": "769a242b496cc0b5ce6aaf1b9574bd9670995ff33048c819d398db78fbed7881",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10070-entry",
+    "title": "天津财经大学：官方录取分来源核查（entry）",
+    "url": "https://zhaosheng.tjufe.edu.cn/",
+    "publisher": "天津财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:59.704878+00:00",
+    "sha256": "3f52ea977b73ec150b17ee0b3ed511c3ecd4148ebf22006b7406b815850fcca0",
+    "responseSha256": "3f52ea977b73ec150b17ee0b3ed511c3ecd4148ebf22006b7406b815850fcca0",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10070-scoredata",
+    "title": "天津财经大学：官方录取分来源核查（scoredata）",
+    "url": "https://zhaosheng.tjufe.edu.cn/system/resource/tjcdzsw/getOldYearScores.jsp",
+    "publisher": "天津财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:51.469360+00:00",
+    "sha256": "d7efca4b66fa92615c6f51a728069677b4f8f6b0d9378730ddbc3f30951f877a",
+    "responseSha256": "6329933d489480925f66b29ec7c505091e8ea4e723d4d0a5ec53b519d12e804a",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10070-scores-entry",
+    "title": "天津财经大学：官方录取分来源核查（scores-entry）",
+    "url": "https://zhaosheng.tjufe.edu.cn/cxgn/lnfs.htm",
+    "publisher": "天津财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:05.649842+00:00",
+    "sha256": "e59bc98c648a56ffb061251ff9872ef54c84c72c02b7ccb13cf7d5834877c1b7",
+    "responseSha256": "e59bc98c648a56ffb061251ff9872ef54c84c72c02b7ccb13cf7d5834877c1b7",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10173-entry",
+    "title": "东北财经大学：官方录取分来源核查（entry）",
+    "url": "https://www.dufe.edu.cn/",
+    "publisher": "东北财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:59.916800+00:00",
+    "sha256": "094ad9e92dc19501b9b5ad0e310494740a0f8e38349e4912bc7f411dab2ef84e",
+    "responseSha256": "094ad9e92dc19501b9b5ad0e310494740a0f8e38349e4912bc7f411dab2ef84e",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10173-params",
+    "title": "东北财经大学：官方录取分来源核查（params）",
+    "url": "https://zs.dufe.edu.cn/f/ajax_lnfs_param",
+    "publisher": "东北财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:03:17.474394+00:00",
+    "sha256": "bc9187242e8146c7d6e87146da6f9d92dc19e934f0946b9942dfd5bf83e83fa5",
+    "responseSha256": "6b87e4ce38c33b568d5a1d9f487faf2dec260a279c0cff582825b346f0ae2299",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10173-query",
+    "title": "东北财经大学：官方录取分来源核查（query）",
+    "url": "https://zs.dufe.edu.cn/static/front/dufe/basic/html_web/lnfs.html",
+    "publisher": "东北财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:57.529468+00:00",
+    "sha256": "749c9704fc735688050380dff989dbdbb659d698757a85658000bea58338863d",
+    "responseSha256": "749c9704fc735688050380dff989dbdbb659d698757a85658000bea58338863d",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10173-zs",
+    "title": "东北财经大学：官方录取分来源核查（zs）",
+    "url": "https://zs.dufe.edu.cn/",
+    "publisher": "东北财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:37.770991+00:00",
+    "sha256": "074e50d3f7a1cab58592008c106fcec20808f4f4a80f13876667eaeb44ec2306",
+    "responseSha256": "074e50d3f7a1cab58592008c106fcec20808f4f4a80f13876667eaeb44ec2306",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-charter",
+    "title": "上海海事大学：官方录取分来源核查（charter）",
+    "url": "https://admission.shmtu.edu.cn//2026/0515/c12341a293685/page.htm",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:59:30.130439+00:00",
+    "sha256": "7c36cf76a43757d01745eefbde638e19c52c2fce5d9cddea6a3f624c5585e131",
+    "responseSha256": "7c36cf76a43757d01745eefbde638e19c52c2fce5d9cddea6a3f624c5585e131",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-entry",
+    "title": "上海海事大学：官方录取分来源核查（entry）",
+    "url": "https://www.shmtu.edu.cn/",
+    "publisher": "上海海事大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.311755+00:00",
+    "sha256": "84677cb2fa74ed228b1e532b61204cb53d194382f72cb0ffbf88f36d45ef8dfb",
+    "responseSha256": "84677cb2fa74ed228b1e532b61204cb53d194382f72cb0ffbf88f36d45ef8dfb",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-extra-10",
+    "title": "上海海事大学：官方录取分来源核查（extra-10）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E5%258D%2597%25E7%2596%2586%25E5%258D%2595%25E5%2588%2597&cq73s491=%25E7%2589%25A9%25E7%2590%2586%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:58.927789+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-extra-11",
+    "title": "上海海事大学：官方录取分来源核查（extra-11）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%2596%25B0%25E7%2596%2586%25E5%2586%2585%25E9%25AB%2598%25E7%258F%25AD&cq73s491=%25E7%2589%25A9%25E7%2590%2586%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:58.928045+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-extra-12",
+    "title": "上海海事大学：官方录取分来源核查（extra-12）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%259C%25AC%25E7%25A7%2591%25E4%25B8%2580%25E6%2589%25B9&cq73s491=%25E7%2589%25A9%25E7%2590%2586%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:58.958369+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-extra-13",
+    "title": "上海海事大学：官方录取分来源核查（extra-13）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%259C%25AC%25E7%25A7%2591%25E5%25AE%259A%25E5%2590%2591&cq73s491=%25E5%258E%2586%25E5%258F%25B2%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:59.033030+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-extra-14",
+    "title": "上海海事大学：官方录取分来源核查（extra-14）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E5%258D%2597%25E7%2596%2586%25E5%258D%2595%25E5%2588%2597&cq73s491=%25E5%258E%2586%25E5%258F%25B2%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:59.058995+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-extra-15",
+    "title": "上海海事大学：官方录取分来源核查（extra-15）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%2596%25B0%25E7%2596%2586%25E5%2586%2585%25E9%25AB%2598%25E7%258F%25AD&cq73s491=%25E5%258E%2586%25E5%258F%25B2%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:59.201623+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-extra-16",
+    "title": "上海海事大学：官方录取分来源核查（extra-16）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%259C%25AC%25E7%25A7%2591%25E4%25B8%2580%25E6%2589%25B9&cq73s491=%25E5%258E%2586%25E5%258F%25B2%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:59.282234+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-extra-9",
+    "title": "上海海事大学：官方录取分来源核查（extra-9）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%259C%25AC%25E7%25A7%2591%25E5%25AE%259A%25E5%2590%2591&cq73s491=%25E7%2589%25A9%25E7%2590%2586%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:58.834065+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-query",
+    "title": "上海海事大学：官方录取分来源核查（query）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mongo=false",
+    "publisher": "上海海事大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:08.134780+00:00",
+    "sha256": "7b7b6353396a82064fe332a20297d272876552adf6849a87b89edd572bcff25a",
+    "responseSha256": "7b7b6353396a82064fe332a20297d272876552adf6849a87b89edd572bcff25a",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-result-14",
+    "title": "上海海事大学：官方录取分来源核查（result-14）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%2599%25AE%25E9%2580%259A%25E6%2589%25B9&cq73s491=%25E7%2589%25A9%25E7%2590%2586%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:39.548099+00:00",
+    "sha256": "ca2966a0c053af0bc7aca10d66194050924183a2bc55e46a2bf044f818303033",
+    "responseSha256": "ca2966a0c053af0bc7aca10d66194050924183a2bc55e46a2bf044f818303033",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-result-15",
+    "title": "上海海事大学：官方录取分来源核查（result-15）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%258F%2590%25E5%2589%258D%25E6%2589%25B9&cq73s491=%25E7%2589%25A9%25E7%2590%2586%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:39.559809+00:00",
+    "sha256": "5ab46214f630a23478c77e9a735b912f391ddb1b6beed356edee0f74dac73307",
+    "responseSha256": "5ab46214f630a23478c77e9a735b912f391ddb1b6beed356edee0f74dac73307",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-result-16",
+    "title": "上海海事大学：官方录取分来源核查（result-16）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E5%259B%25BD%25E5%25AE%25B6%25E4%25B8%2593%25E9%25A1%25B9&cq73s491=%25E7%2589%25A9%25E7%2590%2586%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:39.732062+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-result-17",
+    "title": "上海海事大学：官方录取分来源核查（result-17）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%25B0%2591%25E6%2597%258F%25E7%258F%25AD&cq73s491=%25E7%2589%25A9%25E7%2590%2586%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:40.130827+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-result-18",
+    "title": "上海海事大学：官方录取分来源核查（result-18）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%2599%25AE%25E9%2580%259A%25E6%2589%25B9&cq73s491=%25E5%258E%2586%25E5%258F%25B2%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:40.615874+00:00",
+    "sha256": "a94b9c11b996006459cd18d1e160a593fa6ec924b2aed0f0cc5038bb0ef7c30c",
+    "responseSha256": "a94b9c11b996006459cd18d1e160a593fa6ec924b2aed0f0cc5038bb0ef7c30c",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-result-19",
+    "title": "上海海事大学：官方录取分来源核查（result-19）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%258F%2590%25E5%2589%258D%25E6%2589%25B9&cq73s491=%25E5%258E%2586%25E5%258F%25B2%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:40.778398+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-result-20",
+    "title": "上海海事大学：官方录取分来源核查（result-20）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E5%259B%25BD%25E5%25AE%25B6%25E4%25B8%2593%25E9%25A1%25B9&cq73s491=%25E5%258E%2586%25E5%258F%25B2%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:40.828136+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-result-21",
+    "title": "上海海事大学：官方录取分来源核查（result-21）",
+    "url": "https://admission.shmtu.edu.cn/_web/_apps/commonquery/commonquery/api/commonqueryCacheResult/73.rst?_p=YXM9MTM4JnQ9NDQ1JnA9MSZtPU4m&mobileTemplate=false&cq73s487=2026&cq73s488=%25E5%25B9%25BF%25E8%25A5%25BF&cq73s490=%25E6%25B0%2591%25E6%2597%258F%25E7%258F%25AD&cq73s491=%25E5%258E%2586%25E5%258F%25B2%25E7%25B1%25BB",
+    "publisher": "上海海事大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:40.932689+00:00",
+    "sha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "responseSha256": "dfa50d3597843616a8d5c47c22a9da4b6a61dec7e37e2d50ab002fdb49c17993",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10254-scores-entry",
+    "title": "上海海事大学：官方录取分来源核查（scores-entry）",
+    "url": "https://admission.shmtu.edu.cn/zsfs/list.htm",
+    "publisher": "上海海事大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:25.222403+00:00",
+    "sha256": "a245e97a92ee588a946f387bd197aefccce202638a4f18585b6aea439ada5abd",
+    "responseSha256": "a245e97a92ee588a946f387bd197aefccce202638a4f18585b6aea439ada5abd",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10264-entry",
+    "title": "上海海洋大学：官方录取分来源核查（entry）",
+    "url": "https://www.shou.edu.cn/",
+    "publisher": "上海海洋大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.687521+00:00",
+    "sha256": "8ab998ce71304149b86a361790e7316e7ffa0d0f68e8968d8c8dac91f51c4f64",
+    "responseSha256": "8ab998ce71304149b86a361790e7316e7ffa0d0f68e8968d8c8dac91f51c4f64",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10264-scores-entry",
+    "title": "上海海洋大学：官方录取分来源核查（scores-entry）",
+    "url": "https://zsjy.shou.edu.cn/13794/list.htm",
+    "publisher": "上海海洋大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:25.222524+00:00",
+    "sha256": "9d6330e77cffdf2dc397ba9f4b11e88d51361399713e603123f632dabbf2f5ae",
+    "responseSha256": "9d6330e77cffdf2dc397ba9f4b11e88d51361399713e603123f632dabbf2f5ae",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10273-entry",
+    "title": "上海对外经贸大学：官方录取分来源核查（entry）",
+    "url": "https://www.suibe.edu.cn/",
+    "publisher": "上海对外经贸大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:59.924609+00:00",
+    "sha256": "e83a3676e778977581342e812b57ac45a18e772eb4cfb9ee8fc9064d1b2568d9",
+    "responseSha256": "e83a3676e778977581342e812b57ac45a18e772eb4cfb9ee8fc9064d1b2568d9",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10273-query",
+    "title": "上海对外经贸大学：官方录取分来源核查（query）",
+    "url": "https://zhaosheng.suibe.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/33.rst?_p=YXM9NDMmdD0xMzMyJnA9MSZtPU4m&mongo=false",
+    "publisher": "上海对外经贸大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:08.147177+00:00",
+    "sha256": "2ca81ce9c52a8ea0028479edc737cdf7e4943b21a926023f1e9139451eee7d6a",
+    "responseSha256": "2ca81ce9c52a8ea0028479edc737cdf7e4943b21a926023f1e9139451eee7d6a",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10273-scores-entry",
+    "title": "上海对外经贸大学：官方录取分来源核查（scores-entry）",
+    "url": "https://zhaosheng.suibe.edu.cn/20856/list.htm",
+    "publisher": "上海对外经贸大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:25.222610+00:00",
+    "sha256": "f76f1fbd6438e43ee17485f157bd5f56805b79248d987dcd92493df8a39ed6e2",
+    "responseSha256": "f76f1fbd6438e43ee17485f157bd5f56805b79248d987dcd92493df8a39ed6e2",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10277-entry",
+    "title": "上海体育大学：官方录取分来源核查（entry）",
+    "url": "https://www.sus.edu.cn/",
+    "publisher": "上海体育大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.780538+00:00",
+    "sha256": "11896f63c960a557c430c66b30ae2c320eab8c6798255bd1a5409f81ff1a2a9b",
+    "responseSha256": "11896f63c960a557c430c66b30ae2c320eab8c6798255bd1a5409f81ff1a2a9b",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10277-query2",
+    "title": "上海体育大学：官方录取分来源核查（query2）",
+    "url": "https://bkzs.sus.edu.cn/lnfs.htm",
+    "publisher": "上海体育大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:50.218800+00:00",
+    "sha256": "f0a0e048e344ccd20a478841e6a5cbf1fa47e0a4112517570dfa16500f5fcf9d",
+    "responseSha256": "f0a0e048e344ccd20a478841e6a5cbf1fa47e0a4112517570dfa16500f5fcf9d",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10298-entry",
+    "title": "南京林业大学：官方录取分来源核查（entry）",
+    "url": "https://www.njfu.edu.cn/",
+    "publisher": "南京林业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.317367+00:00",
+    "sha256": "cfa71ae4f491ff3a9f84176002362f500b8da92672532a6f902309f9332e063e",
+    "responseSha256": "cfa71ae4f491ff3a9f84176002362f500b8da92672532a6f902309f9332e063e",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10298-scores-entry",
+    "title": "南京林业大学：官方录取分来源核查（scores-entry）",
+    "url": "https://lqcx.njfu.edu.cn/page/data.html",
+    "publisher": "南京林业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:25.222696+00:00",
+    "sha256": "b4043413af5c24848d9efe63c123ff154ea3d845daf8e7dfbc2674d5f0626108",
+    "responseSha256": "b4043413af5c24848d9efe63c123ff154ea3d845daf8e7dfbc2674d5f0626108",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10307-entry",
+    "title": "南京农业大学：官方录取分来源核查（entry）",
+    "url": "https://zsxx.njau.edu.cn/",
+    "publisher": "南京农业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:58.498247+00:00",
+    "sha256": "e7228059e234387faf560e56bf071c6f2b2de23e7770ab3c2bd40498080d68eb",
+    "responseSha256": "e7228059e234387faf560e56bf071c6f2b2de23e7770ab3c2bd40498080d68eb",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10307-params-session",
+    "title": "南京农业大学：官方录取分来源核查（params-session）",
+    "url": "https://njauzsb.njau.edu.cn/f/ajax_lnfs_param",
+    "publisher": "南京农业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:01:19.427250+00:00",
+    "sha256": "f9b6d3a5d3930220ac7b48adf0565f22e5bbc9fd6d822eb88b6f38eae472a99d",
+    "responseSha256": "5d2e1e0f2dad4660b6cae8986d15dfdd31d1e7b8455b450ce9b15a771c7c89f9",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10307-scores-entry",
+    "title": "南京农业大学：官方录取分来源核查（scores-entry）",
+    "url": "https://njauzsb.njau.edu.cn/zsw/lnfs.html",
+    "publisher": "南京农业大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:05.649663+00:00",
+    "sha256": "55e80d288e6a60b037b5eb7f11944d92108aed3dcf28de8d100fa717a1df3d3e",
+    "responseSha256": "55e80d288e6a60b037b5eb7f11944d92108aed3dcf28de8d100fa717a1df3d3e",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10327-entry",
+    "title": "南京财经大学：官方录取分来源核查（entry）",
+    "url": "https://www.nufe.edu.cn/",
+    "publisher": "南京财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.600298+00:00",
+    "sha256": "a3e6c7bcebde12cfbbc73bb019f39f476f789e03ec8580ece2dbfcd58cce8750",
+    "responseSha256": "a3e6c7bcebde12cfbbc73bb019f39f476f789e03ec8580ece2dbfcd58cce8750",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10327-next",
+    "title": "南京财经大学：官方录取分来源核查（next）",
+    "url": "http://bkzs.nufe.edu.cn/ldcx.jsp?urltype=tree.TreeTempUrl&wbtreeid=1023",
+    "publisher": "南京财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:08.134463+00:00",
+    "sha256": "c567055096dbdbec656b2a763bb62456b2239a3bf6268233e801b6aa0af02c73",
+    "responseSha256": "c567055096dbdbec656b2a763bb62456b2239a3bf6268233e801b6aa0af02c73",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10327-scores-entry",
+    "title": "南京财经大学：官方录取分来源核查（scores-entry）",
+    "url": "http://bkzs.nufe.edu.cn/zsxx/lnlqfs.htm",
+    "publisher": "南京财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:25.222810+00:00",
+    "sha256": "e18d7c44e4b82ec379e95a985c5c6d907c6a112cc4fc059c623be1b1d4f683e3",
+    "responseSha256": "e18d7c44e4b82ec379e95a985c5c6d907c6a112cc4fc059c623be1b1d4f683e3",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10353-charter",
+    "title": "浙江工商大学：官方录取分来源核查（charter）",
+    "url": "https://zhaoban.zjgsu.edu.cn/?news/315.html",
+    "publisher": "浙江工商大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:57.529566+00:00",
+    "sha256": "31edd98b142b3a5f0bddf1cfacee8432b5182c39d064b6446ca0fd3525bf265a",
+    "responseSha256": "31edd98b142b3a5f0bddf1cfacee8432b5182c39d064b6446ca0fd3525bf265a",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10353-charter-pdf",
+    "title": "浙江工商大学：官方录取分来源核查（charter-pdf）",
+    "url": "https://zhaoban.zjgsu.edu.cn/_upload/zjsu_3080009/202605/79eda9a4a41c0013.pdf",
+    "publisher": "浙江工商大学",
+    "year": 2026,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:03:17.474095+00:00",
+    "sha256": "66688c4bfe2fd694f81547a7a8f0f629b33513fcf9ee4efcb46f1f036958ba47",
+    "responseSha256": "66688c4bfe2fd694f81547a7a8f0f629b33513fcf9ee4efcb46f1f036958ba47",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10353-data",
+    "title": "浙江工商大学：官方录取分来源核查（data）",
+    "url": "https://zhaoban.zjgsu.edu.cn/_api/zsfs/",
+    "publisher": "浙江工商大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:58:45.309046+00:00",
+    "sha256": "77acaa253b0399a4790609fc7e6cb5497f68876b488180d2688af70500d57642",
+    "responseSha256": "719cd1a32aaa96e8e62706029e0964835d49691d2b738e7a6e13bb842f5b033d",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10353-next",
+    "title": "浙江工商大学：官方录取分来源核查（next）",
+    "url": "https://zhaoban.zjgsu.edu.cn/",
+    "publisher": "浙江工商大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:06.830908+00:00",
+    "sha256": "db44d20209f106a34cb836cd0ae5bf11022fe3157c9ac59f1f485d5f3adfd650",
+    "responseSha256": "db44d20209f106a34cb836cd0ae5bf11022fe3157c9ac59f1f485d5f3adfd650",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10353-query2",
+    "title": "浙江工商大学：官方录取分来源核查（query2）",
+    "url": "https://zhaoban.zjgsu.edu.cn/?lnfs.html",
+    "publisher": "浙江工商大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:50.218922+00:00",
+    "sha256": "acb03f18dc6550efafa17bbfcd7e70282c1074c7efdcece9a24f8fcc70ce481b",
+    "responseSha256": "acb03f18dc6550efafa17bbfcd7e70282c1074c7efdcece9a24f8fcc70ce481b",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10421-admissions",
+    "title": "江西财经大学：官方录取分来源核查（admissions）",
+    "url": "https://zsjy.jxufe.edu.cn/",
+    "publisher": "江西财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:43.414614+00:00",
+    "sha256": "d55306a05248695bb9de988f9f985475ba78e8cfb1a6bb1e14db8c66d035f065",
+    "responseSha256": "d55306a05248695bb9de988f9f985475ba78e8cfb1a6bb1e14db8c66d035f065",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10421-config",
+    "title": "江西财经大学：官方录取分来源核查（config）",
+    "url": "https://zsjy.jxufe.edu.cn/ipcofig.js",
+    "publisher": "江西财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:59:30.129704+00:00",
+    "sha256": "d1b9a03c2d07aa62a10634bb6c5de3798b4e519cc3d489157cdf4ad6091a0d9b",
+    "responseSha256": "d1b9a03c2d07aa62a10634bb6c5de3798b4e519cc3d489157cdf4ad6091a0d9b",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10421-entry",
+    "title": "江西财经大学：官方录取分来源核查（entry）",
+    "url": "https://www.jxufe.edu.cn/",
+    "publisher": "江西财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:59.812601+00:00",
+    "sha256": "d261847e1024dc4490ef7e9330fd42beed12962965d6f88cd42dbbc822a344b1",
+    "responseSha256": "d261847e1024dc4490ef7e9330fd42beed12962965d6f88cd42dbbc822a344b1",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10421-score-config",
+    "title": "江西财经大学：官方录取分来源核查（score-config）",
+    "url": "https://job-web-api.jobpi.cn/enroll/config/v2/2658?sch_school_id=30285",
+    "publisher": "江西财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:09:54.250660+00:00",
+    "sha256": "1adea140350be1c647e3136a06c0d8a1d98c71d06ec778897ac4dcd46f44e08f",
+    "responseSha256": "e6e1f12882e583e7a667278aadefcb74ae9134514c4a84ddc6bcdec19e40318c",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10421-site-config",
+    "title": "江西财经大学：官方录取分来源核查（site-config）",
+    "url": "https://study-cdn.jobpi.cn/index.php?m=webInternshipApi_portal&t=index&c=getWebConfig&sch_school_id=30285&userRandomId=",
+    "publisher": "江西财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:57.528775+00:00",
+    "sha256": "805e625f58d5e61aabdc53f06cb7f3d9d1e1bd85d53a3ba5196c9a82155efe8c",
+    "responseSha256": "b8214fcd5da6554339f1941b5776ace68fe97b7e04d3d70c3a9ae7e6865b92e2",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10421-site-detail",
+    "title": "江西财经大学：官方录取分来源核查（site-detail）",
+    "url": "https://study-cdn.jobpi.cn/index.php?m=customApi_user&t=customPage&c=detail&id=5181&tpl_type=3&sch_school_id=30285&userRandomId=",
+    "publisher": "江西财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:03:17.474523+00:00",
+    "sha256": "205eb643526cfc70227bad2303bfee276e0b62b7738d20067675c1ff0c4d39f9",
+    "responseSha256": "3433e107a93b465496043fadcb3bf228a5596cb870f2854fb350f223adec7165",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10475-admissions",
+    "title": "河南大学：官方录取分来源核查（admissions）",
+    "url": "https://zs.henu.edu.cn/",
+    "publisher": "河南大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:44.902044+00:00",
+    "sha256": "24ac431e6b7818c8c22c40f4a1402a652c9b8b6afb7930d9f0a149718c82cd2c",
+    "responseSha256": "24ac431e6b7818c8c22c40f4a1402a652c9b8b6afb7930d9f0a149718c82cd2c",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10475-entry",
+    "title": "河南大学：官方录取分来源核查（entry）",
+    "url": "https://www.henu.edu.cn/",
+    "publisher": "河南大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:01.026025+00:00",
+    "sha256": "5574ddeb2bfd9976013481ec728bf2bf6059c9d6c71c6651e8bfd61c44037494",
+    "responseSha256": "5574ddeb2bfd9976013481ec728bf2bf6059c9d6c71c6651e8bfd61c44037494",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10475-scores-entry",
+    "title": "河南大学：官方录取分来源核查（scores-entry）",
+    "url": "https://zs.henu.edu.cn/info/1035/9293.htm",
+    "publisher": "河南大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:25.222917+00:00",
+    "sha256": "0abf604e335aeb75c3fa96d7b3d8f481eb2e94775552b269b36e0628e97cc728",
+    "responseSha256": "0abf604e335aeb75c3fa96d7b3d8f481eb2e94775552b269b36e0628e97cc728",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10484-admit2",
+    "title": "河南财经政法大学：官方录取分来源核查（admit2）",
+    "url": "https://zs.huel.edu.cn/",
+    "publisher": "河南财经政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:51.446758+00:00",
+    "sha256": "8ecb184e2d2353a438dfe3aeaaa7487d3d20d9df79eee48c59f50e8c2078ff0f",
+    "responseSha256": "7893fb516910e82f1f1d94fdd9acf7156a01b45cba049b669f9b57e9f4f0cdb3",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10484-entry",
+    "title": "河南财经政法大学：官方录取分来源核查（entry）",
+    "url": "https://www.huel.edu.cn/",
+    "publisher": "河南财经政法大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:59.853769+00:00",
+    "sha256": "218f241ce479f447c8ab4c41b92d129eb2a03503160e29d0c74b697804edbc3f",
+    "responseSha256": "218f241ce479f447c8ab4c41b92d129eb2a03503160e29d0c74b697804edbc3f",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10512-entry",
+    "title": "湖北大学：官方录取分来源核查（entry）",
+    "url": "https://www.hubu.edu.cn/",
+    "publisher": "湖北大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.850740+00:00",
+    "sha256": "8b127fe1be8b8877acf70ce81ca37d0b676ccdc91406c3818cecaa5830e2133f",
+    "responseSha256": "8b127fe1be8b8877acf70ce81ca37d0b676ccdc91406c3818cecaa5830e2133f",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10512-next",
+    "title": "湖北大学：官方录取分来源核查（next）",
+    "url": "https://zsxx.hubu.edu.cn/fzylqfs.htm",
+    "publisher": "湖北大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:08.112961+00:00",
+    "sha256": "c063142b544ba0e39e04b20230c95b7a6f5e05bece2d18104cacb64521a491e9",
+    "responseSha256": "c063142b544ba0e39e04b20230c95b7a6f5e05bece2d18104cacb64521a491e9",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10512-scores-entry",
+    "title": "湖北大学：官方录取分来源核查（scores-entry）",
+    "url": "http://zsxx.hubu.edu.cn/zsxx/lnfs.htm",
+    "publisher": "湖北大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:26.400676+00:00",
+    "sha256": "44fae9f2421274af5f0a5d028d53ddf189cfb483dbc7267f80f203e5ab525a3f",
+    "responseSha256": "44fae9f2421274af5f0a5d028d53ddf189cfb483dbc7267f80f203e5ab525a3f",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10524-data",
+    "title": "中南民族大学：官方录取分来源核查（data）",
+    "url": "https://wfw.scuec.edu.cn/wxwork/2020/07/04/get_profession",
+    "publisher": "中南民族大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:58:45.308917+00:00",
+    "sha256": "b5984ca28242cdf0e443863eac45a57147d8e71e887127773155e8c85aebac10",
+    "responseSha256": "fdbe25494254e15e53b0ec423635158bdc37a4171a0f2accdfb17ac9beedbca2",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10524-entry",
+    "title": "中南民族大学：官方录取分来源核查（entry）",
+    "url": "https://zsb.scuec.edu.cn/",
+    "publisher": "中南民族大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:58.497572+00:00",
+    "sha256": "1bd364a93053fb86b323c013b4ac31c6303ac35a0b4a122862dcf569532b84af",
+    "responseSha256": "1bd364a93053fb86b323c013b4ac31c6303ac35a0b4a122862dcf569532b84af",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10524-query",
+    "title": "中南民族大学：官方录取分来源核查（query）",
+    "url": "https://wfw.scuec.edu.cn/wxwork/2020/07/04?type=profession",
+    "publisher": "中南民族大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:51.454292+00:00",
+    "sha256": "3462cbfc2e04525c7f66e91cfccf244ffc1d5fe35d4a96b4dc81a6e6158d1479",
+    "responseSha256": "3462cbfc2e04525c7f66e91cfccf244ffc1d5fe35d4a96b4dc81a6e6158d1479",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10524-scores-entry",
+    "title": "中南民族大学：官方录取分来源核查（scores-entry）",
+    "url": "https://zsb.scuec.edu.cn/info/1031/1714.htm",
+    "publisher": "中南民族大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:05.649177+00:00",
+    "sha256": "cce595d26cda5d1b0e256df23a4b30c657c8c72f3c6a3eb6ec43bccf916fd618",
+    "responseSha256": "cce595d26cda5d1b0e256df23a4b30c657c8c72f3c6a3eb6ec43bccf916fd618",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10530-entry",
+    "title": "湘潭大学：官方录取分来源核查（entry）",
+    "url": "https://bkzs.xtu.edu.cn/",
+    "publisher": "湘潭大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:58.498144+00:00",
+    "sha256": "a66e0986cd66c59f084bbb2d96569220513837616161dd355a179e11365d72c0",
+    "responseSha256": "a66e0986cd66c59f084bbb2d96569220513837616161dd355a179e11365d72c0",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10530-next",
+    "title": "湘潭大学：官方录取分来源核查（next）",
+    "url": "https://zs.xtu.edu.cn/fsx",
+    "publisher": "湘潭大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:08.083639+00:00",
+    "sha256": "a9f37a56db453953b885c67c7bb9d6f844de0274ae4f191e913e816bbfe66cb7",
+    "responseSha256": "a9f37a56db453953b885c67c7bb9d6f844de0274ae4f191e913e816bbfe66cb7",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10530-scores-entry",
+    "title": "湘潭大学：官方录取分来源核查（scores-entry）",
+    "url": "https://bkzs.xtu.edu.cn/index.php/index/category/index?id=4",
+    "publisher": "湘潭大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:05.649547+00:00",
+    "sha256": "efcd11588b7e62c39ce0838de6f4dada191f2ef6272d76dda1b5957fd0621677",
+    "responseSha256": "efcd11588b7e62c39ce0838de6f4dada191f2ef6272d76dda1b5957fd0621677",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10541-app",
+    "title": "湖南中医药大学：官方录取分来源核查（app）",
+    "url": "https://zsdata.hnucm.edu.cn/zsdata/lqxx/js/app.2d4972f1.js",
+    "publisher": "湖南中医药大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:08.327859+00:00",
+    "sha256": "ecd8a54168df5b2eee97c6e5141319f41f260684a32567a194218a00906a888b",
+    "responseSha256": "ecd8a54168df5b2eee97c6e5141319f41f260684a32567a194218a00906a888b",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10541-entry",
+    "title": "湖南中医药大学：官方录取分来源核查（entry）",
+    "url": "https://www.hnucm.edu.cn/",
+    "publisher": "湖南中医药大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:01.038352+00:00",
+    "sha256": "8cc4b1f28f9d3b24bc4ef3885488c026ee814f53f7cc73d9430d0d9c50193674",
+    "responseSha256": "8cc4b1f28f9d3b24bc4ef3885488c026ee814f53f7cc73d9430d0d9c50193674",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10541-scores-entry",
+    "title": "湖南中医药大学：官方录取分来源核查（scores-entry）",
+    "url": "https://zsdata.hnucm.edu.cn/zsdata/lqxx/#/lnfs",
+    "publisher": "湖南中医药大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:26.460319+00:00",
+    "sha256": "05158bd81a2da9f7346acbf7e400e04d0a1dc525a208e19cfcd4cbada8ba8680",
+    "responseSha256": "05158bd81a2da9f7346acbf7e400e04d0a1dc525a208e19cfcd4cbada8ba8680",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10541-types",
+    "title": "湖南中医药大学：官方录取分来源核查（types）",
+    "url": "https://zsdata.hnucm.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "publisher": "湖南中医药大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:39.213708+00:00",
+    "sha256": "03fdaff8b0873685dd105e0a5d1580f7c1133c03b2801dd61d102e5b6628694d",
+    "responseSha256": "add8fe0134b2a68b55409ca2118c5935f363e8196d3ed6d13b473fc34591bc82",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10541-types2",
+    "title": "湖南中医药大学：官方录取分来源核查（types2）",
+    "url": "https://zsdata.hnucm.edu.cn/lqxx/s/api/front/lqxx2/getType",
+    "publisher": "湖南中医药大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:57.529248+00:00",
+    "sha256": "bf9e536d73613b32fc684d4e2471132cce005429e50dec1f1cc776392f96ad2f",
+    "responseSha256": "35de1efc20030eef91c504b69f35f3e83f2bb15c5019b102cbdf623eba2e2024",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10592-entry",
+    "title": "广东财经大学：官方录取分来源核查（entry）",
+    "url": "https://zkc.gdufe.edu.cn/",
+    "publisher": "广东财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:58.498336+00:00",
+    "sha256": "47c12948767ddff68efb86b61ce61a19722c1242253c56ae7c4d132741e661d8",
+    "responseSha256": "47c12948767ddff68efb86b61ce61a19722c1242253c56ae7c4d132741e661d8",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10592-scores-entry",
+    "title": "广东财经大学：官方录取分来源核查（scores-entry）",
+    "url": "https://zsb.gdufe.edu.cn/11400/list.htm",
+    "publisher": "广东财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:05.649755+00:00",
+    "sha256": "8f1af1ca2a80d2ff3455f97656d31bdcdc9d43963fe5fd0008e6d1c9dead895d",
+    "responseSha256": "8f1af1ca2a80d2ff3455f97656d31bdcdc9d43963fe5fd0008e6d1c9dead895d",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10650-current",
+    "title": "四川外国语大学：官方录取分来源核查（current）",
+    "url": "https://zs.sisu.edu.cn/f/newsCenter/article/485d1567cc48439cb3c2f732a632b895",
+    "publisher": "四川外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:58:45.309271+00:00",
+    "sha256": "eec913554ae4d8cb90236910a7addd6edb512275d4829d036dd259056e492544",
+    "responseSha256": "eec913554ae4d8cb90236910a7addd6edb512275d4829d036dd259056e492544",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10650-entry",
+    "title": "四川外国语大学：官方录取分来源核查（entry）",
+    "url": "https://www.sisu.edu.cn/",
+    "publisher": "四川外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.611532+00:00",
+    "sha256": "4c4c64140b7251c04d45fda215110ca541da4129f3b7fb78e7c59ec3d7d1cae7",
+    "responseSha256": "4c4c64140b7251c04d45fda215110ca541da4129f3b7fb78e7c59ec3d7d1cae7",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10650-params-session",
+    "title": "四川外国语大学：官方录取分来源核查（params-session）",
+    "url": "https://zs.sisu.edu.cn/f/ajax_lnfs_param",
+    "publisher": "四川外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:01:23.629899+00:00",
+    "sha256": "09fc041e4ec04a9fc36cd737a54583fe4fcae05b5baca25d6ee889736eea6c12",
+    "responseSha256": "112a72f3ea97a615b0fa4cf3d193e64447c16746fdedfb7f8c6f502614b9822e",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10650-query",
+    "title": "四川外国语大学：官方录取分来源核查（query）",
+    "url": "https://zs.sisu.edu.cn/static/front/sisu/basic/html_web/lnfs.html",
+    "publisher": "四川外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:58:45.309136+00:00",
+    "sha256": "3038c2370561daf994dda7c5809f47dff5ea5287e34feaeb9c5cb9419858c48b",
+    "responseSha256": "3038c2370561daf994dda7c5809f47dff5ea5287e34feaeb9c5cb9419858c48b",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10650-zs",
+    "title": "四川外国语大学：官方录取分来源核查（zs）",
+    "url": "https://zs.sisu.edu.cn/",
+    "publisher": "四川外国语大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:37.771083+00:00",
+    "sha256": "dac722ce0d92a1c78fdb3c36feeb61dabe660c5035e83d623ffdfa71141dd284",
+    "responseSha256": "dac722ce0d92a1c78fdb3c36feeb61dabe660c5035e83d623ffdfa71141dd284",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10656-admit",
+    "title": "西南民族大学：官方录取分来源核查（admit）",
+    "url": "https://zs.swun.edu.cn/",
+    "publisher": "西南民族大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:50.219024+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "httpStatus": 412,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-10656-entry",
+    "title": "西南民族大学：官方录取分来源核查（entry）",
+    "url": "https://www.swun.edu.cn/",
+    "publisher": "西南民族大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.318082+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "httpStatus": 412,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11079-app",
+    "title": "成都大学：官方录取分来源核查（app）",
+    "url": "https://zhaosheng.cdu.edu.cn/zsdata/js/app.d8b5451a.js",
+    "publisher": "成都大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:39.286002+00:00",
+    "sha256": "7e5a8f29878f2119901a4a5d876f98996dda72afda11606f38737b555a6606fe",
+    "responseSha256": "7e5a8f29878f2119901a4a5d876f98996dda72afda11606f38737b555a6606fe",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11079-entry",
+    "title": "成都大学：官方录取分来源核查（entry）",
+    "url": "https://www.cdu.edu.cn/",
+    "publisher": "成都大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.658391+00:00",
+    "sha256": "de13bb4bd368d48b4d93f4a7db895bd7c4b5b87ddbaa262271661679b1ca06a3",
+    "responseSha256": "de13bb4bd368d48b4d93f4a7db895bd7c4b5b87ddbaa262271661679b1ca06a3",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11079-query2",
+    "title": "成都大学：官方录取分来源核查（query2）",
+    "url": "https://zhaosheng.cdu.edu.cn/zsdata/lnfs",
+    "publisher": "成都大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:50.218695+00:00",
+    "sha256": "8114ec8175da1148c7946f8e152dc24619a3858485a368f31459f48a6e3f8bff",
+    "responseSha256": "8114ec8175da1148c7946f8e152dc24619a3858485a368f31459f48a6e3f8bff",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11079-types",
+    "title": "成都大学：官方录取分来源核查（types）",
+    "url": "https://zhaosheng.cdu.edu.cn/zsdata/api/lqxx/s/api/front/lqxx/getType",
+    "publisher": "成都大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:59:30.130306+00:00",
+    "sha256": "45224017484fb26c7c3e2d0988ed8ae7010c8403300cfaad70257fd326c3b979",
+    "responseSha256": "33ea09b135b4edd4f15ba8e27d8222075a50e878823c2c501e1de100add7b40b",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11079-types2",
+    "title": "成都大学：官方录取分来源核查（types2）",
+    "url": "https://zhaosheng.cdu.edu.cn/zsdata/api/lqxx/s/api/front/lqxx2/getType",
+    "publisher": "成都大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:57.529342+00:00",
+    "sha256": "52de04c5b8c308e36137334457c56964fb3620b6241c9d1ff78ca3e4cc18d9e5",
+    "responseSha256": "8bd0c96e8aa1c879cd64e5e72e99197146546e377ded2ffe7f95579eac701311",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11287-admissions",
+    "title": "南京审计大学：官方录取分来源核查（admissions）",
+    "url": "https://zs.nau.edu.cn:443/",
+    "publisher": "南京审计大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:44.670517+00:00",
+    "sha256": "a7ddee43d6649831f9a99634a0f87ba58e1cbbebb05d4a96ed0e8337a474aaf2",
+    "responseSha256": "a7ddee43d6649831f9a99634a0f87ba58e1cbbebb05d4a96ed0e8337a474aaf2",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11287-config",
+    "title": "南京审计大学：官方录取分来源核查（config）",
+    "url": "https://zs.nau.edu.cn:443/ipcofig.js",
+    "publisher": "南京审计大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:59:30.129983+00:00",
+    "sha256": "edb3b23e1ebde4cebece9a42001b3579649df7b7e4f1e8c9809e306ea861d76a",
+    "responseSha256": "edb3b23e1ebde4cebece9a42001b3579649df7b7e4f1e8c9809e306ea861d76a",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11287-entry",
+    "title": "南京审计大学：官方录取分来源核查（entry）",
+    "url": "https://www.nau.edu.cn/",
+    "publisher": "南京审计大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.487296+00:00",
+    "sha256": "21b4dcaca907e29520bb719cdbef5d6f6fb46fcabb2ceaa921a4e6e83e026311",
+    "responseSha256": "21b4dcaca907e29520bb719cdbef5d6f6fb46fcabb2ceaa921a4e6e83e026311",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11287-score-config",
+    "title": "南京审计大学：官方录取分来源核查（score-config）",
+    "url": "https://job-web-api.jobpi.cn/enroll/config/v2/1149?sch_school_id=19024",
+    "publisher": "南京审计大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:09:54.250884+00:00",
+    "sha256": "5d22202930473929f076be6efa11effb6a8bce3b4151ba141174c70fca2ab138",
+    "responseSha256": "d3a588a2ba53bff1b203fb6d8e6efd1ae46673fa35095c059754bd4af956fe21",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11287-site-config",
+    "title": "南京审计大学：官方录取分来源核查（site-config）",
+    "url": "https://study.jobpi.cn/index.php?m=webInternshipApi_portal&t=index&c=getWebConfig&sch_school_id=19024&userRandomId=",
+    "publisher": "南京审计大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:57.529029+00:00",
+    "sha256": "0e3ff245c290cc1ed3beb17d3745f2e7ba8ca4a8e86bb57c80fffb1141e66fed",
+    "responseSha256": "ea796bde5658059a6edaa15f282b985e8c4cb168631739968769331c7965c4a4",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11287-site-detail",
+    "title": "南京审计大学：官方录取分来源核查（site-detail）",
+    "url": "https://study.jobpi.cn/index.php?m=customApi_user&t=customPage&c=detail&id=9225&tpl_type=3&sch_school_id=19024&userRandomId=",
+    "publisher": "南京审计大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:03:17.474629+00:00",
+    "sha256": "0ed605d998befd7e6dd9b18cf85af82973f81c793f5c05681530bfa9135b7f91",
+    "responseSha256": "51f70595def912bafbb8a9646bd5d3ab89bce658dc2aedf8d6494adde0264736",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11482-entry",
+    "title": "浙江财经大学：官方录取分来源核查（entry）",
+    "url": "https://www.zufe.edu.cn/",
+    "publisher": "浙江财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.328106+00:00",
+    "sha256": "2e64b6d56b690920be79f113c36ba27abbea2e432a1478ae0ce9df183d312895",
+    "responseSha256": "2e64b6d56b690920be79f113c36ba27abbea2e432a1478ae0ce9df183d312895",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11482-scores-entry",
+    "title": "浙江财经大学：官方录取分来源核查（scores-entry）",
+    "url": "https://zs.zufe.edu.cn/zsxx/lnfs.htm",
+    "publisher": "浙江财经大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:26.468807+00:00",
+    "sha256": "1ae51d9b1f95941094034a0b62c0daf701cf95311d94dffafdf6391e50115817",
+    "responseSha256": "1ae51d9b1f95941094034a0b62c0daf701cf95311d94dffafdf6391e50115817",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11646-admissions",
+    "title": "宁波大学：官方录取分来源核查（admissions）",
+    "url": "https://zsb.nbu.edu.cn/",
+    "publisher": "宁波大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:43.415016+00:00",
+    "sha256": "066bb7b336291e89344941047313585aa439bdb90b17dab085414c178b0e2024",
+    "responseSha256": "066bb7b336291e89344941047313585aa439bdb90b17dab085414c178b0e2024",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11646-entry",
+    "title": "宁波大学：官方录取分来源核查（entry）",
+    "url": "https://www.nbu.edu.cn/",
+    "publisher": "宁波大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:53:00.113749+00:00",
+    "sha256": "7b762e74141143844c488a5e03131a157d2d14af212e195e98c81fd09a978232",
+    "responseSha256": "7b762e74141143844c488a5e03131a157d2d14af212e195e98c81fd09a978232",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11646-fields",
+    "title": "宁波大学：官方录取分来源核查（fields）",
+    "url": "https://zsb.nbu.edu.cn/aop_component//webber/formquery/query/front/items/get",
+    "publisher": "宁波大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:58.780480+00:00",
+    "sha256": null,
+    "responseSha256": null,
+    "httpStatus": 401,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11646-query",
+    "title": "宁波大学：官方录取分来源核查（query）",
+    "url": "https://zsb.nbu.edu.cn/lnqk.htm",
+    "publisher": "宁波大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:37.771200+00:00",
+    "sha256": "9e452ccc8d8ccbd100df565ade1cb3bf8ea6fe38c39ee62dda7ab174bfafbb3e",
+    "responseSha256": "9e452ccc8d8ccbd100df565ade1cb3bf8ea6fe38c39ee62dda7ab174bfafbb3e",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11835-entry",
+    "title": "上海政法学院：官方录取分来源核查（entry）",
+    "url": "https://zs.shupl.edu.cn/",
+    "publisher": "上海政法学院",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:59.750228+00:00",
+    "sha256": "e85e014b80c162b7c1418a1e3ff399eba83dc7e5e0e18b8dcef54652c75652bc",
+    "responseSha256": "e85e014b80c162b7c1418a1e3ff399eba83dc7e5e0e18b8dcef54652c75652bc",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11835-query",
+    "title": "上海政法学院：官方录取分来源核查（query）",
+    "url": "https://zs.shupl.edu.cn/Pages/List.aspx?MenuId=5c221be0-5686-4c82-9b03-dac11de76bb5",
+    "publisher": "上海政法学院",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:08.160744+00:00",
+    "sha256": "57f7ad4c47aa5e3a806367a74c006f6040326e5e1bd30a92670b9bd38aba76a3",
+    "responseSha256": "cbaff992c23937e0515694fcb6bd44ff7fbcd8cb4423ded7d2ad662788cabb11",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11835-score26",
+    "title": "上海政法学院：官方录取分来源核查（score26）",
+    "url": "https://zs.shupl.edu.cn/Default.aspx?DetailId=12763d9c-405f-477f-a247-a83484515c36",
+    "publisher": "上海政法学院",
+    "year": 2026,
+    "publishedAt": "2026-07-16",
+    "accessedAt": "2026-09-20T07:57:37.771293+00:00",
+    "sha256": "2ebed4dfa64f4adb12b693fea86a77f6f1ad282b8067531fefefb6c7c4f713e6",
+    "responseSha256": "2ebed4dfa64f4adb12b693fea86a77f6f1ad282b8067531fefefb6c7c4f713e6",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11835-score26body",
+    "title": "上海政法学院：官方录取分来源核查（score26body）",
+    "url": "https://zs.shupl.edu.cn/Pages/Detail.aspx?DetailId=12763d9c-405f-477f-a247-a83484515c36",
+    "publisher": "上海政法学院",
+    "year": 2026,
+    "publishedAt": "2026-07-16",
+    "accessedAt": "2026-09-20T08:00:58.827619+00:00",
+    "sha256": "58a58f8c9ad49d0d1e3748e989b362d325e316d199ffd6a8c23371cdd5a68c3d",
+    "responseSha256": "911831ee6636e320be5814d42ecd56aa1f5ce8d545d4ccf068235b7c00597c4b",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11835-scores-entry",
+    "title": "上海政法学院：官方录取分来源核查（scores-entry）",
+    "url": "https://zs.shupl.edu.cn/Default.aspx?MenuId=5c221be0-5686-4c82-9b03-dac11de76bb5",
+    "publisher": "上海政法学院",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:05.649934+00:00",
+    "sha256": "8126e0b23bace1737e9ad1f67899323d4bf0afd7c42cf8e856dd1f8559f7720d",
+    "responseSha256": "8126e0b23bace1737e9ad1f67899323d4bf0afd7c42cf8e856dd1f8559f7720d",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-11846-entry",
+    "title": "广东外语外贸大学：官方录取分来源核查（entry）",
+    "url": "https://zs.gdufs.edu.cn/index/lnfs.htm",
+    "publisher": "广东外语外贸大学",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:58.497796+00:00",
+    "sha256": "747cabfad20b77ed1c59cff6819c27b93ec01fae2e636bb0c4568944a6367e3e",
+    "responseSha256": "747cabfad20b77ed1c59cff6819c27b93ec01fae2e636bb0c4568944a6367e3e",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-20384-app",
+    "title": "厦门大学（马来西亚分校）：官方录取分来源核查（app）",
+    "url": "https://zsdata.xmu.edu.cn/public/zsdata/lqxx/js/app.aa9f5572.js",
+    "publisher": "厦门大学（马来西亚分校）",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:55:08.320858+00:00",
+    "sha256": "460c85061d75a76568ba97cf20d0f7bdc63db43ba3daf08cf8a85c83749b23f3",
+    "responseSha256": "460c85061d75a76568ba97cf20d0f7bdc63db43ba3daf08cf8a85c83749b23f3",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-20384-entry",
+    "title": "厦门大学（马来西亚分校）：官方录取分来源核查（entry）",
+    "url": "https://zs.xmu.edu.cn/",
+    "publisher": "厦门大学（马来西亚分校）",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:52:58.498049+00:00",
+    "sha256": "aa1bdbea4c662d577ba161207241f825c2765aa47a259d65d133c35d15d7dec9",
+    "responseSha256": "aa1bdbea4c662d577ba161207241f825c2765aa47a259d65d133c35d15d7dec9",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-20384-scores-entry",
+    "title": "厦门大学（马来西亚分校）：官方录取分来源核查（scores-entry）",
+    "url": "https://zsdata.xmu.edu.cn/public/zsdata/lqxx/#/lnfs",
+    "publisher": "厦门大学（马来西亚分校）",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:54:05.649425+00:00",
+    "sha256": "3632872df6060ca0deb65861880ef7c419dd6286c3086148d7b4f3ff8237e676",
+    "responseSha256": "3632872df6060ca0deb65861880ef7c419dd6286c3086148d7b4f3ff8237e676",
+    "httpStatus": 200,
+    "requestMethod": "GET",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-20384-types",
+    "title": "厦门大学（马来西亚分校）：官方录取分来源核查（types）",
+    "url": "https://zsdata.xmu.edu.cn/lqxx/s/api/front/lqxx/getType",
+    "publisher": "厦门大学（马来西亚分校）",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T07:57:39.053534+00:00",
+    "sha256": "3e6b7e315225264db8788ce421577b7b69f934bde107f144922aa9eb7adc455e",
+    "responseSha256": "10c734fd6a7efc49ef93e6e64e5d62b88dfb5d2d64c566cbd31e675d0b47fe87",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  },
+  {
+    "id": "major-20260920-b-20384-types2",
+    "title": "厦门大学（马来西亚分校）：官方录取分来源核查（types2）",
+    "url": "https://zsdata.xmu.edu.cn/lqxx/s/api/front/lqxx2/getType",
+    "publisher": "厦门大学（马来西亚分校）",
+    "year": null,
+    "publishedAt": null,
+    "accessedAt": "2026-09-20T08:00:57.529141+00:00",
+    "sha256": "07e547a20cc9ffe36da02b463d69b232593c3e65658818513354245b9f85c54b",
+    "responseSha256": "8babe130e1ecc74bba2c66f9e73b63eadd437a4b91ca837e362b46e6ca37043f",
+    "httpStatus": 200,
+    "requestMethod": "POST",
+    "evidenceType": "public-response",
+    "evidenceRole": "major-score-audit",
+    "notes": [
+      "公开源仅发布统计事实及此来源元数据；完整响应、图像、PDF和会话均仅存本地。"
+    ]
+  }
+]

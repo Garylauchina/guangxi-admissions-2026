@@ -16,6 +16,28 @@ export function planGaps(row, index) {
   if (!group || group.score === null) gaps.push('groupScore');
   return gaps;
 }
+
+// Only directly published whole-group outcomes belong here. A partial set of
+// major scores never establishes the group's minimum admission score.
+export function groupAdmissionIndex(rows) {
+  const index = new Map();
+  for (const row of rows) {
+    const key = exactGroupKey(row);
+    if (!key || row.province !== '广西' || row.scoreType !== '专业组录取最低分' || row.evidenceScope !== 'official-group-summary') throw new Error('专业组录取分缺少直接组级证据。');
+    if (!['annual', 'round'].includes(row.roundScope) || (row.roundScope === 'round' && !row.round)) throw new Error('专业组录取分缺少轮次口径。');
+    const scope = row.roundScope === 'annual' ? 'annual' : row.round;
+    const scopedKey = `${key}|${scope}`;
+    if (index.has(scopedKey)) throw new Error('专业组录取分身份重复，请核查。');
+    index.set(scopedKey, row);
+  }
+  return index;
+}
+
+export function groupAdmissionFor(group, index) {
+  const key = exactGroupKey(group);
+  if (!key) return null;
+  return index.get(`${key}|${group.round}`) || index.get(`${key}|annual`) || null;
+}
 const refs = recordSourceIds;
 export const isComparableMajorScore = row => row.scoreComparable !== false && Number.isFinite(row.score);
 export const comparableMajorCount = row => row.majorScoresComparable ?? Math.max(0, (row.majorCutoffs || 0) - (row.majorScoresPending || 0));

@@ -1,0 +1,355 @@
+{
+  "before": 1633,
+  "after": 1702,
+  "added": 69,
+  "updated": 0,
+  "schoolCodes": 48,
+  "pending": 121,
+  "changes": [
+    {
+      "id": "major-20260920-b-10254-r001",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r002",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r003",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r004",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r005",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r006",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r007",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r008",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r009",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r010",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r011",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r012",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r013",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r014",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r015",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r016",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r017",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r018",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r019",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r020",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r021",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r022",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r023",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r024",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r025",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r026",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r027",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r028",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r029",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r030",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r031",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r032",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r033",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r034",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r035",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10254-r036",
+      "school": "上海海事大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r001",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r002",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r003",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r004",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r005",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r006",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r007",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r008",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r009",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r010",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r011",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r012",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r013",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r014",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r015",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r016",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r017",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r018",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r019",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r020",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r021",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r022",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r023",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r024",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r025",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r026",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r027",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r028",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r029",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10353-r030",
+      "school": "浙江工商大学",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10047-r001",
+      "school": "中央美术学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10047-r002",
+      "school": "中央美术学院",
+      "action": "add"
+    },
+    {
+      "id": "major-20260920-b-10047-r003",
+      "school": "中央美术学院",
+      "action": "add"
+    }
+  ]
+}

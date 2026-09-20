@@ -1,0 +1,5865 @@
+[
+  {
+    "id": "major-20260920-b-10254-r001",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "能源与动力工程",
+    "score": 569,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 572,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "能源与动力工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 2,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r002",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "交通运输",
+    "score": 578,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 584,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "交通运输",
+    "sourceLocator": {
+      "table": 1,
+      "row": 3,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r003",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "交通工程",
+    "score": 567,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 569,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "交通工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 4,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r004",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "交通管理（国航）",
+    "score": 590,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 597,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "交通管理（国航）",
+    "sourceLocator": {
+      "table": 1,
+      "row": 5,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选物理，再选不限",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r005",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "经济学类",
+    "score": 565,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 583,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "经济学类",
+    "sourceLocator": {
+      "table": 1,
+      "row": 6,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选物理，再选不限",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r006",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "会计学",
+    "score": 565,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 587,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "会计学",
+    "sourceLocator": {
+      "table": 1,
+      "row": 7,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选物理，再选不限",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r007",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "财务管理",
+    "score": 565,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 576,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "财务管理",
+    "sourceLocator": {
+      "table": 1,
+      "row": 8,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选物理，再选不限",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r008",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "管理科学",
+    "score": 566,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 567,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "管理科学",
+    "sourceLocator": {
+      "table": 1,
+      "row": 9,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r009",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "大数据管理与应用",
+    "score": 569,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 569,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "大数据管理与应用",
+    "sourceLocator": {
+      "table": 1,
+      "row": 10,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r010",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "机械设计制造及其自动化",
+    "score": 572,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 587,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "机械设计制造及其自动化",
+    "sourceLocator": {
+      "table": 1,
+      "row": 11,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r011",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "机械电子工程",
+    "score": 569,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 572,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "机械电子工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 12,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r012",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "电气工程及其自动化",
+    "score": 579,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 588,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "电气工程及其自动化",
+    "sourceLocator": {
+      "table": 1,
+      "row": 13,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r013",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "自动化",
+    "score": 572,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 580,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "自动化",
+    "sourceLocator": {
+      "table": 1,
+      "row": 14,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r014",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "测控技术与仪器",
+    "score": 570,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 572,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "测控技术与仪器",
+    "sourceLocator": {
+      "table": 1,
+      "row": 15,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r015",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "工业工程",
+    "score": 566,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 567,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "工业工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 16,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r016",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "物流工程",
+    "score": 572,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 578,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "物流工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 17,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r017",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "计算机科学与技术",
+    "score": 575,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 591,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "计算机科学与技术",
+    "sourceLocator": {
+      "table": 1,
+      "row": 18,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r018",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "网络工程",
+    "score": 568,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 570,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "网络工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 19,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r019",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "人工智能",
+    "score": 571,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 577,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "人工智能",
+    "sourceLocator": {
+      "table": 1,
+      "row": 20,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r020",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "电子信息工程",
+    "score": 576,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 577,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "电子信息工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 21,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r021",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "通信工程",
+    "score": 572,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 575,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "通信工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 22,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r022",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "工业设计",
+    "score": 567,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 569,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "工业设计",
+    "sourceLocator": {
+      "table": 1,
+      "row": 23,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r023",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "法学（海商法）",
+    "score": 581,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 590,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "法学（海商法）",
+    "sourceLocator": {
+      "table": 1,
+      "row": 24,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选物理，再选不限",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r024",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "数学类",
+    "score": 568,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 574,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "数学类",
+    "sourceLocator": {
+      "table": 1,
+      "row": 25,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r025",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "安全工程",
+    "score": 566,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 568,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "安全工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 26,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r026",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "环境工程",
+    "score": 567,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 568,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "环境工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 27,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r027",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "船舶与海洋工程",
+    "score": 574,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 574,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "船舶与海洋工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 28,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r028",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "港口航道与海岸工程",
+    "score": 570,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 573,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "港口航道与海岸工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 29,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r029",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "材料科学与工程",
+    "score": 567,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 568,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "材料科学与工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 30,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-14",
+    "sourceIds": [
+      "major-20260920-b-10254-result-14",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-14"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-14"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r030",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科提前批",
+    "group": null,
+    "majorCode": null,
+    "major": "航海技术",
+    "score": 574,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 588,
+    "sourceAverageScore": null,
+    "sourceBatch": "提前批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "提前批",
+    "sourceMajorName": "航海技术",
+    "sourceLocator": {
+      "table": 1,
+      "row": 2,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-15",
+    "sourceIds": [
+      "major-20260920-b-10254-result-15",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-15"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r031",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "物理",
+    "batch": "本科提前批",
+    "group": null,
+    "majorCode": null,
+    "major": "轮机工程",
+    "score": 571,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 581,
+    "sourceAverageScore": null,
+    "sourceBatch": "提前批",
+    "sourceTrack": "物理类",
+    "sourceCategory": "提前批",
+    "sourceMajorName": "轮机工程",
+    "sourceLocator": {
+      "table": 1,
+      "row": 3,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-15",
+    "sourceIds": [
+      "major-20260920-b-10254-result-15",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [
+      "化学"
+    ],
+    "subjectRule": "all",
+    "requirementText": "首选物理，再选化学",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-15"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-15"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r032",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "交通管理（国航）",
+    "score": 575,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 579,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "历史类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "交通管理（国航）",
+    "sourceLocator": {
+      "table": 1,
+      "row": 2,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-18",
+    "sourceIds": [
+      "major-20260920-b-10254-result-18",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-18"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r033",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "外国语言文学类",
+    "score": 573,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 577,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "历史类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "外国语言文学类",
+    "sourceLocator": {
+      "table": 1,
+      "row": 3,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-18",
+    "sourceIds": [
+      "major-20260920-b-10254-result-18",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-18"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r034",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "日语",
+    "score": 571,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 572,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "历史类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "日语",
+    "sourceLocator": {
+      "table": 1,
+      "row": 4,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-18",
+    "sourceIds": [
+      "major-20260920-b-10254-result-18",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-18"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r035",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "法语",
+    "score": 575,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 575,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "历史类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "法语",
+    "sourceLocator": {
+      "table": 1,
+      "row": 5,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-18",
+    "sourceIds": [
+      "major-20260920-b-10254-result-18",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-18"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10254-r036",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10254",
+    "school": "上海海事大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "法学（海商法）",
+    "score": 585,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 587,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通批",
+    "sourceTrack": "历史类",
+    "sourceCategory": "普通批",
+    "sourceMajorName": "法学（海商法）",
+    "sourceLocator": {
+      "table": 1,
+      "row": 6,
+      "columns": [
+        "年份",
+        "省份",
+        "批次",
+        "科类",
+        "选考科目要求",
+        "专业",
+        "最高分",
+        "最低分"
+      ]
+    },
+    "sourceId": "major-20260920-b-10254-result-18",
+    "sourceIds": [
+      "major-20260920-b-10254-result-18",
+      "major-20260920-b-10254-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "none",
+    "requirementText": "首选历史，再选不限",
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "province": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "major": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "track": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "score": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "batch": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "round": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "admissionType": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10254-charter"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10254-result-18"
+      ],
+      "requirementText": [
+        "major-20260920-b-10254-result-18"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。"
+  },
+  {
+    "id": "major-20260920-b-10353-r001",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "旅游管理类",
+    "score": 573,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 575,
+    "sourceAverageScore": 573.7143,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "旅游管理类（含旅游管理、酒店管理）",
+    "sourceLocator": {
+      "jsonPointer": "/data/469"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "旅游管理、酒店管理"
+  },
+  {
+    "id": "major-20260920-b-10353-r002",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "法学类",
+    "score": 558,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 567,
+    "sourceAverageScore": 562.5,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "法学类（含法学、知识产权）",
+    "sourceLocator": {
+      "jsonPointer": "/data/470"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "法学、知识产权"
+  },
+  {
+    "id": "major-20260920-b-10353-r003",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "电子信息类",
+    "score": 568,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 585,
+    "sourceAverageScore": 575.0833,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "电子信息类（含人工智能、电子信息工程、通信工程）",
+    "sourceLocator": {
+      "jsonPointer": "/data/471"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "人工智能、电子信息工程、通信工程"
+  },
+  {
+    "id": "major-20260920-b-10353-r004",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "电子商务类",
+    "score": 553,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 573,
+    "sourceAverageScore": 564.5,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "电子商务类（含电子商务、物流管理）",
+    "sourceLocator": {
+      "jsonPointer": "/data/472"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "电子商务、物流管理"
+  },
+  {
+    "id": "major-20260920-b-10353-r005",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "城乡规划",
+    "score": 552,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 555,
+    "sourceAverageScore": 553.3333,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "城乡规划",
+    "sourceLocator": {
+      "jsonPointer": "/data/473"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 接口planNumber未在可见分数表标示，不推定为录取人数。"
+  },
+  {
+    "id": "major-20260920-b-10353-r006",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "新闻传播学类",
+    "score": 576,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 577,
+    "sourceAverageScore": 576.5,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "新闻传播学类（含新闻学、网络与新媒体）",
+    "sourceLocator": {
+      "jsonPointer": "/data/474"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "新闻学、网络与新媒体"
+  },
+  {
+    "id": "major-20260920-b-10353-r007",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "外国语言文学类",
+    "score": 575,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 578,
+    "sourceAverageScore": 576.25,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "外国语言文学类（含英语、商务英语）",
+    "sourceLocator": {
+      "jsonPointer": "/data/475"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "英语、商务英语"
+  },
+  {
+    "id": "major-20260920-b-10353-r008",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "社会工作",
+    "score": 574,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 574,
+    "sourceAverageScore": 574,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "社会工作",
+    "sourceLocator": {
+      "jsonPointer": "/data/476"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 接口planNumber未在可见分数表标示，不推定为录取人数。"
+  },
+  {
+    "id": "major-20260920-b-10353-r009",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "日语",
+    "score": 574,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 574,
+    "sourceAverageScore": 574,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "日语",
+    "sourceLocator": {
+      "jsonPointer": "/data/477"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 接口planNumber未在可见分数表标示，不推定为录取人数。"
+  },
+  {
+    "id": "major-20260920-b-10353-r010",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "工商管理类",
+    "score": 554,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 592,
+    "sourceAverageScore": 566.75,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "工商管理类（含工商管理、市场营销、人力资源管理、国际商务）",
+    "sourceLocator": {
+      "jsonPointer": "/data/478"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "工商管理、市场营销、人力资源管理、国际商务"
+  },
+  {
+    "id": "major-20260920-b-10353-r011",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "经济学类",
+    "score": 577,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 577,
+    "sourceAverageScore": 577,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "经济学类（含经济学、国际经济与贸易）",
+    "sourceLocator": {
+      "jsonPointer": "/data/479"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "经济学、国际经济与贸易"
+  },
+  {
+    "id": "major-20260920-b-10353-r012",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "金融学",
+    "score": 576,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 583,
+    "sourceAverageScore": 579.5,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "金融学",
+    "sourceLocator": {
+      "jsonPointer": "/data/480"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 接口planNumber未在可见分数表标示，不推定为录取人数。"
+  },
+  {
+    "id": "major-20260920-b-10353-r013",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "会计学",
+    "score": 583,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 596,
+    "sourceAverageScore": 589.5,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "会计学（含会计学、财务管理、审计学和会计学(ACCA)）",
+    "sourceLocator": {
+      "jsonPointer": "/data/481"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "会计学、财务管理、审计学和会计学(ACCA)"
+  },
+  {
+    "id": "major-20260920-b-10353-r014",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "公共管理类",
+    "score": 573,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 578,
+    "sourceAverageScore": 575.1429,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "公共管理类（含慈善管理、行政管理、土地资源管理、文化产业管理）",
+    "sourceLocator": {
+      "jsonPointer": "/data/482"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "慈善管理、行政管理、土地资源管理、文化产业管理"
+  },
+  {
+    "id": "major-20260920-b-10353-r015",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "工商管理类",
+    "score": 576,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 576,
+    "sourceAverageScore": 576,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "工商管理类（含工商管理、市场营销、人力资源管理、国际商务）",
+    "sourceLocator": {
+      "jsonPointer": "/data/483"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "工商管理、市场营销、人力资源管理、国际商务"
+  },
+  {
+    "id": "major-20260920-b-10353-r016",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "法学类",
+    "score": 582,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 587,
+    "sourceAverageScore": 584.5,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "历史",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "法学类（含法学、知识产权）",
+    "sourceLocator": {
+      "jsonPointer": "/data/484"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "法学、知识产权"
+  },
+  {
+    "id": "major-20260920-b-10353-r017",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "公共管理类",
+    "score": 549,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 553,
+    "sourceAverageScore": 551.1429,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "公共管理类（含慈善管理、行政管理、土地资源管理、文化产业管理）",
+    "sourceLocator": {
+      "jsonPointer": "/data/487"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "慈善管理、行政管理、土地资源管理、文化产业管理"
+  },
+  {
+    "id": "major-20260920-b-10353-r018",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "环境科学与工程类",
+    "score": 563,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 568,
+    "sourceAverageScore": 564.125,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "环境科学与工程类（含环境科学、环境工程）",
+    "sourceLocator": {
+      "jsonPointer": "/data/488"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "环境科学、环境工程"
+  },
+  {
+    "id": "major-20260920-b-10353-r019",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "会计学",
+    "score": 557,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 572,
+    "sourceAverageScore": 564.5,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "会计学（含会计学、财务管理、审计学和会计学(ACCA)）",
+    "sourceLocator": {
+      "jsonPointer": "/data/489"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "会计学、财务管理、审计学和会计学(ACCA)"
+  },
+  {
+    "id": "major-20260920-b-10353-r020",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "计算机类",
+    "score": 580,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 592,
+    "sourceAverageScore": 585.375,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "计算机类（含计算机科学与技术、软件工程、信息安全）",
+    "sourceLocator": {
+      "jsonPointer": "/data/490"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "计算机科学与技术、软件工程、信息安全"
+  },
+  {
+    "id": "major-20260920-b-10353-r021",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "金融学",
+    "score": 553,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 554,
+    "sourceAverageScore": 553.5,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "金融学",
+    "sourceLocator": {
+      "jsonPointer": "/data/491"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 接口planNumber未在可见分数表标示，不推定为录取人数。"
+  },
+  {
+    "id": "major-20260920-b-10353-r022",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "经济学类",
+    "score": 561,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 583,
+    "sourceAverageScore": 569,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "经济学类（含经济学、国际经济与贸易）",
+    "sourceLocator": {
+      "jsonPointer": "/data/492"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "经济学、国际经济与贸易"
+  },
+  {
+    "id": "major-20260920-b-10353-r023",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "旅游管理类",
+    "score": 546,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 551,
+    "sourceAverageScore": 548.3333,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "旅游管理类（含旅游管理、酒店管理）",
+    "sourceLocator": {
+      "jsonPointer": "/data/493"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "旅游管理、酒店管理"
+  },
+  {
+    "id": "major-20260920-b-10353-r024",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "日语",
+    "score": 555,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 555,
+    "sourceAverageScore": 555,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "日语",
+    "sourceLocator": {
+      "jsonPointer": "/data/494"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 接口planNumber未在可见分数表标示，不推定为录取人数。"
+  },
+  {
+    "id": "major-20260920-b-10353-r025",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "社会工作",
+    "score": 558,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 558,
+    "sourceAverageScore": 558,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "社会工作",
+    "sourceLocator": {
+      "jsonPointer": "/data/495"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 接口planNumber未在可见分数表标示，不推定为录取人数。"
+  },
+  {
+    "id": "major-20260920-b-10353-r026",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "食品科学与工程类",
+    "score": 567,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 568,
+    "sourceAverageScore": 567.5,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "食品科学与工程类（含食品科学与工程、食品质量与安全）",
+    "sourceLocator": {
+      "jsonPointer": "/data/496"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "食品科学与工程、食品质量与安全"
+  },
+  {
+    "id": "major-20260920-b-10353-r027",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "数据科学与大数据技术",
+    "score": 564,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 584,
+    "sourceAverageScore": 573.1667,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "数据科学与大数据技术",
+    "sourceLocator": {
+      "jsonPointer": "/data/497"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 接口planNumber未在可见分数表标示，不推定为录取人数。"
+  },
+  {
+    "id": "major-20260920-b-10353-r028",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "外国语言文学类",
+    "score": 560,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 563,
+    "sourceAverageScore": 561.3333,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "外国语言文学类（含英语、商务英语）",
+    "sourceLocator": {
+      "jsonPointer": "/data/498"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "英语、商务英语"
+  },
+  {
+    "id": "major-20260920-b-10353-r029",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "新闻传播学类",
+    "score": 559,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 565,
+    "sourceAverageScore": 562,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "新闻传播学类（含新闻学、网络与新媒体）",
+    "sourceLocator": {
+      "jsonPointer": "/data/499"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 原表以一个专业（类）统计，括号成员仅作原文说明，不拆成独立分数。 接口planNumber未在可见分数表标示，不推定为录取人数。",
+    "includedMajorsText": "新闻学、网络与新媒体"
+  },
+  {
+    "id": "major-20260920-b-10353-r030",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10353",
+    "school": "浙江工商大学",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "信息管理与信息系统",
+    "score": 566,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": 576,
+    "sourceAverageScore": 569.5714,
+    "sourceBatch": "本科普通批",
+    "sourceTrack": "物理",
+    "sourceCategory": "本科普通批",
+    "sourceMajorName": "信息管理与信息系统",
+    "sourceLocator": {
+      "jsonPointer": "/data/500"
+    },
+    "sourceId": "major-20260920-b-10353-data",
+    "sourceIds": [
+      "major-20260920-b-10353-data",
+      "major-20260920-b-10353-charter-pdf"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10353-data"
+      ],
+      "province": [
+        "major-20260920-b-10353-data"
+      ],
+      "major": [
+        "major-20260920-b-10353-data"
+      ],
+      "track": [
+        "major-20260920-b-10353-data"
+      ],
+      "score": [
+        "major-20260920-b-10353-data"
+      ],
+      "batch": [
+        "major-20260920-b-10353-data"
+      ],
+      "round": [
+        "major-20260920-b-10353-data"
+      ],
+      "admissionType": [
+        "major-20260920-b-10353-data"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10353-charter-pdf"
+      ],
+      "sourceMaximumScore": [
+        "major-20260920-b-10353-data"
+      ],
+      "sourceAverageScore": [
+        "major-20260920-b-10353-data"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 接口planNumber未在可见分数表标示，不推定为录取人数。"
+  },
+  {
+    "id": "major-20260920-b-10047-r001",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10047",
+    "school": "中央美术学院",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "美术学",
+    "score": 582,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": null,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通本科批次",
+    "sourceTrack": "历史类",
+    "sourceCategory": "普通本科（非校考）",
+    "sourceMajorName": "美术学",
+    "sourceLocator": {
+      "section": "广西",
+      "rowWithinProvince": 1,
+      "columns": [
+        "省(市、区)",
+        "招生专业",
+        "科类",
+        "招生计划",
+        "最低分数线"
+      ]
+    },
+    "sourceId": "major-20260920-b-10047-score-image",
+    "sourceIds": [
+      "major-20260920-b-10047-score-image",
+      "major-20260920-b-10047-next",
+      "major-20260920-b-10047-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "province": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "major": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "track": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "score": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "batch": [
+        "major-20260920-b-10047-charter",
+        "major-20260920-b-10047-next"
+      ],
+      "round": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "admissionType": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10047-charter"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 非校考普通本科专业，章程第16、17条确认投档分和加分口径；原图招生计划不作录取人数或初始计划导入。"
+  },
+  {
+    "id": "major-20260920-b-10047-r002",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10047",
+    "school": "中央美术学院",
+    "track": "物理",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "艺术史论（中外合作办学）",
+    "score": 565,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "中外合作办学",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": null,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通本科批次",
+    "sourceTrack": "物理类",
+    "sourceCategory": "普通本科（非校考）",
+    "sourceMajorName": "艺术史论（中外合作办学）",
+    "sourceLocator": {
+      "section": "广西",
+      "rowWithinProvince": 2,
+      "columns": [
+        "省(市、区)",
+        "招生专业",
+        "科类",
+        "招生计划",
+        "最低分数线"
+      ]
+    },
+    "sourceId": "major-20260920-b-10047-score-image",
+    "sourceIds": [
+      "major-20260920-b-10047-score-image",
+      "major-20260920-b-10047-next",
+      "major-20260920-b-10047-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "province": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "major": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "track": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "score": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "batch": [
+        "major-20260920-b-10047-charter",
+        "major-20260920-b-10047-next"
+      ],
+      "round": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "admissionType": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10047-charter"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 非校考普通本科专业，章程第16、17条确认投档分和加分口径；原图招生计划不作录取人数或初始计划导入。"
+  },
+  {
+    "id": "major-20260920-b-10047-r003",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10047",
+    "school": "中央美术学院",
+    "track": "历史",
+    "batch": "本科普通批",
+    "group": null,
+    "majorCode": null,
+    "major": "艺术史论（中外合作办学）",
+    "score": 498,
+    "scoreType": "专业录取最低分",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "中外合作办学",
+    "rank": null,
+    "rankType": null,
+    "scoreScaleMaximum": 750,
+    "scoreBasis": "普通高考投档成绩（按学校章程认可的政策加分口径）",
+    "sourceMaximumScore": null,
+    "sourceAverageScore": null,
+    "sourceBatch": "普通本科批次",
+    "sourceTrack": "历史类",
+    "sourceCategory": "普通本科（非校考）",
+    "sourceMajorName": "艺术史论（中外合作办学）",
+    "sourceLocator": {
+      "section": "广西",
+      "rowWithinProvince": 3,
+      "columns": [
+        "省(市、区)",
+        "招生专业",
+        "科类",
+        "招生计划",
+        "最低分数线"
+      ]
+    },
+    "sourceId": "major-20260920-b-10047-score-image",
+    "sourceIds": [
+      "major-20260920-b-10047-score-image",
+      "major-20260920-b-10047-next",
+      "major-20260920-b-10047-charter"
+    ],
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "verified",
+    "scoreComparable": true,
+    "scoreEvidenceGaps": [],
+    "conflictFields": [],
+    "requiredSubjects": [],
+    "subjectRule": "unknown",
+    "requirementText": null,
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "province": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "major": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "track": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "score": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "batch": [
+        "major-20260920-b-10047-charter",
+        "major-20260920-b-10047-next"
+      ],
+      "round": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "admissionType": [
+        "major-20260920-b-10047-score-image"
+      ],
+      "scoreBasis": [
+        "major-20260920-b-10047-charter"
+      ]
+    },
+    "note": "学校公布的专业录取统计未分首轮与征集，保留录取汇总口径；组码、广西专业填报码和位次未公布，不按分数或相似专业反推。 非校考普通本科专业，章程第16、17条确认投档分和加分口径；原图招生计划不作录取人数或初始计划导入。"
+  }
+]

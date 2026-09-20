@@ -2,6 +2,16 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { JSDOM } from 'jsdom';
+function openSchoolSubview(destination, code='10601', track='物理') {
+  const $=id=>document.getElementById(id);
+  const input=(id,value)=>{$(id).value=value;$(id).dispatchEvent(new window.Event('input',{bubbles:true}));};
+  if($('detail').open)$('close-detail').click();
+  document.querySelector('.tabs [data-view="cutoffs"]').click();$('reset').click();
+  input('query',code);input('track',track);input('batch','all');input('kind','all');
+  document.querySelector('#results-list [data-detail]').click();
+  document.querySelector('#detail-content [data-destination="'+destination+'"]').click();
+}
+
 
 const fmt = n => n.toLocaleString('zh-CN');
 async function liveReviewStats() {
@@ -52,6 +62,12 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   assert.equal($('result-title').textContent,'专业招生计划');assert.equal($('track').value,'物理');
   assert.ok(document.querySelectorAll('.result-card').length>0);
   document.querySelector('[data-view="cutoffs"]').click();$('reset').click();
+  input('query','10600');input('track','物理');input('kind','all');
+  const tcmCard=[...document.querySelectorAll('.result-card')].find(card=>card.querySelector('.group-tag')?.textContent==='151 组');
+  assert.ok(tcmCard);tcmCard.querySelector('[data-detail]').click();
+  const embeddedPlan=[...document.querySelectorAll('#detail-content [data-embedded-record]')].find(row=>row.textContent.includes('中医学')&&row.textContent.includes('313'));
+  assert.ok(embeddedPlan);assert.match(embeddedPlan.textContent,/公布人数（含直升，非已确认可填人数） 313 人/);
+  $('close-detail').click();$('reset').click();
   input('query','10593');input('track','历史');input('kind','all');input('batch','本科普通批');input('round','第一次征集');
   const supplementaryCard=[...document.querySelectorAll('.result-card')].find(card=>card.querySelector('.group-tag')?.textContent.includes('111'));
   assert.ok(supplementaryCard);supplementaryCard.querySelector('[data-detail]').click();
@@ -86,7 +102,7 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   document.querySelector('[data-view="cutoffs"]').click();$('reset').click();
   input('value','550');
   input('unknown','');$('unknown').checked=false;$('unknown').dispatchEvent(new window.Event('input',{bubbles:true}));
-  const scores=[...document.querySelectorAll('.score-box .score')].map(e=>Number(e.textContent));
+  const scores=[...document.querySelectorAll('.filing-score .score')].map(e=>Number(e.textContent));
   assert.ok(scores.length>0);assert.ok(scores.every(s=>s>=530&&s<=570));
   input('value','751');assert.match($('results-list').textContent,/请先修正输入/);
   input('value','550');input('query','不存在的学校XYZ');assert.equal(document.querySelectorAll('.result-card').length,0);
@@ -97,10 +113,10 @@ test('页面真实数据加载、筛选、备选、详情、导出和导航交�
   $('export').click();assert.equal(download.name,'广西2026志愿备选.csv');assert.match(download.href,/^blob:/);
   $('mode').value='rank';$('mode').dispatchEvent(new window.Event('change',{bubbles:true}));input('value','20000');assert.match($('reference-note').textContent,/对应 2026 参考分/);
   input('track','历史');assert.match($('current-summary').textContent,/历史/);
-  document.querySelector('[data-view="plans"]').click();assert.equal($('subjects-field').hidden,false);
+  openSchoolSubview('plans');assert.equal($('subjects-field').hidden,false);
   input('value','');input('track','物理');input('kind','all');input('query','桂林');assert.ok(document.querySelectorAll('.result-card').length>0);
   const checks=[...document.querySelectorAll('[name=subject]')];for(const check of checks.slice(0,3)){check.checked=true;check.dispatchEvent(new window.Event('input',{bubbles:true}));}assert.equal(document.querySelectorAll('[name=subject]:checked').length,2);
-  document.querySelector('[data-view="majorCutoffs"]').click();assert.equal($('result-title').textContent,'专业实际录取分数');
+  openSchoolSubview('majorCutoffs');assert.equal($('result-title').textContent,'专业实际录取分数');
   assert.equal($('round').value,'all','专业线入口不能默认隐藏高校汇总数据');
   $('reset').click();
   assert.equal($('round').value,'all','专业分重置仍须保留全部录取轮次');

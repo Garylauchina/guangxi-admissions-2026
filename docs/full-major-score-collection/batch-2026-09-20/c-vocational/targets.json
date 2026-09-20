@@ -1,0 +1,632 @@
+[
+  {
+    "taskId": "2026-gx-major-13831",
+    "schoolCode": "13831",
+    "school": "广西电力职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 385,
+        "maximumFirstRoundGeneralGroupScore": 383,
+        "knownScoreGroups": 2
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 374,
+        "maximumFirstRoundGeneralGroupScore": 374,
+        "knownScoreGroups": 2
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-14722",
+    "schoolCode": "14722",
+    "school": "广西制造工程职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 346,
+        "maximumFirstRoundGeneralGroupScore": 346,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 327,
+        "maximumFirstRoundGeneralGroupScore": 327,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12364",
+    "schoolCode": "12364",
+    "school": "广西工业职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 349,
+        "maximumFirstRoundGeneralGroupScore": 337,
+        "knownScoreGroups": 3
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 351,
+        "maximumFirstRoundGeneralGroupScore": 351,
+        "knownScoreGroups": 3
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-13138",
+    "schoolCode": "13138",
+    "school": "广西建设职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 336,
+        "maximumFirstRoundGeneralGroupScore": 336,
+        "knownScoreGroups": 2
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 360,
+        "maximumFirstRoundGeneralGroupScore": 360,
+        "knownScoreGroups": 2
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12344",
+    "schoolCode": "12344",
+    "school": "广西生态工程职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 325,
+        "maximumFirstRoundGeneralGroupScore": 317,
+        "knownScoreGroups": 2
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 322,
+        "maximumFirstRoundGeneralGroupScore": 322,
+        "knownScoreGroups": 2
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12379",
+    "schoolCode": "12379",
+    "school": "广西国际商务职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 316,
+        "maximumFirstRoundGeneralGroupScore": 316,
+        "knownScoreGroups": 4
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 328,
+        "maximumFirstRoundGeneralGroupScore": 327,
+        "knownScoreGroups": 4
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-14821",
+    "schoolCode": "14821",
+    "school": "广西质量工程职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 315,
+        "maximumFirstRoundGeneralGroupScore": 315,
+        "knownScoreGroups": 2
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 320,
+        "maximumFirstRoundGeneralGroupScore": 320,
+        "knownScoreGroups": 2
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-14763",
+    "schoolCode": "14763",
+    "school": "广西信息职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 311,
+        "maximumFirstRoundGeneralGroupScore": 311,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 326,
+        "maximumFirstRoundGeneralGroupScore": 326,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-14723",
+    "schoolCode": "14723",
+    "school": "广西物流职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 305,
+        "maximumFirstRoundGeneralGroupScore": 305,
+        "knownScoreGroups": 3
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 319,
+        "maximumFirstRoundGeneralGroupScore": 319,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-14220",
+    "schoolCode": "14220",
+    "school": "广西幼儿师范高等专科学校",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 304,
+        "maximumFirstRoundGeneralGroupScore": 304,
+        "knownScoreGroups": 2
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 334,
+        "maximumFirstRoundGeneralGroupScore": 334,
+        "knownScoreGroups": 2
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-10830",
+    "schoolCode": "10830",
+    "school": "湖南工业职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 414,
+        "maximumFirstRoundGeneralGroupScore": 414,
+        "knownScoreGroups": 3
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 396,
+        "maximumFirstRoundGeneralGroupScore": 396,
+        "knownScoreGroups": 2
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-13112",
+    "schoolCode": "13112",
+    "school": "南京信息职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 414,
+        "maximumFirstRoundGeneralGroupScore": 414,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 422,
+        "maximumFirstRoundGeneralGroupScore": 422,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-13919",
+    "schoolCode": "13919",
+    "school": "广东理工职业学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 414,
+        "maximumFirstRoundGeneralGroupScore": 414,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 424,
+        "maximumFirstRoundGeneralGroupScore": 424,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12828",
+    "schoolCode": "12828",
+    "school": "西安航空职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 413,
+        "maximumFirstRoundGeneralGroupScore": 413,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-13929",
+    "schoolCode": "13929",
+    "school": "广州城市职业学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 413,
+        "maximumFirstRoundGeneralGroupScore": 413,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 426,
+        "maximumFirstRoundGeneralGroupScore": 426,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12036",
+    "schoolCode": "12036",
+    "school": "浙江交通职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 412,
+        "maximumFirstRoundGeneralGroupScore": 412,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-13397",
+    "schoolCode": "13397",
+    "school": "石家庄邮电职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 412,
+        "maximumFirstRoundGeneralGroupScore": 412,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 425,
+        "maximumFirstRoundGeneralGroupScore": 425,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12679",
+    "schoolCode": "12679",
+    "school": "江苏海事职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 411,
+        "maximumFirstRoundGeneralGroupScore": 411,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 426,
+        "maximumFirstRoundGeneralGroupScore": 426,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12981",
+    "schoolCode": "12981",
+    "school": "武汉电力职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 411,
+        "maximumFirstRoundGeneralGroupScore": 411,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-11828",
+    "schoolCode": "11828",
+    "school": "郑州电力高等专科学校",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 410,
+        "maximumFirstRoundGeneralGroupScore": 410,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-11916",
+    "schoolCode": "11916",
+    "school": "重庆电力高等专科学校",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 410,
+        "maximumFirstRoundGeneralGroupScore": 410,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 398,
+        "maximumFirstRoundGeneralGroupScore": 398,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12354",
+    "schoolCode": "12354",
+    "school": "襄阳职业技术大学",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 410,
+        "maximumFirstRoundGeneralGroupScore": 410,
+        "knownScoreGroups": 2
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 420,
+        "maximumFirstRoundGeneralGroupScore": 420,
+        "knownScoreGroups": 2
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12493",
+    "schoolCode": "12493",
+    "school": "上海行健职业学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 410,
+        "maximumFirstRoundGeneralGroupScore": 410,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 403,
+        "maximumFirstRoundGeneralGroupScore": 403,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12933",
+    "schoolCode": "12933",
+    "school": "江西电力职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 410,
+        "maximumFirstRoundGeneralGroupScore": 410,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 396,
+        "maximumFirstRoundGeneralGroupScore": 396,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12977",
+    "schoolCode": "12977",
+    "school": "武汉铁路职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 410,
+        "maximumFirstRoundGeneralGroupScore": 410,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 422,
+        "maximumFirstRoundGeneralGroupScore": 422,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12302",
+    "schoolCode": "12302",
+    "school": "湖南铁道职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 409,
+        "maximumFirstRoundGeneralGroupScore": 409,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 415,
+        "maximumFirstRoundGeneralGroupScore": 415,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12870",
+    "schoolCode": "12870",
+    "school": "浙江金融职业学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 409,
+        "maximumFirstRoundGeneralGroupScore": 409,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 425,
+        "maximumFirstRoundGeneralGroupScore": 425,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-11826",
+    "schoolCode": "11826",
+    "school": "西安电力高等专科学校",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 408,
+        "maximumFirstRoundGeneralGroupScore": 408,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": null,
+        "maximumFirstRoundGeneralGroupScore": null,
+        "knownScoreGroups": 0
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-10827",
+    "schoolCode": "10827",
+    "school": "长沙民政职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 407,
+        "maximumFirstRoundGeneralGroupScore": 407,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 425,
+        "maximumFirstRoundGeneralGroupScore": 425,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  },
+  {
+    "taskId": "2026-gx-major-12300",
+    "schoolCode": "12300",
+    "school": "湖南大众传媒职业技术学院",
+    "ordinaryLevel": "vocational",
+    "priorityByTrack": {
+      "物理": {
+        "maximumFirstRoundGroupScore": 407,
+        "maximumFirstRoundGeneralGroupScore": 407,
+        "knownScoreGroups": 1
+      },
+      "历史": {
+        "maximumFirstRoundGroupScore": 412,
+        "maximumFirstRoundGeneralGroupScore": 412,
+        "knownScoreGroups": 1
+      }
+    },
+    "scoreStatus": "not-score-reviewed",
+    "existingSources": [],
+    "batchGroup": "c-vocational"
+  }
+]

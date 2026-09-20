@@ -1,0 +1,266 @@
+[
+  {
+    "file": "a-physics/README.md",
+    "sha256": "b4f82020049efa80468b31cb31c1c52e2980527774a3d9ea5b0e3fcb350c7009"
+  },
+  {
+    "file": "a-physics/QA.md",
+    "sha256": "5290fe69ea4983aaef553eb400e3755948424329a3bfc140895a952fbf2f19ea"
+  },
+  {
+    "file": "a-physics/QA.json",
+    "sha256": "b174c7b475cfa7187c30eb95d3a7908274f77e1fc282ebd51022a391776c5d7b"
+  },
+  {
+    "file": "a-physics/targets.json",
+    "sha256": "fc1a859446ce243f05be063e13fde6074ab3326fdc5e7acc70d328e8ee837820"
+  },
+  {
+    "file": "a-physics/major-cutoffs-upsert.json",
+    "sha256": "792415bfcf4c82a96c958ee6c89d58b64f059d90c2a30bdfdc0441bb467983e7"
+  },
+  {
+    "file": "a-physics/sources.json",
+    "sha256": "dcfb0e93f67c4d2dcc18ee5f9cbe54a697e7477d9cd18dc5de6c8f259fb3e321"
+  },
+  {
+    "file": "a-physics/school-audit-notes.json",
+    "sha256": "e33d2a2d2433c49f323d453617b4ea1441f084994a51275ae94e07e77531efc8"
+  },
+  {
+    "file": "a-physics/observations.json",
+    "sha256": "3e6e5984e0d3d165e7e07f5c200c3134b576a9020dafab0d251bb908f3301144"
+  },
+  {
+    "file": "a-physics/row-evidence.json",
+    "sha256": "f5d210efcaed6859f210dae3eab0fe84da27841b0b56334f162a06694c294cea"
+  },
+  {
+    "file": "a-physics/field-mapping-evidence.json",
+    "sha256": "272db71d7b18373ada28dfd046acc850ee46e2a1ad7164107767fe489951dbf3"
+  },
+  {
+    "file": "a-physics/group-admission-candidates.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "file": "a-physics/import-preflight.json",
+    "sha256": "028a11acfe74dca8889b63615f592add00af126a0a1abd433e683c5cff2d7886"
+  },
+  {
+    "file": "a-physics/build.py",
+    "sha256": "0156fc20a9615de4276197a3f163d4c553a916e5ac9b19af68140b50ab15928f"
+  },
+  {
+    "file": "a-physics/collector.py",
+    "sha256": "581b1122862109136318e1e092faff1cba8fba66331ff70555ee2279e7fdad55"
+  },
+  {
+    "file": "a-physics/api_collector.py",
+    "sha256": "6c9ed2fca69fe6c7d41c273b44416200e44305699928f18f825f27e3dc6cc28d"
+  },
+  {
+    "file": "a-physics/PUBLIC-FILES.txt",
+    "sha256": "4d7e10facecf2efe187cdab14a5be154b51e262435aef311117ed68b94351b27"
+  },
+  {
+    "file": "a-physics/public-file-hashes.json",
+    "sha256": "70266463bb19849607e48fa53369748c42db0d7aa2d0ace4751bf7d4fc28ec44"
+  },
+  {
+    "file": "a-physics/peer-review.json",
+    "sha256": "418450761bb16ad0154cd654f8088d9b6c5040ae2e2ef4d995b13e413f1d9620"
+  },
+  {
+    "file": "b-history/README.md",
+    "sha256": "41546ea90e628cd8b90c0a75ea5c35688d8acb64e2a5354ad298ba055c16aa1e"
+  },
+  {
+    "file": "b-history/PUBLIC-FILES.txt",
+    "sha256": "e11a6891ed2c25d9db4a8f22f73e4aacd549689b7198433a78c73b95e9151448"
+  },
+  {
+    "file": "b-history/collector.py",
+    "sha256": "c241bd6f75530343518dd4b832e45f32a7402137c04c02f4a37da8c4a825753d"
+  },
+  {
+    "file": "b-history/api_collector.py",
+    "sha256": "6c9ed2fca69fe6c7d41c273b44416200e44305699928f18f825f27e3dc6cc28d"
+  },
+  {
+    "file": "b-history/build.py",
+    "sha256": "f34c470759c0feb4c2e3a3f15808802fe355ba9e59de7f6484284c5456324eb1"
+  },
+  {
+    "file": "b-history/audit-facts.json",
+    "sha256": "a114dc395992fd70d631611287c0bc5f8564567cf15e254bdd01ef87504c4f89"
+  },
+  {
+    "file": "b-history/targets-public.json",
+    "sha256": "264beb714b3a9ae407731fa2276088f151a9e61899fe91e3782ee6292291493d"
+  },
+  {
+    "file": "b-history/major-cutoffs-upsert.json",
+    "sha256": "c0f3e8c7c60e6d06a98c164407cfc847f9cdaeeba14dad33bb5d0b70ce8f307b"
+  },
+  {
+    "file": "b-history/sources.json",
+    "sha256": "ab71a43d2538f078fa8908bd37fd8966706d8de2ef111ce3e4a57f6018423332"
+  },
+  {
+    "file": "b-history/source-manifest.json",
+    "sha256": "7bf49c61dae06f25159cae4748f63d4ee5d4b14c2ffec45421d4c37476b737a4"
+  },
+  {
+    "file": "b-history/school-audit-notes.json",
+    "sha256": "1f8b2f5a616810ca1778ac99790ff1a0fb40c20788da477bfb1eb3eef588dc54"
+  },
+  {
+    "file": "b-history/observations.json",
+    "sha256": "b9485d171138d3fd6a5eea9bd897c009f6c14d99cd98bf57466ce4209880ae4f"
+  },
+  {
+    "file": "b-history/evidence-rows.json",
+    "sha256": "938180a58c9ed5f6482e2ca01a5408b1ade4a7ed08c6cb09ea3e27b621b368bd"
+  },
+  {
+    "file": "b-history/excluded-rows.json",
+    "sha256": "226c61dc8c73f9430791ef2926545f1e233a7b4a046b40b2044edd230bce1e7f"
+  },
+  {
+    "file": "b-history/group-admission-candidates.json",
+    "sha256": "c06184f65ff5cd46348ff8bec2c6bc44281e30174211b102a858ef9a398b3c52"
+  },
+  {
+    "file": "b-history/QA.json",
+    "sha256": "26c23c32b2919cb122f14c4e2b705d172e1fb273788ad2abcffd81e1c7ea14ed"
+  },
+  {
+    "file": "b-history/preflight.json",
+    "sha256": "d3cfcb0d7cca53aa2f1e1b725ab0553fc902643cca4866795100d469efbbe89e"
+  },
+  {
+    "file": "c-vocational/README.md",
+    "sha256": "66b0e57580e20d57b5c4bf95d539e8a3416250ff714bb955a14431868c8c420a"
+  },
+  {
+    "file": "c-vocational/PUBLIC-FILES.json",
+    "sha256": "77df754345357c5e4fbc99b97748514b59bc7d846e027a515ee0a85a12d63f83"
+  },
+  {
+    "file": "c-vocational/targets.json",
+    "sha256": "6e7f317e88beb6a7ed03d9e5171ab1778e487e12545a6e70595103c8bc1e1126"
+  },
+  {
+    "file": "c-vocational/decisions.json",
+    "sha256": "0fae54c16346bb175b66ddda6823fd683ce0f2931993b3ca78131b4a138a7e4c"
+  },
+  {
+    "file": "c-vocational/requests.json",
+    "sha256": "07ce52021ad74a7eb487b46c8460788cf515eeb7d907bb4e44eaab1f50c5f981"
+  },
+  {
+    "file": "c-vocational/fetch.py",
+    "sha256": "d39094d5b5c2da23a5ab80a7ba640a6c4d6b7547f79f6dd1dce4f506b54f8d4e"
+  },
+  {
+    "file": "c-vocational/build.py",
+    "sha256": "cbad05dcd608553163bb4f5f877a668d72fe6c0a09c2002d81e28c66da621303"
+  },
+  {
+    "file": "c-vocational/qa.py",
+    "sha256": "ddaebd1dacbe08de360eba99f82ae0652e423165bc1eaa5c8b34c80eb46ea861"
+  },
+  {
+    "file": "c-vocational/major-cutoffs-upsert.json",
+    "sha256": "95c17ce1bddeb7d777e7a634969ef61b0d6d5c20de5b070c7a0a026d7580f946"
+  },
+  {
+    "file": "c-vocational/sources.json",
+    "sha256": "9ab3f771ffadbd78fdbe1cbced55b881641449a2c70b4c4d7ceba36171901f96"
+  },
+  {
+    "file": "c-vocational/school-audit-notes.json",
+    "sha256": "2117e5665c59c839746883faab3da8379c1f4a72827e0a6af4699a818c187c4f"
+  },
+  {
+    "file": "c-vocational/observations.json",
+    "sha256": "42ca76028d98b391996976b0db0bec55929cc168e86b1e8415aafb25f8ec2974"
+  },
+  {
+    "file": "c-vocational/summary.json",
+    "sha256": "7418f18d4cc8d86c13edda5052f9b01becac00f45dfaa77863ff0625f0657d07"
+  },
+  {
+    "file": "c-vocational/preflight.json",
+    "sha256": "10908bcdfeef041d05ab2f6752de1e2def167bbe412e87016583dfc95852b25c"
+  },
+  {
+    "file": "c-vocational/qa-results.json",
+    "sha256": "c191420f43a84816eead3fa072a68dd4dd363bf8e14d11ae6268b178883d2ebe"
+  },
+  {
+    "file": "d-root/README.md",
+    "sha256": "90a8cf337434c9e777557fe864daeb9ad848b308bd2ff42cfd653e282cc71aa0"
+  },
+  {
+    "file": "d-root/targets.json",
+    "sha256": "e63185f36ec018fa936336c43934a5d371a22b40a500c5b96fd601beb7e2ce7e"
+  },
+  {
+    "file": "d-root/major-cutoffs-upsert.json",
+    "sha256": "8827836bfe3c07c3e1d8f2e639fcf9748dd28d8f7e437baab9a48ceefc92d55b"
+  },
+  {
+    "file": "d-root/group-admission-candidates.json",
+    "sha256": "82388be7c12a8d62b834ddc55e6654c0e3573e3e4fc28d49254c2c9ea2d89710"
+  },
+  {
+    "file": "d-root/school-audit-notes.json",
+    "sha256": "431d2bae742c4b60f5090430b635173db48f0f8e7a8e4d40004032be7ce1cc79"
+  },
+  {
+    "file": "d-root/sources.json",
+    "sha256": "b777255cb85155509d8040c68d30f9991a1f9d1331a89a9ca549b5b33068c09b"
+  },
+  {
+    "file": "d-root/observations.json",
+    "sha256": "46033e52dfaa4b3776c6ac86ec6dc1c5168234ae1eee7f00869b2300b586d8e0"
+  },
+  {
+    "file": "d-root/qa.json",
+    "sha256": "4bd02058f56f937da4601ccf3348f0a605b1666adef59d0d9c2977377e4e80c5"
+  },
+  {
+    "file": "d-root/build.py",
+    "sha256": "95ea1edd9caccc56c5cdffeef59f11cc0d1465ef31e40651a10d5852498dea9e"
+  },
+  {
+    "file": "d-root/fetch.py",
+    "sha256": "7487034ff4df05707def7b1d18cf3b932997934d0df697936f758838f88ef0b9"
+  },
+  {
+    "file": "d-root/session_query.py",
+    "sha256": "61fe2a3ec91dbe8c1e7caf693dbed02338a84d012d304eaf5fcbe4c7617c7bd0"
+  },
+  {
+    "file": "d-root/session-menus.json",
+    "sha256": "44a54bf91f96900a5affe44fc9d1904e9792bbca60f0bdc9906bef06fff09022"
+  },
+  {
+    "file": "d-root/session-scores.json",
+    "sha256": "f23c9d566b525d1e077c86532c8a20986b5bff087863aa7f42b246a49268addf"
+  },
+  {
+    "file": "d-root/session-yzu.json",
+    "sha256": "eac96d86f952183a18bdb51df0addb4a1926e120290afa2cad4fa67dbac2a922"
+  },
+  {
+    "file": "d-root/session-yzu-scores.json",
+    "sha256": "6730c195b135e456d4b2f2c0b54eee50b4a1fe50afc7b8d841b6079b34d1d6d8"
+  },
+  {
+    "file": "d-root/peer-review.json",
+    "sha256": "742ab4058aa944afd2cee5c57b56094d46dadf311987be4d677353efe06714c5"
+  }
+]

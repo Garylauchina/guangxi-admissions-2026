@@ -1,0 +1,56 @@
+[
+  {
+    "baseUrl": "https://zstong.yzu.edu.cn",
+    "entryUrl": "https://zstong.yzu.edu.cn/zsw/lnfs.html",
+    "queries": [
+      {
+        "name": "11117-2026-physics-ordinary.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "nf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "name": "11117-2026-physics-national.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "nf": "2026",
+          "klmc": "物理类",
+          "sex": "",
+          "campus": "",
+          "zslx": "国家专项计划"
+        }
+      },
+      {
+        "name": "11117-2026-history-ordinary.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "nf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "普通类"
+        }
+      },
+      {
+        "name": "11117-2026-history-national.json",
+        "path": "f/ajax_lnfs",
+        "data": {
+          "ssmc": "广西",
+          "nf": "2026",
+          "klmc": "历史类",
+          "sex": "",
+          "campus": "",
+          "zslx": "国家专项计划"
+        }
+      }
+    ]
+  }
+]

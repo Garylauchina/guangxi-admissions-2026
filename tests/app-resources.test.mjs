@@ -4,7 +4,7 @@ import { createHash } from 'node:crypto';
 import { readFile } from 'node:fs/promises';
 
 test('页面及新增模块依赖使用内容版本号，避免旧缓存缺失导出导致白屏',async()=>{
-  const [html,app,coverage]=await Promise.all(['index.html','app.js','coverage.js'].map(name=>readFile(new URL(`../site/${name}`,import.meta.url),'utf8')));
+  const [html,app,coverage,styles]=await Promise.all(['index.html','app.js','coverage.js','styles.css'].map(name=>readFile(new URL(`../site/${name}`,import.meta.url),'utf8')));
   const hash=text=>createHash('sha256').update(text).digest('hex').slice(0,12);
   const moduleVersion=app.match(/from '\.\/coverage\.js\?v=([a-f0-9]+)'/);
   assert.ok(moduleVersion,'app 必须显式刷新有新导出的 coverage 模块');
@@ -12,12 +12,13 @@ test('页面及新增模块依赖使用内容版本号，避免旧缓存缺失�
   const appVersion=html.match(/src="\.\/app\.js\?v=([a-f0-9]+)"/);
   assert.ok(appVersion);
   assert.equal(appVersion[1],hash(app));
+  assert.equal(html.match(/href="\.\/styles\.css\?v=([a-f0-9]+)"/)[1],hash(styles),'双分数布局样式必须随版本刷新');
 });
 
-test('所有实际加载数据的内容共同决定DATA_VERSION，提交版本须与当前12个文件一致',async()=>{
+test('所有实际加载数据的内容共同决定DATA_VERSION，提交版本须与当前13个文件一致',async()=>{
   const app=await readFile(new URL('../site/app.js',import.meta.url),'utf8');
   const names=Object.values(JSON.parse(app.match(/const names=(\{[^\n]+\});/)[1]));
-  assert.equal(names.length,12);
+  assert.equal(names.length,13);
   const hash=createHash('sha256');
   for(const name of names.map(name=>`${name}.json`).sort()){
     hash.update(name);hash.update('\0');

@@ -1,0 +1,26 @@
+[
+  {
+    "schoolCode": "10425",
+    "sourceId": "major-20260920-a-10425-query",
+    "location": "原页面具体专业表模板：专业列之后的最低分、最低分排名、平均分、最高分",
+    "visibleMappings": {"minScore": "最低分", "minOrder": "最低分排名", "avgScore": "平均分", "maxScore": "最高分"},
+    "unconfirmedField": "rs",
+    "note": "人数表头及rs单元格在HTML注释内，不是当前公开展示字段。rs只作为sourceReportedCount保留。"
+  },
+  {
+    "schoolCode": "10749",
+    "sourceId": "major-20260920-a-10749-params-final",
+    "location": "data.showField.showField3；查询页将showField3用于具体专业表",
+    "visibleMappings": {"zslx": "招生类型", "zymc": "专业", "minScore": "最低分", "minOrder": "最低分排名", "avgScore": "平均分", "avgOrder": "平均分排名", "maxScore": "最高分", "maxOrder": "最高分排名"},
+    "unconfirmedField": "rs",
+    "note": "showField3未列rs；原始rs数值不能直接解释为录取人数。"
+  },
+  {
+    "schoolCode": "11415",
+    "sourceId": "major-20260920-a-11415-query",
+    "location": "原页面具体专业表模板：专业列之后的最低分、最低分排名、平均分、最高分",
+    "visibleMappings": {"minScore": "最低分", "minOrder": "最低分排名", "avgScore": "平均分", "maxScore": "最高分"},
+    "unconfirmedField": "rs",
+    "note": "当前前端没有人数列；rs只作为sourceReportedCount保留。组选项名亦不是广西专业组码。"
+  }
+]

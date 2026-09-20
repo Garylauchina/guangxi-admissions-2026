@@ -1,0 +1,124 @@
+[
+  {
+    "schoolCode": "10536",
+    "query": {
+      "ssmc": "广西",
+      "nf": "2026",
+      "klmc": "物理类",
+      "zyz": "",
+      "sex": "",
+      "campus": "",
+      "zslx": "普通类"
+    },
+    "sourceId": "major-20260920-d-10536-2026-physics",
+    "responseRows": 180,
+    "accepted2026Rows": 61,
+    "excludedOtherYearRows": 119,
+    "sourceRsSum": 210,
+    "sourceAggregateRs": 210,
+    "minimum": 561.0,
+    "maximum": 617.0,
+    "numericConflicts": 0
+  },
+  {
+    "schoolCode": "10536",
+    "query": {
+      "ssmc": "广西",
+      "nf": "2026",
+      "klmc": "历史类",
+      "zyz": "",
+      "sex": "",
+      "campus": "",
+      "zslx": "普通类"
+    },
+    "sourceId": "major-20260920-d-10536-2026-history",
+    "responseRows": 22,
+    "accepted2026Rows": 6,
+    "excludedOtherYearRows": 16,
+    "sourceRsSum": 16,
+    "sourceAggregateRs": 16,
+    "minimum": 557.0,
+    "maximum": 580.0,
+    "numericConflicts": 0
+  },
+  {
+    "schoolCode": "11117",
+    "query": {
+      "ssmc": "广西",
+      "nf": "2026",
+      "klmc": "物理类",
+      "sex": "",
+      "campus": "",
+      "zslx": "普通类"
+    },
+    "sourceId": "major-20260920-d-11117-2026-physics-ordinary",
+    "responseRows": 113,
+    "accepted2026Rows": 36,
+    "excludedOtherYearRows": 77,
+    "sourceRsSum": 86,
+    "sourceAggregateRs": 86,
+    "minimum": 531.0,
+    "maximum": 599.0,
+    "numericConflicts": 0
+  },
+  {
+    "schoolCode": "11117",
+    "query": {
+      "ssmc": "广西",
+      "nf": "2026",
+      "klmc": "物理类",
+      "sex": "",
+      "campus": "",
+      "zslx": "国家专项计划"
+    },
+    "sourceId": "major-20260920-d-11117-2026-physics-national",
+    "responseRows": 11,
+    "accepted2026Rows": 3,
+    "excludedOtherYearRows": 8,
+    "sourceRsSum": 9,
+    "sourceAggregateRs": 9,
+    "minimum": 549.0,
+    "maximum": 580.0,
+    "numericConflicts": 0
+  },
+  {
+    "schoolCode": "11117",
+    "query": {
+      "ssmc": "广西",
+      "nf": "2026",
+      "klmc": "历史类",
+      "sex": "",
+      "campus": "",
+      "zslx": "普通类"
+    },
+    "sourceId": "major-20260920-d-11117-2026-history-ordinary",
+    "responseRows": 34,
+    "accepted2026Rows": 10,
+    "excludedOtherYearRows": 24,
+    "sourceRsSum": 23,
+    "sourceAggregateRs": 23,
+    "minimum": 558.0,
+    "maximum": 576.0,
+    "numericConflicts": 0
+  },
+  {
+    "schoolCode": "11117",
+    "query": {
+      "ssmc": "广西",
+      "nf": "2026",
+      "klmc": "历史类",
+      "sex": "",
+      "campus": "",
+      "zslx": "国家专项计划"
+    },
+    "sourceId": "major-20260920-d-11117-2026-history-national",
+    "responseRows": 8,
+    "accepted2026Rows": 2,
+    "excludedOtherYearRows": 6,
+    "sourceRsSum": 5,
+    "sourceAggregateRs": 5,
+    "minimum": 504.0,
+    "maximum": 535.0,
+    "numericConflicts": 0
+  }
+]

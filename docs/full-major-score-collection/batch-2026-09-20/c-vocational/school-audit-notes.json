@@ -1,0 +1,822 @@
+[
+  {
+    "id": "review-major-20260920-c-13831",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "13831",
+    "school": "广西电力职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:41.119517+00:00",
+    "finishedAt": "2026-09-20T07:54:39.243508+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-13831-entry",
+      "major-20260920-c-13831-old2025",
+      "major-20260920-c-13831-result2026"
+    ],
+    "checkedUrls": [
+      "https://zsjy2006.gxdlxy.com/zsxx.htm",
+      "https://zsjy2006.gxdlxy.com/info/1073/2235.htm",
+      "https://mp.weixin.qq.com/s/7_gHMNMWWYMXPIirwXy7aQ"
+    ],
+    "note": "招生信息主页及2025年广西普高各专业录取分数原页可读；原页虽于2026-06-15发布，标题明确统计年为2025。主页链接的2026录取收官微信页返回环境异常验证页，未取得可核验的2026广西专业实际最低分。",
+    "scope": "招生信息首页、2025广西分专业原页、主页链接的2026收官微信页。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西分专业实际最低分；微信正文需正常访问后复核。"
+  },
+  {
+    "id": "review-major-20260920-c-14722",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "14722",
+    "school": "广西制造工程职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:41.119917+00:00",
+    "finishedAt": "2026-09-20T07:57:33.698391+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "access-limited",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-14722-entry",
+      "major-20260920-c-14722-home",
+      "major-20260920-c-14722-alt-home"
+    ],
+    "checkedUrls": [
+      "https://www.gxzzzy.cn/zsjy/",
+      "http://www.gxzzzy.cn/",
+      "https://www.gxzzzy.cn/"
+    ],
+    "note": "本轮读取学校招生就业入口及HTTP、HTTPS主页均返回HTTP 412，未获得正文。访问失败不能证明学校未发布2026专业分；未按空表处理，也未绕过访问验证。",
+    "scope": "学校官网招生就业入口及两个协议的主页。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "可正常读取的官方招生入口和2026广西专业分统计。"
+  },
+  {
+    "id": "review-major-20260920-c-12364",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12364",
+    "school": "广西工业职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:41.120019+00:00",
+    "finishedAt": "2026-09-20T08:07:20.446014+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12364-entry",
+      "major-20260920-c-12364-zs",
+      "major-20260920-c-12364-real-zs",
+      "major-20260920-c-12364-old2025"
+    ],
+    "checkedUrls": [
+      "https://www.gxgy.edu.cn/",
+      "https://www.gxgy.edu.cn/zsxx",
+      "https://www.gxgy.edu.cn/zsxxw",
+      "https://www.gxgy.edu.cn/zsxxw/bkzn/content_75471"
+    ],
+    "note": "从学校旧招生地址的跳转找到zsxxw新站。新站列有2026年广西物理、历史录取名单及通知书公告，但报考指南分专业统计仍明确为2025年普通高考广西生源，发表于2026年3月。未把名单标题、2026发布日期或2025专业分当作2026实际专业分。",
+    "scope": "学校主页、招生入口跳转、新招生网首页、2025广西分专业统计原页；未下载个人录取名单。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026普通高考广西分专业最低录取分统计。"
+  },
+  {
+    "id": "review-major-20260920-c-13138",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "13138",
+    "school": "广西建设职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:54:39.749036+00:00",
+    "finishedAt": "2026-09-20T07:55:51.748825+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-13138-zs",
+      "major-20260920-c-13138-scores"
+    ],
+    "checkedUrls": [
+      "http://www.gxjsxy.cn/zsxx",
+      "https://www.gxjsxy.cn/zsxx/lnlqfs.htm"
+    ],
+    "note": "历年录取分数目录共18条、1页；普通批分专业最新列为2025年广西普通批次正投各专业录取分数线，另有2025单招、对口和艺术类。所检查目录未列2026广西普通高考实际专业分。",
+    "scope": "招生网与历年录取分数目录全1页。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西普通批各专业实际录取分。"
+  },
+  {
+    "id": "review-major-20260920-c-12344",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12344",
+    "school": "广西生态工程职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:41.746454+00:00",
+    "finishedAt": "2026-09-20T07:54:39.914245+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12344-entry",
+      "major-20260920-c-12344-scores"
+    ],
+    "checkedUrls": [
+      "https://zs.gxstzy.cn/",
+      "https://zs.gxstzy.cn/lnfs.htm"
+    ],
+    "note": "官方历年分数页设广西、历史类/物理类及普通批/精准专项筛选，并有分专业最低分字段；当前HTML年份菜单只有2025至2021，没有2026。仅认定本页未提供2026年份入口，未认定2026广西有效空结果。",
+    "scope": "招生首页、历年分数页年份/省份/科类/批次菜单与表头。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026年份选项与对应广西专业统计。"
+  },
+  {
+    "id": "review-major-20260920-c-12379",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12379",
+    "school": "广西国际商务职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:41.776451+00:00",
+    "finishedAt": "2026-09-20T08:07:20.484810+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12379-entry",
+      "major-20260920-c-12379-scores",
+      "major-20260920-c-12379-old2024"
+    ],
+    "checkedUrls": [
+      "https://zsxx.gxibvc.edu.cn/zhaosheng/school!homeIndex.htm",
+      "https://zsxx.gxibvc.edu.cn/zhaosheng/school!articleList.htm?recruitArticle.searchArticleType=5",
+      "https://zsxx.gxibvc.edu.cn/zhaosheng/school!articleDetail.htm?recruitArticle.searchArticleId=312"
+    ],
+    "note": "招生首页的实际分数链接为2025分类招生、2024区内分专业和2023各批次数据；2026条目包括职教高考及普通高考章程。另核查历年分数导航页和2024区内专业分原页，未获得2026广西普通高考专业实际录取分。旧年和职教路线不纳入本轮成绩。",
+    "scope": "招生首页、历年分数导航、2024区内分专业原页。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西普通高考物理/历史专业最低分。"
+  },
+  {
+    "id": "review-major-20260920-c-14821",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "14821",
+    "school": "广西质量工程职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:54:38.614625+00:00",
+    "finishedAt": "2026-09-20T07:57:00.048639+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-14821-home",
+      "major-20260920-c-14821-zs",
+      "major-20260920-c-14821-old2025"
+    ],
+    "checkedUrls": [
+      "https://www.gxzlgc.edu.cn/",
+      "https://www.gxzlgc.edu.cn/zsw/",
+      "https://www.gxzlgc.edu.cn/zsw/info/1056/1836.htm"
+    ],
+    "note": "招生网2026-07-03发布的广西分数线及位次条目均明确写2025年；已打开广西分数原页确认。当前所检栏目其他2026通知涉及职教高考与计划，未取得2026广西普通高考实际专业分。",
+    "scope": "学校主页、招生网首页、2025广西分数原页。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西普通高考分专业分数统计。"
+  },
+  {
+    "id": "review-major-20260920-c-14763",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "14763",
+    "school": "广西信息职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:41.827659+00:00",
+    "finishedAt": "2026-09-20T07:57:00.404116+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-14763-entry",
+      "major-20260920-c-14763-linked-score",
+      "major-20260920-c-14763-old2025"
+    ],
+    "checkedUrls": [
+      "https://www.gxuie.cn/",
+      "https://zs.gxuie.cn/",
+      "https://zs.gxuie.cn/newstudent/view/aid/439/tag/zskx"
+    ],
+    "note": "沿学校官网进入信息学院招生网，打开2026-06-23发布的普通高考各专业录取情况表；标题明确为2025年。2026新生通知、计划和征集信息不等同实际专业录取分，本轮未取得2026广西专业最低分。",
+    "scope": "学校官网、信息学院招生网首页、2025专业录取情况原页。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026普通高考广西分专业实际录取分。"
+  },
+  {
+    "id": "review-major-20260920-c-14723",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "14723",
+    "school": "广西物流职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:42.160466+00:00",
+    "finishedAt": "2026-09-20T07:54:40.645109+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "reviewed-gap",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-14723-entry",
+      "major-20260920-c-14723-zs"
+    ],
+    "checkedUrls": [
+      "https://www.gxlvtc.edu.cn/",
+      "https://www.gxlvtc.edu.cn/zs/zsxx.htm"
+    ],
+    "note": "招生信息第1页显示2026就业及招生宣传、2025分类考试分数和2025省外普通批录取名单；2025分类分数条目明确为单招/对口。所读主页和招生信息首页未取得2026广西普通高考专业分；未下载名单，也不把首页范围扩大为全站未发布。",
+    "scope": "学校主页及招生信息目录第1页（共11页）。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西物理/历史分专业实际录取分；其他栏目或后续公告待查。"
+  },
+  {
+    "id": "review-major-20260920-c-14220",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "14220",
+    "school": "广西幼儿师范高等专科学校",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:54:38.614239+00:00",
+    "finishedAt": "2026-09-20T07:55:52.332200+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-14220-zs",
+      "major-20260920-c-14220-scores"
+    ],
+    "checkedUrls": [
+      "https://zsw.gxyesf.edu.cn/",
+      "https://zsw.gxyesf.edu.cn/zsxx/lnfs.htm"
+    ],
+    "note": "招生就业处历年分数页含广西省份及分专业录取情况模块，但当前年份菜单仅2025、2024、2023、2022，科类和类型有未初始化模板占位。未获得2026年份入口或有效目标结果，不能把初始空模块认定为2026广西无数据。",
+    "scope": "招生首页、历年分数页菜单及初始返回模板。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026查询选项与广西科类正确筛选后的专业表。"
+  },
+  {
+    "id": "review-major-20260920-c-10830",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10830",
+    "school": "湖南工业职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:55:53.779376+00:00",
+    "finishedAt": "2026-09-20T07:56:58.637107+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-10830-correct-zs",
+      "major-20260920-c-10830-scores"
+    ],
+    "checkedUrls": [
+      "http://www.hunangy.com/zjc",
+      "http://www.hunangy.com/zjc/lnfs.htm"
+    ],
+    "note": "历年分数第1页最新普通高考数据为2025湖南省内首轮投档线（2026-06-29发布）；外省最新可见为2024年各大类首轮投档线。2026年3月的分数公告为单招路线，不是广西普通高考专业实际分。",
+    "scope": "官网招生网及历年分数目录第1页。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西普通高考分专业实际录取分。"
+  },
+  {
+    "id": "review-major-20260920-c-13112",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "13112",
+    "school": "南京信息职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:42.870425+00:00",
+    "finishedAt": "2026-09-20T07:55:51.824376+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "reviewed-gap",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-13112-entry",
+      "major-20260920-c-13112-zs",
+      "major-20260920-c-13112-gk"
+    ],
+    "checkedUrls": [
+      "https://www.njcit.cn/",
+      "http://zs.njcit.cn/",
+      "http://zs.njcit.cn/gkzs/list.htm"
+    ],
+    "note": "沿学校主页进入招生网及高考招生栏目第1页；最新条目为2026高考招生章程，目录其余为旧年章程及计划，未见2026广西分专业录取统计。结论限于所读首页与高考招生目录第1页，不推断全站或其他官方渠道均未发布。",
+    "scope": "学校主页、招生网首页、高考招生目录第1页（共7页）。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西物理/历史专业最低分的直接官方来源。"
+  },
+  {
+    "id": "review-major-20260920-c-13919",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "13919",
+    "school": "广东理工职业学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:55:53.144409+00:00",
+    "finishedAt": "2026-09-20T07:56:58.034760+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-13919-correct-zs",
+      "major-20260920-c-13919-scores"
+    ],
+    "checkedUrls": [
+      "https://zs.gdpi.edu.cn/",
+      "https://zs.gdpi.edu.cn/pglq/lnlqfs.htm"
+    ],
+    "note": "已确认广东理工招生网身份。普高录取—历年录取分数栏目共1条，为2021年广东省文理科夏季高考各专业录取分数及排位；该条为旧年且省外，不能形成2026广西专业分。",
+    "scope": "广东理工招生首页与普高历年分数目录全1页。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西专业实际最低分；不采用相似校名院校资料。"
+  },
+  {
+    "id": "review-major-20260920-c-12828",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12828",
+    "school": "西安航空职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:57:33.573973+00:00",
+    "finishedAt": "2026-09-20T07:58:31.745058+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12828-correct-zs",
+      "major-20260920-c-12828-scores"
+    ],
+    "checkedUrls": [
+      "https://www.xihang.com.cn/zsw/",
+      "https://www.xihang.com.cn/zsw/lnlqfs/list.htm"
+    ],
+    "note": "已进入西安航空职业技术学院官方.com.cn招生网。历年录取分数全1页共11条，最新标题为2025年各省录取情况，发布日期2026-04-20；其余2015—2024。未把2026发布日期转成2026统计年。",
+    "scope": "官方招生网及历年录取分数全部11条目录。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西实际分专业最低分。"
+  },
+  {
+    "id": "review-major-20260920-c-13929",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "13929",
+    "school": "广州城市职业学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T08:07:20.129641+00:00",
+    "finishedAt": "2026-09-20T08:08:39.721067+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-13929-official-home",
+      "major-20260920-c-13929-real-zs",
+      "major-20260920-c-13929-zsw-final",
+      "major-20260920-c-13929-result2026"
+    ],
+    "checkedUrls": [
+      "https://www.gcp.edu.cn/",
+      "http://zs.gcp.edu.cn/",
+      "https://www.gcp.edu.cn/zsw/",
+      "https://www.gcp.edu.cn/info/1051/22259.htm"
+    ],
+    "note": "已沿广州城市职业学院gcp.edu.cn主页的普高招生链接及跳转进入代码13929招生网。招生首页录取统计最新列为2023—2025分省普高录取；2026-08-05学校新闻正文只给广东省首次投档情况，未给广西分专业实际录取分。相似名称的广州城建等来源未采用。",
+    "scope": "学校主页、普高招生跳转、新招生网首页、2026夏季录取新闻正文。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西分专业实际最低分。"
+  },
+  {
+    "id": "review-major-20260920-c-12036",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12036",
+    "school": "浙江交通职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:54:40.959395+00:00",
+    "finishedAt": "2026-09-20T07:56:58.237970+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12036-zs",
+      "major-20260920-c-12036-scores",
+      "major-20260920-c-12036-query"
+    ],
+    "checkedUrls": [
+      "http://zs.zjvtit.edu.cn/",
+      "https://zs.zjvtit.edu.cn/list/7/1.shtml",
+      "https://zs.zjvtit.edu.cn/cx/lnfs.aspx"
+    ],
+    "note": "招生网历年录取目录及查询页均可读。查询页含广西省份选项，但年份菜单最高2025（另2024、2022、2021、2020），不提供2026；默认浙江数据不能证明广西目标查询为空。",
+    "scope": "历年录取目录、历年录取查询菜单和默认表头。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026年份选项和广西专业分目标数据。"
+  },
+  {
+    "id": "review-major-20260920-c-13397",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "13397",
+    "school": "石家庄邮电职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:44.482904+00:00",
+    "finishedAt": "2026-09-20T07:58:30.725171+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "access-limited",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-13397-entry",
+      "major-20260920-c-13397-correct-zs",
+      "major-20260920-c-13397-score-query"
+    ],
+    "checkedUrls": [
+      "https://www.sjzpc.edu.cn/",
+      "https://www.sjzpc.edu.cn/zhaosheng/",
+      "https://zsbm.sjzpc.edu.cn/zsxt-vue/"
+    ],
+    "note": "学校招生网可读，列有2026录取通知等公告，并将历年分数指向公开zsxt-vue查询系统。读取该系统入口返回HTTP 400，未获得年份、省份和科类筛选，不能判定2026广西目标为空。",
+    "scope": "学校主页、真实招生网首页、其链接的历年分数查询系统入口。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "正常可用的专业分查询及2026广西目标筛选。"
+  },
+  {
+    "id": "review-major-20260920-c-12679",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12679",
+    "school": "江苏海事职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:54:41.478391+00:00",
+    "finishedAt": "2026-09-20T08:08:06.541552+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "group-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12679-zs",
+      "major-20260920-c-12679-gk-scores",
+      "major-20260920-c-12679-results2026"
+    ],
+    "checkedUrls": [
+      "http://zs.jmi.edu.cn/",
+      "https://zs.jmi.edu.cn/4136/list.htm",
+      "https://zs.jmi.edu.cn/b7/f2/c4136a112626/page.htm"
+    ],
+    "note": "普通高招历年分数栏目已发布2026各地区各批次录取分数。原表广西普通批历史426、物理411，另有军士提前批，但按地区/批次/科类汇总，未给广西专业名称和专业实际最低分。不能将汇总值复制给各专业。",
+    "scope": "招生网、普通高招历年分数、2026完整HTML统计表广西行及表头。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西普通批专业级实际录取最低分。"
+  },
+  {
+    "id": "review-major-20260920-c-12981",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12981",
+    "school": "武汉电力职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:55:53.575976+00:00",
+    "finishedAt": "2026-09-20T07:59:42.479856+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "access-limited",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12981-correct-zs",
+      "major-20260920-c-12981-https-zs",
+      "major-20260920-c-12981-charter"
+    ],
+    "checkedUrls": [
+      "http://www.whetc.com/zsjy/",
+      "https://www.whetc.com/zsjy/",
+      "https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--method-view%2CschId-1453%2CinfoId-7606212540.dhtml"
+    ],
+    "note": "读取学校官方招生就业HTTP及HTTPS入口分别遇到连接关闭/SSL失败；另尝试阳光高考招生章程入口返回HTTP 412。未取得可核验的2026广西专业分；这只说明本轮访问失败，不说明学校未发布。",
+    "scope": "官方招生就业入口两个协议及阳光高考官方章程备用入口。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "可正常读取的官方录取统计或公开查询。"
+  },
+  {
+    "id": "review-major-20260920-c-11828",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11828",
+    "school": "郑州电力高等专科学校",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:55:53.842099+00:00",
+    "finishedAt": "2026-09-20T08:08:27.583529+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "entry-only-year-gap",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-11828-correct-zs",
+      "major-20260920-c-11828-app-js",
+      "major-20260920-c-11828-api-years",
+      "major-20260920-c-11828-api-province",
+      "major-20260920-c-11828-api-subjects",
+      "major-20260920-c-11828-control-years",
+      "major-20260920-c-11828-control-province",
+      "major-20260920-c-11828-control-subjects"
+    ],
+    "checkedUrls": [
+      "https://zs.zepc.cloudzhaokao.com/",
+      "https://zs.zepc.cloudzhaokao.com/static/js/app.b37abc75.js",
+      "https://zs.zepc.cloudzhaokao.com/cms/api/majors/scoreline/years",
+      "https://zs.zepc.cloudzhaokao.com/cms/api/majors/scoreline/province",
+      "https://zs.zepc.cloudzhaokao.com/cms/api/majors/scoreline/subjects",
+      "https://zs.zepc.cloudzhaokao.com/cms/api/academy/scoreline/years",
+      "https://zs.zepc.cloudzhaokao.com/cms/api/academy/scoreline/province",
+      "https://zs.zepc.cloudzhaokao.com/cms/api/academy/scoreline/subjects"
+    ],
+    "note": "官方云招生站及公开前端可读，按前端声明的公开租户头访问专业分年份/省份/科类菜单，均无选项；学校汇总分的对应3个菜单作为对照也无选项。没有有效广西ID/年份/科类组合，未进行臆造筛选，因此不把该响应当作2026广西专业分有效空表。",
+    "scope": "官方云站、公开前端声明和专业分/学校分共6个菜单API；未访问个人录取查询接口。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "有有效菜单和正对照的专业分查询，或独立2026广西专业分公告。"
+  },
+  {
+    "id": "review-major-20260920-c-11916",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11916",
+    "school": "重庆电力高等专科学校",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:56:59.054743+00:00",
+    "finishedAt": "2026-09-20T07:58:30.921682+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "group-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-11916-correct-zs",
+      "major-20260920-c-11916-scores"
+    ],
+    "checkedUrls": [
+      "https://zsxx.cqepc.com.cn/",
+      "https://zsxx.cqepc.com.cn/lnfs1.htm"
+    ],
+    "note": "官网历年分数表含年份、省市、批次、科类、录取人数、控制线、出档线、录取线、最高分、平均分，没有专业列。虽然菜单含2026，返回HTML中广西行止于2025，不能用2026菜单或学校汇总线构造2026专业分。",
+    "scope": "招生首页与历年分数全部返回HTML的表头、年份菜单及广西行。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西专业级实际最低分；现返回表仅学校科类汇总。"
+  },
+  {
+    "id": "review-major-20260920-c-12354",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12354",
+    "school": "襄阳职业技术大学",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:46.169149+00:00",
+    "finishedAt": "2026-09-20T07:57:00.729698+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "reviewed-gap",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12354-entry",
+      "major-20260920-c-12354-zs",
+      "major-20260920-c-12354-list"
+    ],
+    "checkedUrls": [
+      "https://www.hbxytc.cn/",
+      "https://zsxx.hbxytc.cn/",
+      "https://zsxx.hbxytc.cn/zsxx/zkzhao_sheng.htm"
+    ],
+    "note": "学校已更名为襄阳职业技术大学，招生首页有2026录取公告入口；专科招生目录当前仅2026专业一览和2024—2025湖北专科分科类录取统计。所读官方栏目没有取得2026广西分专业最低分，湖北旧年汇总不得替代。",
+    "scope": "学校主页、招生首页、专科招生目录全1页；未把其他省份录取公告标题当作广西数据。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西专科物理/历史分专业实际录取统计。"
+  },
+  {
+    "id": "review-major-20260920-c-12493",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12493",
+    "school": "上海行健职业学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:54:43.481333+00:00",
+    "finishedAt": "2026-09-20T07:57:34.269643+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "collected-partial",
+    "recordCount": 4,
+    "sourceIds": [
+      "major-20260920-c-12493-http",
+      "major-20260920-c-12493-zs",
+      "major-20260920-c-12493-results2026",
+      "major-20260920-c-12493-pdf2026"
+    ],
+    "checkedUrls": [
+      "http://www.shxj.edu.cn/",
+      "http://www.shxj.edu.cn/zsxxw/main.htm",
+      "http://www.shxj.edu.cn/zsxxw/2026/0903/c225a36669/page.htm",
+      "http://www.shxj.edu.cn/_upload/article/files/33/9e/d9a67c7d4be3aad548d2f647afb2/c49573aa-1cd8-48ba-a389-1a2131d734c7.pdf"
+    ],
+    "note": "学校2026年全国统一高考各省市各专业录取最低分PDF中，广西历史/物理两列共4个非空专业单元格，已逐格对照原页。新增酒店管理与数字化运营历史403、现代家政服务与管理历史405、软件技术物理439、智慧健康养老服务与管理物理410。表未列广西组码、专业代码、具体批次和轮次，不推断为首轮；空白不是0分。",
+    "scope": "2026录取最低分公告及其1页PDF的广西两列、相邻省份边界、专业行。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "广西组码、专业代码、具体批次/轮次、招生类别细分、最低位次及人数未披露；仅覆盖本PDF4个非空广西单元格。"
+  },
+  {
+    "id": "review-major-20260920-c-12933",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12933",
+    "school": "江西电力职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:56:58.748795+00:00",
+    "finishedAt": "2026-09-20T07:59:42.949447+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "group-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12933-correct-zs",
+      "major-20260920-c-12933-scores",
+      "major-20260920-c-12933-results2026",
+      "major-20260920-c-12933-results2026-img"
+    ],
+    "checkedUrls": [
+      "https://www.jxec.edu.cn/zsjy/index.htm",
+      "https://www.jxec.edu.cn/zsjy/index/tdfs.htm",
+      "https://www.jxec.edu.cn/zsjy/info/1012/19002.htm",
+      "https://www.jxec.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2130135033&wbfileid=25277730552D52BFFA248E3973400809"
+    ],
+    "note": "2026-09-15发布的各省录取分数附件已读原图：标题2026年分省录取分数表，广西物理最低410、历史最低396。表仅省份/科类与最高、最低、平均分等，无专业字段，不能写成各专业最低录取分。",
+    "scope": "招生就业首页、投档分数目录、2026公告和其原始分省统计图。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西物理/历史分专业实际最低分。"
+  },
+  {
+    "id": "review-major-20260920-c-12977",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12977",
+    "school": "武汉铁路职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:54:41.965860+00:00",
+    "finishedAt": "2026-09-20T08:08:40.003646+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12977-zs",
+      "major-20260920-c-12977-linked-score",
+      "major-20260920-c-12977-img"
+    ],
+    "checkedUrls": [
+      "https://zjc.wru.edu.cn/",
+      "https://zjc.wru.edu.cn/info/1031/5608.htm",
+      "https://zjc.wru.edu.cn/__local/7/1B/45/6822EDF42C37EBEB3FA5A68CAF2_BCE289C4_23170.png"
+    ],
+    "note": "招生网2026-06-04发布学校近三年各省第一志愿投档线，原图已视觉复核为2025、2024、2023省份投档汇总及技能高考分数；没有2026专业实际分。发布日期不改变原图统计年，投档和技能高考均不混入本轮专业分。",
+    "scope": "招生网首页、近三年各省第一志愿投档线原页及完整原图。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西普通高考专业级实际录取分。"
+  },
+  {
+    "id": "review-major-20260920-c-12302",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12302",
+    "school": "湖南铁道职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:56:59.006180+00:00",
+    "finishedAt": "2026-09-20T08:09:17.944849+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "group-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12302-correct-zs",
+      "major-20260920-c-12302-https-zs",
+      "major-20260920-c-12302-main-official",
+      "major-20260920-c-12302-real-zs",
+      "major-20260920-c-12302-results2026",
+      "major-20260920-c-12302-pdf2026"
+    ],
+    "checkedUrls": [
+      "http://zs.hnrpc.com/",
+      "https://zs.hnrpc.com/",
+      "https://www.hnrpc.com/",
+      "https://www.hnrpc.com/zs/main.htm",
+      "https://www.hnrpc.com/zs/2026/0827/c80a61154/page.htm",
+      "https://www.hnrpc.com/_upload/article/files/f2/25/5f8759d044c4a3720983bf4ac667/c01ea36d-3a0f-44a1-b8a4-4f79740a2255.pdf"
+    ],
+    "note": "旧招生子域访问失败后，沿学校主页的招生网链接找到可读新入口（页首国标代码12302）。2026普高录取情况PDF已核原页，跨省部分广西历史20人504—415、物理50人490—409，未列专业；右侧专业组仅湖南，不能移给广西。",
+    "scope": "旧入口失败、新学校主页导向的招生网、2026公告及1页PDF广西行和两侧表头。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西各专业实际最低分及广西专业组对应关系。"
+  },
+  {
+    "id": "review-major-20260920-c-12870",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12870",
+    "school": "浙江金融职业学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:54:41.912963+00:00",
+    "finishedAt": "2026-09-20T07:56:58.495714+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "year-unavailable",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12870-zs",
+      "major-20260920-c-12870-scores",
+      "major-20260920-c-12870-query"
+    ],
+    "checkedUrls": [
+      "http://zsb.zfc.edu.cn/",
+      "https://zsb.zfc.edu.cn/list/29/1.shtml",
+      "https://zsb.zfc.edu.cn/cx/lnlq.aspx"
+    ],
+    "note": "官方历年录取查询含广西省份及专业选项，但年份只有2025—2021，没有2026。已读默认专业表和菜单，未把默认浙江数据、未选择状态或2025分数当作2026广西结果。",
+    "scope": "招生网、历年录取栏目和查询页菜单/默认表。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026年份的广西专业最低分查询或公告。"
+  },
+  {
+    "id": "review-major-20260920-c-11826",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11826",
+    "school": "西安电力高等专科学校",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:49.589458+00:00",
+    "finishedAt": "2026-09-20T07:59:47.497332+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "access-limited",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-11826-entry",
+      "major-20260920-c-11826-http",
+      "major-20260920-c-11826-zs",
+      "major-20260920-c-11826-charter"
+    ],
+    "checkedUrls": [
+      "https://www.xaepi.edu.cn/",
+      "http://www.xaepi.edu.cn/",
+      "https://www.xaepi.edu.cn/Information/Section/40",
+      "https://www.xaepi.edu.cn/Information/news/37185"
+    ],
+    "note": "本轮学校HTTP主页连接关闭，HTTPS主页、招生栏目及2026章程地址均遇SSL协议EOF，未获得正文。已尝试栏目和原文备用入口，但访问受限不能证明未发布2026广西专业分。",
+    "scope": "官网主页两个协议、招生栏目、2026章程原文地址。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "可访问的官方2026广西专业录取统计入口。"
+  },
+  {
+    "id": "review-major-20260920-c-10827",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "10827",
+    "school": "长沙民政职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:49.614139+00:00",
+    "finishedAt": "2026-09-20T07:55:52.491070+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "group-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-10827-entry",
+      "major-20260920-c-10827-zs",
+      "major-20260920-c-10827-scores"
+    ],
+    "checkedUrls": [
+      "https://www.csmzxy.edu.cn/",
+      "http://zs.csmzxy.edu.cn/",
+      "https://zs.csmzxy.edu.cn/index/lnfsx.htm"
+    ],
+    "note": "官网历年分数线完整HTML含2026广西历史425、物理407，但结构为年份/省份/科类汇总，没有专业字段。只能作为学校分数参考，不能复制为专业实际录取最低分。",
+    "scope": "学校主页、招生网、历年分数线表2026广西两项及表头。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西分专业实际最低分及轮次口径。"
+  },
+  {
+    "id": "review-major-20260920-c-12300",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "12300",
+    "school": "湖南大众传媒职业技术学院",
+    "auditKind": "major-scores",
+    "checkedAt": "2026-09-20",
+    "startedAt": "2026-09-20T07:53:50.342124+00:00",
+    "finishedAt": "2026-09-20T07:55:52.491176+00:00",
+    "title": "2026广西高职专业录取分核查",
+    "status": "prior-year-only",
+    "recordCount": 0,
+    "sourceIds": [
+      "major-20260920-c-12300-entry",
+      "major-20260920-c-12300-zs",
+      "major-20260920-c-12300-scores"
+    ],
+    "checkedUrls": [
+      "https://www.hnmmc.cn/",
+      "https://zsw.hnmmc.cn/",
+      "https://zsw.hnmmc.cn/914/list.htm"
+    ],
+    "note": "高考普招历年分数目录第1页最新外省普通类统计为2025年，发表于2026-04-29；同日另有2025艺术类和湖南投档情况。未用2026发布日期、艺术类或湖南分数替代2026广西专业分。",
+    "scope": "学校主页、招生网、历年录取分数目录第1页（共3页）。 核查范围限所列入口、目录和原文；未取得不等于学校未招生或所有渠道均未发布。",
+    "remainingGaps": "2026广西普通高考专业实际录取最低分。"
+  }
+]

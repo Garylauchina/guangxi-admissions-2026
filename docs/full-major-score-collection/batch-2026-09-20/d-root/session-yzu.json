@@ -1,0 +1,13 @@
+[
+  {
+    "baseUrl": "https://zstong.yzu.edu.cn",
+    "entryUrl": "https://zstong.yzu.edu.cn/zsw/lnfs.html",
+    "queries": [
+      {
+        "name": "11117-menu-session.json",
+        "path": "f/ajax_lnfs_param",
+        "data": {}
+      }
+    ]
+  }
+]

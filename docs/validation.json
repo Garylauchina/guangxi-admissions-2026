@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "checkedAt": "2026-09-12T14:24:06.899Z",
+  "checkedAt": "2026-09-20T08:25:08.291Z",
   "status": "passed",
   "cutoffs": 11448,
   "firstRound": 8155,
@@ -17,8 +17,10 @@
     "unavailable": 0
   },
   "supplementaryPlanRecords": 84,
-  "majorCutoffs": 1515,
-  "majorCutoffSchools": 43,
+  "groupAdmissionScores": 8,
+  "groupAdmissionSchools": 2,
+  "majorCutoffs": 1793,
+  "majorCutoffSchools": 53,
   "specialPrograms": 43,
   "specialGuangxiStatus": {
     "confirmed": 23,
@@ -33,9 +35,9 @@
   "specialScores": 34,
   "majorScoresPending": 121,
   "majorFilingRecordsSeparate": 136,
-  "schoolReviewNotes": 327,
-  "schoolsWithReviewNotes": 209,
-  "sources": 1604,
+  "schoolReviewNotes": 427,
+  "schoolsWithReviewNotes": 309,
+  "sources": 2024,
   "ranks": 1010,
   "limits": [
     "专业计划与实际专业录取线为部分覆盖",

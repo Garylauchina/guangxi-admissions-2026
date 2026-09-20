@@ -1,0 +1,82 @@
+[
+  {
+    "file": "README.md",
+    "sha256": "b4f82020049efa80468b31cb31c1c52e2980527774a3d9ea5b0e3fcb350c7009",
+    "bytes": 4652
+  },
+  {
+    "file": "QA.md",
+    "sha256": "5290fe69ea4983aaef553eb400e3755948424329a3bfc140895a952fbf2f19ea",
+    "bytes": 1591
+  },
+  {
+    "file": "QA.json",
+    "sha256": "b174c7b475cfa7187c30eb95d3a7908274f77e1fc282ebd51022a391776c5d7b",
+    "bytes": 3085
+  },
+  {
+    "file": "targets.json",
+    "sha256": "fc1a859446ce243f05be063e13fde6074ab3326fdc5e7acc70d328e8ee837820",
+    "bytes": 17457
+  },
+  {
+    "file": "major-cutoffs-upsert.json",
+    "sha256": "792415bfcf4c82a96c958ee6c89d58b64f059d90c2a30bdfdc0441bb467983e7",
+    "bytes": 276380
+  },
+  {
+    "file": "sources.json",
+    "sha256": "dcfb0e93f67c4d2dcc18ee5f9cbe54a697e7477d9cd18dc5de6c8f259fb3e321",
+    "bytes": 119219
+  },
+  {
+    "file": "school-audit-notes.json",
+    "sha256": "e33d2a2d2433c49f323d453617b4ea1441f084994a51275ae94e07e77531efc8",
+    "bytes": 38237
+  },
+  {
+    "file": "observations.json",
+    "sha256": "3e6e5984e0d3d165e7e07f5c200c3134b576a9020dafab0d251bb908f3301144",
+    "bytes": 112849
+  },
+  {
+    "file": "row-evidence.json",
+    "sha256": "f5d210efcaed6859f210dae3eab0fe84da27841b0b56334f162a06694c294cea",
+    "bytes": 123632
+  },
+  {
+    "file": "field-mapping-evidence.json",
+    "sha256": "272db71d7b18373ada28dfd046acc850ee46e2a1ad7164107767fe489951dbf3",
+    "bytes": 1528
+  },
+  {
+    "file": "group-admission-candidates.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "bytes": 3
+  },
+  {
+    "file": "import-preflight.json",
+    "sha256": "028a11acfe74dca8889b63615f592add00af126a0a1abd433e683c5cff2d7886",
+    "bytes": 10612
+  },
+  {
+    "file": "build.py",
+    "sha256": "0156fc20a9615de4276197a3f163d4c553a916e5ac9b19af68140b50ab15928f",
+    "bytes": 22422
+  },
+  {
+    "file": "collector.py",
+    "sha256": "581b1122862109136318e1e092faff1cba8fba66331ff70555ee2279e7fdad55",
+    "bytes": 4292
+  },
+  {
+    "file": "api_collector.py",
+    "sha256": "6c9ed2fca69fe6c7d41c273b44416200e44305699928f18f825f27e3dc6cc28d",
+    "bytes": 5464
+  },
+  {
+    "file": "PUBLIC-FILES.txt",
+    "sha256": "4d7e10facecf2efe187cdab14a5be154b51e262435aef311117ed68b94351b27",
+    "bytes": 298
+  }
+]

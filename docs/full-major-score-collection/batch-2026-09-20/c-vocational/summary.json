@@ -1,0 +1,18 @@
+{
+  "schools": 30,
+  "actualMajorRecords": 4,
+  "schoolsWithActualMajorRecords": 1,
+  "statusCounts": {
+    "prior-year-only": 12,
+    "access-limited": 4,
+    "year-unavailable": 4,
+    "reviewed-gap": 3,
+    "group-only": 5,
+    "entry-only-year-gap": 1,
+    "collected-partial": 1
+  },
+  "officialSourceRecords": 95,
+  "responseHashes": 82,
+  "accessFailureRecords": 13,
+  "negativeConclusions": "仅对所列入口范围有效，不代表全校全渠道未发布"
+}

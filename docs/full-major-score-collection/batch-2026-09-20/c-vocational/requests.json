@@ -1,0 +1,685 @@
+[
+  {
+    "id": "13831-entry",
+    "schoolCode": "13831",
+    "school": "广西电力职业技术学院",
+    "url": "https://zsjy2006.gxdlxy.com/zsxx.htm",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "13831-old2025",
+    "schoolCode": "13831",
+    "school": "广西电力职业技术学院",
+    "url": "https://zsjy2006.gxdlxy.com/info/1073/2235.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "13831-result2026",
+    "schoolCode": "13831",
+    "school": "广西电力职业技术学院",
+    "url": "https://mp.weixin.qq.com/s/7_gHMNMWWYMXPIirwXy7aQ",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "14722-entry",
+    "schoolCode": "14722",
+    "school": "广西制造工程职业技术学院",
+    "url": "https://www.gxzzzy.cn/zsjy/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "14722-home",
+    "schoolCode": "14722",
+    "school": "广西制造工程职业技术学院",
+    "url": "http://www.gxzzzy.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "14722-alt-home",
+    "schoolCode": "14722",
+    "school": "广西制造工程职业技术学院",
+    "url": "https://www.gxzzzy.cn/",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12364-entry",
+    "schoolCode": "12364",
+    "school": "广西工业职业技术学院",
+    "url": "https://www.gxgy.edu.cn/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "12364-zs",
+    "schoolCode": "12364",
+    "school": "广西工业职业技术学院",
+    "url": "https://www.gxgy.edu.cn/zsxx",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12364-real-zs",
+    "schoolCode": "12364",
+    "school": "广西工业职业技术学院",
+    "url": "https://www.gxgy.edu.cn/zsxxw",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12364-old2025",
+    "schoolCode": "12364",
+    "school": "广西工业职业技术学院",
+    "url": "https://www.gxgy.edu.cn/zsxxw/bkzn/content_75471",
+    "purpose": "official-score-catalog-followup"
+  },
+  {
+    "id": "13138-zs",
+    "schoolCode": "13138",
+    "school": "广西建设职业技术学院",
+    "url": "http://www.gxjsxy.cn/zsxx",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "13138-scores",
+    "schoolCode": "13138",
+    "school": "广西建设职业技术学院",
+    "url": "https://www.gxjsxy.cn/zsxx/lnlqfs.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12344-entry",
+    "schoolCode": "12344",
+    "school": "广西生态工程职业技术学院",
+    "url": "https://zs.gxstzy.cn/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "12344-scores",
+    "schoolCode": "12344",
+    "school": "广西生态工程职业技术学院",
+    "url": "https://zs.gxstzy.cn/lnfs.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12379-entry",
+    "schoolCode": "12379",
+    "school": "广西国际商务职业技术学院",
+    "url": "https://zsxx.gxibvc.edu.cn/zhaosheng/school!homeIndex.htm",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "12379-scores",
+    "schoolCode": "12379",
+    "school": "广西国际商务职业技术学院",
+    "url": "https://zsxx.gxibvc.edu.cn/zhaosheng/school!articleList.htm?recruitArticle.searchArticleType=5",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12379-old2024",
+    "schoolCode": "12379",
+    "school": "广西国际商务职业技术学院",
+    "url": "https://zsxx.gxibvc.edu.cn/zhaosheng/school!articleDetail.htm?recruitArticle.searchArticleId=312",
+    "purpose": "official-score-catalog-followup"
+  },
+  {
+    "id": "14821-home",
+    "schoolCode": "14821",
+    "school": "广西质量工程职业技术学院",
+    "url": "https://www.gxzlgc.edu.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "14821-zs",
+    "schoolCode": "14821",
+    "school": "广西质量工程职业技术学院",
+    "url": "https://www.gxzlgc.edu.cn/zsw/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "14821-old2025",
+    "schoolCode": "14821",
+    "school": "广西质量工程职业技术学院",
+    "url": "https://www.gxzlgc.edu.cn/zsw/info/1056/1836.htm",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "14763-entry",
+    "schoolCode": "14763",
+    "school": "广西信息职业技术学院",
+    "url": "https://www.gxuie.cn/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "14763-linked-score",
+    "schoolCode": "14763",
+    "school": "广西信息职业技术学院",
+    "url": "https://zs.gxuie.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "14763-old2025",
+    "schoolCode": "14763",
+    "school": "广西信息职业技术学院",
+    "url": "https://zs.gxuie.cn/newstudent/view/aid/439/tag/zskx",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "14723-entry",
+    "schoolCode": "14723",
+    "school": "广西物流职业技术学院",
+    "url": "https://www.gxlvtc.edu.cn/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "14723-zs",
+    "schoolCode": "14723",
+    "school": "广西物流职业技术学院",
+    "url": "https://www.gxlvtc.edu.cn/zs/zsxx.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "14220-zs",
+    "schoolCode": "14220",
+    "school": "广西幼儿师范高等专科学校",
+    "url": "https://zsw.gxyesf.edu.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "14220-scores",
+    "schoolCode": "14220",
+    "school": "广西幼儿师范高等专科学校",
+    "url": "https://zsw.gxyesf.edu.cn/zsxx/lnfs.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "10830-correct-zs",
+    "schoolCode": "10830",
+    "school": "湖南工业职业技术学院",
+    "url": "http://www.hunangy.com/zjc",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "10830-scores",
+    "schoolCode": "10830",
+    "school": "湖南工业职业技术学院",
+    "url": "http://www.hunangy.com/zjc/lnfs.htm",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "13112-entry",
+    "schoolCode": "13112",
+    "school": "南京信息职业技术学院",
+    "url": "https://www.njcit.cn/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "13112-zs",
+    "schoolCode": "13112",
+    "school": "南京信息职业技术学院",
+    "url": "http://zs.njcit.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "13112-gk",
+    "schoolCode": "13112",
+    "school": "南京信息职业技术学院",
+    "url": "http://zs.njcit.cn/gkzs/list.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "13919-correct-zs",
+    "schoolCode": "13919",
+    "school": "广东理工职业学院",
+    "url": "https://zs.gdpi.edu.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "13919-scores",
+    "schoolCode": "13919",
+    "school": "广东理工职业学院",
+    "url": "https://zs.gdpi.edu.cn/pglq/lnlqfs.htm",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12828-correct-zs",
+    "schoolCode": "12828",
+    "school": "西安航空职业技术学院",
+    "url": "https://www.xihang.com.cn/zsw/",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12828-scores",
+    "schoolCode": "12828",
+    "school": "西安航空职业技术学院",
+    "url": "https://www.xihang.com.cn/zsw/lnlqfs/list.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "13929-official-home",
+    "schoolCode": "13929",
+    "school": "广州城市职业学院",
+    "url": "https://www.gcp.edu.cn/",
+    "purpose": "official-score-catalog-followup"
+  },
+  {
+    "id": "13929-real-zs",
+    "schoolCode": "13929",
+    "school": "广州城市职业学院",
+    "url": "http://zs.gcp.edu.cn/",
+    "purpose": "official-alternate-score-entry"
+  },
+  {
+    "id": "13929-zsw-final",
+    "schoolCode": "13929",
+    "school": "广州城市职业学院",
+    "url": "https://www.gcp.edu.cn/zsw/",
+    "purpose": "official-current-score-followup"
+  },
+  {
+    "id": "13929-result2026",
+    "schoolCode": "13929",
+    "school": "广州城市职业学院",
+    "url": "https://www.gcp.edu.cn/info/1051/22259.htm",
+    "purpose": "official-alternate-score-entry"
+  },
+  {
+    "id": "12036-zs",
+    "schoolCode": "12036",
+    "school": "浙江交通职业技术学院",
+    "url": "http://zs.zjvtit.edu.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12036-scores",
+    "schoolCode": "12036",
+    "school": "浙江交通职业技术学院",
+    "url": "https://zs.zjvtit.edu.cn/list/7/1.shtml",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12036-query",
+    "schoolCode": "12036",
+    "school": "浙江交通职业技术学院",
+    "url": "https://zs.zjvtit.edu.cn/cx/lnfs.aspx",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "13397-entry",
+    "schoolCode": "13397",
+    "school": "石家庄邮电职业技术学院",
+    "url": "https://www.sjzpc.edu.cn/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "13397-correct-zs",
+    "schoolCode": "13397",
+    "school": "石家庄邮电职业技术学院",
+    "url": "https://www.sjzpc.edu.cn/zhaosheng/",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "13397-score-query",
+    "schoolCode": "13397",
+    "school": "石家庄邮电职业技术学院",
+    "url": "https://zsbm.sjzpc.edu.cn/zsxt-vue/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12679-zs",
+    "schoolCode": "12679",
+    "school": "江苏海事职业技术学院",
+    "url": "http://zs.jmi.edu.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12679-gk-scores",
+    "schoolCode": "12679",
+    "school": "江苏海事职业技术学院",
+    "url": "https://zs.jmi.edu.cn/4136/list.htm",
+    "purpose": "official-score-catalog-followup"
+  },
+  {
+    "id": "12679-results2026",
+    "schoolCode": "12679",
+    "school": "江苏海事职业技术学院",
+    "url": "https://zs.jmi.edu.cn/b7/f2/c4136a112626/page.htm",
+    "purpose": "official-alternate-score-entry"
+  },
+  {
+    "id": "12981-correct-zs",
+    "schoolCode": "12981",
+    "school": "武汉电力职业技术学院",
+    "url": "http://www.whetc.com/zsjy/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12981-https-zs",
+    "schoolCode": "12981",
+    "school": "武汉电力职业技术学院",
+    "url": "https://www.whetc.com/zsjy/",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12981-charter",
+    "schoolCode": "12981",
+    "school": "武汉电力职业技术学院",
+    "url": "https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--method-view%2CschId-1453%2CinfoId-7606212540.dhtml",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "11828-correct-zs",
+    "schoolCode": "11828",
+    "school": "郑州电力高等专科学校",
+    "url": "https://zs.zepc.cloudzhaokao.com/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "11828-app-js",
+    "schoolCode": "11828",
+    "school": "郑州电力高等专科学校",
+    "url": "https://zs.zepc.cloudzhaokao.com/static/js/app.b37abc75.js",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "11828-api-years",
+    "schoolCode": "11828",
+    "school": "郑州电力高等专科学校",
+    "url": "https://zs.zepc.cloudzhaokao.com/cms/api/majors/scoreline/years",
+    "purpose": "official-score-catalog-followup",
+    "publicHeaders": {
+      "universityUid": "7982903018134765568"
+    }
+  },
+  {
+    "id": "11828-api-province",
+    "schoolCode": "11828",
+    "school": "郑州电力高等专科学校",
+    "url": "https://zs.zepc.cloudzhaokao.com/cms/api/majors/scoreline/province",
+    "purpose": "official-score-catalog-followup",
+    "publicHeaders": {
+      "universityUid": "7982903018134765568"
+    }
+  },
+  {
+    "id": "11828-api-subjects",
+    "schoolCode": "11828",
+    "school": "郑州电力高等专科学校",
+    "url": "https://zs.zepc.cloudzhaokao.com/cms/api/majors/scoreline/subjects",
+    "purpose": "official-score-catalog-followup",
+    "publicHeaders": {
+      "universityUid": "7982903018134765568"
+    }
+  },
+  {
+    "id": "11828-control-years",
+    "schoolCode": "11828",
+    "school": "郑州电力高等专科学校",
+    "url": "https://zs.zepc.cloudzhaokao.com/cms/api/academy/scoreline/years",
+    "purpose": "official-alternate-score-entry",
+    "publicHeaders": {
+      "universityUid": "7982903018134765568"
+    }
+  },
+  {
+    "id": "11828-control-province",
+    "schoolCode": "11828",
+    "school": "郑州电力高等专科学校",
+    "url": "https://zs.zepc.cloudzhaokao.com/cms/api/academy/scoreline/province",
+    "purpose": "official-alternate-score-entry",
+    "publicHeaders": {
+      "universityUid": "7982903018134765568"
+    }
+  },
+  {
+    "id": "11828-control-subjects",
+    "schoolCode": "11828",
+    "school": "郑州电力高等专科学校",
+    "url": "https://zs.zepc.cloudzhaokao.com/cms/api/academy/scoreline/subjects",
+    "purpose": "official-alternate-score-entry",
+    "publicHeaders": {
+      "universityUid": "7982903018134765568"
+    }
+  },
+  {
+    "id": "11916-correct-zs",
+    "schoolCode": "11916",
+    "school": "重庆电力高等专科学校",
+    "url": "https://zsxx.cqepc.com.cn/",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "11916-scores",
+    "schoolCode": "11916",
+    "school": "重庆电力高等专科学校",
+    "url": "https://zsxx.cqepc.com.cn/lnfs1.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12354-entry",
+    "schoolCode": "12354",
+    "school": "襄阳职业技术大学",
+    "url": "https://www.hbxytc.cn/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "12354-zs",
+    "schoolCode": "12354",
+    "school": "襄阳职业技术大学",
+    "url": "https://zsxx.hbxytc.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12354-list",
+    "schoolCode": "12354",
+    "school": "襄阳职业技术大学",
+    "url": "https://zsxx.hbxytc.cn/zsxx/zkzhao_sheng.htm",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12493-http",
+    "schoolCode": "12493",
+    "school": "上海行健职业学院",
+    "url": "http://www.shxj.edu.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12493-zs",
+    "schoolCode": "12493",
+    "school": "上海行健职业学院",
+    "url": "http://www.shxj.edu.cn/zsxxw/main.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12493-results2026",
+    "schoolCode": "12493",
+    "school": "上海行健职业学院",
+    "url": "http://www.shxj.edu.cn/zsxxw/2026/0903/c225a36669/page.htm",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12493-pdf2026",
+    "schoolCode": "12493",
+    "school": "上海行健职业学院",
+    "url": "http://www.shxj.edu.cn/_upload/article/files/33/9e/d9a67c7d4be3aad548d2f647afb2/c49573aa-1cd8-48ba-a389-1a2131d734c7.pdf",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12933-correct-zs",
+    "schoolCode": "12933",
+    "school": "江西电力职业技术学院",
+    "url": "https://www.jxec.edu.cn/zsjy/index.htm",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12933-scores",
+    "schoolCode": "12933",
+    "school": "江西电力职业技术学院",
+    "url": "https://www.jxec.edu.cn/zsjy/index/tdfs.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12933-results2026",
+    "schoolCode": "12933",
+    "school": "江西电力职业技术学院",
+    "url": "https://www.jxec.edu.cn/zsjy/info/1012/19002.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12933-results2026-img",
+    "schoolCode": "12933",
+    "school": "江西电力职业技术学院",
+    "url": "https://www.jxec.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2130135033&wbfileid=25277730552D52BFFA248E3973400809",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12977-zs",
+    "schoolCode": "12977",
+    "school": "武汉铁路职业技术学院",
+    "url": "https://zjc.wru.edu.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12977-linked-score",
+    "schoolCode": "12977",
+    "school": "武汉铁路职业技术学院",
+    "url": "https://zjc.wru.edu.cn/info/1031/5608.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12977-img",
+    "schoolCode": "12977",
+    "school": "武汉铁路职业技术学院",
+    "url": "https://zjc.wru.edu.cn/__local/7/1B/45/6822EDF42C37EBEB3FA5A68CAF2_BCE289C4_23170.png",
+    "purpose": "official-current-score-followup"
+  },
+  {
+    "id": "12302-correct-zs",
+    "schoolCode": "12302",
+    "school": "湖南铁道职业技术学院",
+    "url": "http://zs.hnrpc.com/",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "12302-https-zs",
+    "schoolCode": "12302",
+    "school": "湖南铁道职业技术学院",
+    "url": "https://zs.hnrpc.com/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12302-main-official",
+    "schoolCode": "12302",
+    "school": "湖南铁道职业技术学院",
+    "url": "https://www.hnrpc.com/",
+    "purpose": "official-score-catalog-followup"
+  },
+  {
+    "id": "12302-real-zs",
+    "schoolCode": "12302",
+    "school": "湖南铁道职业技术学院",
+    "url": "https://www.hnrpc.com/zs/main.htm",
+    "purpose": "official-alternate-score-entry"
+  },
+  {
+    "id": "12302-results2026",
+    "schoolCode": "12302",
+    "school": "湖南铁道职业技术学院",
+    "url": "https://www.hnrpc.com/zs/2026/0827/c80a61154/page.htm",
+    "purpose": "official-current-score-followup"
+  },
+  {
+    "id": "12302-pdf2026",
+    "schoolCode": "12302",
+    "school": "湖南铁道职业技术学院",
+    "url": "https://www.hnrpc.com/_upload/article/files/f2/25/5f8759d044c4a3720983bf4ac667/c01ea36d-3a0f-44a1-b8a4-4f79740a2255.pdf",
+    "purpose": "official-2026-score-table"
+  },
+  {
+    "id": "12870-zs",
+    "schoolCode": "12870",
+    "school": "浙江金融职业学院",
+    "url": "http://zsb.zfc.edu.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12870-scores",
+    "schoolCode": "12870",
+    "school": "浙江金融职业学院",
+    "url": "https://zsb.zfc.edu.cn/list/29/1.shtml",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12870-query",
+    "schoolCode": "12870",
+    "school": "浙江金融职业学院",
+    "url": "https://zsb.zfc.edu.cn/cx/lnlq.aspx",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "11826-entry",
+    "schoolCode": "11826",
+    "school": "西安电力高等专科学校",
+    "url": "https://www.xaepi.edu.cn/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "11826-http",
+    "schoolCode": "11826",
+    "school": "西安电力高等专科学校",
+    "url": "http://www.xaepi.edu.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "11826-zs",
+    "schoolCode": "11826",
+    "school": "西安电力高等专科学校",
+    "url": "https://www.xaepi.edu.cn/Information/Section/40",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "11826-charter",
+    "schoolCode": "11826",
+    "school": "西安电力高等专科学校",
+    "url": "https://www.xaepi.edu.cn/Information/news/37185",
+    "purpose": "official-score-evidence-or-alternative"
+  },
+  {
+    "id": "10827-entry",
+    "schoolCode": "10827",
+    "school": "长沙民政职业技术学院",
+    "url": "https://www.csmzxy.edu.cn/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "10827-zs",
+    "schoolCode": "10827",
+    "school": "长沙民政职业技术学院",
+    "url": "http://zs.csmzxy.edu.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "10827-scores",
+    "schoolCode": "10827",
+    "school": "长沙民政职业技术学院",
+    "url": "https://zs.csmzxy.edu.cn/index/lnfsx.htm",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12300-entry",
+    "schoolCode": "12300",
+    "school": "湖南大众传媒职业技术学院",
+    "url": "https://www.hnmmc.cn/",
+    "purpose": "official-entry-discovery"
+  },
+  {
+    "id": "12300-zs",
+    "schoolCode": "12300",
+    "school": "湖南大众传媒职业技术学院",
+    "url": "https://zsw.hnmmc.cn/",
+    "purpose": "official-score-channel-review"
+  },
+  {
+    "id": "12300-scores",
+    "schoolCode": "12300",
+    "school": "湖南大众传媒职业技术学院",
+    "url": "https://zsw.hnmmc.cn/914/list.htm",
+    "purpose": "official-score-channel-review"
+  }
+]

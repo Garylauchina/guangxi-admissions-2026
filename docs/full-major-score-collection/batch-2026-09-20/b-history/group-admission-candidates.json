@@ -1,0 +1,312 @@
+[
+  {
+    "id": "group-admission-20260920-b-11835-101",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11835",
+    "school": "上海政法学院",
+    "group": "101",
+    "track": "历史",
+    "batch": "本科普通批",
+    "sourceBatch": "本科批专业组101",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "scoreType": "专业组录取最低分",
+    "score": 579,
+    "sourceMaximumScore": 594,
+    "sourceAverageScore": 584.3,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260920-b-11835-score26body",
+    "sourceIds": [
+      "major-20260920-b-11835-score26body",
+      "major-20260920-b-11835-score26"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "province": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "group": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "track": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "batch": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "score": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "round": [
+        "major-20260920-b-11835-score26body"
+      ]
+    },
+    "sourceLocator": {
+      "table": 1,
+      "row": 27,
+      "sourceCells": [
+        "广西",
+        "本科批专业组101",
+        "历史",
+        "594",
+        "579",
+        "584.3"
+      ]
+    },
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "direct-group-admission-table",
+    "note": "官方2026本科录取分数线原表直接列广西专业组最高、最低和平均分；未区分首轮/征集。未由专业最低值推定，未使用省考试院投档表。国家专项两科未列组码，未收入本候选。"
+  },
+  {
+    "id": "group-admission-20260920-b-11835-102",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11835",
+    "school": "上海政法学院",
+    "group": "102",
+    "track": "历史",
+    "batch": "本科普通批",
+    "sourceBatch": "本科批专业组102",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "scoreType": "专业组录取最低分",
+    "score": 560,
+    "sourceMaximumScore": 573,
+    "sourceAverageScore": 566.9,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260920-b-11835-score26body",
+    "sourceIds": [
+      "major-20260920-b-11835-score26body",
+      "major-20260920-b-11835-score26"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "province": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "group": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "track": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "batch": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "score": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "round": [
+        "major-20260920-b-11835-score26body"
+      ]
+    },
+    "sourceLocator": {
+      "table": 1,
+      "row": 28,
+      "sourceCells": [
+        "广西",
+        "本科批专业组102",
+        "历史",
+        "573",
+        "560",
+        "566.9"
+      ]
+    },
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "direct-group-admission-table",
+    "note": "官方2026本科录取分数线原表直接列广西专业组最高、最低和平均分；未区分首轮/征集。未由专业最低值推定，未使用省考试院投档表。国家专项两科未列组码，未收入本候选。"
+  },
+  {
+    "id": "group-admission-20260920-b-11835-103",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11835",
+    "school": "上海政法学院",
+    "group": "103",
+    "track": "历史",
+    "batch": "本科普通批",
+    "sourceBatch": "本科批专业组103",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "scoreType": "专业组录取最低分",
+    "score": 562,
+    "sourceMaximumScore": 571,
+    "sourceAverageScore": 565.8,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260920-b-11835-score26body",
+    "sourceIds": [
+      "major-20260920-b-11835-score26body",
+      "major-20260920-b-11835-score26"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "province": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "group": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "track": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "batch": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "score": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "round": [
+        "major-20260920-b-11835-score26body"
+      ]
+    },
+    "sourceLocator": {
+      "table": 1,
+      "row": 29,
+      "sourceCells": [
+        "广西",
+        "本科批专业组103",
+        "历史",
+        "571",
+        "562",
+        "565.8"
+      ]
+    },
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "direct-group-admission-table",
+    "note": "官方2026本科录取分数线原表直接列广西专业组最高、最低和平均分；未区分首轮/征集。未由专业最低值推定，未使用省考试院投档表。国家专项两科未列组码，未收入本候选。"
+  },
+  {
+    "id": "group-admission-20260920-b-11835-104",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11835",
+    "school": "上海政法学院",
+    "group": "104",
+    "track": "物理",
+    "batch": "本科普通批",
+    "sourceBatch": "本科批专业组104",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "scoreType": "专业组录取最低分",
+    "score": 570,
+    "sourceMaximumScore": 604,
+    "sourceAverageScore": 577.8,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260920-b-11835-score26body",
+    "sourceIds": [
+      "major-20260920-b-11835-score26body",
+      "major-20260920-b-11835-score26"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "province": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "group": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "track": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "batch": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "score": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "round": [
+        "major-20260920-b-11835-score26body"
+      ]
+    },
+    "sourceLocator": {
+      "table": 1,
+      "row": 30,
+      "sourceCells": [
+        "广西",
+        "本科批专业组104",
+        "物理",
+        "604",
+        "570",
+        "577.8"
+      ]
+    },
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "direct-group-admission-table",
+    "note": "官方2026本科录取分数线原表直接列广西专业组最高、最低和平均分；未区分首轮/征集。未由专业最低值推定，未使用省考试院投档表。国家专项两科未列组码，未收入本候选。"
+  },
+  {
+    "id": "group-admission-20260920-b-11835-105",
+    "year": 2026,
+    "province": "广西",
+    "schoolCode": "11835",
+    "school": "上海政法学院",
+    "group": "105",
+    "track": "物理",
+    "batch": "本科普通批",
+    "sourceBatch": "本科批专业组105",
+    "round": "录取汇总（轮次未分）",
+    "admissionType": "普通类",
+    "scoreType": "专业组录取最低分",
+    "score": 543,
+    "sourceMaximumScore": 568,
+    "sourceAverageScore": 555.6,
+    "rank": null,
+    "rankType": null,
+    "sourceId": "major-20260920-b-11835-score26body",
+    "sourceIds": [
+      "major-20260920-b-11835-score26body",
+      "major-20260920-b-11835-score26"
+    ],
+    "fieldSourceIds": {
+      "year": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "province": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "group": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "track": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "batch": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "score": [
+        "major-20260920-b-11835-score26body"
+      ],
+      "round": [
+        "major-20260920-b-11835-score26body"
+      ]
+    },
+    "sourceLocator": {
+      "table": 1,
+      "row": 31,
+      "sourceCells": [
+        "广西",
+        "本科批专业组105",
+        "物理",
+        "568",
+        "543",
+        "555.6"
+      ]
+    },
+    "reviewedAt": "2026-09-20T08:16:40.039249+00:00",
+    "evidenceStatus": "direct-group-admission-table",
+    "note": "官方2026本科录取分数线原表直接列广西专业组最高、最低和平均分；未区分首轮/征集。未由专业最低值推定，未使用省考试院投档表。国家专项两科未列组码，未收入本候选。"
+  }
+]

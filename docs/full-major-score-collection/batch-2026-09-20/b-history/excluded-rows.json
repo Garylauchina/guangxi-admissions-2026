@@ -1,0 +1,20 @@
+[
+  {
+    "schoolCode": "10353",
+    "locator": "/data/452",
+    "year": 2026,
+    "province": "广西",
+    "major": "少数民族预科班",
+    "category": "物理",
+    "reason": "预科路线不属于本次普通本科专业最低分"
+  },
+  {
+    "schoolCode": "10353",
+    "locator": "/data/453",
+    "year": 2026,
+    "province": "广西",
+    "major": "少数民族预科班",
+    "category": "历史",
+    "reason": "预科路线不属于本次普通本科专业最低分"
+  }
+]

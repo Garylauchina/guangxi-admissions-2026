@@ -1,0 +1,90 @@
+{
+  "reviewedAt": "2026-09-20T08:21:41.179752+00:00",
+  "reviewer": "independent B collector / root peer",
+  "scope": "D118专业分和36个来源档案的独立只读复核；仅此peer-review.json为本次写入。",
+  "status": "passed-after-field-corrections",
+  "majorRowsReviewed": 118,
+  "sourceHashesVerified": 36,
+  "checkedDataSha256": "8827836bfe3c07c3e1d8f2e639fcf9748dd28d8f7e437baab9a48ceefc92d55b",
+  "checks": {
+    "all118YearProvinceTrackMajorMinMaxAverageTypeBatchRoundMappedToRaw": true,
+    "all6CurrentMenuCombinationsCovered": true,
+    "sixRsNumericSumsMatchPublishedAggregateRs": true,
+    "minimumAverageMaximumConsistent": true,
+    "allMinRankAliasesEqualMinOrder": true,
+    "noGuangxiMajorCodeOrGroupInferred": true,
+    "noPreviousYearRowImported": true,
+    "countFieldCorrectionAndRankSourceChainsVerified": true
+  },
+  "queryReconciliation": [
+    {
+      "response": "10536-2026-history.json",
+      "acceptedRows": 6,
+      "excludedOtherYearRows": 16,
+      "sumRs": 16,
+      "aggregateRs": 16
+    },
+    {
+      "response": "10536-2026-physics.json",
+      "acceptedRows": 61,
+      "excludedOtherYearRows": 119,
+      "sumRs": 210,
+      "aggregateRs": 210
+    },
+    {
+      "response": "11117-2026-history-national.json",
+      "acceptedRows": 2,
+      "excludedOtherYearRows": 6,
+      "sumRs": 5,
+      "aggregateRs": 5
+    },
+    {
+      "response": "11117-2026-history-ordinary.json",
+      "acceptedRows": 10,
+      "excludedOtherYearRows": 24,
+      "sumRs": 23,
+      "aggregateRs": 23
+    },
+    {
+      "response": "11117-2026-physics-national.json",
+      "acceptedRows": 3,
+      "excludedOtherYearRows": 8,
+      "sumRs": 9,
+      "aggregateRs": 9
+    },
+    {
+      "response": "11117-2026-physics-ordinary.json",
+      "acceptedRows": 36,
+      "excludedOtherYearRows": 77,
+      "sumRs": 86,
+      "aggregateRs": 86
+    }
+  ],
+  "findings": [
+    {
+      "id": "D-count-semantics",
+      "severity": "field-correction",
+      "finding": "两校可见专业表头、动态showField配置均没有rs人数语义；数值对账一致不能自行建立录取人数含义。",
+      "acceptedResolution": "保留sourceReportedCount与sourceCountField=rs，移除admittedCount；汇总改称API rs数值汇总。",
+      "snapshotAllApplied": true,
+      "resolutionStatus": "verified-in-rebuilt-package"
+    },
+    {
+      "id": "D-yzu-rank-positive-evidence",
+      "severity": "supported-addition",
+      "finding": "扬州data.showField.showField3明列minOrder=最低分排名；entry页面showField2=res.data.showField.showField3，再由专业表渲染该配置，支持51条规范rank。长沙理工专业模板直接渲染minOrder，67条同样有表头支持。",
+      "acceptedResolution": "两校rank按minOrder，保留minRank原值；扬州rank来源链加入menu-session与entry和分数响应。",
+      "snapshotAll118RanksPresent": true,
+      "resolutionStatus": "verified-in-rebuilt-package"
+    }
+  ],
+  "scoreBasisReview": {
+    "10536": "独立读取本地2026章程第14、15条：认可政策加分并按投档成绩安排专业。",
+    "11117": "独立读取根代理保存的官方浏览器DOM章程摘录与sha，确认政策加分后总成绩/实际投档成绩排序。未再次打开浏览器独立取得该页。"
+  },
+  "limits": [
+    "本报告不声称核查大学所有公开渠道。",
+    "报告中的snapshot状态仅代表当时读取的包；根代理负责接受修正后的重建、预检和正式应用。",
+    "录取汇总轮次未分；扬州批次缺失保持批次未注明。"
+  ]
+}

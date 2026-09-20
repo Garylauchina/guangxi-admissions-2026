@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "checks": [
+    "30个目标逐校存在审计与实查源元数据",
+    "95个来源ID唯一且引用闭合",
+    "82个本地原响应SHA256与13个错误摘要SHA256核验",
+    "4个广西专业单元格值、科类、行列定位核验",
+    "批次/轮次/组码未知保持未知",
+    "公开白名单不含原文、图片PDF、个人名单、会话值和绝对路径",
+    "仓库导入器只读预检通过"
+  ],
+  "schoolCount": 30,
+  "sourceCount": 95,
+  "actualMajorRecords": 4,
+  "preflightAdded": 4,
+  "preflightUpdated": 0,
+  "readOnlyImport": true,
+  "publicFileCount": 15,
+  "privacyFindings": [],
+  "visualReview": {
+    "shanghaiXingjian": "PDF 1页广西两列4格逐格确认；集成方独立确认",
+    "hunanRailway": "PDF 1页广西行是省科类汇总，右侧湖南专业组不套广西",
+    "jiangxiElectric": "2026分省分数原图，无专业字段",
+    "wuhanRailway": "原图三个统计年2023/2024/2025，不随2026发布日期改变"
+  }
+}
