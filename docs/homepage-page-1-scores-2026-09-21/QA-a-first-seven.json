@@ -1,0 +1,22 @@
+{
+  "status": "pass",
+  "scopeSchools": 7,
+  "scopeGroups": 10,
+  "freshRequestSources": 25,
+  "browserFactSources": 1,
+  "majorRows": 0,
+  "groupRows": 0,
+  "schoolAggregateRows": 0,
+  "sourceReferences": "pass",
+  "privateRawHashes": "pass",
+  "officialMenuLimitations": "bounded as explicitly stated; no all-site publication claim",
+  "preflight": {
+    "before": 1793,
+    "after": 1793,
+    "added": 0,
+    "updated": 0,
+    "schoolCodes": 53,
+    "pending": 121,
+    "changes": []
+  }
+}

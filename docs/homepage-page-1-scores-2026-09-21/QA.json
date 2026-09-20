@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-09-20T16:25:29.461856+00:00",
+  "uniqueSchoolAudits": 21,
+  "uniqueTargetGroups": 25,
+  "allSourceReferencesResolve": true,
+  "noInferredOrPriorYearScoresImported": true,
+  "noPlansExpanded": true,
+  "positiveCandidates": 0,
+  "rootCheckedLocalArchiveCounts": {
+    "a-first-seven": 24,
+    "b-middle-seven": 32,
+    "c-next-four": 32,
+    "d-last-three": 13
+  },
+  "unchangedNumericalAndPlanData": [
+    "policies.json",
+    "group-admission-scores.json",
+    "ranks.json",
+    "school-coverage.json",
+    "supplementary-plans.json",
+    "special-programs.json",
+    "major-filing-cutoffs.json",
+    "major-cutoffs.json",
+    "plan-source-catalog.json",
+    "plans.json",
+    "cutoffs.json"
+  ],
+  "dataAndQueueChecks": "passed",
+  "independentRootEvidenceReview": "review-d.json",
+  "testResults": {
+    "passed": 32,
+    "failed": 0
+  },
+  "localBrowserCheck": {
+    "defaultPageCards": 25,
+    "firstSchool": "北京大学",
+    "lastSchool": "北京邮电大学",
+    "latestReviewDateVisible": "2026-09-21",
+    "newAuditFindingVisible": true,
+    "actualScoreMissingPreserved": true
+  },
+  "sourceTitleNormalization": "Three BUPT technical suffixes replaced with human-readable source titles; URLs, facts and hashes unchanged."
+}

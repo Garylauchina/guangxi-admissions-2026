@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-09-20T16:25:29.461856+00:00",
+  "asOfLocalDate": "2026-09-21",
+  "page": 1,
+  "scope": "首页默认物理类、本科普通批、首轮、一般计划、不填分数、每页25条",
+  "targetGroups": 25,
+  "targetSchoolCodes": 21,
+  "schoolAudits": 21,
+  "sourceRecords": 98,
+  "newActualMajorScores": 0,
+  "newActualGroupScores": 0,
+  "remainingGroupScoreGaps": 25,
+  "schoolCodesWithoutActualMajorScores": 21,
+  "plansChanged": false,
+  "filingScoresChanged": false,
+  "completionBoundary": "完成列明公开渠道的专项核查，未取得新增可直接入库的2026广西实际录取分；不等于全部渠道均未发布，也不等于缺口已补齐。"
+}

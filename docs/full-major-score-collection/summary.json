@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "year": 2026,
-  "asOf": "2026-09-20",
+  "asOf": "2026-09-21",
   "scope": {
     "schoolCodes": 1961,
     "ordinaryFilingCodes": 1961,
@@ -31,10 +31,10 @@
     "school-coverage": 1961,
     "supplementary-plans": 84,
     "major-filing-cutoffs": 136,
-    "school-audit-notes": 469,
+    "school-audit-notes": 490,
     "plan-source-catalog": 70,
     "special-programs": 43,
-    "sources": 2202
+    "sources": 2300
   },
   "scoreStatusCounts": {
     "not-score-reviewed": 1655,
@@ -42,7 +42,7 @@
     "reviewed-no-actual-records": 254
   },
   "scoreAudit": {
-    "noteRecords": 375,
+    "noteRecords": 396,
     "reviewedSchoolCodes": 306,
     "schoolCodesWithAuditNotes": 306,
     "legacyNoteRecords": 25,
@@ -1621,9 +1621,9 @@
     },
     {
       "path": "site/data/school-audit-notes.json",
-      "bytes": 542927,
-      "sha256": "340dda1aa570fce3da0ababddf1ccf6b03815d45e43ef22082f56c91a9d70387",
-      "records": 469
+      "bytes": 574644,
+      "sha256": "8d3748439d05e5ad23a5cd4f6dd7f44e6c277cfdb33f1ee303e73f86003019d1",
+      "records": 490
     },
     {
       "path": "site/data/plan-source-catalog.json",
@@ -1639,9 +1639,9 @@
     },
     {
       "path": "site/data/sources.json",
-      "bytes": 1960422,
-      "sha256": "ea60da5b127fa7a15d5387c0c2af7b9c897c2c6310a93d5b773f1f993c3ad493",
-      "records": 2202
+      "bytes": 2041057,
+      "sha256": "0e4f766ab192ec355756e9f62339df3345fde97ac45a9eff0c26a821e24d8965",
+      "records": 2300
     }
   ],
   "checks": {

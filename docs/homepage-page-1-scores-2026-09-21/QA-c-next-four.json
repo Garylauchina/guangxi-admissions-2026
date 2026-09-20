@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-09-21",
+  "schools": 4,
+  "targetGroups": 5,
+  "sources": 31,
+  "newMajorScoreRows": 0,
+  "newActualGroupScoreRows": 0,
+  "newSchoolScoreRows": 0,
+  "checks": [
+    "All source archive hashes verified",
+    "All audit/gap source references resolved",
+    "Known score menus refreshed once; missing 2026 year not repeatedly guessed",
+    "Current-year publication date not substituted for score statistical year",
+    "HIT province table 2026 plan / 2025-2024 score columns kept separate",
+    "Shenzhen campus kept separate from school main campus",
+    "Strong-base, filing scores, prior years and national outcome summaries excluded",
+    "HTTP failure and browser-readable content recorded separately",
+    "Browser facts preserved as bounded manual transcripts, not mislabeled original response",
+    "No site, data, or git mutation by this build"
+  ],
+  "limitations": [
+    "No new usable actual cutoff evidence in the checked sources; this does not prove the school has published none anywhere.",
+    "SCU score SPA blank and menu HTTP483 remain access boundaries, not successful empty queries.",
+    "Browser snapshots require manual fresh verification; stored facts are not an automated full-page archive."
+  ]
+}

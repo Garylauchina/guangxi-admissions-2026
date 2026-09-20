@@ -1,0 +1,39 @@
+[
+  {
+    "id": "10013-score-menu",
+    "url": "https://zscx.bupt.edu.cn/zsw/lnfs.html",
+    "checkedAt": "2026-09-20T16:20:04.460946+00:00",
+    "method": "正常Chrome点击广西，检查可见年份、录取概况、分专业录取表",
+    "province": "广西",
+    "years": [
+      2025,
+      2024
+    ],
+    "track": "物理类",
+    "visibleDataYear": 2025,
+    "groupNames": [
+      "元班专业组",
+      "普通理工科专业组"
+    ],
+    "currentYearScoresFound": false
+  },
+  {
+    "id": "10013-info-category",
+    "url": "https://xxgk.bupt.edu.cn/xxgksxqd1/zsksxx/ksgrlqxxcxqdhbf_fpc_fkllqrshlqzdf.htm",
+    "checkedAt": "2026-09-20T16:20:04.460946+00:00",
+    "method": "正常Chrome从信息公开首页逐级进入招生考试信息、最低录取分栏目",
+    "recordCount": 1,
+    "entryTitle": "北京邮电大学历年本科录取分数",
+    "entryPublishedAt": "2025-12-04",
+    "entryUrl": "https://xxgk.bupt.edu.cn/info/1074/4345.htm"
+  },
+  {
+    "id": "10013-info-entry",
+    "url": "https://xxgk.bupt.edu.cn/info/1074/4345.htm",
+    "checkedAt": "2026-09-20T16:20:04.460946+00:00",
+    "method": "正常Chrome打开目录唯一文章，读取正文链接",
+    "title": "北京邮电大学历年本科录取分数",
+    "publishedAt": "2025-12-04",
+    "linkedScoreUrl": "https://zscx.bupt.edu.cn/zsw/lnfs.html"
+  }
+]

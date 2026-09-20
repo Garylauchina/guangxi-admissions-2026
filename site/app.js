@@ -4,7 +4,7 @@ import { PLAN_GAPS, planGaps, isComparableMajorScore, comparableMajorCount, grou
 const $ = id => document.getElementById(id);
 const fmt = n => Number(n).toLocaleString('zh-CN');
 const YEAR = 2026;
-const DATA_VERSION = 'be84c967db23f73dd1ed31e8f9325a9ae356b4e5718900cffae24913d4a5e399';
+const DATA_VERSION = '44927641361e88c2a1dd10417574f1d443608a4eaf57d0aeeef4226b3199ad19';
 const planSourceLabels = {collected:'已采集部分计划', 'source-found':'已找到本年计划资料，尚待采集核对', 'entry-only':'已找到查询入口，尚未取得本年计划', unavailable:'本轮未取得可读计划'};
 const scoreAuditLabels = {'collected-with-source-conflict':'已收录，含原文冲突', 'current-year-query-empty':'本年查询返回空列表', 'entry-only-year-gap':'已找到入口，本年专业分仍待核', 'not-found-current-major':'本轮未取得本年专业分', 'empty-current-response':'本年查询返回空列表', 'collected-partial':'已收录部分专业分', collected:'已收录部分专业分', unavailable:'本轮未取得本年专业分', 'source-conflict':'原文冲突待核', 'access-restricted':'官方入口访问受限', 'current-year-not-listed':'查询目录未列本年专业分', 'no-current-year-records':'本轮未取得本年专业分', 'group-only':'仅有学校或专业组汇总分'};
 Object.assign(scoreAuditLabels, {'no-current-records-message':'本年查询提示暂无匹配数据', 'previous-year-only':'仅取得往年专业分', 'access-limited':'官方入口访问受限', 'access-blocked':'官方入口访问失败，正文仍待核', 'source-found':'已找到来源，暂无可入库专业分', 'entry-only':'已找到入口，正文仍待核'});

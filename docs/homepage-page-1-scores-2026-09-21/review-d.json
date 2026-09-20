@@ -1,0 +1,84 @@
+{
+  "reviewedLocalDate": "2026-09-21",
+  "status": "pass",
+  "blockingIssues": [],
+  "scope": "D3 sources、school-audit-notes、target-gaps及直接引用的本地原响应/正常浏览器事实；未再次联网，未写网站。",
+  "reviewedFileHashes": {
+    "sources.json": "d60e65905f33aafc2738abb2a4ab519be7c26d54a8e2e2269f3aca025fb17a8b",
+    "school-audit-notes.json": "ca435c7bfa70f402aaaaf2fda1a69efba3f0cafb276c317510915ab483265b0c",
+    "target-gaps.json": "22ebc432375720345aad8e39af884c486dadcb1b85e40319cf6c5f34f3fee9b3",
+    "browser-observations.json": "1be137f983aff9f47663e004da770515ae7a8a43d4a0794a9977235a07f4973c",
+    "major-cutoffs-upsert.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "group-admission-candidates.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  "sourceIntegrity": [
+    {
+      "sourceId": "page1-scores-20260921-d-10286-gx",
+      "hashStatus": "pass",
+      "evidenceKind": "archived-response-and-request-metadata"
+    },
+    {
+      "sourceId": "page1-scores-20260921-d-10286-info-score",
+      "hashStatus": "pass",
+      "evidenceKind": "archived-response-and-request-metadata"
+    },
+    {
+      "sourceId": "page1-scores-20260921-d-10286-score-disclosure",
+      "hashStatus": "pass",
+      "evidenceKind": "archived-response-and-request-metadata"
+    },
+    {
+      "sourceId": "page1-scores-20260921-d-10533-score-config",
+      "hashStatus": "pass",
+      "evidenceKind": "archived-response-and-request-metadata"
+    },
+    {
+      "sourceId": "page1-scores-20260921-d-10533-info-minimum",
+      "hashStatus": "pass",
+      "evidenceKind": "archived-response-and-request-metadata"
+    },
+    {
+      "sourceId": "page1-scores-20260921-d-10533-news",
+      "hashStatus": "pass",
+      "evidenceKind": "archived-response-and-request-metadata"
+    },
+    {
+      "sourceId": "page1-scores-20260921-d-10013-score-menu",
+      "hashStatus": "pass",
+      "evidenceKind": "saved-browser-visible-factual-extract"
+    },
+    {
+      "sourceId": "page1-scores-20260921-d-10013-info-category",
+      "hashStatus": "pass",
+      "evidenceKind": "saved-browser-visible-factual-extract"
+    },
+    {
+      "sourceId": "page1-scores-20260921-d-10013-info-entry",
+      "hashStatus": "pass",
+      "evidenceKind": "saved-browser-visible-factual-extract"
+    }
+  ],
+  "schools": [
+    {
+      "schoolCode": "10286",
+      "group": "151",
+      "result": "supported",
+      "finding": "广西目录5条全部可见，最新分专业分为2025（2026-01-13发布），2026条目为招生计划。信息公开目录10条/1页、招生网对应目录9条/1页，与说明一致。另目读前日进度表渲染，广西普通批/国家专项/高校专项/民族班均为已录取状态，没有分值；前日PDF哈希匹配。",
+      "priorEvidenceHash": "229148789d74547b398b229ed2a8d07df7ceb38140ef31c3eb1fb38861f91328"
+    },
+    {
+      "schoolCode": "10533",
+      "group": "106",
+      "result": "supported",
+      "finding": "配置中广西共有2020—2025年两科组合12项，没有2026。信息公开最低分首页为2024起、共89条9页，审计只称首页。招生资讯当前页为2026年6—9月公告，7—9月条目为澳门/综评/强基等，没有广西普通专业分；不代表其他页面或渠道未发布。"
+    },
+    {
+      "schoolCode": "10013",
+      "group": "101",
+      "result": "supported-with-stated-evidence-boundary",
+      "finding": "已保存的正常Chrome事实明确广西、2025/2024菜单和2025可见数据；信息公开唯一入口标题、2025-12-04发布日期及指回同一查询系统链路完整。三份事实哈希逐一重算匹配。此次独立审查基于保存的浏览器事实，未重新打开实时页面；HTTP412没有误写成整校不可访问。"
+    }
+  ],
+  "conclusion": "3校均有直接支持有限范围结论的记录；专业/组实际分均未新增，未拿旧年、其他类型或投档分补实际录取分。保留未知，不将未取得表述为全网未发布。",
+  "publicationPolicy": "仅复核结论、统计与来源元数据；不含原图、个人身份或会话内容。"
+}

@@ -1,0 +1,58 @@
+{
+  "commit": "7be4ad6f83c26329c9a431531c373b2f74eb832b",
+  "capturedAt": "2026-09-20T16:11:23.812697+00:00",
+  "files": {
+    "sources.json": {
+      "sha256": "ea60da5b127fa7a15d5387c0c2af7b9c897c2c6310a93d5b773f1f993c3ad493",
+      "rows": 2202
+    },
+    "policies.json": {
+      "sha256": "612490a108b0e78983fcca17cc1b81309667008ac0c099109af3503dd96af830",
+      "rows": 8
+    },
+    "group-admission-scores.json": {
+      "sha256": "f832f5ca6e30f8f7b47fe64b87c69001a4a1b34da0207cc8b85ed61bfd5d3c06",
+      "rows": 8
+    },
+    "ranks.json": {
+      "sha256": "5443c315a0a247763d8fbdee018066eeccf7b6d4a696148c2187d0baa09f2cea",
+      "rows": 1010
+    },
+    "school-coverage.json": {
+      "sha256": "760630b71bac90c1850e88b0920da5a1a5501374e271b21588dd3dcbe3e8b4a9",
+      "rows": 1961
+    },
+    "supplementary-plans.json": {
+      "sha256": "36a11aa3b17d27da8f3c141591318a7ca5400241ab705af9e534c2a7a15139aa",
+      "rows": 84
+    },
+    "special-programs.json": {
+      "sha256": "1999c07cdbdc4db44795a8e023e404d95155239f76ed9072909591788d28cd58",
+      "rows": 43
+    },
+    "major-filing-cutoffs.json": {
+      "sha256": "3555250b4a263750cdf8a0a1106d31f1080fd30cac29b0d987077287d49830c6",
+      "rows": 136
+    },
+    "major-cutoffs.json": {
+      "sha256": "7d6f30bda2de96cd24e48a1313d31e43c9b679ac0db5f45af4d25d57efc2bbd6",
+      "rows": 1793
+    },
+    "plan-source-catalog.json": {
+      "sha256": "4427ad0ff6cf122b92b802b615be7d52c56b5c4916ed3bd43adcf6391c06e40b",
+      "rows": 70
+    },
+    "plans.json": {
+      "sha256": "6889372a77a5d8ed91b40bd0a41539cec31afddef8370937c5bc21da1beb0790",
+      "rows": 2462
+    },
+    "school-audit-notes.json": {
+      "sha256": "340dda1aa570fce3da0ababddf1ccf6b03815d45e43ef22082f56c91a9d70387",
+      "rows": 469
+    },
+    "cutoffs.json": {
+      "sha256": "d1766a2c8cece80db3c6a2d8548149e3ce255f87083cc95e981149f809b0d0a3",
+      "rows": 11448
+    }
+  }
+}

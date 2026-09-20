@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-09-20T16:22:42.188525+00:00",
+  "checks": {
+    "targetSchools": 7,
+    "targetGroups": 7,
+    "officialSources": 32,
+    "rawArchivesHashChecked": 32,
+    "allReferencesValid": true,
+    "allSourcesHTTP200": true,
+    "yearMenuEvidencePresentForAll": true,
+    "no2026ScoreMenu": true,
+    "independentSysuHostChecked": true,
+    "ustcFilingScoreHeaderPreserved": true,
+    "hitPlanAndScoreYearsSeparated": true,
+    "plansTouched": 0,
+    "majorScoresAdded": 0,
+    "majorScoresUpdated": 0,
+    "groupAdmissionsAdded": 0,
+    "schoolAggregateScoresAdded": 0,
+    "importPreflight": "passed, no --apply",
+    "publicWhitelistFiles": 26,
+    "publicWhitelistPrivacyScan": "passed"
+  },
+  "limitations": [
+    "这是一轮列明公开源范围的核查，不表示全网穷尽或学校未招生。",
+    "本科教学质量报告仅核查了中科大报告入口，没有把报告正文算作已审阅。",
+    "菜单与公告更新时间不能替代数据统计年份；投档、强基综合成绩和往年分均未入本年实际录取分。"
+  ]
+}
